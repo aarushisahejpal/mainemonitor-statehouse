@@ -1,0 +1,67 @@
+name: Update Maine bill data
+
+# Daily incremental refresh + a weekly full reconciliation.
+#
+#   * Daily run reuses stored bills and only deep-scrapes ones that changed,
+#     so it finishes fast and keeps the data current.
+#   * The Sunday run passes --full, re-scraping every bill from scratch so the
+#     dataset is guaranteed to match the source (catches anything a daily
+#     fingerprint could miss).
+#
+# To change cadence, edit the cron lines below. Times are UTC.
+
+on:
+  schedule:
+    - cron: "20 8 * * 1-6"   # Mon-Sat 08:20 UTC (~3-4am ET): incremental
+    - cron: "20 8 * * 0"     # Sunday 08:20 UTC: full reconciliation
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Run a full re-scrape (ignore stored data)"
+        type: boolean
+        default: false
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Decide run mode
+        id: mode
+        run: |
+          if [ "${{ github.event.schedule }}" = "20 8 * * 0" ] || \
+             [ "${{ github.event.inputs.full }}" = "true" ]; then
+            echo "flag=--full" >> "$GITHUB_OUTPUT"
+            echo "Running FULL reconciliation"
+          else
+            echo "flag=" >> "$GITHUB_OUTPUT"
+            echo "Running incremental update"
+          fi
+
+      - name: Scrape
+        run: python scripts/run.py ${{ steps.mode.outputs.flag }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "maine-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update bill data ($(date -u +%Y-%m-%d))"
+            git push
+          fi

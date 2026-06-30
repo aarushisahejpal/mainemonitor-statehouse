@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Local scrape cache (never commit)
+.cache/
+
+# Downloaded PDFs — reproducible from the URLs stored in the data
+*.pdf
+
+# Screenshots / scratch images
+*.png
+*.jpg
+*.jpeg
+
+# OS
+.DS_Store
