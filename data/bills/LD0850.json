@@ -1,0 +1,110 @@
+{
+  "ld": 850,
+  "paper": "HP0536",
+  "paper_display": "HP 536",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097122",
+  "title": "An Act to Amend the Motor Vehicle Laws",
+  "committee": "Transportation",
+  "status_summary": "",
+  "final_disposition": "Enacted, May 27, 2025",
+  "governor_action": "Unsigned, May 27, 2025",
+  "chaptered_law": "ACTPUB, Chapter 119",
+  "chapter": "119",
+  "became_law": true,
+  "last_house_action": "5/13/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/14/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Lydia CRAFTS",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Newcastle"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MOTOR VEHICLES",
+      "minor": "ABANDONED",
+      "detail": "IMPOUNDED VEHICLE SALES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "House",
+      "description": "Committee on Transportation suggested and ordered printed. The Bill was REFERRED to the Committee on TRANSPORTATION . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on TRANSPORTATION in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-85) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-85) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-85), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-14",
+      "date_raw": "5/14/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-85 )",
+      "new_title": "",
+      "house_action": "Adopted on 5/6/2025",
+      "senate_action": "Adopted on 5/7/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0536&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0536&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0536&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0536",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0536&SessionID=16",
+  "scraped_at": "2026-06-30T18:36:39Z"
+}

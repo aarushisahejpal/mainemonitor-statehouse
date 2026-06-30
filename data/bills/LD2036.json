@@ -1,0 +1,292 @@
+{
+  "ld": 2036,
+  "paper": "HP1366",
+  "paper_display": "HP 1366",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100901",
+  "title": "An Act to Clarify the Approval Process for and the Operation of the Commingling Program for the Management of Beverage Containers",
+  "committee": "Environment and Natural Resources",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Apr 6, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/2/2026 - Speaker laid before the House Subsequently, on motion of Representative DOUDERA of Camden, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/6/2026 - Reports READ. On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED in concurrence. Roll Call Ordered Roll Call Number 865 Yeas 19 - Nays 13 - Excused 3 - Absent 0 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Richard CAMPBELL",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Orrington"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CONTAINERS - RETURNABLE",
+      "minor": "BOTTLES",
+      "detail": "COMMINGLING COOPERATIVE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-03",
+      "date_raw": "12/3/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on December 3, 2025. The Bill was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2026-03-30",
+      "date_raw": "3/30/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative DOUDERA of Camden, TABLED pending ACCEPTANCE of Either Report. Later today assigned."
+    },
+    {
+      "date": "2026-03-30",
+      "date_raw": "3/30/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-31",
+      "date_raw": "3/31/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "House",
+      "description": "Speaker laid before the House Subsequently, on motion of Representative DOUDERA of Camden, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "Reports READ. On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED in concurrence. Roll Call Ordered Roll Call Number 865 Yeas 19 - Nays 13 - Excused 3 - Absent 0 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "865",
+      "date": "2026-04-06",
+      "date_raw": "April 6, 2026",
+      "motion": "ACCEPT MAJORITY OUGHT NOT TO PASS REPORT",
+      "outcome": "PREVAILS",
+      "yeas": 19,
+      "nays": 13,
+      "absent": 0,
+      "excused": 3,
+      "vacant": 0,
+      "yeas_required": 17,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "Y"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "E"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "E"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "E"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280100901&chamber=Senate&serialnumber=865"
+    }
+  ],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-915 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1366&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1366&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1366",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1366&SessionID=16",
+  "scraped_at": "2026-06-30T20:08:19Z"
+}

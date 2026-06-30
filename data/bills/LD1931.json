@@ -1,0 +1,87 @@
+{
+  "ld": 1931,
+  "paper": "HP1292",
+  "paper_display": "HP 1292",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099096",
+  "title": "An Act to Annually Reimburse the Town of Charleston for 43 Percent of Property Tax Revenue Lost Due to the Mountain View Correctional Facility's Tax-exempt Status",
+  "committee": "Taxation",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Feb 3, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/25/2025 - Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+  "last_senate_action": "2/3/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Steven FOSTER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dexter"
+    },
+    {
+      "name": "Stacey GUERIN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Chad PERKINS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dover-Foxcroft"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "PROPERTY TAX",
+      "minor": "STATE PROPERTY",
+      "detail": "MOUNTAIN VIEW CORRECTIONAL FACILIT"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "Committee on Taxation suggested and ordered printed. The Bill was REFERRED to the Committee on TAXATION . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on TAXATION in concurrence"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-02-03",
+      "date_raw": "2/3/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1292&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1292",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1292&SessionID=16",
+  "scraped_at": "2026-06-30T19:59:55Z"
+}

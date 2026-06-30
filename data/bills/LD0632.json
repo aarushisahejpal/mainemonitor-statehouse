@@ -1,0 +1,130 @@
+{
+  "ld": 632,
+  "paper": "HP0400",
+  "paper_display": "HP 400",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096702",
+  "title": "An Act to Allow a Local Option Sales Tax on Short-term Lodging to Fund Affordable Housing",
+  "committee": "Taxation",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Apr 8, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/21/2025 - Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+  "last_senate_action": "4/8/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Charles SKOLD",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Michael BRENNAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Janice DODGE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Belfast"
+    },
+    {
+      "name": "Jill DUSON",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Ryan FECTEAU",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Speaker",
+      "district": "Biddeford"
+    },
+    {
+      "name": "Gary FRIEDMANN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bar Harbor"
+    },
+    {
+      "name": "Cheryl GOLEK",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Harpswell"
+    },
+    {
+      "name": "Tavis HASENFUS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Readfield"
+    },
+    {
+      "name": "Ann MATLACK",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "St. George"
+    },
+    {
+      "name": "Ambureen RANA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "SALES AND USE TAX",
+      "minor": "LOCAL OPTION",
+      "detail": "SHORT-TERM LODGING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "date_raw": "2/20/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on February 20, 2025. The Bill was REFERRED to the Committee on TAXATION pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0400&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0400",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0400&SessionID=16",
+  "scraped_at": "2026-06-30T18:20:24Z"
+}

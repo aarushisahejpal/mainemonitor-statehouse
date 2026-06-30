@@ -1,0 +1,1790 @@
+ld,paper,label,adopted,new_title,house_action,senate_action
+1,SP0029,"C ""A"" (S-9 )",True,,Adopted on 4/10/2025,Adopted on 4/8/2025
+3,SP0012,"C ""A"" (S-180 )",True,,Adopted on 6/2/2025,Adopted on 5/9/2025
+4,SP0013,"C ""A"" (S-139 )",False,,,
+4,SP0013,"S ""A"" (S-337 ) to C ""A"" (S-139 )",False,,,
+5,SP0014,"C ""A"" (S-7 )",False,,,
+6,SP0018,"C ""A"" (S-23 )",True,,Adopted on 4/30/2025,Adopted on 4/29/2025
+8,SP0020,"C ""A"" (S-106 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+9,SP0022,"C ""A"" (S-219 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+10,SP0023,"C ""A"" (S-260 )",False,An Act to Add Political Activity as a Protected Class in Certain Provisions of the Maine Human Rights Act,,
+11,SP0024,"C ""A"" (S-142 )",True,,Adopted on 5/28/2025,Adopted on 5/27/2025
+13,SP0026,"C ""A"" (S-291 )",True,An Act to Provide Funds Necessary for the Production and Delivery of Election Materials by the Secretary of State,Adopted on 6/9/2025,Adopted on 6/5/2025
+14,SP0027,"C ""A"" (S-55 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+15,SP0062,"C ""A"" (S-399 )",True,An Act to Modify the Excise Tax on Camper Trailers,Adopted on 6/16/2025,Adopted on 6/13/2025
+16,SP0063,"C ""A"" (S-81 )",True,,,Adopted on 5/20/2025
+18,SP0030,"C ""A"" (S-268 )",True,An Act to Offset the Costs of Client Medical Care Support Workers at Department of Corrections Facilities and Study Correctional Service Fees and Collections,Adopted on 6/5/2025,Adopted on 6/4/2025
+18,SP0030,"C ""B"" (S-269 )",False,,,
+19,SP0032,"C ""A"" (S-606 )",False,,Defeated on 4/7/2026,
+19,SP0032,"C ""B"" (S-607 )",True,An Act Related to Oversized All-terrain Vehicles,Adopted on 4/7/2026,Adopted on 4/6/2026
+19,SP0032,"C ""C"" (S-608 )",False,An Act to Allow Oversized All-terrain Vehicle Registration for Individuals with a Disability Registration Plate,,
+20,SP0033,"C ""A"" (S-105 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+22,SP0035,"C ""A"" (S-111 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+23,SP0037,"C ""A"" (S-87 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+24,SP0039,"C ""A"" (S-19 )",True,,Adopted on 4/23/2025,Adopted on 4/22/2025
+26,SP0041,"C ""A"" (S-64 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+27,SP0042,"C ""A"" (S-108 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+28,SP0045,"C ""A"" (S-31 )",True,"Resolve, to Rename the Twin Rivers Fire Academy in Fairfield the Duane Bickford Fire Training Facility",Adopted on 5/6/2025,Adopted on 4/30/2025
+29,SP0046,"C ""A"" (S-44 )",True,"Resolve, to Require the Department of Transportation to Implement the Recommendations of the Lower Road Rail Use Advisory Council and the Calais Branch Rail Use Advisory Council",Adopted on 5/27/2025,Adopted on 5/6/2025
+29,SP0046,"H ""A"" (H-126 ) to C ""A"" (S-44 )",False,"Resolve, to Require the Department of Transportation to Implement the Recommendations of the Lower Road Rail Use Advisory Council and the Calais Branch Rail Use Advisory Council",Defeated on 5/27/2025,
+30,SP0047,"C ""A"" (S-45 )",True,"Resolve, to Direct the Department of Transportation to Implement the Recommendations of the Portland to Auburn Rail Use Advisory Council",Adopted on 5/27/2025,Adopted on 5/6/2025
+30,SP0047,"H ""A"" (H-127 ) to C ""A"" (S-45 )",False,"Resolve, to Direct the Department of Transportation to Implement the Recommendations of the Portland to Auburn Rail Use Advisory Council",Defeated on 5/27/2025,
+31,SP0048,"C ""A"" (S-36 )",True,,Adopted on 5/7/2025,Adopted on 5/6/2025
+32,SP0049,"C ""A"" (S-587 )",True,An Act Regarding the Interconnection Ombudsman Position at the Public Utilities Commission,Adopted on 4/2/2026,Adopted on 3/30/2026
+32,SP0049,"C ""B"" (S-588 )",False,An Act to Reverse Recent Modifications Made to the Law Governing Net Energy Billing and Distributed Generation,,
+33,SP0051,"C ""A"" (S-50 )",True,,Adopted on 5/13/2025,Adopted on 5/7/2025
+34,SP0053,"C ""A"" (S-213 )",True,,Adopted on 6/3/2025,Adopted on 6/2/2025
+35,SP0056,"C ""A"" (S-415 )",False,An Act to Maximize Federal Funding in Support of Emergency Medical Services,,
+36,SP0058,"C ""A"" (S-25 )",True,,Adopted on 4/29/2025,Adopted on 4/24/2025
+38,SP0061,"C ""A"" (S-267 )",False,,,
+39,HP0003,"C ""A"" (H-125 )",True,An Act to Require Landowners to Report Their Participation in a Forest Carbon Program or Project,Adopted on 5/13/2025,Adopted on 5/14/2025
+42,HP0006,"C ""A"" (H-695 )",True,,Adopted on 6/13/2025,Adopted on 6/13/2025
+44,HP0008,"C ""A"" (H-344 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+45,HP0009,"C ""A"" (H-646 )",True,,Adopted on 6/11/2025,Adopted on 6/12/2025
+45,HP0009,"C ""B"" (H-647 )",False,,,
+46,HP0010,"C ""A"" (H-430 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+46,HP0010,"S ""A"" (S-443 ) to C ""A"" (H-430 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+47,HP0011,"C ""A"" (H-46 )",True,,Adopted on 4/15/2025,Adopted on 4/17/2025
+48,HP0012,"C ""A"" (H-36 )",True,,Adopted on 4/3/2025,Adopted on 4/8/2025
+51,HP0015,"C ""A"" (H-208 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+52,HP0016,"C ""A"" (H-667 )",True,"Resolve, Requiring the Department of Health and Human Services to Study Options for Allowing Children in the Department's Custody to Receive Federal Benefits",Adopted on 6/12/2025,Adopted on 6/13/2025
+53,HP0017,"C ""A"" (H-91 )",True,An Act to Establish the November General Election Day as a School Holiday Applicable Only to Public School Buildings Used as Voting Places,Adopted on 5/6/2025,
+54,HP0018,"C ""A"" (H-136 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+54,HP0018,"S ""A"" (S-664 ) to C ""A"" (H-136 )",False,,,
+54,HP0018,"H ""A"" (H-1050 ) to C ""A"" (H-136 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+55,HP0019,"C ""A"" (H-137 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+57,HP0021,"C ""A"" (H-108 )",True,,Adopted on 5/7/2025,Adopted on 5/13/2025
+59,HP0023,"C ""A"" (H-510 )",False,,,
+59,HP0023,"C ""B"" (H-511 )",False,"Resolve, Directing the Maine Drug Enforcement Agency to Study Whether the Drug Tianeptine Should Be Added to the List of Scheduled Drugs",,
+60,HP0024,"C ""A"" (H-266 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+61,HP0025,"C ""A"" (H-213 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+62,HP0026,"C ""A"" (H-391 )",True,An Act to Support Municipal and County Actions on Dam Ownership and to Make Other Changes to the Laws Regulating Release from Dam Ownership,Adopted on 6/2/2025,Adopted on 6/2/2025
+63,HP0027,"C ""A"" (H-11 )",True,,Adopted on 3/4/2025,Adopted on 3/11/2025
+64,HP0028,"C ""A"" (H-346 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+65,HP0029,"C ""A"" (H-161 )",True,"An Act to Update the Definition of ""Coastal Wetlands"" Under the Natural Resources Protection Act and the Mandatory Shoreland Zoning Laws",Adopted on 5/20/2025,Adopted on 5/21/2025
+66,HP0030,"C ""A"" (H-265 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+67,HP0031,"C ""A"" (H-189 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+68,HP0032,"C ""A"" (H-426 )",False,,,
+70,HP0034,"C ""A"" (H-63 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+70,HP0034,"S ""A"" (S-444 ) to C ""A"" (H-63 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+77,HP0041,"C ""A"" (H-323 )",True,"An Act to Stabilize and Sustainably Fund the Department of Inland Fisheries and Wildlife, Fisheries and Hatcheries Division by Increasing the Inland Fishing License Fees and Establishing the Inland Fisheries Conservation and Enhancement Program",Adopted on 5/29/2025,
+77,HP0041,"H ""A"" (H-641 ) to C ""A"" (H-323 )",False,"An Act to Stabilize and Sustainably Fund the Department of Inland Fisheries and Wildlife, Fisheries and Hatcheries Division by Establishing the Inland Fisheries Conservation and Enhancement Program",,
+78,HP0042,"C ""A"" (H-113 )",True,"Resolve, Directing the Department of Education to Collect Data on Cursive Instruction in Maine Public Schools",Adopted on 5/13/2025,Adopted on 5/14/2025
+82,HP0046,"C ""A"" (H-134 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+83,HP0047,"C ""A"" (H-198 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+84,HP0048,"C ""A"" (H-614 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+87,HP0051,"C ""A"" (H-220 )",True,,Adopted on 5/22/2025,Adopted on 5/27/2025
+88,HP0052,"C ""A"" (H-296 )",True,An Act Regarding Penalties for Violating the Maine Weights and Measures Law,Adopted on 5/28/2025,Adopted on 5/28/2025
+89,HP0053,"C ""A"" (H-71 )",True,,Adopted on 4/29/2025,Adopted on 4/30/2025
+89,HP0053,"C ""B"" (H-72 )",False,,,
+90,HP0054,"C ""A"" (H-41 )",True,,Adopted on 4/8/2025,Adopted on 4/10/2025
+92,HP0057,"C ""A"" (H-133 )",False,,,
+93,HP0058,"C ""A"" (H-728 )",True,,Adopted on 6/16/2025,Adopted on 6/17/2025
+93,HP0058,"S ""A"" (S-426 ) to C ""A"" (H-728 )",False,,,
+95,HP0060,"C ""A"" (H-609 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+96,HP0061,"C ""A"" (H-580 )",False,"An Act to Amend the Motor Vehicle and Traffic Law Governing Administrative Driver's License Suspensions for Refusing Testing for Alcohol, Drugs or a Combination of Drugs and Alcohol",,
+96,HP0061,"C ""B"" (H-581 )",False,"An Act to Amend the Motor Vehicle and Traffic Law Governing Administrative Driver's License Suspensions for Refusing Testing for Alcohol, Drugs or a Combination of Drugs and Alcohol",,
+98,HP0063,"C ""A"" (H-59 )",True,,Adopted on 4/22/2025,Adopted on 4/23/2025
+99,HP0064,"C ""A"" (H-700 )",True,,Adopted on 6/13/2025,Adopted on 6/13/2025
+101,HP0066,"C ""A"" (H-231 )",True,"Resolve, to Convene a Working Group to Examine the Classification of and Access to Public Records Maintained by Certain State Agencies",Adopted on 5/22/2025,Adopted on 5/22/2025
+102,HP0067,"C ""A"" (H-849 )",True,An Act to Notify the Public of Juveniles That Have Escaped a Department of Corrections Facility and to Direct the Department of Corrections to Study the Further Release of Juvenile Intelligence and Investigative Record Information,Adopted on 3/17/2026,Adopted on 3/18/2026
+102,HP0067,"C ""B"" (H-850 )",False,,,
+105,HP0070,"C ""A"" (H-281 )",True,,Adopted on 5/28/2025,Adopted on 5/29/2025
+107,HP0072,"C ""A"" (H-237 )",True,,Adopted on 5/22/2025,Adopted on 5/27/2025
+108,HP0073,"C ""A"" (H-154 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+108,HP0073,"C ""B"" (H-155 )",False,,,
+109,HP0074,"C ""A"" (H-58 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+109,HP0074,"S ""A"" (S-445 ) to C ""A"" (H-58 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+110,HP0075,"C ""A"" (H-93 )",True,,Adopted on 5/6/2025,Adopted on 5/7/2025
+111,HP0076,"C ""A"" (H-104 )",True,,Adopted on 5/7/2025,Adopted on 5/13/2025
+112,HP0077,"C ""A"" (H-264 )",False,,,
+115,SP0015,"C ""A"" (S-118 )",True,,,Adopted on 5/27/2025
+117,SP0016,"C ""A"" (S-30 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+117,SP0016,"S ""A"" (S-446 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+120,SP0036,"C ""A"" (S-167 )",True,,Adopted on 5/29/2025,Adopted on 5/28/2025
+121,SP0038,"C ""A"" (S-68 )",True,An Act to Amend the Maine Litter Control Act,Adopted on 5/14/2025,Adopted on 5/13/2025
+122,SP0043,"C ""A"" (S-259 )",True,,Adopted on 6/5/2025,Adopted on 6/4/2025
+124,SP0050,"C ""A"" (S-162 )",True,,Adopted on 5/29/2025,Adopted on 5/28/2025
+125,SP0052,"C ""A"" (S-75 )",True,,Adopted on 6/9/2025,Adopted on 5/13/2025
+126,SP0054,"C ""A"" (S-15 )",True,,Adopted on 4/22/2025,Adopted on 4/17/2025
+127,SP0055,"C ""A"" (S-630 )",True,,Adopted on 4/29/2026,Adopted on 4/7/2026
+127,SP0055,"C ""B"" (S-631 )",False,An Act to Establish the Government Oversight Committee's Access to Confidential Materials,,
+127,SP0055,"H ""A"" (H-1074 ) to C ""A"" (S-630 )",True,,Adopted on 4/29/2026,
+128,SP0057,"C ""A"" (S-494 )",True,,Adopted on 2/26/2026,Adopted on 2/12/2026
+129,SP0060,"C ""A"" (S-290 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+130,SP0066,"C ""A"" (S-28 )",True,,Adopted on 4/30/2025,Adopted on 4/29/2025
+132,SP0068,"C ""A"" (S-178 )",False,,,
+135,SP0071,"C ""A"" (S-53 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+137,SP0073,"C ""A"" (S-194 )",True,,Adopted on 6/3/2025,Adopted on 6/2/2025
+138,SP0074,"C ""A"" (S-210 )",True,An Act Regarding the Permitting of Projects Affecting Public-use Airports Under the Natural Resources Protection Act and the Site Location of Development Laws,Adopted on 6/2/2025,Adopted on 6/2/2025
+139,SP0075,"C ""A"" (S-52 )",True,"Resolve, Directing the Department of Inland Fisheries and Wildlife to Study Establishing a Program for the Electronic Tagging of Deer",Adopted on 5/14/2025,Adopted on 5/13/2025
+140,SP0076,"C ""A"" (S-280 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+142,SP0078,"C ""A"" (S-94 )",True,"Resolve, Directing the Bureau of Financial Institutions to Issue Guidance Related to the Charging of Multiple Fees for Attempted Withdrawals Involving Insufficient Funds",Adopted on 5/22/2025,Adopted on 5/20/2025
+143,SP0079,"C ""A"" (S-12 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+143,SP0079,"S ""A"" (S-447 )",False,,,
+143,SP0079,"H ""A"" (H-783 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+144,SP0080,"C ""A"" (S-46 )",True,,Adopted on 5/13/2025,Adopted on 5/7/2025
+145,SP0081,"C ""A"" (S-281 )",True,,Adopted on 4/14/2026,Adopted on 4/14/2026
+145,SP0081,"S ""A"" (S-711 ) to C ""A"" (S-281 )",True,An Act to Provide Funding to the Office of Aging and Disability Services to Support the Long-term Care Ombudsman,Adopted on 4/14/2026,Adopted on 4/14/2026
+145,SP0081,"H ""A"" (H-1072 ) to C ""A"" (S-281 )",False,An Act to Provide Funding to the Office of Aging and Disability Services to Support the Long-term Care Ombudsman,,
+146,SP0082,"C ""A"" (S-76 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+147,HP0080,"C ""A"" (H-530 )",False,,,
+149,HP0082,"C ""A"" (H-529 )",False,,,
+150,HP0083,"C ""A"" (H-528 )",False,,,
+152,HP0085,"C ""A"" (H-558 )",False,,,
+154,HP0087,"C ""A"" (H-75 )",True,,Adopted on 4/29/2025,Adopted on 4/30/2025
+156,HP0089,"C ""A"" (H-650 )",True,,Adopted on 6/11/2025,Adopted on 6/12/2025
+157,HP0090,"C ""A"" (H-232 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+158,HP0091,"C ""A"" (H-150 )",True,An Act to Establish a Date to Begin Voting by Absentee Ballot in the Presence of the Clerk,Adopted on 5/20/2025,Adopted on 5/21/2025
+159,HP0092,"C ""A"" (H-153 )",True,An Act to Require Motor Vehicle Certificates of Registration to Include a Space to List an Emergency Contact,Adopted on 5/20/2025,Adopted on 5/21/2025
+160,HP0093,"C ""A"" (H-224 )",False,,,
+161,HP0094,"C ""A"" (H-787 )",True,"Resolve, Directing the Maine Office of Community Affairs to Convene a Working Group Tasked with a Comprehensive Overhaul and Modernization of Maine's Subdivision Laws",Adopted on 2/3/2026,Adopted on 2/12/2026
+163,HP0096,"C ""A"" (H-120 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+165,HP0098,"C ""A"" (H-673 )",False,An Act to Modify Discipline Policies in Maine's Public Schools,,
+166,HP0099,"C ""A"" (H-501 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+166,HP0099,"S ""A"" (S-448 ) to C ""A"" (H-501 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+167,HP0100,"C ""A"" (H-190 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+167,HP0100,"S ""A"" (S-449 ) to C ""A"" (H-190 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+169,HP0102,"C ""A"" (H-129 )",True,"Resolve, Establishing the Commission to Study MaineCare Estate Recovery",Adopted on 5/13/2025,Adopted on 5/14/2025
+171,HP0104,"C ""A"" (H-79 )",True,An Act to Enhance Protections Regarding Invasive Aquatic Plant and Animal Infestations in Inland Waters of the State,Adopted on 4/30/2025,Adopted on 5/6/2025
+172,HP0105,"C ""A"" (H-634 )",True,An Act to Require the Maine State Police to Create a Statewide List of Missing Persons and Study Improvements for Investigating Missing Persons Cases,Adopted on 6/11/2025,Adopted on 6/12/2025
+172,HP0105,"H ""A"" (H-654 ) to C ""A"" (H-634 )",True,An Act to Require the Maine State Police to Create a Statewide List of Missing Persons and Study Improvements for Investigating Missing Persons Cases,Adopted on 6/11/2025,Adopted on 6/12/2025
+173,HP0106,"C ""A"" (H-402 )",False,An Act to Amend the Laws Governing Fees for Operating Watercraft,,
+176,HP0109,"C ""A"" (H-596 )",True,An Act to Authorize the Formation of Emergency Medical Services Districts,Adopted on 6/9/2025,Adopted on 6/10/2025
+178,HP0111,"C ""A"" (H-272 )",True,An Act Regarding Coverage for Step Therapy for Metastatic Cancer,Adopted on 5/27/2025,Adopted on 5/28/2025
+179,HP0112,"C ""A"" (H-685 )",False,"Resolve, to Study the Feasibility of Repealing the Class E Crime of Violation of Condition of Release",,
+180,HP0113,"C ""A"" (H-643 )",True,An Act Regarding Reimbursements by Health Insurance Carriers or Pharmacy Benefits Managers to Pharmacies,Adopted on 6/11/2025,Adopted on 6/11/2025
+182,HP0115,"C ""A"" (H-702 )",True,An Act to Provide Per Diem Payments for MaineCare Residents of the Maine Veterans' Homes,Adopted on 6/13/2025,Adopted on 6/13/2025
+184,HP0117,"C ""A"" (H-726 )",True,,Adopted on 6/16/2025,
+184,HP0117,"S ""A"" (S-425 ) to C ""A"" (H-726 )",False,,,
+185,HP0118,"C ""A"" (H-255 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+186,HP0119,"C ""A"" (H-318 )",True,,Adopted on 5/29/2025,Adopted on 6/2/2025
+187,HP0120,"C ""A"" (H-103 )",False,An Act to Prohibit Public Labor Organizations from Imposing Mandatory Service Fees on Nonmembers,,
+189,HP0122,"C ""A"" (H-95 )",False,,,
+191,HP0124,"C ""A"" (H-943 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+192,HP0125,"C ""A"" (H-256 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+195,SP0095,"C ""A"" (S-252 )",True,,Adopted on 6/18/2025,Adopted on 6/4/2025
+197,SP0084,"C ""A"" (S-126 )",True,,Adopted on 6/3/2025,Adopted on 5/21/2025
+197,SP0084,"S ""A"" (S-211 )",True,,Adopted on 6/3/2025,Adopted on 6/2/2025
+202,SP0089,"C ""A"" (S-101 )",True,An Act to Increase the Number of Children a Child Care Provider May Care for Without Having to Be Licensed by the Department of Health and Human Services,Adopted on 5/22/2025,Adopted on 5/20/2025
+206,SP0093,"C ""A"" (S-48 )",False,,,
+208,HP0128,"C ""A"" (H-1032 )",False,"Resolve, Directing the Attorney General to Report on the Status of Beckwith v. Frey",,
+209,HP0131,"C ""A"" (H-1 )",True,,Adopted on 3/11/2025,Adopted on 3/11/2025
+209,HP0131,"H ""A"" (H-2 ) to C ""A"" (H-1 )",False,,Indefinitely postponed on 2/11/2025,
+209,HP0131,"H ""B"" (H-3 ) to C ""A"" (H-1 )",False,,Indefinitely postponed on 2/11/2025,
+209,HP0131,"H ""C"" (H-4 ) to C ""A"" (H-1 )",False,,Indefinitely postponed on 2/11/2025,
+209,HP0131,"H ""D"" (H-5 ) to C ""A"" (H-1 )",False,,Indefinitely postponed on 2/11/2025,
+209,HP0131,"H ""E"" (H-6 ) to C ""A"" (H-1 )",False,,Indefinitely postponed on 2/11/2025,
+209,HP0131,"S ""A"" (S-1 ) to C ""A"" (H-1 )",False,,,Indefinitely postponed on 2/11/2025
+209,HP0131,"H ""F"" (H-7 ) to C ""A"" (H-1 )",False,,Indefinitely postponed on 2/11/2025,
+209,HP0131,"H ""G"" (H-8 ) to C ""A"" (H-1 )",False,,Indefinitely postponed on 2/11/2025,
+209,HP0131,"S ""B"" (S-2 ) to C ""A"" (H-1 )",False,,,Indefinitely postponed on 2/11/2025
+209,HP0131,"S ""C"" (S-3 ) to C ""A"" (H-1 )",False,,,Indefinitely postponed on 2/11/2025
+209,HP0131,"S ""D"" (S-4 ) to C ""A"" (H-1 )",False,,,Indefinitely postponed on 2/11/2025
+209,HP0131,"S ""E"" (S-5 ) to C ""A"" (H-1 )",False,,,Indefinitely postponed on 2/11/2025
+209,HP0131,"H ""H"" (H-9 ) to C ""A"" (H-1 )",False,,,
+209,HP0131,"H ""I"" (H-10 ) to C ""A"" (H-1 )",False,,,
+209,HP0131,"S ""F"" (S-6 ) to C ""A"" (H-1 )",True,,Adopted on 3/11/2025,Adopted on 3/11/2025
+210,HP0132,"C ""A"" (H-759 )",True,,Adopted on 6/18/2025,Adopted on 6/18/2025
+210,HP0132,"H ""A"" (H-776 ) to C ""A"" (H-759 )",False,,,
+210,HP0132,"H ""B"" (H-777 ) to C ""A"" (H-759 )",False,,,
+210,HP0132,"S ""A"" (S-433 ) to C ""A"" (H-759 )",False,,,
+210,HP0132,"S ""B"" (S-434 ) to C ""A"" (H-759 )",False,,,
+210,HP0132,"H ""C"" (H-778 ) to C ""A"" (H-759 )",False,,,
+210,HP0132,"H ""D"" (H-781 ) to C ""A"" (H-759 )",False,,,
+210,HP0132,"S ""C"" (S-436 ) to C ""A"" (H-759 )",False,,,
+210,HP0132,"S ""D"" (S-437 ) to C ""A"" (H-759 )",False,,,
+210,HP0132,"S ""E"" (S-438 ) to C ""A"" (H-759 )",True,,Adopted on 6/18/2025,Adopted on 6/18/2025
+211,HP0134,"C ""A"" (H-273 )",True,"Resolve, Directing the Department of Education to Communicate to School Administrative Units and Private Schools the Importance of Adopting Seizure Action Plans",Adopted on 5/27/2025,Adopted on 5/28/2025
+213,HP0136,"C ""A"" (H-184 )",True,,Adopted on 5/20/2025,
+214,HP0137,"C ""A"" (H-214 )",True,,Adopted on 5/22/2025,Adopted on 5/27/2025
+214,HP0137,"C ""B"" (H-215 )",False,,,
+215,HP0138,"C ""A"" (H-645 )",True,An Act Regarding Large Recovery Residences,Adopted on 6/25/2025,Adopted on 6/25/2025
+215,HP0138,"S ""A"" (S-369 ) to C ""A"" (H-645 )",True,An Act Regarding Large Recovery Residences,Adopted on 6/13/2025,Adopted on 6/12/2025
+215,HP0138,"S ""B"" (S-450 ) to C ""A"" (H-645 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+220,HP0143,"C ""A"" (H-182 )",False,,,
+221,HP0144,"C ""A"" (H-483 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+222,HP0145,"C ""A"" (H-160 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+222,HP0145,"S ""A"" (S-451 ) to C ""A"" (H-160 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+224,HP0147,"C ""A"" (H-97 )",True,,Adopted on 5/6/2025,Adopted on 5/7/2025
+228,HP0151,"C ""A"" (H-164 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+229,HP0152,"C ""A"" (H-649 )",True,,,Adopted on 6/12/2025
+229,HP0152,"C ""B"" (H-1036 )",False,An Act to Bring Fairness in Income Taxes to Maine Families by Adjusting the Tax Brackets and Tax Rates and Bring Tax Relief to Maine Families by Changing Certain Tax Laws,,
+233,HP0156,"C ""A"" (H-692 )",True,,Adopted on 6/13/2025,
+238,SP0104,"C ""A"" (S-22 )",True,,Adopted on 4/24/2025,Adopted on 4/23/2025
+239,SP0105,"C ""A"" (S-85 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+241,SP0107,"C ""A"" (S-82 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+242,SP0108,"C ""A"" (S-154 )",True,,Adopted on 5/29/2025,Adopted on 5/28/2025
+244,SP0110,"C ""A"" (S-411 )",True,"Resolve, to Provide Safe, Short-term Housing to Individuals Recently Released from Correctional Facilities",Adopted on 6/17/2025,Adopted on 6/16/2025
+245,SP0111,"C ""A"" (S-372 )",True,,Adopted on 6/13/2025,Adopted on 6/12/2025
+246,SP0112,"C ""A"" (S-253 )",True,,Adopted on 6/5/2025,Adopted on 6/4/2025
+246,SP0112,"C ""B"" (S-254 )",False,,,
+249,SP0116,"C ""A"" (S-98 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+251,SP0118,"C ""A"" (S-49 )",True,,Adopted on 5/13/2025,Adopted on 5/7/2025
+253,HP0162,"C ""A"" (H-593 )",False,,,
+255,SP0122,"C ""A"" (S-121 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+259,SP0126,"C ""A"" (S-326 )",True,,Adopted on 6/10/2025,Adopted on 6/9/2025
+260,HP0163,"C ""A"" (H-40 )",True,,Adopted on 4/17/2025,Adopted on 4/22/2025
+261,HP0164,"C ""A"" (H-295 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+261,HP0164,"H ""A"" (H-500 ) to C ""A"" (H-295 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+264,HP0167,"C ""A"" (H-730 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+264,HP0167,"C ""B"" (H-731 )",False,An Act to Waive the 12-month Waiting Period for the Maine Resident Homestead Property Tax Exemption for Certain Heirs of Property for Which an Exemption Was Established,,
+265,HP0168,"C ""A"" (H-70 )",False,,,
+266,HP0169,"C ""A"" (H-187 )",False,An Act to Notify Registered Voters When the Voters' Signatures on a Petition Contain Material Irregularities,,
+267,HP0170,"C ""A"" (H-107 )",True,,Adopted on 5/7/2025,Adopted on 5/13/2025
+269,HP0172,"C ""A"" (H-356 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+270,HP0173,"C ""A"" (H-123 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+271,HP0174,"C ""A"" (H-38 )",True,,Adopted on 4/8/2025,Adopted on 4/10/2025
+272,HP0175,"C ""A"" (H-37 )",True,,Adopted on 4/8/2025,Adopted on 4/10/2025
+273,HP0176,"C ""A"" (H-567 )",True,An Act Related to the Issuance of Subpoena Power to Entities Created by Executive Order,Adopted on 6/9/2025,Adopted on 6/9/2025
+274,HP0178,"C ""A"" (H-14 )",True,,Adopted on 3/20/2025,Adopted on 3/20/2025
+274,HP0178,"H ""A"" (H-22 ) to C ""A"" (H-14 )",True,,Adopted on 3/20/2025,Adopted on 3/20/2025
+275,HP0179,"C ""A"" (H-12 )",True,,Adopted on 3/11/2025,Adopted on 3/18/2025
+276,HP0180,"C ""A"" (H-938 )",True,An Act Related to All-terrain Vehicle Registration,Adopted on 4/2/2026,Adopted on 4/6/2026
+277,HP0181,"C ""A"" (H-251 )",True,An Act to Amend the Law Prohibiting Places of Business from Being Open to the Public on Sundays and Holidays,Adopted on 6/3/2025,
+277,HP0181,"H ""A"" (H-293 ) to C ""A"" (H-251 )",True,An Act to Amend the Law Prohibiting Places of Business from Being Open to the Public on Sundays and Holidays,Adopted on 5/27/2025,
+277,HP0181,"S ""A"" (S-229 ) to C ""A"" (H-251 )",False,,,
+278,SP0128,"C ""A"" (S-136 )",False,,,
+280,SP0130,"C ""A"" (S-193 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+281,SP0131,"C ""A"" (S-71 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+284,HP0184,"C ""A"" (H-165 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+286,HP0186,"C ""A"" (H-112 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+287,HP0187,"C ""A"" (H-820 )",False,"Resolve, Authorizing the Department of Transportation to Prioritize Funding Transportation Construction Projects That Facilitate Access to Affordable or Dense Housing",,
+288,HP0188,"C ""A"" (H-147 )",True,,Adopted on 5/14/2025,Adopted on 5/20/2025
+288,HP0188,"C ""B"" (H-148 )",False,,,
+289,HP0189,"C ""A"" (H-61 )",True,,Adopted on 4/22/2025,Adopted on 4/23/2025
+291,HP0191,"C ""A"" (H-732 )",False,,,
+293,HP0193,"C ""A"" (H-39 )",True,An Act to Increase the Debt Limit of the Boothbay Region Water District,Adopted on 4/8/2025,Adopted on 4/10/2025
+294,HP0194,"C ""A"" (H-621 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+296,HP0196,"C ""A"" (H-69 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+296,HP0196,"S ""A"" (S-452 ) to C ""A"" (H-69 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+297,HP0197,"C ""A"" (H-537 )",True,An Act Regarding the Management of Wastewater Treatment Plant Sludge at the State-owned Landfill,Adopted on 6/16/2025,Adopted on 6/11/2025
+297,HP0197,"S ""A"" (S-324 ) to C ""A"" (H-537 )",False,An Act Regarding the Management of Wastewater Treatment Plant Sludge at the State-owned Landfill,,Defeated on 6/11/2025
+297,HP0197,"H ""A"" (H-664 )",False,An Act Regarding the Management of Oversized Bulky Waste from Wastewater Treatment Plants,,
+297,HP0197,"S ""A"" (S-392 )",True,,Adopted on 6/16/2025,Adopted on 6/12/2025
+297,HP0197,"H ""A"" (H-701 ) to C ""A"" (H-537 )",False,An Act Regarding the Management of Wastewater Treatment Plant Sludge at the State-owned Landfill,,
+298,HP0198,"C ""A"" (H-94 )",True,,Adopted on 5/6/2025,Adopted on 5/7/2025
+299,HP0199,"C ""A"" (H-918 )",True,"An Act to Build a Viable Future for Maine Agriculture by Transferring a Portion of Real Estate Transfer Tax Revenue to the Maine Agriculture, Food and Forest Products Investment Fund",Adopted on 4/14/2026,Adopted on 4/14/2026
+299,HP0199,"S ""A"" (S-662 ) to C ""A"" (H-918 )",False,An Act to Capitalize Agricultural Program Funds,,
+299,HP0199,"S ""B"" (S-709 ) to C ""A"" (H-918 )",True,An Act to Authorize a General Fund Bond Issue to Support Maine's Agricultural and Forestry Sectors and Expand Grant Eligibility Under the Farmers Drought Resilience Program Fund,Adopted on 4/14/2026,Adopted on 4/14/2026
+299,HP0199,"S ""C"" (S-710 ) to C ""A"" (H-918 )",False,An Act to Capitalize Agricultural Program Funds,,
+299,HP0199,"S ""D"" (S-717 ) to C ""A"" (H-918 )",False,An Act to Authorize a General Fund Bond Issue to Support Maine's Agricultural and Forestry Sectors and Expand Grant Eligibility Under the Farmers Drought Resilience Program Fund,,
+300,HP0200,"C ""A"" (H-201 )",True,"Resolve, to Direct the Governor's Energy Office to Study Expanding the Use of Hydroelectric Power and the Development of a Geothermal Power Plant in the State",Adopted on 5/22/2025,Adopted on 5/22/2025
+301,HP0201,"C ""A"" (H-243 )",True,An Act to Allow the Public Utilities Commission to Use Quantitative Metrics and Rate-adjustment Mechanisms in a Proceeding for a General Rate Increase,Adopted on 5/29/2025,Adopted on 5/27/2025
+305,HP0205,"C ""A"" (H-813 )",True,An Act Regarding the Motor Vehicle Excise Tax Exemption for Leased Automobiles for Certain Veterans,Adopted on 2/26/2026,Adopted on 3/3/2026
+307,HP0207,"C ""A"" (H-881 )",True,An Act to Establish the Maine Data Center Coordination Council and Place a Temporary Limitation on Certain Data Centers,Adopted on 4/6/2026,Adopted on 4/8/2026
+307,HP0207,"C ""B"" (H-882 )",False,An Act to Establish the Maine Data Center Coordination Council and Place a Temporary Limitation on Certain Data Centers,,
+307,HP0207,"H ""A"" (H-969 ) to C ""A"" (H-881 )",False,An Act to Establish the Maine Data Center Coordination Council and Place a Temporary Limitation on Certain Data Centers,Defeated on 4/6/2026,
+307,HP0207,"S ""A"" (S-665 ) to C ""A"" (H-881 )",False,,,
+307,HP0207,"H ""B"" (H-1051 ) to C ""A"" (H-881 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+309,HP0209,"C ""A"" (H-283 )",False,,,
+311,HP0211,"C ""A"" (H-54 )",True,,Adopted on 4/17/2025,Adopted on 4/17/2025
+312,HP0212,"C ""A"" (H-278 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+316,HP0216,"C ""A"" (H-531 )",False,,,
+317,HP0217,"C ""A"" (H-193 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+318,HP0218,"C ""A"" (H-610 )",True,"Resolve, Directing the Maine Education Policy Research Institute and the Department of Education to Recommend Changes to the Essential Programs and Services Funding Formula",Adopted on 6/10/2025,Adopted on 6/11/2025
+320,HP0220,"C ""A"" (H-118 )",False,,,
+323,HP0223,"C ""A"" (H-209 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+323,HP0223,"S ""A"" (S-666 ) to C ""A"" (H-209 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+324,HP0224,"C ""A"" (H-377 )",True,"Resolve, to Increase Reading and Mathematics Proficiency in Public Schools",Adopted on 6/25/2025,Adopted on 6/25/2025
+324,HP0224,"S ""A"" (S-453 ) to C ""A"" (H-377 )",True,An Act Regarding Funding for Educational Programs and Opportunities,Adopted on 6/25/2025,Adopted on 6/25/2025
+326,HP0226,"C ""A"" (H-524 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+328,HP0228,"C ""A"" (H-102 )",True,,Adopted on 5/7/2025,Adopted on 5/13/2025
+331,HP0231,"C ""A"" (H-270 )",True,,Adopted on 6/3/2025,Adopted on 6/2/2025
+332,HP0232,"C ""A"" (H-461 )",False,,,
+335,HP0235,"C ""A"" (H-1035 )",False,An Act to Protect Funding for Family Planning Services,,
+338,HP0238,"C ""A"" (H-159 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+338,HP0238,"H ""A"" (H-798 ) to C ""A"" (H-159 )",True,,Adopted on 2/10/2026,Adopted on 12:00:00 AM
+339,HP0239,"C ""A"" (H-316 )",False,,,
+340,HP0240,"C ""A"" (H-678 )",True,,Adopted on 6/13/2025,Adopted on 6/13/2025
+343,HP0243,"C ""A"" (H-285 )",False,,,
+343,HP0243,"H ""A"" (H-744 )",False,An Act to Ensure Periodic Assessment for Clean Energy Technology,,
+343,HP0243,"C ""B"" (H-790 )",True,An Act to Incorporate the Assessment of Emerging Energy Technologies into the Comprehensive State Energy Plan,Adopted on 2/3/2026,Adopted on 2/12/2026
+343,HP0243,"C ""C"" (H-791 )",False,,,
+344,HP0244,"C ""A"" (H-542 )",False,,,
+349,HP0249,"C ""A"" (H-185 )",False,An Act to Amend the Laws Regarding Same-day Voter Registration,,
+350,SP0134,"C ""A"" (S-579 )",True,"Resolve, Directing the Landowners and Land Users Relations Advisory Board to Consider Issues Related to All-terrain Vehicles in the State",Adopted on 4/7/2026,Adopted on 4/6/2026
+353,SP0139,"C ""A"" (S-129 )",True,,Adopted on 5/27/2025,Adopted on 5/22/2025
+355,SP0141,"C ""A"" (S-305 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+355,SP0141,"S ""A"" (S-667 ) to C ""A"" (S-305 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+356,SP0142,"C ""A"" (S-88 )",True,"Resolve, Directing the Board of Pesticides Control to Prohibit the Use of Rodenticides in Outdoor Residential Settings",Adopted on 5/22/2025,Adopted on 5/20/2025
+358,SP0144,"C ""A"" (S-192 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+361,SP0152,"C ""A"" (S-143 )",True,,Adopted on 5/28/2025,Adopted on 5/27/2025
+364,SP0156,"C ""A"" (S-601 )",True,"Resolve, Directing the Maine Office of Community Affairs to Submit Legislation and Take Other Actions to Effectuate the Transition of Responsibility for Regulating Manufactured Housing Communities and the Construction and Installation of Manufactured Homes from the Manufactured Housing Board to the Maine Office of Community Affairs",Adopted on 4/2/2026,Adopted on 4/2/2026
+365,SP0157,"C ""A"" (S-295 )",True,An Act to Establish a Moratorium on the Sale of Mobile Home Parks,Adopted on 6/13/2025,Adopted on 6/12/2025
+366,SP0158,"C ""A"" (S-212 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+369,SP0161,"C ""A"" (S-222 )",False,,,
+370,SP0162,"C ""A"" (S-109 )",True,"Resolve, Directing the Department of Education to Collect Data on Secondary School Mathematics Requirements",Adopted on 5/22/2025,Adopted on 5/21/2025
+371,SP0163,"C ""A"" (S-277 )",True,An Act to Expand Hydroelectric Development by Removing the 100-megawatt Cap for Certain Resources,,Adopted on 6/5/2025
+372,SP0164,"C ""A"" (S-353 )",False,,,
+374,SP0166,"C ""A"" (S-496 )",True,"Resolve, to Establish the Commission to Make Recommendations for Equity in the Compensation of Prosecutors and Public Defenders in the State",Adopted on 2/24/2026,Adopted on 2/10/2026
+375,SP0170,"C ""A"" (S-78 )",True,"Resolve, Directing the University of Maine System to Study the Feasibility of Distance Learning Programs at the University of Maine School of Law",Adopted on 5/20/2025,Adopted on 5/14/2025
+378,SP0135,"C ""A"" (S-624 )",True,An Act to Clarify That Health Insurers Must Comply with Plan Sponsors' Statutory Rights to Audit Claims and Data Requests Related to Those Audits,Adopted on 4/6/2026,Adopted on 4/6/2026
+380,SP0145,"C ""A"" (S-370 )",False,An Act to Require Parental Consent for Gender-affirming Hormone Therapy,,
+383,SP0149,"C ""A"" (S-170 )",False,,,
+384,SP0150,"C ""A"" (S-155 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+384,SP0150,"S ""A"" (S-454 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+386,SP0167,"C ""A"" (S-33 )",True,,Adopted on 5/6/2025,Adopted on 4/30/2025
+388,SP0169,"C ""A"" (S-62 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+389,SP0171,"C ""A"" (S-40 )",False,,,
+390,SP0176,"C ""A"" (S-117 )",True,An Act to Establish a Primary Election Period for Unenrolled Candidates in Order to Receive Campaign Contributions in Amounts Equal to Amounts Allowed for Enrolled Candidates in the Same Period,Adopted on 5/22/2025,Adopted on 5/21/2025
+395,SP0181,"C ""A"" (S-693 )",True,"Resolve, Establishing the Working Group to Develop Recommendations for Extending Federal Beneficial Laws to the Wabanaki Nations",Adopted on 4/14/2026,Adopted on 4/14/2026
+395,SP0181,"S ""A"" (S-714 ) to C ""A"" (S-693 )",True,,Adopted on 4/14/2026,Adopted on 4/14/2026
+396,SP0182,"C ""A"" (S-217 )",True,"Resolve, Directing the Department of Education to Develop a Grant Program to Encourage School Start Time Coordination",Adopted on 6/25/2025,Adopted on 6/25/2025
+396,SP0182,"C ""B"" (S-218 )",False,,,
+396,SP0182,"S ""A"" (S-235 ) to C ""A"" (S-217 )",True,"Resolve, Directing the Department of Education to Develop a Grant Program to Encourage Secondary Schools to Adopt Later Start Times",Adopted on 6/4/2025,Adopted on 6/3/2025
+396,SP0182,"S ""B"" (S-484 ) to C ""A"" (S-217 )",True,"Resolve, Directing the Department of Education to Develop a Grant Program to Encourage Secondary Schools to Adopt Later Start Times",Adopted on 6/25/2025,Adopted on 6/25/2025
+400,HP0254,"C ""A"" (H-53 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+400,HP0254,"S ""A"" (S-455 ) to C ""A"" (H-53 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+401,HP0255,"C ""A"" (H-51 )",True,,Adopted on 4/15/2025,Adopted on 4/17/2025
+402,HP0256,"C ""A"" (H-380 )",False,,,
+402,HP0256,"C ""B"" (H-381 )",True,,,Adopted on 6/3/2025
+403,HP0257,"C ""A"" (H-557 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+404,HP0258,"C ""A"" (H-89 )",True,,Adopted on 5/6/2025,Adopted on 5/7/2025
+405,HP0259,"C ""A"" (H-389 )",True,An Act to Require Reporting on the Uses of Prisoner Segregation,Adopted on 6/2/2025,Adopted on 6/3/2025
+405,HP0259,"C ""B"" (H-390 )",False,"An Act to Remove the Terms ""Solitary Confinement"" and ""Confinement"" from the Laws Governing Corrections",,
+406,HP0260,"C ""A"" (H-366 )",False,,,
+407,HP0261,"C ""A"" (H-132 )",True,"Resolve, to Ensure the Removal of Aqueous Film-forming Foam from the Former Brunswick Naval Air Station",Adopted on 5/13/2025,Adopted on 5/14/2025
+408,HP0262,"C ""A"" (H-253 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+411,HP0265,"C ""A"" (H-657 )",False,,,
+411,HP0265,"C ""B"" (H-658 )",True,"Resolve, Directing the Attorney General to Update Rules Relating to the Disposition of Forfeited Firearms",Adopted on 6/12/2025,Adopted on 6/12/2025
+412,HP0266,"C ""A"" (H-246 )",True,An Act to Prohibit the Sale of Self-administered Sexual Assault Forensic Evidence Collection Kits,Adopted on 5/22/2025,Adopted on 5/22/2025
+413,HP0267,"C ""A"" (H-67 )",True,,Adopted on 4/23/2025,Adopted on 4/24/2025
+414,HP0268,"C ""A"" (H-252 )",True,An Act to Prohibit Deceptive Pricing in the Rental of Short-term Lodging and in the Sale of Tickets,Adopted on 5/27/2025,Adopted on 5/28/2025
+415,HP0269,"C ""A"" (H-42 )",True,,Adopted on 4/10/2025,Adopted on 4/15/2025
+417,HP0271,"C ""A"" (H-114 )",False,An Act Regarding Confidentiality of Certain Records Belonging to the Bureau of Forestry,,
+418,HP0272,"C ""A"" (H-468 )",False,,,
+419,HP0273,"C ""A"" (H-572 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+420,HP0274,"C ""A"" (H-180 )",False,,,
+422,HP0276,"C ""A"" (H-139 )",False,,,
+424,HP0278,"C ""A"" (H-656 )",False,An Act Concerning the Concealed Carrying of a Handgun by an Individual Who Is 18 Years of Age or Older but Under 21 Years of Age,,
+427,HP0281,"C ""A"" (H-456 )",True,An Act to Regulate Municipal Parking Space Minimums,,Adopted on 6/12/2025
+427,HP0281,"H ""A"" (H-588 ) to C ""A"" (H-456 )",False,An Act to Regulate Municipal Parking Space Minimums,,
+427,HP0281,"S ""A"" (S-348 ) to C ""A"" (H-456 )",True,An Act to Regulate Municipal Parking Space Minimums,Adopted on 6/13/2025,Adopted on 6/12/2025
+428,HP0282,"C ""A"" (H-635 )",False,An Act to Require Electronic Delivery of Mental Examination Records of Criminal Defendants,,
+434,HP0288,"C ""A"" (H-357 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+435,HP0289,"C ""A"" (H-773 )",True,,Adopted on 6/17/2025,Adopted on 6/17/2025
+437,HP0291,"C ""A"" (H-396 )",True,,Adopted on 6/3/2025,Adopted on 6/4/2025
+439,HP0293,"C ""A"" (H-322 )",False,,,
+441,HP0295,"C ""A"" (H-478 )",True,An Act to Allow the Investment of Money Deposited with the Treasurer of State for the Maine Deer Management Fund,Adopted on 6/4/2025,Adopted on 6/5/2025
+442,HP0296,"C ""A"" (H-761 )",False,,,
+447,HP0301,"C ""A"" (H-337 )",True,An Act to Amend the Law Governing Ferry Service to Matinicus Isle,Adopted on 6/2/2025,Adopted on 6/2/2025
+448,HP0302,"C ""A"" (H-82 )",True,,Adopted on 5/6/2025,Adopted on 5/7/2025
+451,HP0305,"C ""A"" (H-88 )",False,,,
+455,SP0188,"C ""A"" (S-283 )",False,,,
+457,SP0190,"C ""A"" (S-20 )",True,,Adopted on 4/23/2025,Adopted on 4/22/2025
+458,SP0191,"C ""A"" (S-104 )",True,An Act Regarding the Domestic Violence Advocate Privilege,Adopted on 5/22/2025,Adopted on 5/20/2025
+461,SP0194,"C ""A"" (S-32 )",True,,Adopted on 5/6/2025,Adopted on 5/30/2025
+462,SP0196,"C ""A"" (S-21 )",True,,Adopted on 4/23/2025,Adopted on 4/22/2025
+465,SP0200,"C ""A"" (S-24 )",True,,Adopted on 4/29/2025,Adopted on 4/24/2025
+467,SP0205,"C ""A"" (S-113 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+468,SP0206,"C ""A"" (S-10 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+468,SP0206,"S ""A"" (S-668 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+470,SP0209,"C ""A"" (S-276 )",True,"Resolve, Directing the Department of Education to Review Teacher Mentoring Programs in Maine Public Schools",Adopted on 6/9/2025,Adopted on 6/5/2025
+472,SP0212,"C ""A"" (S-26 )",True,,Adopted on 4/30/2025,Adopted on 4/29/2025
+473,SP0213,"C ""A"" (S-626 )",True,"Resolve, Directing the Department of Agriculture, Conservation and Forestry to Enter into Rulemaking Regarding Rule Chapter 30: Quarantine (Potato)",Adopted on 4/7/2026,Adopted on 4/6/2026
+474,SP0214,"C ""A"" (S-565 )",True,An Act to Establish a Stewardship Program for Primary and Rechargeable Batteries,Adopted on 3/25/2026,Adopted on 3/24/2026
+477,HP0306,"C ""A"" (H-80 )",True,,Adopted on 4/30/2025,Adopted on 5/6/2025
+482,HP0311,"C ""A"" (H-205 )",False,,,
+484,HP0313,"C ""A"" (H-1001 )",True,"An Act to Authorize Certain Emergency Medical Services Providers to Procure, Possess, Administer and Furnish Controlled Substances",Adopted on 4/8/2026,Adopted on 4/8/2026
+487,HP0316,"C ""A"" (H-117 )",False,,,
+489,HP0318,"C ""A"" (H-74 )",True,,Adopted on 4/29/2025,Adopted on 4/30/2025
+490,HP0319,"C ""A"" (H-320 )",False,,,
+491,HP0320,"C ""A"" (H-66 )",True,"Resolve, Requiring the Director of the Bureau of Parks and Lands to Convey Certain Real Property in the Town of Richmond",Adopted on 4/23/2025,Adopted on 4/24/2025
+492,HP0321,"C ""A"" (H-146 )",False,"RESOLUTION, Proposing an Amendment to the Constitution of Maine to Protect the Fundamental Rights of Parents",,
+493,HP0322,"C ""A"" (H-300 )",True,,Adopted on 5/28/2025,Adopted on 5/29/2025
+493,HP0322,"S ""A"" (S-669 ) to C ""A"" (H-300 )",False,,,
+493,HP0322,"H ""A"" (H-1052 ) to C ""A"" (H-300 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+494,HP0323,"C ""A"" (H-328 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+496,HP0325,"C ""A"" (H-331 )",True,An Act Regarding the Issuance of Silver Alerts,Adopted on 6/2/2025,Adopted on 6/2/2025
+497,HP0326,"C ""A"" (H-606 )",True,An Act Regarding the Regulation of Significant Vernal Pools Under the Natural Resources Protection Act,Adopted on 6/10/2025,Adopted on 6/10/2025
+499,HP0328,"C ""A"" (H-73 )",False,,,
+500,HP0329,"C ""A"" (H-288 )",True,,Adopted on 5/28/2025,Adopted on 5/29/2025
+502,HP0331,"C ""A"" (H-68 )",False,,,
+503,SP0221,"C ""A"" (S-110 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+504,SP0222,"C ""A"" (S-79 )",True,,Adopted on 5/20/2025,Adopted on 5/14/2025
+505,SP0223,"C ""A"" (S-179 )",True,,Adopted on 6/2/2025,Adopted on 5/29/2025
+508,SP0226,"C ""A"" (S-284 )",False,,,
+508,SP0226,"H ""A"" (H-640 )",False,"RESOLUTION, Proposing an Amendment to the Constitution of Maine to Require a Statewide Popular Election of the Secretary of State, the Treasurer of State and the Attorney General Using Ranked-choice Voting",,
+510,SP0228,"C ""A"" (S-14 )",True,,Adopted on 4/22/2025,Adopted on 4/17/2025
+512,SP0230,"C ""A"" (S-37 )",False,,,
+515,HP0333,"C ""A"" (H-737 )",False,,,
+517,HP0335,"C ""A"" (H-837 )",True,An Act Regarding Synthetic Media in Campaign Advertising,Adopted on 3/10/2026,Adopted on 3/12/2026
+519,HP0337,"C ""A"" (H-954 )",True,An Act to Address the Long-term Sustainability of the Maine Guaranteed Access Reinsurance Association,Adopted on 4/2/2026,Adopted on 4/2/2026
+522,HP0341,"C ""A"" (H-49 )",True,,Adopted on 4/15/2025,Adopted on 4/17/2025
+522,HP0341,"H ""A"" (H-786 ) to C ""A"" (H-49 )",True,,Adopted on 2/10/2026,Adopted on 12:00:00 AM
+524,HP0343,"C ""A"" (H-789 )",True,An Act to Protect Children from Technology-facilitated Sexual Abuse,Adopted on 2/3/2026,Adopted on 2/10/2026
+526,HP0345,"C ""A"" (H-407 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+527,HP0346,"C ""A"" (H-715 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+528,HP0347,"C ""A"" (H-250 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+529,HP0348,"C ""A"" (H-670 )",True,An Act to Establish the Alamoosook Lake Watershed Management District,Adopted on 6/12/2025,Adopted on 6/13/2025
+530,HP0349,"C ""A"" (H-166 )",True,An Act to Eliminate a Rebuttable Presumption Against the Admission of Certain Applicants to the Bar,Adopted on 5/20/2025,Adopted on 5/21/2025
+531,HP0350,"C ""A"" (H-669 )",True,An Act to Establish the Toddy Pond Watershed Management District,Adopted on 6/12/2025,Adopted on 6/13/2025
+532,HP0351,"C ""A"" (H-575 )",False,"Resolve, to Study Assaults on Health Care Workers",,
+532,HP0351,"C ""B"" (H-576 )",True,,Adopted on 6/17/2025,
+532,HP0351,"H ""A"" (H-775 ) to C ""A"" (H-575 )",False,"Resolve, to Study Assaults on Health Care Workers",,
+533,HP0352,"C ""A"" (H-736 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+534,HP0353,"C ""A"" (H-704 )",True,,Adopted on 6/13/2025,Adopted on 6/16/2025
+535,HP0354,"C ""A"" (H-81 )",False,,,
+536,HP0355,"C ""A"" (H-439 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+536,HP0355,"H ""A"" (H-506 ) to C ""A"" (H-439 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+537,HP0356,"C ""A"" (H-604 )",True,,Adopted on 6/10/2025,Adopted on 6/10/2025
+537,HP0356,"C ""B"" (H-605 )",False,,,
+538,HP0357,"C ""A"" (H-179 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+540,HP0359,"C ""A"" (H-144 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+540,HP0359,"H ""A"" (H-211 ) to C ""A"" (H-144 )",False,,,
+541,HP0360,"C ""A"" (H-57 )",False,,,
+542,HP0361,"C ""A"" (H-115 )",False,,,
+544,HP0363,"C ""A"" (H-387 )",True,,,Adopted on 6/3/2025
+545,HP0364,"C ""A"" (H-101 )",True,,Adopted on 5/7/2025,Adopted on 5/13/2025
+546,HP0365,"C ""A"" (H-235 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+549,SP0199,"C ""A"" (S-428 )",False,,,
+549,SP0199,"C ""B"" (S-429 )",True,,Adopted on 6/17/2025,Adopted on 6/17/2025
+550,SP0202,"C ""A"" (S-91 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+551,SP0203,"C ""A"" (S-141 )",False,,,
+552,SP0204,"C ""A"" (S-237 )",False,An Act to Amend the Laws Governing the Carrying Passengers for Hire License,,
+553,SP0208,"C ""A"" (S-203 )",False,,,
+554,SP0211,"C ""A"" (S-163 )",True,An Act to Encourage Resident-owned Communities and Preserve Affordable Housing Through Tax Deductions,Adopted on 5/29/2025,Adopted on 5/28/2025
+555,SP0217,"C ""A"" (S-653 )",True,,,Adopted on 4/9/2026
+558,SP0237,"C ""A"" (S-151 )",True,,Adopted on 5/29/2025,Adopted on 5/28/2025
+561,SP0240,"C ""A"" (S-225 )",True,,Adopted on 6/3/2025,Adopted on 6/2/2025
+562,SP0241,"C ""A"" (S-103 )",True,,Adopted on 4/14/2026,Adopted on 4/14/2026
+562,SP0241,"S ""A"" (S-713 ) to C ""A"" (S-103 )",True,,Adopted on 4/14/2026,Adopted on 4/14/2026
+567,SP0247,"C ""A"" (S-54 )",True,An Act to Designate the 2nd Week of May and the 2nd Week of September as Dark Sky Week,Adopted on 5/14/2025,Adopted on 5/13/2025
+568,SP0248,"C ""A"" (S-173 )",True,"Resolve, Directing the Public Utilities Commission to Evaluate Different Procurement Methods for Standard-offer Service",Adopted on 6/2/2025,Adopted on 5/29/2025
+577,SP0258,"C ""A"" (S-380 )",True,An Act to Maximize Federal Funding and Protect Maine's School Meals Programs,Adopted on 6/13/2025,Adopted on 6/12/2025
+579,SP0260,"C ""A"" (S-344 )",True,,Adopted on 6/11/2025,Adopted on 6/11/2025
+579,SP0260,"S ""A"" (S-670 ) to C ""A"" (S-344 )",False,An Act to Include Certain Nurses Under the 1998 Special Plan for Retirement,,
+579,SP0260,"H ""A"" (H-1053 ) to C ""A"" (S-344 )",True,An Act to Include Certain Nurses Under the 1998 Special Plan for Retirement,Adopted on 4/13/2026,Adopted on 4/13/2026
+580,SP0261,"C ""A"" (S-8 )",True,,Adopted on 4/10/2025,Adopted on 4/8/2025
+581,SP0264,"C ""A"" (S-70 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+582,SP0265,"C ""A"" (S-63 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+583,SP0266,"C ""A"" (S-97 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+583,SP0266,"S ""A"" (S-456 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+584,SP0267,"C ""A"" (S-554 )",False,"An Act to Make the Director of the Office of Cannabis Policy, the Director of the Bureau of Alcoholic Beverages and Lottery Operations and the Director of the Gambling Control Unit Appointed Positions Subject to Confirmation by the Legislature",,
+587,SP0270,"C ""A"" (S-214 )",True,An Act to Require School Boards to Adopt a Policy on Automated External Defibrillator Access at School Events,Adopted on 6/9/2025,Adopted on 6/5/2025
+587,SP0270,"S ""A"" (S-272 ) to C ""A"" (S-214 )",True,An Act to Require School Boards to Adopt a Policy on Automated External Defibrillator Access at School-sponsored Athletic Events,Adopted on 6/9/2025,Adopted on 6/5/2025
+589,SP0273,"C ""A"" (S-196 )",True,An Act to Establish a State Minimum Hourly Wage for Agricultural Workers,Adopted on 6/3/2025,Adopted on 6/2/2025
+590,SP0274,"C ""A"" (S-502 )",True,,Adopted on 3/12/2026,Adopted on 3/5/2026
+592,SP0276,"C ""A"" (S-385 )",True,"Resolve, to Study Laws Regarding Endangering the Welfare of a Child",Adopted on 6/13/2025,Adopted on 6/12/2025
+592,SP0276,"C ""B"" (S-386 )",False,,,
+593,SP0277,"C ""A"" (S-83 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+594,SP0278,"C ""A"" (S-199 )",False,,,
+597,SP0281,"C ""A"" (S-401 )",True,An Act to Direct the Public Utilities Commission to Conduct Procurements for Energy or Renewable Energy Credits,Adopted on 6/16/2025,Adopted on 6/13/2025
+598,SP0282,"C ""A"" (S-195 )",True,,Adopted on 6/10/2025,Adopted on 6/9/2025
+598,SP0282,"H ""A"" (H-471 )",False,,,
+598,SP0282,"S ""A"" (S-301 )",True,,Adopted on 6/10/2025,Adopted on 6/9/2025
+599,SP0283,"C ""A"" (S-114 )",True,An Act to Raise the Salary Threshold for Overtime Pay,Adopted on 5/22/2025,Adopted on 5/21/2025
+600,HP0368,"C ""A"" (H-145 )",True,,Adopted on 5/14/2025,Adopted on 5/20/2025
+604,HP0372,"C ""A"" (H-239 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+606,HP0374,"C ""A"" (H-65 )",True,,Adopted on 4/23/2025,Adopted on 4/24/2025
+609,HP0377,"C ""A"" (H-13 )",True,,Adopted on 3/20/2025,Adopted on 3/20/2025
+609,HP0377,"H ""A"" (H-15 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""B"" (H-16 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""C"" (H-17 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""D"" (H-18 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""E"" (H-19 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""F"" (H-20 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""G"" (H-21 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""H"" (H-23 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""I"" (H-24 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""J"" (H-25 ) to C ""A"" (H-13 )",False,,,
+609,HP0377,"H ""K"" (H-26 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""L"" (H-27 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""M"" (H-28 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""N"" (H-29 ) to C ""A"" (H-13 )",False,,,
+609,HP0377,"H ""O"" (H-30 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""P"" (H-31 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""Q"" (H-32 ) to C ""A"" (H-13 )",False,,Indefinitely postponed on 3/20/2025,
+609,HP0377,"H ""R"" (H-33 ) to C ""A"" (H-13 )",True,,Adopted on 3/20/2025,Adopted on 3/20/2025
+611,HP0379,"C ""A"" (H-151 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+612,HP0380,"C ""A"" (H-502 )",False,An Act to Require the Department of Health and Human Services to Review Electronic Benefits Transfer Card Transactions,,
+613,HP0381,"C ""A"" (H-433 )",True,,Adopted on 6/16/2025,Adopted on 6/12/2025
+613,HP0381,"S ""A"" (S-365 ) to C ""A"" (H-433 )",True,,Adopted on 6/16/2025,Adopted on 6/12/2025
+616,HP0384,"C ""A"" (H-262 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+620,HP0388,"C ""A"" (H-43 )",True,,Adopted on 4/10/2025,
+620,HP0388,"S ""A"" (S-16 )",False,,,
+623,HP0391,"C ""A"" (H-418 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+624,HP0392,"C ""A"" (H-111 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+626,HP0394,"C ""A"" (H-370 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+626,HP0394,"C ""B"" (H-371 )",False,An Act to Remove the Explicit Authority of the Department of Corrections to Charge Room and Board to Residents Who Participate in Work Release or Remote Work in Detention and Correctional Facilities,,
+628,HP0396,"C ""A"" (H-309 )",True,,Adopted on 5/29/2025,Adopted on 5/29/2025
+629,HP0397,"C ""A"" (H-56 )",True,,Adopted on 4/17/2025,Adopted on 4/17/2025
+631,HP0399,"C ""A"" (H-298 )",True,,Adopted on 5/28/2025,Adopted on 5/29/2025
+634,HP0402,"C ""A"" (H-259 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+635,HP0403,"C ""A"" (H-167 )",False,,,
+639,HP0407,"C ""A"" (H-162 )",True,,,Adopted on 5/21/2025
+640,HP0408,"C ""A"" (H-452 )",True,An Act Requiring That Certain Fees Charged by the Courts for Court-ordered Payments Be Capped and Paid by the Defendant,Adopted on 6/3/2025,Adopted on 6/3/2025
+641,HP0409,"C ""A"" (H-227 )",True,An Act to Support Diversion Efforts to Prevent Homelessness in Maine,Adopted on 5/22/2025,Adopted on 5/27/2025
+646,HP0414,"C ""A"" (H-98 )",True,"Resolve, Establishing the Commission to Study Unmanaged Storm Water Pollution",Adopted on 4/14/2026,Adopted on 4/14/2026
+646,HP0414,"S ""A"" (S-715 ) to C ""A"" (H-98 )",True,,Adopted on 4/14/2026,Adopted on 4/14/2026
+647,HP0415,"C ""A"" (H-599 )",False,An Act to Expand County Jail and Correctional Facility Services to Indigent Residents,,
+648,HP0416,"C ""A"" (H-652 )",True,,Adopted on 6/11/2025,Adopted on 6/12/2025
+649,HP0417,"C ""A"" (H-269 )",True,An Act to Certify Chiropractic Assistants Who Perform X-rays as Chiropractic Radiographers,Adopted on 5/27/2025,Adopted on 5/28/2025
+650,HP0418,"C ""A"" (H-92 )",True,,Adopted on 5/6/2025,Adopted on 5/7/2025
+651,HP0419,"C ""A"" (H-141 )",True,An Act to Codify the Maine Health Care Provider Loan Repayment Pilot Program,Adopted on 5/13/2025,Adopted on 5/14/2025
+653,HP0421,"C ""A"" (H-466 )",False,,,
+654,HP0422,"C ""A"" (H-451 )",True,An Act to Increase the Maximum Small Claim Limit,Adopted on 6/3/2025,Adopted on 6/3/2025
+656,HP0424,"C ""A"" (H-186 )",False,,,
+660,HP0428,"C ""A"" (H-378 )",False,,,
+662,HP0430,"C ""A"" (H-469 )",True,An Act to Support Survivors of Military Sexual Trauma and Active Duty Military Members Transitioning to Civilian Life,Adopted on 6/3/2025,Adopted on 6/4/2025
+665,HP0433,"C ""A"" (H-130 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+666,HP0434,"C ""A"" (H-170 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+666,HP0434,"C ""B"" (H-171 )",False,,,
+666,HP0434,"S ""A"" (S-671 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+669,HP0437,"C ""A"" (H-893 )",True,An Act to Provide a Death Benefit for Department of Transportation Workers,Adopted on 3/25/2026,Adopted on 3/26/2026
+670,HP0438,"C ""A"" (H-727 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+671,HP0439,"C ""A"" (H-299 )",False,An Act to Abolish the Maine Individual Income Tax and Establish a Zero-based Budget,,
+674,SP0287,"C ""A"" (S-73 )",False,,,
+678,SP0293,"C ""A"" (S-13 )",True,,Adopted on 4/17/2025,Adopted on 4/15/2025
+679,SP0294,"C ""A"" (S-168 )",True,,Adopted on 4/13/2026,Adopted on 5/28/2025
+679,SP0294,"S ""A"" (S-672 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+681,SP0296,"C ""A"" (S-175 )",True,,Adopted on 6/2/2025,Adopted on 5/29/2025
+682,SP0297,"C ""A"" (S-323 )",False,,,
+689,SP0306,"C ""A"" (S-17 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+689,SP0306,"S ""A"" (S-457 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+692,SP0309,"C ""A"" (S-107 )",True,,Adopted on 6/25/2025,Adopted on 5/20/2025
+692,SP0309,"S ""A"" (S-458 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+693,SP0310,"C ""A"" (S-39 )",True,,Adopted on 5/7/2025,Adopted on 5/6/2025
+695,SP0312,"C ""A"" (S-627 )",True,An Act to Improve the Safety of Those in Public Service,Defeated on 4/7/2026,Adopted on 4/6/2026
+695,SP0312,"C ""B"" (S-628 )",False,An Act to Permit Legislators to Carry a Handgun in the State Capitol Area,,
+695,SP0312,"C ""C"" (S-629 )",True,"Resolve, to Establish a Stakeholder Group to Develop Recommendations for Improving the Safety and Security of Legislators and Their Families",Adopted on 4/7/2026,
+696,SP0313,"C ""A"" (S-112 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+697,SP0314,"C ""A"" (S-159 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+697,SP0314,"S ""A"" (S-459 ) to C ""A"" (S-159 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+698,SP0315,"C ""A"" (S-124 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+698,SP0315,"C ""B"" (S-125 )",False,,,
+698,SP0315,"S ""A"" (S-460 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+700,SP0317,"C ""A"" (S-60 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+702,HP0441,"C ""A"" (H-138 )",True,An Act to Designate January 6th as A Day to Remember,Adopted on 5/13/2025,Adopted on 5/14/2025
+703,HP0442,"C ""A"" (H-64 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+703,HP0442,"S ""A"" (S-673 ) to C ""A"" (H-64 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+704,HP0443,"C ""A"" (H-131 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+705,HP0444,"C ""A"" (H-1068 )",True,"An Act to Correct Technical Errors in Public Law 2025, Chapter 650",Adopted on 4/14/2026,Adopted on 4/14/2026
+706,HP0445,"C ""A"" (H-379 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+707,HP0446,"C ""A"" (H-50 )",True,,Adopted on 4/15/2025,Adopted on 4/17/2025
+710,HP0449,"C ""A"" (H-207 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+713,HP0452,"C ""A"" (H-975 )",True,An Act to Exclude Data Centers from the Business Equipment Tax Exemption and the Dirigo Business Incentives Program and to Require the Department of Economic and Community Development to Study Financial Incentives for Data Centers,Adopted on 4/9/2026,Adopted on 4/13/2026
+713,HP0452,"H ""A"" (H-1040 ) to C ""A"" (H-975 )",True,,Adopted on 4/9/2026,Adopted on 4/13/2026
+714,HP0453,"C ""A"" (H-944 )",True,An Act to Allow the Victim of a Fraudulent Scheme to Claim a State Income Tax Deduction for Losses Attributable to the Fraudulent Scheme,Adopted on 4/2/2026,Adopted on 4/2/2026
+715,HP0454,"C ""A"" (H-525 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+719,HP0458,"C ""A"" (H-494 )",True,"Resolve, to Direct the County Corrections Professional Standards Council to Examine Funding of and Compliance by County and Regional Jails",Adopted on 6/4/2025,Adopted on 6/5/2025
+721,HP0460,"C ""A"" (H-257 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+721,HP0460,"S ""A"" (S-674 ) to C ""A"" (H-257 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+722,HP0461,"C ""A"" (H-140 )",True,"Resolve, Directing the Department of Public Safety, Emergency Medical Services' Board to Report to the Joint Standing Committee on Education and Cultural Affairs on the Status of Funds in the Emergency Medical Services Stabilization and Sustainability Program",Adopted on 5/13/2025,Adopted on 5/14/2025
+723,HP0462,"C ""A"" (H-305 )",True,"Resolve, to Direct the Maine Criminal Justice Academy to Study the Feasibility of Establishing a Nonresidential Law Enforcement Training Program",Adopted on 5/28/2025,Adopted on 5/29/2025
+725,HP0464,"C ""A"" (H-899 )",True,"Resolve, Directing the Efficiency Maine Trust to Study the Quality of Jobs It Creates in Consultation with an Advisory Group",Adopted on 3/26/2026,Adopted on 3/30/2026
+726,HP0465,"C ""A"" (H-306 )",False,,,
+730,HP0469,"C ""A"" (H-374 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+731,HP0473,"C ""A"" (H-176 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+732,HP0474,"C ""A"" (H-258 )",False,An Act to Prohibit Copyrights for Works of Certain State Government Departments and Agencies,,
+733,HP0475,"C ""A"" (H-236 )",True,"Resolve, to Require the Maine State Housing Authority to Submit a Report on the Pilot Project to Improve Access to Credit for Low-income Individuals",Adopted on 5/22/2025,Adopted on 5/22/2025
+738,HP0480,"C ""A"" (H-168 )",True,,Adopted on 5/20/2025,
+739,HP0481,"C ""A"" (H-472 )",True,An Act to Reimburse the City of Ellsworth for a Public Road to a New Court Facility in Hancock County,Adopted on 6/4/2025,Adopted on 6/5/2025
+739,HP0481,"C ""B"" (H-473 )",False,An Act to Reimburse the City of Ellsworth for a Public Road to a New Court Facility in Hancock County,,
+740,HP0482,"C ""A"" (H-889 )",True,"Resolve, to Study Methods for Improving Youth Community Supervision and Increasing Juvenile Diversion from Formal Judicial Processing",Adopted on 4/13/2026,Adopted on 4/13/2026
+740,HP0482,"S ""A"" (S-675 ) to C ""A"" (H-889 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+741,HP0483,"C ""A"" (H-340 )",False,,,
+742,HP0484,"C ""A"" (H-177 )",False,,,
+743,HP0485,"C ""A"" (H-96 )",False,,,
+746,HP0488,"C ""A"" (H-774 )",False,,,
+747,HP0489,"C ""A"" (H-228 )",True,,Adopted on 6/25/2025,Adopted on 5/27/2025
+747,HP0489,"S ""A"" (S-461 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+748,HP0490,"C ""A"" (H-229 )",True,,Adopted on 5/22/2025,Adopted on 5/27/2025
+750,HP0492,"C ""A"" (H-55 )",True,,Adopted on 4/17/2025,Adopted on 4/17/2025
+753,SP0251,"C ""A"" (S-130 )",True,An Act to Authorize the Use of Funds Resulting from the Issuance of Securities by the Maine Governmental Facilities Authority for the Purpose of Developing or Improving New or Existing Court Facilities in Penobscot County,Adopted on 5/27/2025,Adopted on 5/22/2025
+756,SP0271,"C ""A"" (S-354 )",True,,Adopted on 6/12/2025,Adopted on 6/12/2025
+758,SP0291,"C ""A"" (S-89 )",True,"Resolve, to Conduct a Study to Update Flood Hazard Data in the Sandy River Watershed",Adopted on 5/22/2025,Adopted on 5/20/2025
+760,SP0301,"C ""A"" (S-122 )",True,"Resolve, to Establish the Commission to Study the Need to Codify or Recodify Laws Regarding Residential Community Ownership Associations by Adopting the Uniform Common Interest Ownership Act",Adopted on 4/14/2026,Adopted on 4/14/2026
+760,SP0301,"C ""B"" (S-123 )",False,"Resolve, to Establish the Stakeholder Group to Study the Need to Codify or Recodify Laws Regarding Residential Community Ownership Associations by Adopting the Uniform Common Interest Ownership Act",,
+760,SP0301,"S ""A"" (S-716 ) to C ""A"" (S-122 )",True,,Adopted on 4/14/2026,Adopted on 4/14/2026
+761,SP0320,"C ""A"" (S-56 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+764,HP0494,"C ""A"" (H-373 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+767,SP0325,"C ""A"" (S-332 )",True,,Adopted on 6/10/2025,Adopted on 6/10/2025
+768,SP0326,"C ""A"" (S-185 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+769,SP0327,"C ""A"" (S-234 )",True,,Adopted on 6/4/2025,Adopted on 6/3/2025
+775,HP0498,"C ""A"" (H-261 )",False,,,
+777,HP0502,"C ""A"" (H-109 )",True,"Resolve, Directing the Department of Inland Fisheries and Wildlife to Study Lengthening the Muzzle-loading Season for Deer in Certain Wildlife Management Districts",Adopted on 5/13/2025,Adopted on 5/14/2025
+779,SP0336,"C ""A"" (S-258 )",True,,Adopted on 6/5/2025,Adopted on 6/4/2025
+783,SP0341,"C ""A"" (S-34 )",True,,Adopted on 5/7/2025,Adopted on 4/14/2026
+783,SP0341,"S ""A"" (S-712 )",True,,Adopted on 4/14/2026,Adopted on 4/14/2026
+783,SP0341,"H ""A"" (H-1073 )",False,,,
+784,SP0343,"C ""A"" (S-95 )",True,An Act to Create a Rebuttable Presumption Related to Specialized Risk Screening for First Responders,Adopted on 5/27/2025,Adopted on 5/20/2025
+785,SP0344,"C ""A"" (S-694 )",True,An Act to Amend Certain Tax Laws Regarding the Wabanaki Nations,Adopted on 4/13/2026,Adopted on 4/13/2026
+785,SP0344,"C ""B"" (S-695 )",False,An Act to Provide for a Tribal Representative from the Mi'kmaq Nation,,
+785,SP0344,"C ""C"" (S-696 )",False,An Act to Amend Certain Laws Governing the Wabanaki Nations,,
+786,SP0346,"C ""A"" (S-169 )",True,An Act to Promote Public Safety and Retain Essential First Responders by Converting the Maine Length of Service Award Program Trust Fund to a Nonlapsing Fund,Adopted on 5/29/2025,Adopted on 5/28/2025
+787,SP0347,"C ""A"" (S-160 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+787,SP0347,"C ""B"" (S-161 )",False,An Act to Provide Funding to the Maine School of Science and Mathematics,,
+787,SP0347,"S ""A"" (S-226 ) to C ""A"" (S-160 )",False,,,
+787,SP0347,"S ""B"" (S-462 ) to C ""A"" (S-160 )",True,An Act to Clarify Residency Requirements for the Maine School of Science and Mathematics,Adopted on 6/25/2025,Adopted on 6/25/2025
+788,SP0348,"C ""A"" (S-120 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+792,SP0355,"C ""A"" (S-35 )",True,,,Adopted on 5/6/2025
+793,SP0358,"C ""A"" (S-376 )",True,"Resolve, to Establish the Working Group to Review and Update the Laws Governing Harness Racing",Adopted on 6/13/2025,Adopted on 6/12/2025
+794,SP0359,"C ""A"" (S-47 )",True,,Adopted on 5/13/2025,Adopted on 5/7/2025
+795,SP0360,"C ""A"" (S-38 )",True,An Act to Establish a Waiver Process from the Permit Requirements for the Use of Explosives in Recreational or Hobby Mining Activities,Adopted on 5/7/2025,Adopted on 5/6/2025
+799,HP0506,"C ""A"" (H-353 )",True,,Adopted on 6/2/2025,Adopted on 6/3/2025
+800,HP0507,"C ""A"" (H-271 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+802,HP0509,"C ""A"" (H-172 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+806,HP0513,"C ""A"" (H-119 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+809,HP0516,"C ""A"" (H-106 )",True,,Adopted on 5/7/2025,Adopted on 5/13/2025
+810,HP0517,"C ""A"" (H-410 )",True,,Adopted on 6/9/2025,Adopted on 6/4/2025
+813,HP0520,"C ""A"" (H-90 )",False,,,
+814,HP0521,"C ""A"" (H-77 )",True,,Adopted on 4/30/2025,Adopted on 5/6/2025
+815,HP0522,"C ""A"" (H-45 )",True,,Adopted on 6/25/2025,Adopted on 4/15/2025
+815,HP0522,"S ""A"" (S-463 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+818,HP0525,"H ""A"" (H-62 )",True,,Adopted on 5/28/2025,Adopted on 6/9/2025
+819,HP0526,"C ""A"" (H-770 )",True,An Act to Clarify the Status of Energy Storage Systems with Regard to the Business Equipment Tax Exemption and the Business Equipment Tax Reimbursement Program,Adopted on 6/17/2025,Adopted on 6/17/2025
+820,HP0527,"C ""A"" (H-324 )",True,,Adopted on 5/29/2025,Adopted on 6/2/2025
+820,HP0527,"S ""A"" (S-233 ) to C ""A"" (H-324 )",False,"RESOLUTION, Proposing an Amendment to the Constitution of Maine to Establish the Right to Hunt and Fish and to Protect Wildlife and Fish from Pollution",,
+821,HP0528,"C ""A"" (H-105 )",True,,Adopted on 5/7/2025,Adopted on 5/13/2025
+823,SP0337,"C ""A"" (S-201 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+825,SP0345,"C ""A"" (S-66 )",False,,,
+828,SP0352,"C ""A"" (S-74 )",True,An Act to Allow Chiropractors to Perform Physical Examinations of Students,,Adopted on 5/13/2025
+829,SP0356,"C ""A"" (S-363 )",False,,,
+830,SP0357,"C ""A"" (S-100 )",False,An Act to Protect Maine's Scenic Beauty Through the Regulation of Solar Energy Developments Under the Site Location of Development Laws,,
+832,SP0364,"C ""A"" (S-156 )",False,An Act to Direct the Department of Environmental Protection to Provide Funding to Public Wastewater Systems for the Repayment of Loans,,
+834,SP0366,"C ""A"" (S-336 )",True,,Adopted on 6/11/2025,Adopted on 6/11/2025
+835,SP0368,"C ""A"" (S-93 )",False,,,
+837,SP0370,"C ""A"" (S-29 )",True,An Act to Require Positions Taken by the Public Advocate to Be Consistent with the Cost-effective Implementation of the State's Greenhouse Gas Emissions Reductions Obligations,Adopted on 4/30/2025,Adopted on 4/29/2025
+838,SP0371,"C ""A"" (S-566 )",True,"Resolve, to Establish the Commission to Study Options for Public Financing of Transmission and Distribution Infrastructure, Generation Projects and Energy Storage Projects",Adopted on 3/25/2026,Adopted on 3/24/2026
+839,SP0372,"C ""A"" (S-223 )",True,An Act to Create the Net Energy Billing Cost Stabilization Fund,Adopted on 6/5/2025,Adopted on 6/4/2025
+839,SP0372,"C ""B"" (S-224 )",False,,,
+840,SP0373,"C ""A"" (S-18 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+840,SP0373,"S ""A"" (S-701 ) to C ""A"" (S-18 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+841,SP0374,"C ""A"" (S-414 )",True,"Resolve, to Study the Delivery of Emergency Medical Services to and Ferry Service Effects on Unbridged Island Communities in the State",Adopted on 6/17/2025,Adopted on 6/16/2025
+843,SP0376,"C ""A"" (S-241 )",True,,Adopted on 6/4/2025,Adopted on 6/3/2025
+843,SP0376,"C ""B"" (S-242 )",False,,,
+847,HP0533,"C ""A"" (H-868 )",True,"Resolve, to Establish the Commission to Improve Tenant-Landlord Relationships and Increase the Use of Housing Vouchers",Adopted on 3/24/2026,Adopted on 3/25/2026
+848,HP0534,"C ""A"" (H-216 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+850,HP0536,"C ""A"" (H-85 )",True,,Adopted on 5/6/2025,Adopted on 5/7/2025
+852,HP0538,"C ""A"" (H-636 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+853,HP0539,"C ""A"" (H-212 )",False,,,
+855,HP0541,"C ""A"" (H-225 )",False,,,
+856,HP0542,"C ""A"" (H-622 )",False,,,
+857,HP0543,"C ""A"" (H-568 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+858,HP0544,"C ""A"" (H-289 )",True,,Adopted on 6/25/2025,Adopted on 5/29/2025
+858,HP0544,"S ""A"" (S-464 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+860,HP0546,"C ""A"" (H-204 )",True,"An Act to Allow the Public Advocate to Obtain Information from Public Utilities, Competitive Electricity Providers and Standard-offer Service Providers",Adopted on 5/22/2025,Adopted on 5/22/2025
+861,HP0547,"C ""A"" (H-476 )",True,An Act to Prohibit the Public Advocate and a Commissioner of the Public Utilities Commission from Certain Employment Activities Following Service,Adopted on 6/4/2025,Adopted on 6/5/2025
+861,HP0547,"C ""B"" (H-477 )",False,An Act to Prohibit the Public Advocate and a Commissioner of the Public Utilities Commission from Certain Employment Activities Following Service,,
+863,HP0549,"C ""A"" (H-226 )",True,An Act to Allow a Person or Organization Conducting a Raffle to Use an Approved Payment Management System,Adopted on 5/22/2025,Adopted on 5/27/2025
+865,HP0551,"C ""A"" (H-627 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+866,HP0552,"C ""A"" (H-521 )",True,"Resolve, Directing the Department of Inland Fisheries and Wildlife to Implement a Landowner Antlerless Deer Permit Gift Program",Adopted on 6/9/2025,Adopted on 6/9/2025
+866,HP0552,"C ""B"" (H-522 )",False,,,
+867,HP0553,"C ""A"" (H-274 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+868,HP0554,"C ""A"" (H-691 )",False,,,
+870,HP0556,"C ""A"" (H-327 )",True,,Adopted on 5/29/2025,Adopted on 6/2/2025
+872,HP0558,"C ""A"" (H-566 )",False,"Resolve, Directing the Office of Information Technology to Study the Use of Artificial Intelligence and Access to Ethical, Legal, Safe and Affordable Forms of Artificial Intelligence",,
+874,HP0560,"C ""A"" (H-121 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+874,HP0560,"S ""A"" (S-465 ) to C ""A"" (H-121 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+875,HP0561,"C ""A"" (H-44 )",True,,Adopted on 4/10/2025,Adopted on 4/15/2025
+876,HP0562,"C ""A"" (H-338 )",True,An Act to Support the Maine Service Fellows Program,Adopted on 4/13/2026,Adopted on 4/13/2026
+876,HP0562,"S ""A"" (S-676 ) to C ""A"" (H-338 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+877,HP0563,"C ""A"" (H-831 )",True,"Resolve, to Establish the Commission to Study the Employment Practices and Operations of Transportation Network Companies Operating in the State",Adopted on 3/10/2026,Adopted on 3/12/2026
+878,HP0564,"C ""A"" (H-87 )",False,,,
+880,HP0566,"C ""A"" (H-99 )",False,,,
+881,HP0567,"C ""A"" (H-421 )",True,,Adopted on 6/2/2025,Adopted on 6/3/2025
+882,HP0568,"C ""A"" (H-926 )",True,An Act to Protect Communication with Providers of Critical Incident Stress Management and Peer Support,Adopted on 3/31/2026,Adopted on 4/2/2026
+882,HP0568,"H ""A"" (H-940 ) to C ""A"" (H-926 )",False,An Act to Protect Communication with Providers of Critical Incident Stress Management and Peer Support,Defeated on 3/31/2026,
+883,HP0569,"C ""A"" (H-934 )",True,An Act to Extend the Sunset Date of the Access to Justice Tax Credit,Adopted on 3/31/2026,Adopted on 4/2/2026
+884,HP0570,"C ""A"" (H-60 )",True,,Adopted on 4/22/2025,Adopted on 4/23/2025
+886,HP0572,"C ""A"" (H-592 )",False,,,
+887,HP0573,"C ""A"" (H-591 )",False,An Act to Require a Health Care Professional to Be Physically Present During a Chemical Abortion,,
+888,HP0574,"C ""A"" (H-143 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+889,HP0575,"C ""A"" (H-615 )",True,An Act to Clarify the Release of Information by the Department of Health and Human Services in the Law Regarding Automatic Referrals,Adopted on 6/10/2025,Adopted on 6/11/2025
+893,SP0381,"C ""A"" (S-59 )",True,,,Adopted on 5/29/2025
+894,SP0383,"C ""A"" (S-200 )",False,,,
+894,SP0383,"H ""A"" (H-489 )",False,,Indefinitely postponed on 6/4/2025,
+894,SP0383,"H ""B"" (H-490 )",False,,Indefinitely postponed on 6/4/2025,
+895,SP0384,"C ""A"" (S-61 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+896,SP0385,"C ""A"" (S-183 )",True,,Adopted on 6/3/2025,Adopted on 6/2/2025
+897,SP0386,"C ""A"" (S-571 )",True,An Act Regarding the Nonwires Alternative Process and Required Negative Pricing Provisions in Contracts for Energy Resulting from Competitive Solicitations Conducted by the Public Utilities Commission,Adopted on 4/7/2026,Adopted on 4/6/2026
+897,SP0386,"C ""B"" (S-572 )",False,An Act Regarding Required Negative Pricing Provisions in Contracts for Energy Resulting from Competitive Solicitations Conducted by the Public Utilities Commission,,
+898,SP0387,"C ""A"" (S-144 )",True,"Resolve, to Support Rural Health Care Workforce Recruitment",Adopted on 5/28/2025,Adopted on 5/27/2025
+899,SP0388,"C ""A"" (S-58 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+900,SP0389,"C ""A"" (S-146 )",True,,Adopted on 5/28/2025,Adopted on 5/27/2025
+901,SP0390,"C ""A"" (S-182 )",True,"Resolve, Directing the Maine Redevelopment Land Bank Authority to Take Appropriate Actions to Identify Opportunities for the Beneficial Reuse of the Buildings and Land Commonly Known as the Bangor Mall",Adopted on 6/2/2025,Adopted on 5/29/2025
+907,SP0396,"C ""A"" (S-51 )",True,,Adopted on 5/13/2025,Adopted on 5/7/2025
+911,SP0401,"C ""A"" (S-333 )",True,An Act to Clarify Procedures for When a Candidate Withdraws from an Election Determined by Ranked-choice Voting or When a Candidate Dies or Becomes Disqualified in an Election Determined by Ranked-choice Voting,Adopted on 6/13/2025,Adopted on 6/13/2025
+911,SP0401,"S ""A"" (S-378 ) to C ""A"" (S-333 )",True,An Act to Clarify Procedures for When a Candidate Withdraws from an Election Determined by Ranked-choice Voting or When a Candidate Dies or Becomes Disqualified in an Election Determined by Ranked-choice Voting,Adopted on 6/13/2025,Adopted on 6/13/2025
+912,SP0402,"C ""A"" (S-67 )",True,An Act to Limit the Amount of Electricity That May Be Provided to Data Centers on a Certain Commercial or Industrial Site,Adopted on 5/14/2025,Adopted on 5/13/2025
+913,SP0403,"C ""A"" (S-308 )",True,An Act to Amend the Law Regulating the Resale of Tickets,Adopted on 6/12/2025,Adopted on 6/11/2025
+913,SP0403,"S ""A"" (S-351 ) to C ""A"" (S-308 )",False,An Act to Amend the Law Regulating the Resale of Tickets,,
+915,HP0580,"C ""A"" (H-354 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+916,HP0581,"C ""A"" (H-942 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+918,HP0583,"C ""A"" (H-124 )",False,An Act to Allow a Qualifying Religious Organization Whose Religion Prohibits Using Insurance to Self-insure for Automobile Insurance,,
+919,HP0584,"C ""A"" (H-311 )",False,An Act to Require Parental Permission for Surveys and Questionnaires Administered to Minors in Schools,,
+921,HP0586,"C ""A"" (H-460 )",False,,,
+924,HP0589,"C ""A"" (H-459 )",False,,,
+930,HP0595,"C ""A"" (H-653 )",True,,Adopted on 6/11/2025,Adopted on 6/12/2025
+931,HP0596,"C ""A"" (H-637 )",True,An Act to Amend the Law Allowing Individuals Subject to Pretrial or Presentence Incarceration to Be Credited Time for Participation in Work Projects Within a Jail,Adopted on 6/10/2025,Adopted on 6/11/2025
+932,HP0597,"C ""A"" (H-52 )",True,,Adopted on 4/17/2025,Adopted on 4/17/2025
+935,HP0600,"C ""A"" (H-192 )",False,,,
+936,HP0601,"C ""A"" (H-755 )",True,,Adopted on 6/17/2025,Adopted on 6/17/2025
+939,HP0604,"C ""A"" (H-48 )",False,,,
+940,HP0605,"C ""A"" (H-275 )",True,An Act to Increase the Maximum Cash Prize for the Long Lake Ice Fishing Derby,Adopted on 5/27/2025,Adopted on 5/28/2025
+945,HP0610,"C ""A"" (H-83 )",True,,Adopted on 5/6/2025,Adopted on 5/7/2025
+946,HP0611,"C ""A"" (H-291 )",True,,Adopted on 5/28/2025,Adopted on 5/29/2025
+948,HP0613,"C ""A"" (H-699 )",True,,Adopted on 6/13/2025,Adopted on 6/13/2025
+949,HP0614,"C ""A"" (H-491 )",True,,Adopted on 6/16/2025,Adopted on 6/5/2025
+949,HP0614,"H ""A"" (H-735 ) to C ""A"" (H-491 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+950,SP0405,"C ""A"" (S-131 )",True,An Act to Increase Access to Protection from Abuse Orders by Allowing Children to File Protection from Abuse Orders on Their Own Behalf,Adopted on 5/27/2025,Adopted on 5/22/2025
+952,SP0407,"C ""A"" (S-188 )",False,,,
+953,SP0409,"C ""A"" (S-364 )",False,,,
+954,SP0410,"C ""A"" (S-69 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+957,HP0616,"C ""A"" (H-397 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+958,HP0617,"C ""A"" (H-679 )",True,An Act to Prohibit Eminent Domain on Existing Tribal Trust Lands,Adopted on 6/13/2025,Adopted on 6/13/2025
+960,HP0619,"C ""A"" (H-417 )",True,"Resolve, to Allow the Placement of Hospitalized Patients in Nursing Facilities in Alternative Locations Under Certain Circumstances",Adopted on 6/2/2025,Adopted on 6/2/2025
+961,HP0620,"C ""A"" (H-785 )",True,,Adopted on 1/13/2026,Adopted on 1/20/2026
+965,HP0624,"C ""A"" (H-319 )",False,,,
+966,HP0626,"C ""A"" (H-35 )",True,An Act Allowing Access by State Agencies and Hospitals to Certain Confidential Probate Court Records,Adopted on 4/1/2025,Adopted on 4/1/2025
+967,HP0627,"C ""A"" (H-84 )",True,,Adopted on 5/6/2025,Adopted on 5/7/2025
+968,HP0628,"C ""A"" (H-462 )",False,"Resolve, to Establish a Working Group to Study the Level of Stakeholder Input Involved in the Appointment of the Commissioner of Marine Resources",,
+970,HP0630,"C ""A"" (H-449 )",True,An Act to Support Affordable Housing Development,Adopted on 6/3/2025,Adopted on 6/3/2025
+971,HP0631,"C ""A"" (H-263 )",True,An Act to Amend the Law Regarding the Checking of Baitfish Traps,Adopted on 5/27/2025,Adopted on 5/28/2025
+973,HP0633,"C ""A"" (H-181 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+974,HP0634,"C ""A"" (H-398 )",True,"Resolve, Directing the Department of Education to Convene a Stakeholder Group to Improve High School Graduation Rates and Review Policies Related to Graduation Rate Data",Adopted on 6/3/2025,Adopted on 6/4/2025
+976,HP0636,"C ""A"" (H-479 )",True,"Resolve, to Establish a Working Group to Facilitate Public Access and Resilience Planning for Swan Island",Adopted on 6/4/2025,Adopted on 6/5/2025
+977,HP0637,"C ""A"" (H-175 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+978,HP0638,"C ""A"" (H-753 )",False,,,
+978,HP0638,"C ""B"" (H-754 )",False,,,
+978,HP0638,"C ""C"" (H-928 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+978,HP0638,"C ""D"" (H-929 )",False,,,
+979,HP0639,"C ""A"" (H-743 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+981,SP0408,"C ""A"" (S-384 )",True,An Act to Facilitate the Establishment of an Automated Crime Victim Notification System,Adopted on 4/13/2026,Adopted on 4/13/2026
+981,SP0408,"S ""A"" (S-677 ) to C ""A"" (S-384 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+982,SP0412,"C ""A"" (S-330 )",True,,Adopted on 6/10/2025,Adopted on 6/10/2025
+983,SP0413,"C ""A"" (S-57 )",True,,Adopted on 5/14/2025,Adopted on 5/13/2025
+984,SP0414,"C ""A"" (S-309 )",True,An Act to Require State-owned or Leased Buildings Occupied by 50 or More Executive Branch Employees to Have at Least One Automated External Defibrillator and One Bleeding Control Kit,Adopted on 6/9/2025,Adopted on 6/9/2025
+985,SP0416,"C ""A"" (S-299 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+987,SP0419,"C ""A"" (S-27 )",True,An Act Clarifying Exemptions from the Law Regulating Products Containing PFAS,Adopted on 4/30/2025,Adopted on 4/29/2025
+995,HP0642,"C ""A"" (H-76 )",True,,Adopted on 4/29/2025,Adopted on 4/29/2025
+996,HP0643,"C ""A"" (H-341 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+997,HP0644,"C ""A"" (H-686 )",True,,Adopted on 6/13/2025,Adopted on 6/13/2025
+999,HP0646,"C ""A"" (H-482 )",True,An Act to Include Employees of the Maine Indian Tribal-State Commission in the State's Group Health Plan and to Clarify Future Eligibility for the State's Group Health Plan,Adopted on 6/4/2025,Adopted on 6/5/2025
+1002,HP0649,"C ""A"" (H-690 )",False,,,
+1003,HP0650,"C ""A"" (H-362 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1003,HP0650,"S ""A"" (S-705 ) to C ""A"" (H-362 )",True,An Act Establishing the Retirement Improvement Fund,Adopted on 4/13/2026,Adopted on 4/13/2026
+1004,HP0651,"C ""A"" (H-990 )",True,An Act to Adjust Certain Implementation and Reporting Dates in Legislation Held by the Governor That Became Law,Adopted on 4/9/2026,Adopted on 4/9/2026
+1004,HP0651,"C ""B"" (H-991 )",False,An Act to Adjust Certain Implementation and Reporting Dates in Legislation Held by the Governor That Became Law,,
+1004,HP0651,"S ""A"" (S-655 ) to C ""A"" (H-990 )",True,,Adopted on 4/9/2026,Adopted on 4/9/2026
+1005,HP0652,"C ""A"" (H-633 )",True,"Resolve, to Study Authorization for Municipal Fire Departments with Trained Personnel to Conduct Fire Sprinkler System Plan Reviews",Adopted on 6/10/2025,Adopted on 6/11/2025
+1007,HP0654,"C ""A"" (H-590 )",False,,,
+1008,HP0655,"C ""A"" (H-169 )",False,,,
+1009,HP0656,"C ""A"" (H-1031 )",True,An Act to Restore Full Civil Rights to Possess Firearms to Persons Previously Convicted of Certain Nonviolent Felonies,Adopted on 4/9/2026,Adopted on 4/9/2026
+1009,HP0656,"H ""A"" (H-1048 ) to C ""A"" (H-1031 )",False,,,
+1010,HP0657,"C ""A"" (H-336 )",False,,,
+1012,SP0429,"C ""A"" (S-206 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1012,SP0429,"S ""A"" (S-466 ) to C ""A"" (S-206 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1013,SP0430,"C ""A"" (S-72 )",True,,,Adopted on 5/13/2025
+1016,SP0433,"C ""A"" (S-247 )",True,,Adopted on 6/10/2025,Adopted on 6/5/2025
+1016,SP0433,"H ""A"" (H-639 ) to C ""A"" (S-247 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+1017,SP0434,"C ""A"" (S-149 )",True,,Adopted on 5/28/2025,Adopted on 5/27/2025
+1018,SP0435,"C ""A"" (S-402 )",True,,Adopted on 6/16/2025,Adopted on 6/13/2025
+1020,SP0437,"C ""A"" (S-366 )",False,An Act to Repeal the Laws Providing for the Construction of a Connector to Gorham,,
+1021,SP0439,"C ""A"" (S-255 )",True,,Adopted on 6/4/2025,Adopted on 6/3/2025
+1022,SP0440,"C ""A"" (S-99 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+1023,SP0441,"C ""A"" (S-297 )",True,"Resolve, to Reestablish the Blue Economy Task Force to Support Maine's Emergence as a Center for Blue Economy Innovation and Opportunity in the 21st Century",Adopted on 6/25/2025,Adopted on 6/25/2025
+1023,SP0441,"C ""B"" (S-298 )",False,"Resolve, to Reestablish the Blue Economy Task Force to Support Maine's Emergence as a Center for Blue Economy Innovation and Opportunity in the 21st Century",,
+1023,SP0441,"S ""A"" (S-485 ) to C ""A"" (S-297 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1024,SP0442,"C ""A"" (S-172 )",False,,,
+1025,SP0443,"C ""A"" (S-145 )",True,,Adopted on 5/28/2025,Adopted on 5/27/2025
+1027,SP0445,"C ""A"" (S-251 )",False,,,
+1032,HP0661,"C ""A"" (H-467 )",True,,Adopted on 6/4/2025,
+1033,HP0662,"C ""A"" (H-276 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+1034,HP0663,"C ""A"" (H-330 )",False,"Resolve, to Establish the Commission to Study Pathways for Creating a Psilocybin Services Program in Maine",,
+1040,HP0669,"C ""A"" (H-100 )",True,,Adopted on 5/7/2025,Adopted on 5/13/2025
+1041,HP0670,"C ""A"" (H-740 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1042,HP0671,"C ""A"" (H-233 )",True,An Act to Require a Person Operating a Watercraft for Recreational Purposes to Ensure All Children Under 13 Years of Age Wear United States Coast Guard Approved Personal Flotation Devices,Adopted on 5/22/2025,Adopted on 5/22/2025
+1043,HP0672,"C ""A"" (H-294 )",True,,Adopted on 5/28/2025,Adopted on 5/28/2025
+1048,HP0677,"C ""A"" (H-513 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1049,HP0678,"C ""A"" (H-659 )",False,An Act to Require a Person to Inform a Law Enforcement Officer upon Request When Carrying a Concealed Handgun Without a Permit,,
+1052,HP0681,"C ""A"" (H-527 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1054,HP0683,"C ""A"" (H-883 )",True,An Act to Amend Certain Definitions in the Laws Governing Conservation Easements,Adopted on 3/24/2026,Adopted on 3/25/2026
+1056,HP0685,"C ""A"" (H-747 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1057,HP0686,"C ""A"" (H-174 )",False,"Resolve, to Aid Municipalities in Complying with Dog Licensing Database Requirements",,
+1059,HP0688,"C ""A"" (H-933 )",False,,,
+1060,HP0689,"C ""A"" (H-149 )",True,,Adopted on 5/14/2025,Adopted on 5/20/2025
+1061,HP0690,"C ""A"" (H-78 )",True,,Adopted on 4/30/2025,Adopted on 5/6/2025
+1063,HP0692,"C ""A"" (H-238 )",True,,Adopted on 5/27/2025,
+1065,SP0438,"C ""A"" (S-279 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+1067,SP0451,"C ""A"" (S-209 )",False,,,
+1068,SP0452,"C ""A"" (S-285 )",False,,,
+1068,SP0452,"S ""A"" (S-338 )",False,An Act to Allow the People to Elect the State Auditor by Ranked-choice Voting and Allow Candidates for State Auditor to Participate in the Maine Clean Election Act,,
+1069,SP0454,"C ""A"" (S-315 )",True,"Resolve, Directing the Department of Education to Review Personal Finance Course Offerings in Maine Schools and Implement a Teacher Training Program",Adopted on 6/25/2025,Adopted on 6/25/2025
+1069,SP0454,"S ""A"" (S-486 ) to C ""A"" (S-315 )",True,"Resolve, Directing the Department of Education to Review Personal Finance Course Offerings in Maine Schools and Convene a Working Group of Relevant Stakeholders",Adopted on 6/25/2025,Adopted on 6/25/2025
+1072,SP0458,"C ""A"" (S-189 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1074,HP0696,"C ""A"" (H-307 )",True,,Adopted on 5/28/2025,Adopted on 5/28/2025
+1077,HP0699,"C ""A"" (H-741 )",False,,,
+1078,HP0700,"C ""A"" (H-485 )",True,,Adopted on 6/5/2025,Adopted on 6/9/2025
+1079,HP0701,"C ""A"" (H-301 )",True,,Adopted on 5/28/2025,Adopted on 5/28/2025
+1080,HP0702,"C ""A"" (H-86 )",True,,Adopted on 5/14/2025,Adopted on 5/20/2025
+1081,HP0703,"C ""A"" (H-191 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+1082,HP0704,"C ""A"" (H-709 )",False,,,
+1082,HP0704,"C ""B"" (H-710 )",False,,,
+1085,HP0707,"C ""A"" (H-450 )",True,"Resolve, Directing the State Court Administrator to Perform an Inspection and Study of the Rumford Courthouse Building",Adopted on 6/3/2025,Adopted on 6/3/2025
+1087,HP0709,"C ""A"" (H-434 )",False,,,
+1088,HP0710,"C ""A"" (H-718 )",False,,,
+1088,HP0710,"C ""B"" (H-719 )",False,An Act to Enact the Maine Online Data Privacy Act,,
+1089,HP0711,"C ""A"" (H-648 )",True,An Act to Permanently Fund 55 Percent of the State's Share of Education by Establishing a Tax on High-income Earners,Adopted on 6/11/2025,Adopted on 6/16/2025
+1091,HP0713,"C ""A"" (H-509 )",True,An Act to Reinforce Free Speech at Town Meetings by Requiring Opportunity for Public Comment,Adopted on 6/4/2025,Adopted on 6/5/2025
+1093,HP0715,"C ""A"" (H-350 )",True,An Act Regarding Day Use Passes That May Be Used at Any State Park or Historic Site,Adopted on 6/2/2025,
+1094,HP0716,"C ""A"" (H-475 )",True,,Adopted on 6/3/2025,Adopted on 6/4/2025
+1097,HP0719,"C ""A"" (H-313 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1097,HP0719,"S ""A"" (S-467 )",True,"Resolve, to Require the Department of Education to Convene a Group to Develop Best Practices for De-escalation and Behavior Intervention",Adopted on 6/25/2025,Adopted on 6/25/2025
+1098,HP0720,"C ""A"" (H-516 )",True,"Resolve, Directing the Department of Education to Review the Use of Abbreviated School Days",Adopted on 6/9/2025,Adopted on 6/9/2025
+1099,HP0721,"C ""A"" (H-623 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+1100,SP0460,"C ""A"" (S-166 )",True,,Adopted on 5/29/2025,Adopted on 5/28/2025
+1101,SP0462,"C ""A"" (S-11 )",True,,Adopted on 4/10/2025,Adopted on 4/8/2025
+1101,SP0462,"H ""A"" (H-47 ) to C ""A"" (S-11 )",False,,Indefinitely postponed on 4/10/2025,Indefinitely postponed on 4/10/2025
+1105,HP0724,"C ""A"" (H-363 )",True,,Adopted on 6/2/2025,Adopted on 6/3/2025
+1106,HP0725,"C ""A"" (H-230 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1106,HP0725,"S ""A"" (S-678 ) to C ""A"" (H-230 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1107,HP0726,"C ""A"" (H-708 )",True,An Act to Amend the Tax Expenditure Review Process and Centralize Incentive Data Collection,Adopted on 6/13/2025,Adopted on 6/16/2025
+1109,HP0728,"C ""A"" (H-662 )",False,,,
+1109,HP0728,"C ""B"" (H-663 )",False,An Act to Reduce Gun Violence Casualties in Maine by Prohibiting the Trafficking of Large-capacity Ammunition Feeding Devices,,
+1111,HP0730,"C ""A"" (H-158 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+1112,HP0731,"C ""A"" (H-607 )",False,,,
+1113,HP0732,"C ""A"" (H-556 )",True,An Act Regarding Fairness in Sentencing for Persons Based on Age,Adopted on 6/9/2025,Adopted on 6/9/2025
+1114,HP0733,"C ""A"" (H-597 )",True,,Adopted on 6/9/2025,Adopted on 6/10/2025
+1117,HP0736,"C ""A"" (H-388 )",True,,Adopted on 6/2/2025,Adopted on 6/3/2025
+1120,HP0739,"C ""A"" (H-655 )",False,,,
+1121,HP0740,"C ""A"" (H-431 )",True,,Adopted on 6/3/2025,Adopted on 6/3/2025
+1123,HP0742,"C ""A"" (H-183 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+1126,HP0745,"C ""A"" (H-660 )",True,,Adopted on 6/25/2025,Adopted on 6/17/2025
+1126,HP0745,"S ""A"" (S-403 ) to C ""A"" (H-660 )",True,"An Act Regarding Unlawful Possession, Manufacturing and Use of Firearms Without Serial Numbers",,Adopted on 6/17/2025
+1126,HP0745,"S ""B"" (S-468 ) to C ""A"" (H-660 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1128,HP0747,"C ""A"" (H-178 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+1129,HP0748,"C ""A"" (H-245 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+1130,HP0749,"C ""A"" (H-135 )",True,An Act to Advance Energy Storage Within the State,Adopted on 5/13/2025,Adopted on 5/14/2025
+1133,SP0457,"C ""A"" (S-257 )",True,,Adopted on 6/5/2025,Adopted on 6/4/2025
+1134,SP0461,"C ""A"" (S-362 )",False,,,
+1135,SP0463,"C ""A"" (S-377 )",True,"Resolve, to Convene a Working Group to Study the Use of Oral Fluid Testing in Determining Intoxication of Drivers, Aircraft Operators and Hunters",Adopted on 6/13/2025,Adopted on 6/12/2025
+1138,SP0469,"C ""A"" (S-331 )",True,,,Adopted on 6/10/2025
+1139,SP0470,"C ""A"" (S-80 )",True,,Adopted on 5/20/2025,Adopted on 5/14/2025
+1141,SP0472,"C ""A"" (S-352 )",True,An Act to Increase the Procurement of Maine Foods by Certain State Institutions,Adopted on 6/11/2025,Adopted on 6/11/2025
+1143,SP0474,"C ""A"" (S-248 )",True,An Act to Update Language on Setback Variances for Single-family Dwellings,Adopted on 6/4/2025,Adopted on 6/3/2025
+1145,SP0477,"C ""A"" (S-273 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+1145,SP0477,"C ""B"" (S-274 )",False,,,
+1145,SP0477,"H ""A"" (H-594 ) to C ""A"" (S-273 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1146,HP0751,"C ""A"" (H-368 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1147,HP0752,"C ""A"" (H-369 )",True,An Act Regarding the Required State of Mind Relating to the Threatening Display of a Weapon,Adopted on 6/2/2025,
+1148,HP0753,"C ""A"" (H-188 )",True,"Resolve, Directing the Secretary of State to Study Providing Access to Absentee Ballots for Municipal Elections to Uniformed Service Voters or Overseas Voters in the Same Manner as Absentee Ballots for Statewide Elections",Adopted on 5/20/2025,Adopted on 5/21/2025
+1157,HP0762,"C ""A"" (H-342 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1158,HP0763,"C ""A"" (H-157 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+1159,HP0764,"C ""A"" (H-222 )",False,An Act to Prohibit Businesses and Governmental Entities That Charge a Fee for In-person Credit Card Purchases from Refusing to Accept Cash,,
+1159,HP0764,"C ""B"" (H-223 )",True,An Act to Prohibit Governmental Entities That Charge a Fee for In-person Credit Card Purchases from Refusing to Accept Cash,Adopted on 5/28/2025,Adopted on 5/27/2025
+1160,HP0765,"C ""A"" (H-247 )",False,,,
+1163,HP0768,"C ""A"" (H-515 )",True,"Resolve, Directing the State Board of Education to Amend Its Educator Credentialing Rules to Create a Pathway for an Industrial Arts Endorsement",Adopted on 6/9/2025,Adopted on 6/9/2025
+1164,HP0769,"C ""A"" (H-393 )",True,,Adopted on 6/12/2025,Adopted on 6/16/2025
+1166,HP0771,"C ""A"" (H-304 )",True,,Adopted on 5/28/2025,Adopted on 5/29/2025
+1167,HP0772,"C ""A"" (H-492 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+1170,HP0775,"C ""A"" (H-447 )",True,,Adopted on 6/3/2025,Adopted on 6/3/2025
+1174,HP0779,"C ""A"" (H-661 )",True,An Act to Limit the Liability of Gun Shops That Provide Firearm Hold Agreements,Adopted on 6/12/2025,Adopted on 6/12/2025
+1177,HP0782,"C ""A"" (H-240 )",True,"Resolve, to Study the Public Health and Environmental Risks from Synthetic Turf",Adopted on 5/22/2025,Adopted on 5/22/2025
+1179,HP0784,"C ""A"" (H-420 )",True,An Act Regarding Safety from Fire for Recreational Vehicles,Adopted on 6/2/2025,Adopted on 6/3/2025
+1181,HP0786,"C ""A"" (H-455 )",False,,,
+1184,HP0789,"C ""A"" (H-383 )",False,,,Indefinitely postponed on 6/3/2025
+1184,HP0789,"C ""B"" (H-384 )",False,"An Act to Promote Municipal Reporting on Residential Building Permits, Dwelling Units Permitted and Demolished and Certificates of Occupancy Issued",,
+1184,HP0789,"S ""A"" (S-469 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1186,HP0791,"C ""A"" (H-540 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1187,HP0792,"C ""A"" (H-632 )",True,An Act to Include Certain Mental Health Data in Firearm Fatalities and Hospitalizations Reports,Adopted on 2/10/2026,Adopted on 6/25/2025
+1187,HP0792,"S ""A"" (S-470 ) to C ""A"" (H-632 )",True,,Adopted on 12:00:00 AM,Adopted on 6/25/2025
+1187,HP0792,"H ""A"" (H-784 ) to C ""A"" (H-632 )",True,An Act to Include Certain Mental Health Assessment Data in Firearm Fatalities and Hospitalizations Reports,Adopted on 2/10/2026,Adopted on 12:00:00 AM
+1188,HP0793,"C ""A"" (H-413 )",True,An Act to Amend the Law Governing Facilities Approved by the State Harness Racing Commission to Sell Pari-mutuel Pools and Common Pari-mutuel Pools for Simulcast Racing,Adopted on 6/4/2025,Adopted on 6/5/2025
+1189,HP0794,"C ""A"" (H-752 )",True,An Act to Allow an Attorney for the State to Determine Whether to Charge Certain Class E Crimes as Civil Violations,Adopted on 6/17/2025,Adopted on 6/17/2025
+1193,SP0482,"C ""A"" (S-286 )",False,,,
+1198,SP0487,"C ""A"" (S-90 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+1200,SP0489,"C ""A"" (S-340 )",True,,,Adopted on 6/11/2025
+1202,SP0491,"C ""A"" (S-303 )",True,,Adopted on 6/10/2025,Adopted on 4/14/2026
+1202,SP0491,"S ""A"" (S-706 ) to C ""A"" (S-303 )",True,"Resolve, Requiring the Department of Education to Develop Professional Opportunities for Educators in African American Studies",Adopted on 4/14/2026,Adopted on 4/14/2026
+1206,SP0495,"C ""A"" (S-311 )",False,,,
+1207,SP0496,"C ""A"" (S-65 )",True,"An Act to Amend the Site Location of Development Laws to Require a 100-foot Buffer Between Solar Energy Developments and Rivers, Streams and Brooks",Adopted on 5/14/2025,Adopted on 5/13/2025
+1208,SP0497,"C ""A"" (S-244 )",True,,Adopted on 6/4/2025,Adopted on 6/3/2025
+1209,SP0498,"C ""A"" (S-41 )",True,"Resolve, to Create a Working Group to Study the Safety and Use of Nonconforming Vehicles on Maine's Roads and Highways",Adopted on 5/7/2025,Adopted on 5/6/2025
+1210,SP0499,"C ""A"" (S-127 )",False,"An Act to Provide for Evaluation of the Environmental, Energy and Public Benefits of Hydropower Projects upon Relicensing or License Surrender",,
+1211,SP0500,"C ""A"" (S-431 )",False,An Act Regarding Certain Definitions in the Sales and Use Tax Laws Affecting Rental Equipment,,
+1211,SP0500,"C ""B"" (S-432 )",True,An Act Regarding Certain Definitions in the Sales and Use Tax Laws Affecting Rental Equipment,Adopted on 6/18/2025,Adopted on 6/17/2025
+1212,SP0501,"C ""A"" (S-174 )",True,,Adopted on 6/2/2025,Adopted on 5/29/2025
+1213,SP0502,"C ""A"" (S-135 )",True,An Act Regarding Apportionment of Stipends to Agricultural Fairs,Adopted on 5/27/2025,Adopted on 5/22/2025
+1214,SP0503,"C ""A"" (S-138 )",False,,,
+1216,SP0505,"C ""A"" (S-561 )",True,,Adopted on 3/25/2026,Adopted on 3/24/2026
+1217,SP0506,"C ""A"" (S-413 )",True,,Adopted on 6/17/2025,Adopted on 6/16/2025
+1219,SP0508,"C ""A"" (S-133 )",True,An Act to Increase State Funding for the Campuses of the University of Maine System,Adopted on 5/27/2025,Adopted on 5/22/2025
+1219,SP0508,"C ""B"" (S-134 )",False,An Act to Increase State Funding for the Campuses of the University of Maine System,,
+1220,HP0795,"C ""A"" (H-955 )",False,An Act to Allow Chiropractors to Perform Animal Chiropractic Care Under Certain Conditions,Defeated on 4/2/2026,
+1221,HP0796,"C ""A"" (H-365 )",True,"Resolve, Directing the Department of Labor to Study Protection of Paid Family and Medical Leave Benefits Program Funds",Adopted on 6/2/2025,Adopted on 6/2/2025
+1222,HP0797,"C ""A"" (H-555 )",False,An Act to Limit Sovereign Immunity for School Administrative Units and School Superintendents,,
+1223,HP0798,"C ""A"" (H-1064 )",True,An Act to Establish an Income Tax Credit for Net Energy Billing Costs,Adopted on 4/13/2026,Adopted on 4/14/2026
+1223,HP0798,"C ""B"" (H-1065 )",False,An Act to Provide Ongoing Funding to the Net Energy Billing Cost Stabilization Fund,,
+1226,HP0801,"C ""A"" (H-333 )",True,,Adopted on 6/2/2025,Adopted on 6/3/2025
+1226,HP0801,"C ""B"" (H-334 )",False,"Resolve, Establishing a Working Group to Study the Regulation of Residential Construction Contractors for the Protection of Consumers",,
+1227,HP0802,"C ""A"" (H-762 )",False,,,
+1228,HP0803,"C ""A"" (H-764 )",True,An Act to Clarify Certain Terms in and to Make Other Changes to the Automotive Right to Repair Laws,Adopted on 6/17/2025,Adopted on 6/17/2025
+1228,HP0803,"C ""B"" (H-765 )",False,An Act to Implement the Recommendations of the Automotive Right to Repair Working Group,,
+1229,HP0804,"C ""A"" (H-470 )",True,An Act to Create Equity in Maine's Campaign Finance Laws,Adopted on 6/3/2025,
+1230,HP0805,"C ""A"" (H-1030 )",False,An Act to Repeal the Extreme Risk Protection Order Act,,
+1231,HP0806,"C ""A"" (H-493 )",True,An Act to Require Legislative Approval of Proposed Permanent Changes to the Overnight Docking of State Ferries on Islands,Adopted on 6/4/2025,Adopted on 6/5/2025
+1232,HP0807,"C ""A"" (H-687 )",False,An Act to Require Reporting on Radon Testing and Identification of Radon Prevention Measures for New Commercial and Residential Construction,,
+1234,HP0809,"C ""A"" (H-317 )",True,An Act Regarding Cellular Telephones in Public Schools,Adopted on 5/29/2025,Adopted on 5/29/2025
+1236,HP0811,"C ""A"" (H-217 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1236,HP0811,"S ""A"" (S-679 ) to C ""A"" (H-217 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1241,HP0816,"C ""A"" (H-480 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+1242,HP0817,"C ""A"" (H-116 )",False,,,
+1243,HP0818,"C ""A"" (H-254 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+1245,HP0820,"C ""A"" (H-453 )",True,An Act to Establish a Fund and Council to Support Working Waterfronts,Adopted on 6/3/2025,Adopted on 6/3/2025
+1246,HP0821,"C ""A"" (H-392 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1248,HP0823,"C ""A"" (H-399 )",True,,Adopted on 6/3/2025,Adopted on 6/4/2025
+1252,HP0827,"C ""A"" (H-249 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+1253,HP0828,"C ""A"" (H-219 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+1255,HP0830,"C ""A"" (H-310 )",True,An Act to Require That an Individual Enrolled in the Free Community College Tuition Program Lives in the State Prior to Enrollment at a Community College,,Adopted on 6/2/2025
+1257,HP0832,"C ""A"" (H-348 )",True,An Act to Ban the Sale of Cell-cultured Meat,Adopted on 6/2/2025,Adopted on 6/2/2025
+1261,HP0836,"C ""A"" (H-613 )",True,"Resolve, to Establish the Community Navigator Pilot Program to Support At-risk Families",Adopted on 6/10/2025,Adopted on 6/11/2025
+1263,HP0838,"C ""A"" (H-496 )",True,An Act Regarding Penalties for Fentanyl Trafficking When That Trafficking Results in Serious Bodily Injury of a Person,,Adopted on 6/5/2025
+1264,HP0839,"C ""A"" (H-110 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+1265,HP0840,"C ""A"" (H-435 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1265,HP0840,"S ""A"" (S-487 ) to C ""A"" (H-435 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1266,HP0841,"C ""A"" (H-721 )",True,"Resolve, Directing the Department of Health and Human Services, Office of Behavioral Health to Convene a Working Group to Propose a Plan for Expanding the Reach of Treatment Courts",Adopted on 6/16/2025,Adopted on 6/16/2025
+1268,HP0843,"C ""A"" (H-539 )",False,,,
+1270,HP0845,"C ""A"" (H-746 )",True,,Adopted on 6/17/2025,Adopted on 6/18/2025
+1270,HP0845,"H ""A"" (H-771 ) to C ""A"" (H-746 )",True,,Adopted on 6/17/2025,Adopted on 6/18/2025
+1273,HP0848,"C ""A"" (H-367 )",False,,,
+1275,HP0850,"C ""A"" (H-547 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1276,HP0851,"C ""A"" (H-122 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+1277,HP0852,"C ""A"" (H-551 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1277,HP0852,"S ""A"" (S-680 ) to C ""A"" (H-551 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1279,HP0854,"C ""A"" (H-345 )",True,"Resolve, Establishing the Biotoxin Testing of Cultured Scallops Pilot Program",Adopted on 6/2/2025,Adopted on 6/2/2025
+1282,SP0510,"C ""A"" (S-96 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+1283,SP0511,"C ""A"" (S-307 )",False,,,
+1286,SP0515,"C ""A"" (S-240 )",True,"Resolve, to Establish the Commission to Study the Impact of Blockchain Technology and Cryptocurrency on Maine's Economy and the Risks of Fraud and Theft to Maine Consumers",Adopted on 6/4/2025,Adopted on 6/3/2025
+1287,SP0516,"C ""A"" (S-208 )",True,,Adopted on 6/25/2025,Adopted on 6/2/2025
+1287,SP0516,"S ""A"" (S-471 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1290,SP0520,"C ""A"" (S-152 )",True,,Adopted on 5/29/2025,Adopted on 5/28/2025
+1292,SP0522,"C ""A"" (S-165 )",False,"Resolve, to Establish a Working Group to Create a Plan to Integrate the Maine Turnpike Authority Within the Department of Transportation",,
+1294,SP0524,"C ""A"" (S-389 )",True,,Adopted on 6/13/2025,Adopted on 6/13/2025
+1294,SP0524,"C ""B"" (S-390 )",False,,,
+1296,SP0526,"C ""A"" (S-245 )",True,,Adopted on 6/4/2025,Adopted on 6/3/2025
+1297,SP0527,"C ""A"" (S-42 )",True,"Resolve, to Establish the Committee to Study the Use of Sunflower Crops to Produce Biofuels and Other Products",Adopted on 5/7/2025,Adopted on 5/6/2025
+1298,SP0528,"C ""A"" (S-396 )",True,"Resolve, to Establish the Commission to Evaluate the Requirements for Licensing of Social Workers and Certification of Behavioral Health Workers",Adopted on 6/17/2025,
+1298,SP0528,"C ""B"" (S-397 )",True,,,Adopted on 6/16/2025
+1299,SP0529,"C ""A"" (S-361 )",False,,,
+1303,SP0533,"C ""A"" (S-282 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+1306,SP0536,"C ""A"" (S-92 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+1307,SP0537,"C ""A"" (S-197 )",False,An Act to Refund Premium Contributions Made by Employers with Approved Private Plans to the Paid Family and Medical Leave Insurance Fund,,
+1308,SP0538,"C ""A"" (S-314 )",True,"Resolve, Directing the Department of Inland Fisheries and Wildlife and the Department of Agriculture, Conservation and Forestry to Examine Issues Related to Public Access to Privately Owned Lands",Adopted on 6/9/2025,Adopted on 6/9/2025
+1310,SP0540,"C ""A"" (S-148 )",True,,Adopted on 5/28/2025,Adopted on 5/27/2025
+1311,SP0541,"C ""A"" (S-270 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+1313,SP0543,"C ""A"" (S-410 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1315,SP0545,"C ""A"" (S-43 )",True,An Act to Authorize the Display of an Inherent Resolve Campaign Medal Decal on a Special Veterans License Plate and Authorize Certain Other Service Members to Receive Special Commemorative Decals,Adopted on 5/7/2025,Adopted on 5/6/2025
+1318,SP0548,"C ""A"" (S-405 )",False,,,
+1319,SP0549,"C ""A"" (S-204 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1321,HP0856,"C ""A"" (H-675 )",False,,,
+1322,HP0857,"C ""A"" (H-202 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+1323,HP0858,"C ""A"" (H-347 )",True,"Resolve, Directing the Board of Pesticides Control to Evaluate the Impact of Neonicotinoids on Pollinators, Humans and the Environment",Adopted on 6/4/2025,Adopted on 6/2/2025
+1323,HP0858,"H ""A"" (H-507 ) to C ""A"" (H-347 )",True,"Resolve, Directing the Board of Pesticides Control to Evaluate the Impact of Neonicotinoids on Pollinators, Humans and the Environment",Adopted on 6/4/2025,Adopted on 6/5/2025
+1325,HP0860,"C ""A"" (H-608 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+1326,HP0861,"C ""A"" (H-628 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+1327,HP0862,"C ""A"" (H-400 )",True,"Resolve, Directing the University of Maine System to Study Student Teacher Compensation",Adopted on 6/3/2025,Adopted on 6/4/2025
+1328,HP0863,"C ""A"" (H-626 )",True,An Act to Create Culturally Appropriate and Trauma-informed Housing and Recovery Services,Adopted on 6/10/2025,Adopted on 6/11/2025
+1329,HP0864,"C ""A"" (H-292 )",False,,,
+1330,HP0865,"C ""A"" (H-638 )",True,,Adopted on 6/11/2025,
+1331,HP0866,"C ""A"" (H-260 )",False,,,
+1332,HP0867,"C ""A"" (H-517 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1333,HP0868,"C ""A"" (H-361 )",False,,,
+1336,HP0871,"C ""A"" (H-234 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1336,HP0871,"S ""A"" (S-472 ) to C ""A"" (H-234 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1337,HP0872,"C ""A"" (H-693 )",False,An Act to Amend the Maine Human Rights Act Regarding Female Athletes,,
+1339,SP0553,"C ""A"" (S-300 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+1340,SP0555,"C ""A"" (S-116 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+1341,SP0556,"C ""A"" (S-115 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+1343,SP0559,"C ""A"" (S-158 )",True,,,Adopted on 6/2/2025
+1343,SP0559,"S ""A"" (S-184 ) to C ""A"" (S-158 )",False,An Act to Protect the Right to Harvest Fish and Wildlife,,
+1343,SP0559,"C ""B"" (S-522 )",True,An Act to Protect the Right to Harvest Fish and Wildlife,Adopted on 3/17/2026,Adopted on 3/24/2026
+1347,SP0564,"C ""A"" (S-132 )",True,"Resolve, Establishing the Commission to Study the Maine Tort Claims Act",Adopted on 5/27/2025,Adopted on 5/22/2025
+1349,SP0566,"C ""A"" (S-221 )",False,,,
+1353,HP0876,"C ""A"" (H-873 )",True,,Adopted on 4/14/2026,Adopted on 3/25/2026
+1353,HP0876,"H ""A"" (H-1039 ) to C ""A"" (H-873 )",False,,,
+1353,HP0876,"H ""B"" (H-1049 ) to C ""A"" (H-873 )",False,,,
+1353,HP0876,"H ""C"" (H-1067 ) to C ""A"" (H-873 )",True,,Adopted on 4/14/2026,Adopted on 12:00:00 AM
+1355,HP0878,"C ""A"" (H-624 )",True,"Resolve, to Require the Governor's Energy Office to Study Taxation of Renewable Energy Infrastructure",Adopted on 6/25/2025,Adopted on 6/25/2025
+1355,HP0878,"S ""A"" (S-473 ) to C ""A"" (H-624 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1356,HP0879,"C ""A"" (H-329 )",False,,,
+1358,HP0881,"C ""A"" (H-282 )",False,"Resolve, to Direct the Public Utilities Commission to Evaluate Transmission and Distribution Utility Affiliate Interconnection Standards",,
+1359,HP0882,"C ""A"" (H-302 )",True,"Resolve, to Direct the Department of Transportation to Report Progress Made Toward Implementing Recommendations Based on the 2025 Public Transit Advisory Council Report",Adopted on 5/28/2025,Adopted on 5/28/2025
+1361,HP0884,"C ""A"" (H-536 )",True,An Act to Require Insurance Coverage for Covered Dental Services Provided by Licensed Dental Hygienists,Adopted on 6/9/2025,Adopted on 6/9/2025
+1364,HP0887,"C ""A"" (H-523 )",False,"Resolve, Directing the Department of Inland Fisheries and Wildlife to Evaluate Efforts to Promote the Use of Non-lead Ammunition",,
+1365,HP0888,"C ""A"" (H-968 )",False,An Act to Allow Adult Use Cannabis Stores to Operate Cannabis Consumption Lounges,,
+1366,HP0889,"C ""A"" (H-332 )",True,,Adopted on 6/2/2025,Adopted on 6/3/2025
+1371,HP0894,"C ""A"" (H-196 )",False,,,
+1372,HP0895,"C ""A"" (H-360 )",False,,,
+1375,SP0569,"C ""A"" (S-228 )",True,,Adopted on 6/3/2025,Adopted on 6/2/2025
+1376,SP0570,"C ""A"" (S-207 )",True,An Act to Increase the Availability of Ready-to-drink Beverages Containing Spirits,,Adopted on 6/3/2025
+1377,SP0572,"C ""A"" (S-164 )",True,,Adopted on 5/29/2025,Adopted on 5/28/2025
+1382,HP0904,"C ""A"" (H-600 )",True,,Adopted on 6/9/2025,Adopted on 6/10/2025
+1386,HP0908,"C ""A"" (H-742 )",True,An Act to Provide Emergency One-time Relief from the Wild Blueberry Tax for Sellers in Maine,Adopted on 6/17/2025,
+1389,HP0911,"C ""A"" (H-128 )",True,,Adopted on 5/13/2025,Adopted on 5/14/2025
+1389,HP0911,"C ""B"" (H-782 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1390,HP0912,"C ""A"" (H-277 )",True,"Resolve, Directing the Secretary of State to Develop Recommendations for a Multiyear Registration System for National Car Rental Companies",Adopted on 5/27/2025,Adopted on 5/28/2025
+1393,HP0915,"C ""A"" (H-218 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+1394,HP0916,"C ""A"" (H-763 )",False,An Act to Clarify Certain Terms in the Automotive Right to Repair Laws,,
+1395,HP0917,"C ""A"" (H-284 )",False,,,
+1400,HP0922,"C ""A"" (H-505 )",False,An Act to Exempt Certain Public School Districts and Agricultural Employers and Employees from the Paid Family and Medical Leave Benefits Program,,
+1404,HP0926,"C ""A"" (H-210 )",True,,Adopted on 5/22/2025,Adopted on 5/27/2025
+1405,HP0927,"C ""A"" (H-242 )",False,An Act to Amend Laws Governing the Public Utilities Commission Concerning Participant and Intervenor Funding,,
+1406,HP0928,"C ""A"" (H-419 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1407,HP0929,"C ""A"" (H-267 )",True,"Resolve, Directing the Department of Labor to Report the Findings of the Indoor Air Quality Advisory Group",Adopted on 5/27/2025,Adopted on 5/28/2025
+1412,HP0934,"C ""A"" (H-286 )",True,,Adopted on 5/28/2025,Adopted on 5/29/2025
+1412,HP0934,"C ""B"" (H-287 )",False,,,
+1413,SP0552,"C ""A"" (S-86 )",True,An Act to Amend Laws Governing Hearing Aid Dealers to Allow an Exception to Certain Hearing Examination Requirements,Adopted on 5/22/2025,Adopted on 5/20/2025
+1414,SP0554,"C ""A"" (S-518 )",True,"Resolve, to Improve the Availability of Child Care by Increasing Certain Reimbursements Under the Maine Child Care Affordability Program and Establishing a Grant Program to Facilitate Off-hours Care",Adopted on 3/10/2026,Adopted on 3/3/2026
+1416,SP0562,"C ""A"" (S-550 )",True,An Act to Establish a Commission to Study the Placement of Individuals Committed by a Court to the Custody of the Department of Health and Human Services and to Update a Cross-reference Regarding Such Placement,Adopted on 3/19/2026,Adopted on 3/17/2026
+1419,SP0575,"C ""A"" (S-491 )",True,,Adopted on 2/10/2026,Adopted on 1/27/2026
+1420,SP0576,"C ""A"" (S-157 )",True,,Adopted on 5/29/2025,Adopted on 5/28/2025
+1420,SP0576,"S ""A"" (S-232 ) to C ""A"" (S-157 )",False,,,
+1423,SP0579,"C ""A"" (S-419 )",True,,Adopted on 6/17/2025,Adopted on 6/16/2025
+1423,SP0579,"C ""B"" (S-420 )",False,,,
+1425,SP0581,"C ""A"" (S-150 )",True,,Adopted on 5/28/2025,Adopted on 5/27/2025
+1426,HP0935,"C ""A"" (H-206 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1426,HP0935,"S ""A"" (S-474 ) to C ""A"" (H-206 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1427,HP0936,"C ""A"" (H-602 )",True,,Adopted on 6/9/2025,Adopted on 6/10/2025
+1427,HP0936,"C ""B"" (H-603 )",False,,,
+1428,HP0937,"C ""A"" (H-508 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+1430,HP0939,"C ""A"" (H-481 )",True,An Act Regarding the Transfer of Moose Permits to Disabled Veterans,Adopted on 6/4/2025,Adopted on 6/5/2025
+1431,HP0940,"C ""A"" (H-386 )",False,An Act to End Information Sharing of Voter Registration Information Through a Contract with a Nonprofit Corporation of Member States,,
+1432,HP0941,"C ""A"" (H-689 )",False,An Act Regarding Consideration of Gender Identity in the Maine Human Rights Act,,
+1433,HP0942,"C ""A"" (H-194 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1433,HP0942,"S ""A"" (S-475 ) to C ""A"" (H-194 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1435,HP0944,"C ""A"" (H-441 )",False,An Act to Allow a Municipality or Local Lake Association to Post Certain Information on Informational Signs Located at State Boat Launch Facilities with Department of Inland Fisheries and Wildlife Permission,,
+1436,HP0945,"C ""A"" (H-203 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+1437,HP0946,"C ""A"" (H-290 )",False,,,
+1439,HP0948,"C ""A"" (H-416 )",False,,,
+1440,HP0949,"C ""A"" (H-200 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+1443,SP0584,"C ""A"" (S-302 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1444,SP0585,"C ""A"" (S-379 )",False,,,
+1444,SP0585,"C ""B"" (S-593 )",True,"An Act to Clarify the Application of Finch v. U.S. Bank, N.A.",Adopted on 3/31/2026,Adopted on 3/30/2026
+1445,SP0586,"C ""A"" (S-147 )",True,An Act to Prevent Financial Exploitation of Vulnerable Adults,Adopted on 5/28/2025,Adopted on 5/27/2025
+1449,SP0590,"C ""A"" (S-381 )",True,"Resolve, Establishing the Working Group on Modernizing State Grants, Contracts and Procurement",Adopted on 6/13/2025,Adopted on 6/12/2025
+1449,SP0590,"C ""B"" (S-382 )",False,"Resolve, Establishing the Working Group on Modernizing State Grants, Contracts and Procurement",,
+1450,SP0591,"C ""A"" (S-176 )",True,,Adopted on 6/2/2025,Adopted on 5/29/2025
+1451,SP0592,"C ""A"" (S-262 )",True,"Resolve, Directing the Department of Transportation to Establish the Maine Coordinating Working Group on Access and Mobility",Adopted on 6/4/2025,Adopted on 6/3/2025
+1453,SP0594,"C ""A"" (S-243 )",True,"Resolve, to Establish the Housing Production Innovation Working Group",Adopted on 6/4/2025,Adopted on 6/3/2025
+1456,SP0597,"C ""A"" (S-77 )",True,,Adopted on 5/20/2025,Adopted on 5/14/2025
+1457,SP0598,"C ""A"" (S-605 )",False,,,
+1457,SP0598,"S ""A"" (S-622 ) to C ""A"" (S-605 )",False,An Act to Increase the Fine for Speeding in a Construction Zone,,
+1457,SP0598,"S ""B"" (S-649 ) to C ""A"" (S-605 )",False,,,
+1458,SP0599,"C ""A"" (S-171 )",False,,,
+1460,HP0952,"C ""A"" (H-503 )",False,,,
+1461,HP0953,"C ""A"" (H-404 )",False,An Act to Prohibit School Boards from Implementing or Enforcing Mask Mandates Unless Directed to Adopt a Mask Mandate by a State or Local Health Authority,,
+1461,HP0953,"C ""B"" (H-405 )",False,An Act to Prohibit School Boards from Implementing or Enforcing Mask Mandates Unless Directed to Adopt a Mask Mandate by a State or Local Health Authority,,
+1466,HP0958,"C ""A"" (H-425 )",False,,,
+1467,HP0959,"C ""A"" (H-586 )",True,An Act to Require Independent Repair Facilities to Provide Certain Disclosures to Consumers,Adopted on 6/10/2025,
+1469,HP0961,"C ""A"" (H-372 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1471,HP0963,"C ""A"" (H-554 )",True,An Act to Require Energy Efficiency Disclosure Statements for Certain Rental Housing in the State,Adopted on 6/9/2025,Adopted on 6/9/2025
+1473,HP0965,"C ""A"" (H-321 )",True,An Act to Require Gas Utilities to Assess for Natural Gas Leaks and to Require Reporting of Gas Leak Information,Adopted on 5/29/2025,Adopted on 6/2/2025
+1474,HP0966,"C ""A"" (H-577 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1474,HP0966,"S ""A"" (S-681 ) to C ""A"" (H-577 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1476,HP0968,"C ""A"" (H-454 )",False,,,
+1477,HP0969,"C ""A"" (H-800 )",True,"An Act to Subsidize Pilotage Costs for Ferries Operating Between Bar Harbor, Maine and Yarmouth, Nova Scotia",,Adopted on 3/5/2026
+1478,HP0970,"C ""A"" (H-395 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1479,HP0971,"C ""A"" (H-553 )",False,,,
+1483,SP0601,"C ""A"" (S-137 )",True,,Adopted on 5/28/2025,Adopted on 5/27/2025
+1485,HP0976,"C ""A"" (H-549 )",False,,,
+1488,SP0603,"C ""A"" (S-320 )",True,An Act Regarding Cannabis Testing,Adopted on 6/17/2025,Adopted on 6/16/2025
+1488,SP0603,"S ""A"" (S-342 ) to C ""A"" (S-320 )",False,An Act Regarding Cannabis Testing,,
+1488,SP0603,"S ""B"" (S-409 ) to C ""A"" (S-320 )",True,An Act Regarding Cannabis Testing,Adopted on 6/17/2025,Adopted on 6/16/2025
+1488,SP0603,"C ""B"" (S-586 )",True,An Act Regarding Adult Use Cannabis Testing,Adopted on 3/31/2026,Adopted on 3/30/2026
+1490,SP0605,"C ""A"" (S-306 )",True,An Act to Allow Nonprofit Organizations to Sell Progressive Sealed Ticket Games and to Offer Partner-assisted Beano,Adopted on 6/9/2025,Adopted on 6/9/2025
+1493,SP0608,"C ""A"" (S-313 )",True,An Act to Limit Corporate Use of the Visual Media Production Credit,Adopted on 6/9/2025,Adopted on 6/9/2025
+1494,HP0978,"C ""A"" (H-436 )",True,,Adopted on 6/5/2025,Adopted on 6/9/2025
+1496,HP0980,"C ""A"" (H-666 )",True,An Act to Ensure Ongoing Access to Medications and Care for Chronic Conditions by Changing Requirements for Prior Authorizations,Adopted on 6/12/2025,Adopted on 6/13/2025
+1497,HP0981,"C ""A"" (H-268 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+1498,HP0982,"C ""A"" (H-734 )",True,An Act to Address Maine's Housing Crisis by Limiting Municipal Impact Fees on Housing Development and Transferring Oversight of the Housing Opportunity Program to the Maine Office of Community Affairs,Adopted on 6/25/2025,Adopted on 6/25/2025
+1498,HP0982,"S ""A"" (S-476 ) to C ""A"" (H-734 )",True,An Act to Address Maine's Housing Crisis by Limiting Municipal Impact Fees on Housing Development,Adopted on 6/25/2025,Adopted on 6/25/2025
+1500,HP0984,"C ""A"" (H-446 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1500,HP0984,"S ""A"" (S-477 ) to C ""A"" (H-446 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1502,HP0986,"C ""A"" (H-916 )",True,,Adopted on 3/30/2026,Adopted on 4/2/2026
+1503,HP0987,"C ""A"" (H-221 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+1505,HP0989,"C ""A"" (H-552 )",False,,,
+1506,HP0990,"C ""A"" (H-729 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1507,HP0991,"C ""A"" (H-794 )",True,An Act to Require the Installation of Warning Signs at Certain Oil Storage Facilities,,Adopted on 3/5/2026
+1507,HP0991,"H ""A"" (H-923 ) to C ""A"" (H-794 )",False,An Act to Require the Installation of Warning Signs at Certain Oil Storage Facilities,,
+1511,HP0995,"C ""A"" (H-668 )",True,,Adopted on 6/12/2025,Adopted on 6/13/2025
+1514,HP0998,"C ""A"" (H-355 )",True,,Adopted on 6/11/2025,Adopted on 6/2/2025
+1514,HP0998,"S ""A"" (S-343 ) to C ""A"" (H-355 )",True,,Adopted on 6/11/2025,Adopted on 6/11/2025
+1515,HP0999,"C ""A"" (H-526 )",True,An Act to Exempt Wheelchair Adapted Motor Vehicles from the Sales and Use Tax,Adopted on 6/9/2025,Adopted on 6/9/2025
+1516,HP1000,"C ""A"" (H-339 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1517,HP1002,"C ""A"" (H-578 )",False,,,
+1519,HP1004,"C ""A"" (H-412 )",True,,Adopted on 6/10/2025,Adopted on 6/9/2025
+1519,HP1004,"S ""A"" (S-292 )",True,,Adopted on 6/10/2025,Adopted on 6/9/2025
+1519,HP1004,"S ""A"" (S-682 ) to C ""A"" (H-412 )",False,,,
+1519,HP1004,"H ""A"" (H-1054 ) to C ""A"" (H-412 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1522,HP1007,"C ""A"" (H-532 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1523,HP1008,"C ""A"" (H-443 )",True,"Resolve, to Develop MaineCare Coverage for Doula Services",Adopted on 6/3/2025,Adopted on 6/3/2025
+1525,HP1010,"C ""A"" (H-248 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+1528,SP0612,"C ""A"" (S-84 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+1529,SP0613,"C ""A"" (S-271 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1529,SP0613,"S ""A"" (S-478 ) to C ""A"" (S-271 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1530,SP0614,"C ""A"" (S-595 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+1530,SP0614,"C ""B"" (S-596 )",False,,,
+1535,SP0619,"C ""A"" (S-264 )",True,"Resolve, to Direct the Public Utilities Commission to Facilitate Stakeholder Discussions Related to High Electrical Usage",Adopted on 6/5/2025,
+1538,SP0622,"C ""A"" (S-198 )",False,,,
+1539,SP0623,"C ""A"" (S-287 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+1540,SP0624,"C ""A"" (S-394 )",True,"Resolve, Directing the Maine Developmental Disabilities Council to Examine the Unmet Needs of Children Who Need Skilled Medical Care",Adopted on 6/13/2025,Adopted on 6/13/2025
+1542,SP0626,"C ""A"" (S-266 )",True,,Adopted on 6/4/2025,Adopted on 6/4/2025
+1543,SP0627,"C ""A"" (S-316 )",True,,Adopted on 6/10/2025,Adopted on 6/9/2025
+1544,SP0628,"C ""A"" (S-328 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1544,SP0628,"S ""A"" (S-683 ) to C ""A"" (S-328 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1547,SP0631,"C ""A"" (S-612 )",True,An Act to Fund Maine's Snowmobile Trail Programs,Adopted on 4/2/2026,Adopted on 4/2/2026
+1548,SP0632,"C ""A"" (S-312 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1549,SP0633,"C ""A"" (S-181 )",False,,,
+1550,SP0634,"C ""A"" (S-102 )",True,,Adopted on 5/22/2025,Adopted on 5/20/2025
+1551,SP0635,"C ""A"" (S-153 )",True,,Adopted on 5/29/2025,Adopted on 5/28/2025
+1553,HP1011,"C ""A"" (H-358 )",False,,,
+1554,HP1012,"C ""A"" (H-352 )",True,"Resolve, Directing the Department of Labor to Report on Sexual Harassment",Adopted on 6/2/2025,Adopted on 6/3/2025
+1555,HP1013,"C ""A"" (H-570 )",True,,Adopted on 6/10/2025,Adopted on 6/10/2025
+1558,HP1016,"C ""A"" (H-629 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1558,HP1016,"S ""A"" (S-442 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1562,HP1020,"C ""A"" (H-579 )",True,,Adopted on 6/9/2025,Adopted on 6/10/2025
+1563,HP1021,"C ""A"" (H-564 )",False,,,
+1564,HP1022,"C ""A"" (H-415 )",True,An Act to Delay Implementation of Certain Recent Changes to the Beverage Container Redemption Law and to Make Other Necessary Changes to That Law,Adopted on 6/2/2025,Adopted on 6/2/2025
+1566,HP1024,"C ""A"" (H-677 )",True,"An Act to Provide Compensation to Individuals with Lived Experience Serving on Certain Advisory Boards, Commissions, Councils and Similar Groups",Adopted on 6/13/2025,Adopted on 6/13/2025
+1568,HP1026,"C ""A"" (H-303 )",True,,Adopted on 5/28/2025,Adopted on 5/28/2025
+1571,HP1029,"C ""A"" (H-569 )",True,An Act to Modify Certification Standards for Full-time Teachers in Public Charter Schools and Standards for Reissuance of Educational Technician Certificates,Adopted on 6/9/2025,Adopted on 6/10/2025
+1573,HP1031,"C ""A"" (H-359 )",False,,,
+1574,HP1032,"C ""A"" (H-772 )",True,,Adopted on 6/17/2025,Adopted on 6/17/2025
+1575,HP1033,"C ""A"" (H-563 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1578,HP1036,"C ""A"" (H-625 )",True,"Resolve, to Establish the Commission to Evaluate the Scope of Regulatory Review and Oversight over Health Care Transactions That Impact the Delivery of Health Care Services in the State",Adopted on 6/25/2025,Adopted on 6/25/2025
+1578,HP1036,"S ""A"" (S-441 ) to C ""A"" (H-625 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1580,HP1038,"C ""A"" (H-543 )",True,An Act to Prohibit Carriers and Pharmacy Benefits Managers from Using Spread Pricing,Adopted on 6/9/2025,Adopted on 6/9/2025
+1581,HP1039,"C ""A"" (H-152 )",True,An Act Regarding the Motor Vehicle Excise Tax and Registration Fees Exemption for Certain Veterans,Adopted on 5/20/2025,Adopted on 5/21/2025
+1582,HP1040,"S ""A"" (S-395 )",False,,,
+1583,HP1041,"C ""A"" (H-811 )",True,An Act Regarding Home Health Care Services Ordered by a Physician Licensed Outside of Maine,Adopted on 2/26/2026,Adopted on 3/3/2026
+1584,HP1042,"C ""A"" (H-424 )",True,,Adopted on 6/2/2025,Adopted on 6/3/2025
+1587,HP1045,"C ""A"" (H-808 )",True,An Act to Clarify the Bureau of Labor Standards' Investigatory and Enforcement Procedures,Adopted on 3/5/2026,Adopted on 2/26/2026
+1588,HP1046,"C ""A"" (H-406 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1593,HP1051,"C ""A"" (H-565 )",False,,,
+1596,HP1054,"C ""A"" (H-463 )",True,"Resolve, Directing the Department of Marine Resources to Submit a Report on the Findings and Recommendations of the Aquaculture Advisory Council",Adopted on 6/4/2025,Adopted on 6/5/2025
+1598,HP1056,"C ""A"" (H-195 )",True,An Act to Provide Relocation Assistance to Crime Victims,Adopted on 5/20/2025,Adopted on 5/21/2025
+1604,SP0641,"C ""A"" (S-128 )",True,,Adopted on 5/22/2025,Adopted on 5/21/2025
+1609,HP1063,"C ""A"" (H-874 )",True,An Act Regarding Background Checks for Medical Cannabis Providers,Adopted on 3/24/2026,Adopted on 3/25/2026
+1611,HP1065,"C ""A"" (H-364 )",True,,Adopted on 6/2/2025,Adopted on 6/3/2025
+1612,HP1066,"C ""A"" (H-538 )",False,,,
+1615,HP1069,"C ""A"" (H-535 )",True,"Resolve, to Expand Access to Oral Health Care by Studying Alternative Pathways for Obtaining a License to Practice Dentistry",Adopted on 6/25/2025,Adopted on 6/25/2025
+1615,HP1069,"S ""A"" (S-440 ) to C ""A"" (H-535 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1618,HP1072,"C ""A"" (H-199 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+1619,HP1073,"C ""A"" (H-411 )",True,"Resolve, to Direct the Governor's Energy Office to Solicit Information Regarding the Creation of a Thermal Energy Networks Program in Maine",Adopted on 6/3/2025,Adopted on 6/4/2025
+1620,HP1074,"C ""A"" (H-582 )",False,,,
+1620,HP1074,"H ""A"" (H-616 ) to C ""A"" (H-582 )",False,,,
+1623,HP1077,"C ""A"" (H-440 )",True,,Adopted on 6/3/2025,Adopted on 6/3/2025
+1624,HP1078,"C ""A"" (H-401 )",True,,Adopted on 6/3/2025,Adopted on 6/4/2025
+1626,HP1080,"C ""A"" (H-312 )",True,,Adopted on 5/29/2025,Adopted on 6/3/2025
+1629,HP1083,"C ""A"" (H-487 )",False,,,
+1635,HP1089,"C ""A"" (H-432 )",True,,Adopted on 6/3/2025,Adopted on 6/3/2025
+1636,SP0644,"C ""A"" (S-492 )",False,,,
+1637,SP0645,"C ""A"" (S-293 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+1638,SP0646,"C ""A"" (S-261 )",True,,Adopted on 6/4/2025,Adopted on 6/3/2025
+1639,SP0647,"C ""A"" (S-275 )",True,"Resolve, Directing the Department of Education to Conduct a Statewide Survey Related to Instructional Time in Public Schools",Adopted on 6/9/2025,Adopted on 6/5/2025
+1640,SP0648,"C ""A"" (S-347 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1640,SP0648,"S ""A"" (S-700 ) to C ""A"" (S-347 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1642,SP0650,"C ""A"" (S-321 )",True,,Adopted on 6/16/2025,Adopted on 6/13/2025
+1642,SP0650,"S ""A"" (S-391 ) to C ""A"" (S-321 )",True,An Act to Protect Maine Consumers by Simplifying Subscription and Health Club Membership Cancellations,Adopted on 6/16/2025,Adopted on 6/13/2025
+1643,SP0651,"C ""A"" (S-227 )",True,,Adopted on 6/25/2025,Adopted on 6/2/2025
+1643,SP0651,"S ""A"" (S-479 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1643,SP0651,"C ""B"" (S-558 )",True,An Act to Establish the Maine Life Sciences Innovation Center,Adopted on 3/25/2026,Adopted on 3/18/2026
+1643,SP0651,"C ""C"" (S-559 )",False,An Act to Establish the Maine Life Sciences Innovation Center,,
+1643,SP0651,"H ""A"" (H-896 ) to C ""B"" (S-558 )",True,An Act to Establish the Maine Life Sciences Innovation Center,Adopted on 3/25/2026,Adopted on 4/2/2026
+1646,SP0643,"C ""A"" (S-541 )",False,An Act to Require the Maine Criminal Justice Academy to Establish Training Requirements for Law Enforcement Officers Regarding the State's Good Samaritan Laws,,
+1647,SP0655,"C ""A"" (S-661 )",True,,Adopted on 4/13/2026,Adopted on 4/9/2026
+1648,SP0656,"C ""A"" (S-202 )",True,"Resolve, to Honor Margaret Chase Smith and Joshua Chamberlain in the National Statuary Hall Collection",Adopted on 6/4/2025,Adopted on 6/2/2025
+1648,SP0656,"H ""A"" (H-429 ) to C ""A"" (S-202 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+1649,SP0657,"C ""A"" (S-368 )",True,"Resolve, to Establish the Commission to Study and Recommend Solutions for Modernizing and Improving the Effectiveness of the Legislature",Adopted on 6/13/2025,Adopted on 6/12/2025
+1651,HP1092,"C ""A"" (H-142 )",True,"An Act to Remove the Term ""Alleged"" When Referring to Victims of Sexual Assault in the Provisions of the Maine Revised Statutes Pertaining to Forensic Examinations",Adopted on 5/13/2025,Adopted on 5/14/2025
+1652,HP1093,"C ""A"" (H-871 )",True,An Act to Expand the Dental Care Access Credit,Adopted on 3/24/2026,Adopted on 3/25/2026
+1653,HP1094,"C ""A"" (H-375 )",True,,Adopted on 6/2/2025,Adopted on 6/3/2025
+1654,HP1095,"C ""A"" (H-620 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1654,HP1095,"S ""A"" (S-480 ) to C ""A"" (H-620 )",True,An Act to Exempt Certain Sales and Transfers of Adult Use Cannabis from Excise Tax,Adopted on 6/25/2025,Adopted on 6/25/2025
+1655,HP1096,"C ""A"" (H-173 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+1656,HP1097,"C ""A"" (H-750 )",False,,,
+1658,HP1099,"C ""A"" (H-809 )",True,,Adopted on 2/26/2026,Adopted on 3/3/2026
+1661,HP1102,"C ""A"" (H-814 )",True,"Resolve, Requiring a Review and Assessment of the State's Invasive Species Management Efforts",Adopted on 3/3/2026,Adopted on 3/5/2026
+1662,HP1103,"C ""A"" (H-423 )",False,"An Act to Amend the Laws Regarding Zoning and Land Use Restrictions to Limit Certain Requirements to Municipalities with Populations of More than 4,000",,
+1664,SP0658,"C ""A"" (S-205 )",True,An Act to Amend the Dirigo Business Incentives Program,Adopted on 6/4/2025,Adopted on 6/3/2025
+1665,SP0659,"C ""A"" (S-416 )",True,,Adopted on 6/17/2025,Adopted on 6/16/2025
+1666,SP0660,"C ""A"" (S-334 )",True,,,Adopted on 6/10/2025
+1666,SP0660,"C ""B"" (S-499 )",True,,Adopted on 2/10/2026,Adopted on 12:00:00 AM
+1667,SP0661,"C ""A"" (S-406 )",True,,Adopted on 6/17/2025,Adopted on 6/17/2025
+1667,SP0661,"S ""A"" (S-422 ) to C ""A"" (S-406 )",True,,Adopted on 6/17/2025,Adopted on 6/17/2025
+1668,SP0663,"C ""A"" (S-215 )",True,,Adopted on 6/4/2025,Adopted on 6/2/2025
+1669,SP0664,"C ""A"" (S-375 )",True,,Adopted on 6/13/2025,Adopted on 6/12/2025
+1672,HP1107,"C ""A"" (H-583 )",True,An Act to Provide for an Alternate Method for Tracking Adult Use Cannabis,Adopted on 6/16/2025,
+1672,HP1107,"H ""A"" (H-617 ) to C ""A"" (H-583 )",True,An Act to Provide for an Alternate Method for Tracking Adult Use Cannabis,Adopted on 6/10/2025,
+1673,HP1108,"C ""A"" (H-562 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1676,HP1111,"C ""A"" (H-598 )",False,"Resolve, to Study Ways to Improve Recruitment and Retention of Rural Emergency Services Personnel",,
+1677,HP1112,"C ""A"" (H-442 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1677,HP1112,"H ""A"" (H-512 ) to C ""A"" (H-442 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1684,HP1119,"C ""A"" (H-665 )",True,An Act to Implement Additional Criteria and Processes for the Supervised Community Confinement Program,Adopted on 6/12/2025,Adopted on 6/13/2025
+1687,HP1122,"C ""A"" (H-642 )",True,,Adopted on 6/11/2025,Adopted on 6/11/2025
+1691,HP1126,"C ""A"" (H-325 )",True,,Adopted on 5/29/2025,Adopted on 6/13/2025
+1695,HP1130,"C ""A"" (H-495 )",True,An Act to Require Law Enforcement Agencies to Adopt Written Policies Regarding Sex Trafficking and Commercial Sexual Exploitation,Adopted on 6/4/2025,Adopted on 6/5/2025
+1696,HP1131,"C ""A"" (H-156 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+1697,HP1132,"C ""A"" (H-486 )",True,,Adopted on 6/5/2025,Adopted on 6/5/2025
+1700,HP1135,"C ""A"" (H-241 )",True,,Adopted on 5/22/2025,Adopted on 5/27/2025
+1701,HP1136,"C ""A"" (H-403 )",True,"Resolve, Directing the Department of Education to Establish a Working Group to Study the Maine Learning Results",Adopted on 6/3/2025,Adopted on 6/4/2025
+1702,HP1137,"C ""A"" (H-612 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+1704,HP1139,"C ""A"" (H-694 )",False,,,
+1705,HP1140,"C ""A"" (H-611 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1705,HP1140,"S ""A"" (S-684 ) to C ""A"" (H-611 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1706,HP1141,"C ""A"" (H-458 )",True,,Adopted on 6/3/2025,Adopted on 6/3/2025
+1707,HP1142,"C ""A"" (H-444 )",False,An Act to Require a Person to Be Lawfully Present in the United States to Receive State or Local Financial Assistance and to Ensure Municipal Compliance with Federal Immigration Laws,,
+1708,HP1143,"C ""A"" (H-351 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1710,HP1145,"C ""A"" (H-738 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1712,HP1147,"C ""A"" (H-382 )",False,,,
+1712,HP1147,"H ""A"" (H-428 ) to C ""A"" (H-382 )",False,,,
+1715,SP0668,"C ""A"" (S-256 )",True,,,Adopted on 6/16/2025
+1716,SP0669,"C ""A"" (S-186 )",False,,,
+1718,SP0671,"C ""A"" (S-140 )",True,,Adopted on 5/28/2025,Adopted on 5/27/2025
+1719,SP0672,"C ""A"" (S-345 )",True,,Adopted on 6/13/2025,
+1720,SP0673,"C ""A"" (S-296 )",True,"Resolve, Regarding Certified Nursing Assistant Examinations",Adopted on 6/9/2025,Adopted on 6/9/2025
+1722,HP1149,"C ""A"" (H-769 )",True,An Act to Amend the Laws Governing the Regulation of Aquaculture Leases,Adopted on 6/17/2025,Adopted on 6/17/2025
+1723,HP1150,"C ""A"" (H-671 )",True,,Adopted on 6/13/2025,Adopted on 6/13/2025
+1724,HP1151,"C ""A"" (H-326 )",True,,Adopted on 5/29/2025,Adopted on 6/2/2025
+1725,HP1152,"C ""A"" (H-573 )",True,An Act to Require Reporting Regarding County Jail Boards of Visitors,Adopted on 6/9/2025,Adopted on 6/10/2025
+1726,HP1153,"C ""A"" (H-438 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+1727,HP1154,"C ""A"" (H-544 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1728,SP0674,"C ""A"" (S-520 )",True,"An Act to Improve Affordability, Stability and Access in the Maine Child Care Affordability Program",Adopted on 3/10/2026,Adopted on 3/3/2026
+1730,SP0676,"C ""A"" (S-544 )",True,An Act to Make Small Plug-in Solar Generation Devices Accessible for All Maine Residents to Address the Energy Affordability Crisis,Adopted on 3/30/2026,Adopted on 3/26/2026
+1730,SP0676,"S ""A"" (S-581 ) to C ""A"" (S-544 )",True,,Adopted on 3/30/2026,Adopted on 3/26/2026
+1731,SP0677,"C ""A"" (S-339 )",False,An Act to Enhance the Effectiveness of the Maine State Ferry Advisory Board,,
+1733,SP0679,"C ""A"" (S-294 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+1734,SP0680,"C ""A"" (S-288 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+1735,SP0681,"C ""A"" (S-263 )",True,,Adopted on 6/4/2025,Adopted on 6/4/2025
+1738,HP1156,"C ""A"" (H-484 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1738,HP1156,"S ""A"" (S-489 ) to C ""A"" (H-484 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1740,HP1158,"C ""A"" (H-518 )",True,"An Act to Establish the Science, Technology, Engineering, Arts and Mathematics Education Matching Grant Program",Adopted on 6/9/2025,Adopted on 6/9/2025
+1741,HP1159,"C ""A"" (H-818 )",True,An Act Regarding Vacancies in the Office of Sheriff,Adopted on 3/3/2026,Adopted on 3/5/2026
+1744,HP1162,"C ""A"" (H-857 )",True,,Adopted on 3/17/2026,Adopted on 3/18/2026
+1745,HP1163,"C ""A"" (H-674 )",True,,Adopted on 6/12/2025,Adopted on 6/13/2025
+1746,HP1164,"C ""A"" (H-585 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1746,HP1164,"S ""A"" (S-699 ) to C ""A"" (H-585 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+1747,HP1165,"C ""A"" (H-279 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+1748,HP1166,"C ""A"" (H-688 )",True,An Act to Enhance Businesses' Understanding of Labor Standards and Grow Maine's Energy Economy Through Project Development Information Resources,Adopted on 6/13/2025,Adopted on 6/16/2025
+1750,HP1168,"C ""A"" (H-601 )",True,,Adopted on 6/10/2025,Adopted on 6/10/2025
+1751,HP1169,"C ""A"" (H-766 )",True,,Adopted on 6/17/2025,Adopted on 6/18/2025
+1752,HP1170,"C ""A"" (H-427 )",False,,,
+1754,HP1172,"C ""A"" (H-385 )",True,,,Adopted on 6/3/2025
+1755,HP1173,"C ""A"" (H-712 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1756,HP1174,"C ""A"" (H-706 )",False,,,
+1759,HP1177,"C ""A"" (H-376 )",False,,,
+1760,HP1178,"C ""A"" (H-519 )",False,,,
+1761,HP1179,"C ""A"" (H-545 )",False,An Act to Prohibit the Transfer of Liability Relating to a Party's Own Negligence or Liability in Contracts,,
+1763,HP1182,"C ""A"" (H-684 )",True,,Adopted on 6/13/2025,Adopted on 6/13/2025
+1763,HP1182,"H ""A"" (H-711 ) to C ""A"" (H-684 )",True,,Adopted on 6/13/2025,Adopted on 6/16/2025
+1764,HP1183,"C ""A"" (H-514 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1765,HP1184,"C ""A"" (H-672 )",True,An Act to Ensure Affordability and Stability in Residential Housing and in Manufactured Housing Communities,Adopted on 6/13/2025,Adopted on 6/13/2025
+1766,SP0684,"C ""A"" (S-533 )",True,,Adopted on 3/30/2026,
+1768,SP0686,"C ""A"" (S-216 )",True,,Adopted on 6/3/2025,Adopted on 6/2/2025
+1769,SP0687,"C ""A"" (S-319 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1770,SP0688,"C ""A"" (S-423 )",True,"Resolve, to Establish the Real Estate Property Tax Relief Task Force",Adopted on 6/17/2025,Adopted on 6/17/2025
+1771,SP0689,"C ""A"" (S-220 )",True,,Adopted on 6/4/2025,Adopted on 6/2/2025
+1771,SP0689,"H ""A"" (H-488 ) to C ""A"" (S-220 )",True,,Adopted on 6/4/2025,Adopted on 6/5/2025
+1772,SP0690,"C ""A"" (S-548 )",True,An Act to Establish the Fund for a Healthy Maine Stabilization Fund,Adopted on 3/19/2026,Adopted on 3/17/2026
+1773,SP0691,"C ""A"" (S-177 )",True,,Adopted on 6/2/2025,Adopted on 5/29/2025
+1776,HP1187,"C ""A"" (H-437 )",True,,,Adopted on 6/5/2025
+1776,HP1187,"H ""A"" (H-587 )",False,"Resolve, to Study the Feasibility of Establishing Environmental Management System Protocols to Address Occupational Health and Safety Within the State House Complex",,
+1777,HP1188,"C ""A"" (H-756 )",True,An Act to Reduce Costs and Increase Customer Protections for the State's Net Energy Billing Programs,Adopted on 6/18/2025,Adopted on 6/18/2025
+1777,HP1188,"C ""B"" (H-757 )",False,An Act to Establish Duration and Compensation Limits in the Net Energy Billing Program,,
+1777,HP1188,"H ""A"" (H-779 ) to C ""A"" (H-756 )",False,An Act to Reduce Costs and Increase Customer Protections for the State's Net Energy Billing Programs,,
+1777,HP1188,"S ""A"" (S-439 ) to C ""A"" (H-756 )",True,An Act to Reduce Costs and Increase Customer Protections for the State's Net Energy Billing Programs,Adopted on 6/18/2025,Adopted on 6/18/2025
+1778,HP1189,"C ""A"" (H-749 )",True,,Adopted on 6/17/2025,Adopted on 6/17/2025
+1780,HP1191,"C ""A"" (H-720 )",False,,,
+1782,HP1193,"C ""A"" (H-408 )",True,"Resolve, Regarding Host Community Compensation for the Juniper Ridge Landfill in the City of Old Town",Adopted on 6/2/2025,Adopted on 6/2/2025
+1783,HP1194,"C ""A"" (H-409 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1784,HP1195,"C ""A"" (H-703 )",True,,Adopted on 6/13/2025,Adopted on 6/16/2025
+1785,HP1196,"C ""A"" (H-534 )",True,An Act to Require Health Insurance Carriers to Provide Contact Information for Employees Responsible for Negotiating Health Care Provider Contracts,Adopted on 6/9/2025,Adopted on 6/9/2025
+1786,HP1197,"C ""A"" (H-308 )",True,,Adopted on 5/28/2025,Adopted on 5/28/2025
+1787,HP1198,"C ""A"" (H-414 )",True,An Act to Increase Seed Money Contribution Limits for Gubernatorial Candidates Under the Maine Clean Election Act,Adopted on 6/4/2025,Adopted on 6/5/2025
+1789,HP1200,"C ""A"" (H-533 )",True,An Act to Amend the Education Requirements in the Certified Public Accountant Licensure Laws,Adopted on 6/9/2025,Adopted on 6/9/2025
+1792,SP0694,"C ""A"" (S-357 )",True,An Act to Ensure Fair and Equitable Recovery of Post-restructuring Stranded Costs,Adopted on 6/13/2025,Adopted on 6/12/2025
+1792,SP0694,"C ""B"" (S-358 )",False,An Act Regarding the Allocation of Net Energy Billing Costs and Long-term Contracting Costs,,
+1792,SP0694,"S ""A"" (S-373 ) to C ""A"" (S-357 )",True,An Act to Ensure Fair and Equitable Recovery of Post-restructuring Stranded Costs,Adopted on 6/13/2025,Adopted on 6/12/2025
+1793,SP0695,"C ""A"" (S-190 )",True,An Act to Amend Eligibility Criteria Under the Maine Solid Waste Diversion Grant Program,Adopted on 6/2/2025,Adopted on 6/2/2025
+1794,SP0696,"C ""A"" (S-335 )",True,,Adopted on 6/11/2025,Adopted on 6/11/2025
+1796,SP0698,"C ""A"" (S-418 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1796,SP0698,"S ""A"" (S-424 ) to C ""A"" (S-418 )",False,,,Indefinitely postponed on 6/25/2025
+1796,SP0698,"S ""B"" (S-481 ) to C ""A"" (S-418 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1800,HP1205,"C ""A"" (H-546 )",True,An Act to Prohibit Health Care Entities Providing Dental Plans from Requiring a Dental Provider to Charge Fees for Uncovered Dental Services,Adopted on 6/9/2025,Adopted on 6/9/2025
+1801,SP0700,"C ""A"" (S-250 )",True,,Adopted on 6/4/2025,Adopted on 6/3/2025
+1802,SP0701,"C ""A"" (S-249 )",True,,Adopted on 6/4/2025,Adopted on 6/3/2025
+1803,SP0702,"C ""A"" (S-657 )",True,,,Adopted on 4/13/2026
+1803,SP0702,"C ""B"" (S-658 )",True,,Adopted on 4/9/2026,
+1804,SP0704,"C ""A"" (S-567 )",False,,,
+1805,SP0705,"C ""A"" (S-407 )",True,An Act to Establish a Post-judgment Review Process for Crimes Committed by Victims of Sex Trafficking and Sexual Exploitation,Adopted on 6/16/2025,Adopted on 6/16/2025
+1806,HP1207,"C ""A"" (H-836 )",False,An Act to Require Submission of Information on the Rental or Leasing of Residential Buildings and Residential Dwellings,,
+1810,HP1211,"C ""A"" (H-680 )",True,"Resolve, to Establish the Commission to Study the Judicial Disciplinary Process",Adopted on 6/13/2025,Adopted on 6/13/2025
+1812,HP1213,"C ""A"" (H-448 )",True,An Act to Establish the Loans for Trade Tools Program,Adopted on 6/3/2025,Adopted on 6/3/2025
+1813,HP1214,"C ""A"" (H-163 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+1815,SP0703,"C ""A"" (S-371 )",True,An Act to Require Testing for Intoxicants for Drivers Involved in a Motor Vehicle Crash That Results in Serious Bodily Injury or Death,,Adopted on 6/12/2025
+1816,SP0707,"C ""A"" (S-427 )",True,,Adopted on 6/17/2025,Adopted on 6/17/2025
+1819,HP1217,"C ""A"" (H-504 )",True,,Adopted on 6/5/2025,Adopted on 6/5/2025
+1819,HP1217,"H ""A"" (H-520 ) to C ""A"" (H-504 )",True,,Adopted on 6/5/2025,Adopted on 6/5/2025
+1820,HP1218,"C ""A"" (H-651 )",True,,Adopted on 6/11/2025,Adopted on 6/12/2025
+1821,HP1219,"C ""A"" (H-1029 )",False,,,
+1822,HP1220,"C ""A"" (H-716 )",True,,,Adopted on 3/5/2026
+1822,HP1220,"C ""B"" (H-717 )",False,An Act to Enact the Maine Consumer Data Privacy Act,,
+1822,HP1220,"H ""A"" (H-788 ) to C ""A"" (H-716 )",False,,Indefinitely postponed on 3/26/2026,
+1822,HP1220,"S ""A"" (S-528 ) to C ""A"" (H-716 )",True,,,Adopted on 3/5/2026
+1822,HP1220,"H ""B"" (H-906 ) to C ""A"" (H-716 )",True,,Adopted on 3/26/2026,Adopted on 12:00:00 AM
+1823,SP0710,"C ""A"" (S-327 )",False,,,
+1826,HP1221,"C ""A"" (H-197 )",True,,Adopted on 5/20/2025,Adopted on 5/21/2025
+1827,HP1222,"C ""A"" (H-244 )",True,,Adopted on 5/22/2025,Adopted on 5/22/2025
+1829,HP1224,"C ""A"" (H-748 )",True,An Act to Build Housing for Maine Families and Attract Workers to Maine Businesses by Amending the Laws Governing Housing Density,Adopted on 6/16/2025,Adopted on 6/16/2025
+1830,HP1225,"C ""A"" (H-474 )",True,"Resolve, to Expand the Recipients of the Report on the Public Safety Health and Wellness Grant Pilot Program and Authorize Legislation to Be Submitted in Response to the Report",Adopted on 6/3/2025,Adopted on 6/4/2025
+1832,SP0714,"C ""A"" (S-310 )",True,,Adopted on 6/10/2025,Adopted on 6/9/2025
+1834,SP0716,"C ""A"" (S-239 )",True,An Act to Clarify the Availability of Alternative Claims Payment Methods to Dental Care Providers,Adopted on 6/4/2025,Adopted on 6/3/2025
+1838,SP0721,"C ""A"" (S-359 )",False,,,
+1840,SP0723,"C ""A"" (S-374 )",True,,Adopted on 6/16/2025,Adopted on 6/13/2025
+1840,SP0723,"S ""A"" (S-398 ) to C ""A"" (S-374 )",True,,Adopted on 6/16/2025,Adopted on 6/13/2025
+1843,HP1227,"C ""A"" (H-445 )",True,,Adopted on 6/4/2025,Adopted on 6/9/2025
+1844,HP1228,"C ""A"" (H-499 )",True,,Adopted on 6/5/2025,Adopted on 6/5/2025
+1847,HP1231,"C ""A"" (H-1043 )",False,"An Act to Institute Testing and Tracking of Medical Use Cannabis Similar to Adult Use Cannabis and Cannabis Products, to Amend the Excise Tax Provisions for Adult Use Cannabis for Cannabis Pre-rolls and to Make Other Changes to the Medical Use and Adult Use Cannabis Programs",,
+1847,HP1231,"C ""B"" (H-1044 )",False,"An Act to Establish Testing and Tracking of Medical Use Cannabis, to Institute an Audit Testing Program in the Maine Medical Use of Cannabis Act, to Amend the Excise Tax Provisions for Adult Use Cannabis for Cannabis Pre-rolls and to Make Other Changes to the Medical Use and Adult Use Cannabis Programs",,
+1847,HP1231,"C ""C"" (H-1045 )",False,"An Act to Institute Testing and Tracking of Medical Use Cannabis for Large Registered Dispensaries, to Institute Mandatory Annual Inspections and Sample Testing in the Maine Medical Use of Cannabis Act, to Amend the Excise Tax Provisions for Adult Use Cannabis for Cannabis Pre-rolls and to Make Other Changes to the Medical Use and Adult Use Cannabis Programs",,
+1847,HP1231,"H ""A"" (H-1061 ) to C ""B"" (H-1044 )",False,"An Act to Establish Testing and Tracking of Medical Use Cannabis, to Institute an Audit Testing Program in the Maine Medical Use of Cannabis Act, to Amend the Excise Tax Provisions for Adult Use Cannabis for Cannabis Pre-rolls and to Make Other Changes to the Medical Use and Adult Use Cannabis Programs",,
+1847,HP1231,"H ""B"" (H-1062 ) to C ""B"" (H-1044 )",False,"An Act to Establish Testing and Tracking of Medical Use Cannabis, to Institute an Audit Testing Program in the Maine Medical Use of Cannabis Act, to Amend the Excise Tax Provisions for Adult Use Cannabis for Cannabis Pre-rolls and to Make Other Changes to the Medical Use and Adult Use Cannabis Programs",,
+1847,HP1231,"H ""A"" (H-1063 ) to C ""A"" (H-1043 )",False,"An Act to Institute Testing and Tracking of Medical Use Cannabis Similar to Adult Use Cannabis and Cannabis Products, to Amend the Excise Tax Provisions for Adult Use Cannabis for Cannabis Pre-rolls and to Make Other Changes to the Medical Use and Adult Use Cannabis Programs",,
+1847,HP1231,"S ""A"" (S-718 ) to C ""B"" (H-1044 )",False,An Act to Establish Testing and Tracking of Medical Use Cannabis and to Make Other Changes to the Medical Use and Adult Use Cannabis Programs,,
+1848,HP1232,"C ""A"" (H-498 )",True,,Adopted on 6/5/2025,Adopted on 6/5/2025
+1849,HP1233,"C ""A"" (H-758 )",True,An Act to Establish a Minimum Age at Which Conduct Constitutes a Juvenile Crime and to Confer Jurisdiction to the Juvenile Courts Over Any Criminal Offense Under Maine Law Committed by a Juvenile,Adopted on 6/17/2025,Adopted on 6/17/2025
+1850,HP1234,"C ""A"" (H-705 )",True,"Resolve, to Improve Interagency Coordination and Information Accessibility Regarding Renewable Energy Construction Projects",Adopted on 6/13/2025,Adopted on 6/16/2025
+1851,HP1235,"C ""A"" (H-875 )",False,,,
+1853,HP1237,"C ""A"" (H-733 )",False,,,
+1854,HP1238,"C ""A"" (H-698 )",True,"An Act to Require the Board of Counseling Professionals Licensure, Board of Dental Practice, Board of Speech, Audiology and Hearing, Board of Occupational Therapy Practice, State Board of Social Worker Licensure, Board of Osteopathic Licensure and Board of Licensure in Medicine to Obtain Fingerprint-based Federal Bureau of Investigation Criminal Background Checks for Initial Applicants and Licensees Seeking Compact Privileges",Adopted on 6/13/2025,Adopted on 6/13/2025
+1855,HP1239,"C ""A"" (H-297 )",True,An Act to Repeal the Low-alcohol Spirits Product Tax,Adopted on 5/28/2025,Adopted on 5/28/2025
+1857,SP0727,"C ""A"" (S-341 )",False,,,
+1858,SP0728,"C ""A"" (S-289 )",True,,Adopted on 6/9/2025,Adopted on 6/5/2025
+1859,SP0729,"C ""A"" (S-265 )",True,,Adopted on 6/5/2025,Adopted on 6/4/2025
+1860,SP0730,"C ""A"" (S-350 )",False,An Act to Allow for a Competitive Solicitation of Energy Projects Under 5 Megawatts,,
+1861,SP0731,"C ""A"" (S-191 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1863,SP0733,"S ""A"" (S-230 )",True,,Adopted on 6/3/2025,Adopted on 6/2/2025
+1864,SP0734,"C ""A"" (S-246 )",True,,Adopted on 6/4/2025,Adopted on 6/3/2025
+1865,SP0735,"C ""A"" (S-609 )",True,"Resolve, Directing the Department of Economic and Community Development to Establish and Administer a Pilot Project to Encourage Businesses to Adopt a 4-day Workweek",,Adopted on 4/2/2026
+1866,SP0736,"C ""A"" (S-318 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1867,SP0737,"C ""A"" (S-360 )",True,,Adopted on 6/17/2025,Adopted on 6/12/2025
+1868,SP0738,"C ""A"" (S-356 )",True,,Adopted on 6/13/2025,Adopted on 6/13/2025
+1870,SP0740,"C ""A"" (S-570 )",True,"Resolve, to Assess the Total Cost to the State of Greenhouse Gas Emissions",Adopted on 3/31/2026,Adopted on 3/30/2026
+1870,SP0740,"S ""A"" (S-704 ) to C ""A"" (S-570 )",False,,,
+1870,SP0740,"H ""A"" (H-1066 ) to C ""A"" (S-570 )",True,,Adopted on 4/13/2026,Adopted on 4/14/2026
+1871,SP0741,"C ""A"" (S-408 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1872,HP1243,"C ""A"" (H-465 )",False,,,
+1872,HP1243,"C ""B"" (H-795 )",True,,Adopted on 2/10/2026,Adopted on 2/12/2026
+1873,HP1244,"C ""A"" (H-722 )",False,,,
+1874,HP1245,"C ""A"" (H-335 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1876,HP1247,"C ""A"" (H-760 )",True,An Act to Change the Name and Duties of the Taxpayer Advocate to Increase the Use of State Tax Credits,Adopted on 6/25/2025,Adopted on 6/25/2025
+1876,HP1247,"S ""A"" (S-482 ) to C ""A"" (H-760 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1877,HP1248,"C ""A"" (H-723 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1877,HP1248,"C ""B"" (H-724 )",False,,,
+1879,HP1250,"C ""A"" (H-571 )",True,An Act to Support Maine's Agricultural Economy by Increasing Revenue from the Corporate Income Tax,Adopted on 6/12/2025,Adopted on 6/12/2025
+1881,HP1252,"C ""A"" (H-315 )",False,,,
+1886,HP1257,"C ""A"" (H-497 )",True,An Act to Include Serious Bodily Injury in the Law Governing Motor Vehicle Violations Resulting in Death,Adopted on 6/5/2025,Adopted on 6/5/2025
+1887,HP1258,"C ""A"" (H-314 )",True,,Adopted on 5/28/2025,Adopted on 5/28/2025
+1888,HP1259,"C ""A"" (H-630 )",True,"Resolve, to Study the Establishment of a New Crime of Racketeering for Drug Offenses and Sex Trafficking",Adopted on 6/11/2025,Adopted on 6/11/2025
+1888,HP1259,"C ""B"" (H-631 )",False,,,
+1890,HP1261,"C ""A"" (H-827 )",True,An Act to Facilitate the Development of Ambulatory Surgical Facilities by Increasing the Monetary Threshold for Certain Facilities Under the Requirement to Obtain a Certificate of Need and to Index the Threshold Annually Thereafter,Adopted on 3/5/2026,Adopted on 3/10/2026
+1890,HP1261,"C ""B"" (H-828 )",False,An Act Facilitating the Development of Ambulatory Surgical Facilities by Increasing the Monetary Threshold for Certain Facilities Under the Requirement to Obtain a Certificate of Need and to Index the Threshold Annually Thereafter,,
+1892,HP1263,"C ""A"" (H-967 )",True,An Act Regarding Funding for School Construction,Adopted on 4/2/2026,Adopted on 4/6/2026
+1893,HP1264,"C ""A"" (H-993 )",True,,Adopted on 4/8/2026,Adopted on 4/8/2026
+1894,HP1265,"C ""A"" (H-457 )",True,"Resolve, to Establish the Commission to Study Consumer Grocery Pricing Fairness",Adopted on 6/4/2025,Adopted on 6/5/2025
+1894,HP1265,"S ""A"" (S-329 ) to C ""A"" (H-457 )",False,,,
+1895,HP1266,"C ""A"" (H-619 )",True,,Adopted on 6/10/2025,Adopted on 6/11/2025
+1897,HP1268,"C ""A"" (H-713 )",True,An Act Regarding Outdoor Cultivation in the Medical Use Cannabis and Adult Use Cannabis Industries,Adopted on 6/17/2025,Adopted on 6/16/2025
+1897,HP1268,"C ""B"" (H-714 )",True,An Act Regarding Outdoor Cultivation in the Medical Use Cannabis and Adult Use Cannabis Industries,Adopted on 6/16/2025,
+1897,HP1268,"H ""A"" (H-745 ) to C ""A"" (H-713 )",False,An Act Regarding Outdoor Cultivation in the Medical Use Cannabis and Adult Use Cannabis Industries,,
+1899,HP1270,"C ""A"" (H-550 )",False,,,
+1901,HP1272,"C ""A"" (H-952 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+1901,HP1272,"C ""B"" (H-953 )",False,,,
+1902,SP0742,"C ""A"" (S-614 )",False,"An Act to Authorize the Operation of Electronic Sealed Ticket Games by Certain Qualifying Fraternal, Patriotic or Veterans' Organizations",,
+1904,SP0745,"C ""A"" (S-523 )",True,,Adopted on 3/10/2026,Adopted on 3/3/2026
+1905,SP0746,"C ""A"" (S-238 )",True,,Adopted on 6/4/2025,Adopted on 6/3/2025
+1906,SP0747,"C ""A"" (S-367 )",True,,Adopted on 6/13/2025,Adopted on 6/12/2025
+1908,SP0749,"C ""A"" (S-563 )",True,,,Adopted on 4/6/2026
+1908,SP0749,"C ""B"" (S-564 )",True,,Adopted on 3/25/2026,
+1908,SP0749,"S ""A"" (S-632 ) to C ""A"" (S-563 )",True,,,Adopted on 4/6/2026
+1910,SP0751,"C ""A"" (S-322 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1911,SP0752,"C ""A"" (S-634 )",True,,Adopted on 4/7/2026,Adopted on 4/6/2026
+1911,SP0752,"S ""A"" (S-707 ) to C ""A"" (S-634 )",False,,,
+1911,SP0752,"H ""A"" (H-1071 ) to C ""A"" (S-634 )",True,,Adopted on 4/14/2026,Adopted on 12:00:00 AM
+1913,HP1274,"C ""A"" (H-280 )",True,,Adopted on 5/27/2025,Adopted on 5/28/2025
+1916,HP1277,"C ""A"" (H-985 )",False,An Act to Automatically Seal Criminal History Record Information for Class D and Class E Crimes Relating to Marijuana Possession and Cultivation and to Clarify Dissemination of Sealed Criminal History Record Information to the Department of Professional and Financial Regulation,,
+1917,HP1278,"C ""A"" (H-984 )",True,An Act to Allow the Sealing of Criminal History Record Information Related to Convictions for Conduct That Is No Longer a Crime in the State and to Clarify Dissemination of Sealed Criminal History Record Information to the Department of Professional and Financial Regulation,Adopted on 4/7/2026,Adopted on 4/8/2026
+1918,HP1279,"C ""A"" (H-983 )",True,An Act to Clarify the Criminal History Record Information Act with Respect to Criminal Charges Dismissed as the Result of a Plea Agreement and to Clarify Dissemination of Sealed Criminal History Record Information to the Department of Professional and Financial Regulation,Adopted on 4/7/2026,Adopted on 4/8/2026
+1920,HP1281,"C ""A"" (H-584 )",True,,Adopted on 6/9/2025,Adopted on 6/10/2025
+1921,HP1282,"C ""A"" (H-806 )",True,"Resolve, to Establish the Commission to Study Pathways to Increase Efficiency in Resolving Legal Disputes Involving Housing Development Projects",Adopted on 2/24/2026,Adopted on 2/26/2026
+1923,HP1284,"C ""A"" (H-848 )",True,An Act to Update Juvenile Justice System Reporting Requirements and to Direct the Department of Corrections and the Department of Health and Human Services to Study Modifying the Long Creek Youth Development Center,Adopted on 3/17/2026,Adopted on 3/18/2026
+1925,HP1286,"C ""A"" (H-349 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1927,HP1288,"C ""A"" (H-681 )",True,An Act to Add Mold to the Implied Warranty and Covenant of Habitability,Adopted on 6/13/2025,Adopted on 6/13/2025
+1927,HP1288,"C ""B"" (H-682 )",False,,,
+1927,HP1288,"C ""C"" (H-683 )",False,,,
+1928,HP1289,"C ""A"" (H-422 )",True,,,Adopted on 6/5/2025
+1930,HP1291,"C ""A"" (H-589 )",False,,,
+1932,HP1293,"C ""A"" (H-936 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+1933,HP1294,"C ""A"" (H-574 )",True,"Resolve, to Study Pathways for Tribal Law Enforcement Officers to Receive a Waiver for the Maine Criminal Justice Academy Basic Law Enforcement Training Requirement",Adopted on 6/9/2025,Adopted on 6/10/2025
+1934,HP1295,"C ""A"" (H-561 )",True,,Adopted on 6/11/2025,Adopted on 6/11/2025
+1934,HP1295,"H ""A"" (H-595 ) to C ""A"" (H-561 )",False,,,
+1934,HP1295,"S ""A"" (S-349 ) to C ""A"" (H-561 )",True,,Adopted on 6/11/2025,Adopted on 6/11/2025
+1935,HP1296,"C ""A"" (H-464 )",False,,,
+1936,SP0754,"C ""A"" (S-495 )",True,An Act Regarding the Allocation of Net Energy Billing Costs and Long-term Contract Costs and Benefits,Adopted on 2/26/2026,Adopted on 2/12/2026
+1937,SP0755,"C ""A"" (S-346 )",True,,Adopted on 6/17/2025,Adopted on 6/12/2025
+1937,SP0755,"S ""A"" (S-393 ) to C ""A"" (S-346 )",False,,,
+1937,SP0755,"H ""A"" (H-707 ) to C ""A"" (S-346 )",False,,Defeated on 6/17/2025,
+1938,HP1297,"C ""A"" (H-676 )",True,,Adopted on 6/13/2025,Adopted on 6/13/2025
+1939,HP1298,"C ""A"" (H-973 )",False,,,
+1940,HP1299,"C ""A"" (H-767 )",False,,,
+1940,HP1299,"C ""B"" (H-768 )",True,,,Adopted on 6/18/2025
+1941,HP1300,"C ""A"" (H-977 )",True,,Adopted on 4/9/2026,
+1941,HP1300,"C ""B"" (H-978 )",True,"Resolve, Establishing the Commission to Examine the Intersection of Parole and Current Sentencing Practices",Adopted on 4/7/2026,Adopted on 4/8/2026
+1941,HP1300,"C ""C"" (H-979 )",False,,,
+1941,HP1300,"H ""A"" (H-1000 ) to C ""B"" (H-978 )",False,"Resolve, Establishing the Commission to Examine the Intersection of Parole and Current Sentencing Practices",,
+1941,HP1300,"S ""A"" (S-646 ) to C ""B"" (H-978 )",True,"Resolve, Establishing the Commission to Examine the Intersection of Parole and Current Sentencing Practices",Adopted on 4/9/2026,Adopted on 4/8/2026
+1942,HP1301,"C ""A"" (H-901 )",True,An Act to Establish an Excise Tax on Prerolled Cannabis Cigarettes and to Change the Tax on Potentially Intoxicating Hemp Products,Adopted on 4/7/2026,Adopted on 4/6/2026
+1942,HP1301,"C ""B"" (H-902 )",False,An Act to Change Reporting Dates for Cannabis Excise Tax and to Change the Tax on Potentially Intoxicating Hemp Products,,
+1942,HP1301,"S ""A"" (S-621 ) to C ""A"" (H-901 )",True,An Act to Establish an Excise Tax on Cannabis Pre-roll and to Change the Tax on Potentially Intoxicating Hemp Products,Adopted on 4/7/2026,Adopted on 4/6/2026
+1943,HP1302,"C ""A"" (H-739 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1944,HP1303,"C ""A"" (H-696 )",True,"An Act to Protect Individuals from the Threatened Unauthorized Dissemination of Certain Private Images, Including Artificially Generated Private Images",Adopted on 6/13/2025,Adopted on 6/13/2025
+1945,HP1304,"C ""A"" (H-343 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1946,HP1305,"C ""A"" (H-644 )",True,,Adopted on 6/11/2025,Adopted on 6/11/2025
+1949,SP0756,"C ""A"" (S-387 )",True,,,Adopted on 6/17/2025
+1949,SP0756,"C ""B"" (S-388 )",False,"Resolve, Directing the Public Utilities Commission to Study Utility Service Disconnections",,
+1949,SP0756,"S ""A"" (S-412 ) to C ""A"" (S-387 )",True,,,Adopted on 6/17/2025
+1949,SP0756,"H ""A"" (H-780 ) to C ""A"" (S-387 )",False,,,
+1949,SP0756,"C ""C"" (S-504 )",True,,Adopted on 3/12/2026,Adopted on 3/5/2026
+1951,SP0758,"C ""A"" (S-400 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1951,SP0758,"S ""A"" (S-488 ) to C ""A"" (S-400 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1953,SP0761,"C ""A"" (S-187 )",True,,Adopted on 6/2/2025,Adopted on 6/2/2025
+1954,SP0762,"C ""A"" (S-615 )",True,An Act to Update the Sales Tax Fairness Credit,Adopted on 4/2/2026,Adopted on 4/2/2026
+1955,SP0763,"C ""A"" (S-355 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1955,SP0763,"S ""A"" (S-483 ) to C ""A"" (S-355 )",True,,Adopted on 6/25/2025,Adopted on 6/25/2025
+1955,SP0763,"C ""B"" (S-515 )",True,An Act to Increase Child Care Affordability,Adopted on 3/5/2026,Adopted on 2/26/2026
+1956,SP0764,"C ""A"" (S-304 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1957,HP1309,"C ""A"" (H-900 )",True,,Adopted on 3/26/2026,Adopted on 4/6/2026
+1960,SP0767,"C ""A"" (S-231 )",True,,,Adopted on 6/3/2025
+1960,SP0767,"S ""A"" (S-430 )",True,An Act to Exempt Tobacco Products Containing Hemp from the Tax Imposed on Tobacco Products,,Adopted on 6/17/2025
+1961,SP0768,"C ""A"" (S-236 )",True,,Adopted on 6/4/2025,Adopted on 6/3/2025
+1962,SP0769,"C ""A"" (S-577 )",True,An Act to Increase Legislative Access to Department of Corrections Facilities and Address Vacancies on the Board of Visitors,,Adopted on 3/26/2026
+1962,SP0769,"C ""B"" (S-578 )",True,An Act to Increase Legislative Access to Department of Corrections Facilities and to Direct the Commissioner to Establish Rules Regarding Legislator Access to Correctional and Detention Facilities,Adopted on 3/30/2026,Adopted on 12:00:00 AM
+1963,SP0770,"C ""A"" (S-417 )",True,,,Adopted on 6/16/2025
+1964,SP0771,"C ""A"" (S-511 )",True,An Act to Establish Additional Requirements Related to the Sale or Lease of Net Energy Billing Interests and Solar Energy Equipment,Adopted on 3/3/2026,Adopted on 2/24/2026
+1965,SP0772,"C ""A"" (S-383 )",True,,Adopted on 6/13/2025,Adopted on 6/12/2025
+1965,SP0772,"C ""B"" (S-505 )",True,,Adopted on 3/3/2026,Adopted on 2/24/2026
+1966,HP1310,"C ""A"" (H-930 )",True,An Act to Increase Disclosure of Utility Charges and Improve Access to Distributed Generation Resources in the State,Adopted on 4/2/2026,Adopted on 4/6/2026
+1967,HP1311,"C ""A"" (H-618 )",True,"Resolve, to Design a Maine Home Energy Navigator and Coaching Pilot Program",Adopted on 6/10/2025,Adopted on 6/11/2025
+1968,HP1312,"C ""A"" (H-559 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1968,HP1312,"C ""B"" (H-560 )",False,An Act Regarding the Salary Paid to a Member of the Legislature Who Replaces a Member Who Has Died or Otherwise Vacated the Office,,
+1968,HP1312,"S ""A"" (S-404 ) to C ""A"" (H-559 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1969,HP1313,"C ""A"" (H-947 )",True,"An Act to Amend the Maine Revised Unclaimed Property Act and Clarify the Definition of ""Virtual Currency""",Adopted on 4/2/2026,Adopted on 4/2/2026
+1970,HP1314,"C ""A"" (H-541 )",False,,,
+1970,HP1314,"C ""B"" (H-801 )",True,,Adopted on 2/24/2026,Adopted on 2/26/2026
+1971,HP1315,"C ""A"" (H-751 )",True,,Adopted on 6/17/2025,Adopted on 6/17/2025
+1974,HP1318,"C ""A"" (H-548 )",False,,,
+1975,HP1319,"C ""A"" (H-802 )",True,"Resolve, Directing the Maine Connectivity Authority to Develop Recommendations to Transition Functions Performed by the ConnectMaine Authority to the Maine Connectivity Authority",Adopted on 2/24/2026,Adopted on 2/26/2026
+1975,HP1319,"C ""B"" (H-803 )",False,,,
+1975,HP1319,"C ""C"" (H-804 )",False,,,
+1977,SP0773,"C ""A"" (S-317 )",True,,Adopted on 6/9/2025,Adopted on 6/9/2025
+1980,SP0775,"C ""A"" (S-540 )",True,,Adopted on 3/19/2026,Adopted on 3/17/2026
+1981,SP0776,"C ""A"" (S-325 )",True,,Adopted on 6/10/2025,Adopted on 6/9/2025
+1982,HP1325,"C ""A"" (H-394 )",False,An Act to Exempt Pesticides from the Law Regulating Perfluoroalkyl and Polyfluoroalkyl Substances in Products,,
+1984,HP1328,"C ""A"" (H-725 )",True,,Adopted on 6/16/2025,Adopted on 6/16/2025
+1987,HP1335,"H ""A"" (H-697 )",False,,,
+1987,HP1335,"S ""A"" (S-421 )",True,,Adopted on 6/17/2025,Adopted on 6/17/2025
+1987,HP1335,"S ""B"" (S-435 )",True,,Adopted on 6/18/2025,Adopted on 6/18/2025
+1989,SP0801,"C ""A"" (S-512 )",True,,Adopted on 3/3/2026,Adopted on 2/24/2026
+1990,SP0802,"C ""A"" (S-503 )",True,,Adopted on 3/3/2026,Adopted on 2/24/2026
+1991,SP0803,"C ""A"" (S-516 )",True,,Adopted on 3/5/2026,Adopted on 2/26/2026
+1993,SP0806,"C ""A"" (S-524 )",True,,Adopted on 3/12/2026,Adopted on 3/5/2026
+1993,SP0806,"C ""B"" (S-525 )",False,,,
+1995,SP0808,"C ""A"" (S-498 )",True,,Adopted on 2/26/2026,Adopted on 2/12/2026
+1996,SP0809,"C ""A"" (S-555 )",True,,Adopted on 3/19/2026,Adopted on 3/17/2026
+1997,SP0810,"C ""A"" (S-497 )",True,,Adopted on 2/24/2026,Adopted on 2/10/2026
+1999,SP0812,"C ""A"" (S-493 )",True,,Adopted on 2/26/2026,Adopted on 2/12/2026
+2000,SP0814,"C ""A"" (S-542 )",True,,Adopted on 3/19/2026,Adopted on 3/17/2026
+2001,SP0815,"C ""A"" (S-536 )",True,,Adopted on 3/17/2026,Adopted on 3/10/2026
+2002,SP0816,"C ""A"" (S-574 )",True,"An Act to Extend the Maine Lobster Marketing Collaborative to December 31, 2028",Adopted on 3/25/2026,Adopted on 3/24/2026
+2003,SP0819,"C ""A"" (S-526 )",True,,Adopted on 3/12/2026,Adopted on 3/5/2026
+2003,SP0819,"S ""A"" (S-685 ) to C ""A"" (S-526 )",False,,,
+2003,SP0819,"H ""A"" (H-1055 ) to C ""A"" (S-526 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2005,SP0821,"C ""A"" (S-597 )",True,,Adopted on 4/2/2026,Adopted on 3/31/2026
+2006,SP0822,"C ""A"" (S-490 )",True,,Adopted on 2/10/2026,Adopted on 1/27/2026
+2007,SP0825,"C ""A"" (S-529 )",True,,Adopted on 3/26/2026,Adopted on 3/10/2026
+2008,SP0827,"C ""A"" (S-537 )",True,An Act to Provide Funding to the Maine School of Science and Mathematics,Adopted on 4/13/2026,Adopted on 4/13/2026
+2008,SP0827,"S ""A"" (S-698 ) to C ""A"" (S-537 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2009,SP0828,"C ""A"" (S-590 )",True,An Act to Clarify the Requirements of a County Audit,Adopted on 3/31/2026,Adopted on 3/30/2026
+2012,HP1342,"C ""A"" (H-966 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+2013,HP1343,"C ""A"" (H-856 )",True,,Adopted on 3/17/2026,Adopted on 3/18/2026
+2015,HP1345,"C ""A"" (H-839 )",True,,Adopted on 3/12/2026,Adopted on 3/17/2026
+2017,HP1347,"C ""A"" (H-829 )",True,,Adopted on 3/5/2026,Adopted on 3/10/2026
+2018,HP1348,"C ""A"" (H-948 )",True,,Adopted on 4/2/2026,Adopted on 4/8/2026
+2018,HP1348,"C ""B"" (H-949 )",False,,,
+2023,HP1353,"C ""A"" (H-859 )",True,,Adopted on 3/18/2026,Adopted on 3/19/2026
+2024,HP1354,"C ""A"" (H-812 )",True,,Adopted on 2/26/2026,Adopted on 3/3/2026
+2025,HP1355,"C ""A"" (H-951 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+2025,HP1355,"H ""A"" (H-961 ) to C ""A"" (H-951 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+2030,HP1360,"C ""A"" (H-852 )",True,,Adopted on 3/17/2026,Adopted on 3/18/2026
+2031,HP1361,"C ""A"" (H-854 )",False,An Act to Offer Certain Disabled Military Veterans a 50 Percent Discount on the License Fee for a Commercial Shellfish License,,
+2032,HP1362,"C ""A"" (H-796 )",True,,Adopted on 2/10/2026,Adopted on 2/10/2026
+2035,HP1365,"C ""A"" (H-822 )",True,,Adopted on 3/3/2026,Adopted on 3/5/2026
+2036,HP1366,"C ""A"" (H-915 )",False,,,
+2038,HP1368,"C ""A"" (H-880 )",True,,Adopted on 3/30/2026,Adopted on 3/26/2026
+2038,HP1368,"S ""A"" (S-585 ) to C ""A"" (H-880 )",True,,Adopted on 3/30/2026,Adopted on 3/26/2026
+2040,HP1370,"C ""A"" (H-815 )",True,"Resolve, to Study Food Insecurity Measures in Maine",Adopted on 3/3/2026,Adopted on 3/5/2026
+2041,HP1371,"C ""A"" (H-792 )",True,An Act to Increase the Debt Limit of the North Jay Water District,Adopted on 2/3/2026,Adopted on 2/10/2026
+2042,SP0831,"C ""A"" (S-573 )",True,An Act to Clarify the Requirement for Municipalities to Provide Public Notice in a Newspaper,Adopted on 3/25/2026,Adopted on 3/24/2026
+2044,SP0837,"C ""A"" (S-639 )",True,An Act to Make the Biofuel Commercial Production and Commercial Use Tax Credit and the Renewable Chemicals Tax Credit Refundable,Adopted on 4/8/2026,Adopted on 4/7/2026
+2046,SP0839,"C ""A"" (S-560 )",True,,Adopted on 3/24/2026,Adopted on 3/18/2026
+2051,HP1375,"C ""A"" (H-894 )",True,,Adopted on 3/26/2026,Adopted on 3/30/2026
+2052,HP1376,"C ""A"" (H-841 )",True,,Adopted on 3/17/2026,Adopted on 3/18/2026
+2053,HP1377,"C ""A"" (H-797 )",True,An Act to Improve Safety by Allowing the Use of Variable-message Signs on Certain Vehicles,Adopted on 2/10/2026,Adopted on 2/10/2026
+2054,HP1378,"C ""A"" (H-976 )",True,,Adopted on 4/9/2026,Adopted on 4/14/2026
+2054,HP1378,"S ""A"" (S-643 ) to C ""A"" (H-976 )",False,,,
+2054,HP1378,"S ""B"" (S-644 ) to C ""A"" (H-976 )",False,,,
+2054,HP1378,"H ""A"" (H-1005 ) to C ""A"" (H-976 )",False,,,
+2054,HP1378,"H ""B"" (H-1038 ) to C ""A"" (H-976 )",True,,Adopted on 4/9/2026,Adopted on 4/14/2026
+2055,HP1379,"C ""A"" (H-799 )",True,,Adopted on 2/24/2026,Adopted on 2/26/2026
+2056,SP0843,"C ""A"" (S-538 )",True,,,Adopted on 3/17/2026
+2056,SP0843,"H ""A"" (H-844 )",False,,,
+2057,SP0844,"C ""A"" (S-575 )",True,An Act to Support Rehabilitation and Development of Affordable Housing,Adopted on 3/25/2026,Adopted on 3/24/2026
+2057,SP0844,"C ""B"" (S-576 )",False,An Act to Support Rehabilitation and Development of Affordable Housing,,
+2058,SP0845,"C ""A"" (S-594 )",True,An Act to Clarify the Requirement That Municipal and County Jails Be Available at All Times for Detention of Arrested Persons,Adopted on 3/31/2026,Adopted on 3/30/2026
+2059,SP0852,"C ""A"" (S-506 )",True,An Act to Provide Required Funding for the Reimbursement of Assigned Counsel,Adopted on 3/3/2026,Adopted on 2/24/2026
+2059,SP0852,"C ""B"" (S-507 )",False,An Act to Provide Required Funding for the Reimbursement of Assigned Counsel and to Prohibit Collective Bargaining by Public Defenders and Employed Counsel,,
+2059,SP0852,"H ""A"" (H-824 ) to C ""A"" (S-506 )",False,An Act to Provide Required Funding for the Reimbursement of Assigned Counsel,,
+2060,SP0846,"C ""A"" (S-545 )",True,,Adopted on 3/19/2026,Adopted on 3/17/2026
+2061,SP0847,"C ""A"" (S-519 )",True,,Adopted on 3/10/2026,Adopted on 3/3/2026
+2062,SP0849,"C ""A"" (S-532 )",True,,Adopted on 3/17/2026,Adopted on 3/10/2026
+2063,SP0851,"C ""A"" (S-508 )",True,,Adopted on 3/12/2026,Adopted on 3/5/2026
+2063,SP0851,"C ""B"" (S-509 )",False,,,
+2064,SP0853,"C ""A"" (S-568 )",True,,Adopted on 3/25/2026,Adopted on 3/24/2026
+2066,SP0855,"C ""A"" (S-513 )",True,,Adopted on 3/5/2026,Adopted on 3/5/2026
+2066,SP0855,"C ""B"" (S-514 )",True,,,Adopted on 2/26/2026
+2067,SP0856,"C ""A"" (S-617 )",True,An Act to Include Community Mental Health Workers Under the 1998 Special Plan for Retirement,Adopted on 4/6/2026,Adopted on 4/6/2026
+2068,HP1381,"C ""A"" (H-793 )",True,,Adopted on 2/3/2026,Adopted on 2/10/2026
+2070,HP1383,"C ""A"" (H-927 )",True,An Act to Improve the Management of Landfill Leachate and Wastewater Treatment Plant Sludge at Solid Waste Landfills,Adopted on 3/31/2026,Adopted on 4/2/2026
+2071,HP1384,"C ""A"" (H-956 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+2071,HP1384,"H ""A"" (H-962 ) to C ""A"" (H-956 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+2072,HP1385,"C ""A"" (H-807 )",True,,Adopted on 2/24/2026,Adopted on 2/26/2026
+2074,HP1387,"C ""A"" (H-833 )",True,,Adopted on 3/10/2026,Adopted on 3/12/2026
+2075,HP1388,"C ""A"" (H-817 )",True,,Adopted on 3/3/2026,Adopted on 3/5/2026
+2076,HP1389,"C ""A"" (H-847 )",True,,Adopted on 3/17/2026,Adopted on 3/18/2026
+2077,HP1392,"C ""A"" (H-935 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+2078,HP1393,"C ""A"" (H-816 )",True,An Act to Exempt from Sales Tax the Sale and Delivery of All Residential Electricity,Adopted on 3/3/2026,Adopted on 3/5/2026
+2080,HP1395,"C ""A"" (H-861 )",True,An Act to Protect Consumers by Prohibiting the Use of Credit Cards in Sports Wagering and Internet Gaming,Adopted on 3/18/2026,Adopted on 3/19/2026
+2081,HP1396,"C ""A"" (H-904 )",True,,Adopted on 3/30/2026,Adopted on 4/2/2026
+2082,HP1397,"C ""A"" (H-980 )",True,,Adopted on 4/7/2026,Adopted on 4/7/2026
+2083,HP1398,"C ""A"" (H-819 )",True,,Adopted on 3/3/2026,Adopted on 3/5/2026
+2085,HP1400,"C ""A"" (H-830 )",True,An Act to Include a Certain Emergency Communications Position at the Department of Public Safety in the 1998 Special Plan,Adopted on 3/10/2026,Adopted on 3/12/2026
+2087,HP1402,"C ""A"" (H-832 )",True,,Adopted on 3/10/2026,Adopted on 3/12/2026
+2088,HP1403,"C ""A"" (H-860 )",False,,,
+2088,HP1403,"H ""A"" (H-885 )",False,,,
+2089,HP1404,"C ""A"" (H-877 )",False,,,
+2089,HP1404,"H ""A"" (H-905 )",False,,,
+2089,HP1404,"S ""A"" (S-642 )",False,,,
+2090,HP1405,"C ""A"" (H-941 )",True,An Act to Modify Probationary Periods for Dispatchers,Adopted on 4/2/2026,Adopted on 4/2/2026
+2092,HP1407,"C ""A"" (H-1006 )",True,,Adopted on 4/9/2026,Adopted on 4/9/2026
+2094,HP1409,"C ""A"" (H-922 )",True,"An Act to Authorize General Fund Bond Issues to Support Maine's Agricultural and Forestry Sectors, Wastewater Treatment Facilities, Public Water and Public Sewer Systems, Housing, Culverts, the University of Maine System, Transportation Infrastructure and Court Facilities",Adopted on 4/7/2026,Adopted on 4/6/2026
+2094,HP1409,"S ""A"" (S-602 ) to C ""A"" (H-922 )",True,An Act to Authorize General Fund Bond Issues to Support Maine's Agricultural and Forestry Sectors,Adopted on 4/7/2026,Adopted on 4/6/2026
+2094,HP1409,"H ""A"" (H-995 ) to C ""A"" (H-922 )",False,An Act to Authorize General Fund Bond Issues to Support Maine's Agricultural and Forestry Sectors and Transportation Infrastructure,Defeated on 4/7/2026,
+2095,HP1410,"C ""A"" (H-846 )",True,,Adopted on 3/17/2026,Adopted on 3/18/2026
+2096,HP1411,"C ""A"" (H-823 )",True,,Adopted on 3/5/2026,Adopted on 3/10/2026
+2097,HP1412,"C ""A"" (H-974 )",True,,Adopted on 4/6/2026,Adopted on 4/6/2026
+2098,HP1413,"C ""A"" (H-853 )",True,An Act to Update Certain Higher Education Statutes and Laws,Adopted on 3/17/2026,Adopted on 3/18/2026
+2099,HP1414,"C ""A"" (H-843 )",True,,Adopted on 3/17/2026,Adopted on 3/18/2026
+2100,HP1415,"C ""A"" (H-890 )",True,,Adopted on 3/25/2026,Adopted on 3/26/2026
+2101,HP1416,"C ""A"" (H-870 )",True,,Adopted on 3/24/2026,Adopted on 3/25/2026
+2102,HP1417,"C ""A"" (H-826 )",True,,Adopted on 3/5/2026,Adopted on 3/10/2026
+2103,HP1418,"C ""A"" (H-937 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+2104,HP1419,"C ""A"" (H-825 )",True,,Adopted on 3/5/2026,Adopted on 3/10/2026
+2105,HP1420,"C ""A"" (H-907 )",True,,Adopted on 3/30/2026,Adopted on 4/2/2026
+2106,HP1421,"C ""A"" (H-999 )",True,An Act to Limit Consent for Entry into Nonpublic Areas of and to Limit Access to Protected Records Maintained by Certain Public Entities,Adopted on 4/8/2026,Adopted on 4/8/2026
+2107,HP1422,"C ""A"" (H-866 )",True,,Adopted on 3/24/2026,Adopted on 3/25/2026
+2107,HP1422,"S ""A"" (S-686 ) to C ""A"" (H-866 )",False,,,
+2107,HP1422,"H ""A"" (H-1056 ) to C ""A"" (H-866 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2109,HP1424,"C ""A"" (H-838 )",True,,Adopted on 3/12/2026,Adopted on 3/17/2026
+2110,HP1425,"C ""A"" (H-950 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+2111,HP1426,"C ""A"" (H-840 )",True,,Adopted on 3/12/2026,Adopted on 3/17/2026
+2112,HP1427,"C ""A"" (H-903 )",True,,Adopted on 3/30/2026,Adopted on 4/2/2026
+2114,HP1429,"C ""A"" (H-863 )",True,,Adopted on 3/18/2026,Adopted on 3/19/2026
+2115,HP1430,"C ""A"" (H-805 )",True,,Adopted on 2/24/2026,Adopted on 3/5/2026
+2116,HP1431,"C ""A"" (H-917 )",True,An Act to Extend the Sunset Date of the Affordable Housing Income Tax Credit,Adopted on 3/30/2026,Adopted on 4/2/2026
+2117,HP1432,"C ""A"" (H-989 )",True,"Resolve, Regarding the Process of Filling Vacancies in Certain Group Homes for Individuals with Intellectual Disabilities or Autism Spectrum Disorder",Adopted on 4/7/2026,Adopted on 4/7/2026
+2118,HP1433,"C ""A"" (H-972 )",True,,Adopted on 4/6/2026,Adopted on 4/6/2026
+2119,HP1434,"C ""A"" (H-908 )",True,"Resolve, to Review Reimbursement for Certain Emergency Medical Services",Adopted on 3/30/2026,Adopted on 4/2/2026
+2119,HP1434,"H ""A"" (H-970 ) to C ""A"" (H-908 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+2121,HP1436,"C ""A"" (H-913 )",True,"Resolve, to Convene a Working Group to Study Methods for Enhancing the Safety of Judicial and Elected Officials",Adopted on 3/30/2026,Adopted on 4/2/2026
+2121,HP1436,"C ""B"" (H-914 )",False,"Resolve, to Convene a Working Group to Study Methods for Enhancing the Safety of Judicial and Elected Officials",,
+2121,HP1436,"S ""A"" (S-687 ) to C ""A"" (H-913 )",False,,,
+2121,HP1436,"H ""A"" (H-1057 ) to C ""A"" (H-913 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2122,HP1437,"C ""A"" (H-960 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+2123,HP1438,"C ""A"" (H-876 )",True,"Resolve, to Improve Dental Care Access by Modifying the MaineCare Reimbursement Methodology for the Provision of Certain Dental Services",Adopted on 3/24/2026,Adopted on 3/25/2026
+2124,HP1439,"C ""A"" (H-887 )",False,,,
+2124,HP1439,"C ""B"" (H-888 )",True,,Adopted on 3/25/2026,Adopted on 3/26/2026
+2124,HP1439,"S ""A"" (S-688 ) to C ""B"" (H-888 )",False,,,
+2124,HP1439,"H ""A"" (H-1058 ) to C ""B"" (H-888 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2125,HP1440,"C ""A"" (H-821 )",True,,Adopted on 3/3/2026,Adopted on 3/5/2026
+2127,SP0813,"C ""A"" (S-501 )",True,,Adopted on 3/3/2026,Adopted on 2/24/2026
+2128,SP0817,"C ""A"" (S-530 )",True,,Adopted on 3/17/2026,Adopted on 3/10/2026
+2129,SP0818,"C ""A"" (S-551 )",True,,Adopted on 3/19/2026,Adopted on 3/17/2026
+2130,SP0823,"C ""A"" (S-543 )",True,,Adopted on 3/19/2026,Adopted on 3/17/2026
+2131,SP0824,"C ""A"" (S-598 )",True,"Resolve, Regarding the Nursing Facility Reform Transition Fund",Adopted on 4/2/2026,Adopted on 3/31/2026
+2132,SP0826,"C ""A"" (S-583 )",True,"An Act to Amend the Maine Emergency Medical Services Act of 1982 to Modify Penalties for Unauthorized Operation or Practice of Emergency Medical Services, to Direct Maine Emergency Medical Services to Evaluate Improvements to Maine's Trauma System Reporting and to Make Certain Technical Changes",Adopted on 3/31/2026,Adopted on 3/30/2026
+2133,SP0830,"C ""A"" (S-552 )",True,,Adopted on 3/19/2026,Adopted on 3/17/2026
+2134,SP0832,"C ""A"" (S-521 )",True,,Adopted on 3/10/2026,Adopted on 3/3/2026
+2135,SP0834,"C ""A"" (S-556 )",True,,Adopted on 3/24/2026,Adopted on 3/18/2026
+2136,SP0835,"C ""A"" (S-534 )",True,,Adopted on 3/18/2026,Adopted on 3/10/2026
+2136,SP0835,"H ""A"" (H-865 )",True,,Adopted on 3/18/2026,Adopted on 3/19/2026
+2137,SP0836,"C ""A"" (S-591 )",True,,Adopted on 3/31/2026,Adopted on 3/30/2026
+2137,SP0836,"C ""B"" (S-592 )",False,,,
+2137,SP0836,"S ""A"" (S-689 ) to C ""A"" (S-591 )",False,,,
+2137,SP0836,"H ""A"" (H-1059 ) to C ""A"" (S-591 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2140,SP0858,"C ""A"" (S-584 )",True,"Resolve, to Establish a Demand Response Program to Lower Electric Bills and Improve Grid Reliability",Adopted on 4/2/2026,Adopted on 3/30/2026
+2141,SP0859,"C ""A"" (S-613 )",True,An Act to Further Direct the Use of Unclaimed Beverage Container Deposits and to Make Other Changes to the Beverage Container Redemption Laws,Adopted on 4/13/2026,Adopted on 4/13/2026
+2141,SP0859,"S ""A"" (S-660 ) to C ""A"" (S-613 )",True,An Act Regarding Enforcement of the Annual Reporting Requirement of the Laws Governing Unclaimed Beverage Container Deposits,Adopted on 4/13/2026,Adopted on 4/13/2026
+2142,SP0860,"C ""A"" (S-517 )",True,,Adopted on 3/5/2026,Adopted on 2/26/2026
+2143,SP0861,"H ""A"" (H-895 )",True,,Adopted on 3/25/2026,Adopted on 3/26/2026
+2144,SP0862,"C ""A"" (S-531 )",True,,Adopted on 3/17/2026,Adopted on 3/10/2026
+2145,SP0863,"C ""A"" (S-546 )",True,,Adopted on 3/19/2026,Adopted on 3/17/2026
+2145,SP0863,"C ""B"" (S-547 )",False,,,
+2146,SP0864,"C ""A"" (S-611 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+2147,SP0865,"C ""A"" (S-500 )",True,,Adopted on 2/26/2026,Adopted on 2/12/2026
+2148,SP0866,"C ""A"" (S-619 )",True,,Adopted on 4/7/2026,Adopted on 4/6/2026
+2148,SP0866,"C ""B"" (S-620 )",False,,,
+2149,SP0867,"C ""A"" (S-636 )",True,,Adopted on 4/8/2026,Adopted on 4/6/2026
+2149,SP0867,"S ""A"" (S-645 )",True,,Adopted on 4/8/2026,Adopted on 4/8/2026
+2150,SP0871,"C ""A"" (S-641 )",True,"An Act to Establish Procedures for Restricting Access to State Property, Access to State Services and Communication with or Through State Entities and to Provide for a Review of Those Restrictions",Adopted on 4/13/2026,Adopted on 4/9/2026
+2150,SP0871,"S ""A"" (S-656 ) to C ""A"" (S-641 )",True,An Act to Enhance Notice to Individuals Whose Access to State Property Has Been Restricted,Adopted on 4/13/2026,Adopted on 4/9/2026
+2150,SP0871,"H ""A"" (H-1047 ) to C ""A"" (S-641 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2151,SP0872,"C ""A"" (S-580 )",True,"Resolve, to Improve Access to Affordable Prescription Drugs in Underserved Areas",Adopted on 3/30/2026,Adopted on 3/26/2026
+2153,HP1442,"C ""A"" (H-835 )",True,,Adopted on 3/10/2026,Adopted on 3/12/2026
+2154,HP1443,"C ""A"" (H-834 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2154,HP1443,"S ""A"" (S-690 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2155,SP0874,"C ""A"" (S-553 )",True,"An Act to Direct the Bureau of Alcoholic Beverages and Lottery Operations to Temporarily Suspend Enforcement of Public Law 2025, Chapter 87",Adopted on 4/9/2026,Adopted on 4/8/2026
+2155,SP0874,"H ""A"" (H-965 ) to C ""A"" (S-553 )",True,"An Act to Exempt, for Licenses Issued Prior to May 23, 2025, Persons Holding a Majority Ownership Interest from the Restriction on the Number of Manufacturing Facility Licenses and On-premises Retail Licenses",Adopted on 4/2/2026,
+2155,SP0874,"S ""A"" (S-633 ) to C ""A"" (S-553 )",True,"An Act to Exempt, for Licenses Issued Prior to December 21, 2025, Persons Holding a Majority Ownership Interest from the Restriction on the Number of Manufacturing Facility Licenses and On-premises Retail Licenses",Adopted on 4/9/2026,Adopted on 4/8/2026
+2156,SP0875,"C ""A"" (S-510 )",True,,Adopted on 3/3/2026,Adopted on 2/24/2026
+2156,SP0875,"H ""A"" (H-862 ) to C ""A"" (S-510 )",False,,,
+2156,SP0875,"H ""B"" (H-864 ) to C ""A"" (S-510 )",True,,Adopted on 3/18/2026,Adopted on 3/19/2026
+2157,HP1446,"C ""A"" (H-891 )",True,,Adopted on 4/7/2026,Adopted on 4/6/2026
+2157,HP1446,"C ""B"" (H-892 )",True,,Adopted on 3/25/2026,
+2157,HP1446,"S ""A"" (S-618 ) to C ""B"" (H-892 )",False,,,
+2158,HP1447,"C ""A"" (H-810 )",True,,Adopted on 2/26/2026,Adopted on 3/3/2026
+2159,HP1448,"C ""A"" (H-959 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+2159,HP1448,"H ""A"" (H-963 ) to C ""A"" (H-959 )",False,An Act to Require School Buses to Be Equipped with and to Use School Bus Crossing Arms and to Amend the Law Regarding the Use of Antipinch Technology on School Bus Doors,Defeated on 4/2/2026,
+2161,HP1450,"C ""A"" (H-912 )",True,,Adopted on 3/30/2026,Adopted on 4/2/2026
+2162,HP1451,"C ""A"" (H-1002 )",True,,Adopted on 4/8/2026,Adopted on 4/9/2026
+2162,HP1451,"C ""B"" (H-1003 )",False,An Act to Regulate Artificial Intelligence Companion Models,,
+2162,HP1451,"C ""C"" (H-1004 )",False,,,
+2163,HP1452,"C ""A"" (H-910 )",True,An Act to Enhance Crime Victims' Rights,Adopted on 3/30/2026,Adopted on 4/2/2026
+2163,HP1452,"C ""B"" (H-911 )",False,An Act to Enhance Crime Victims' Rights,,
+2164,HP1453,"C ""A"" (H-958 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+2165,HP1454,"C ""A"" (H-971 )",True,,,Adopted on 4/6/2026
+2168,HP1457,"C ""A"" (H-939 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+2169,SP0879,"C ""A"" (S-527 )",True,,Adopted on 3/17/2026,Adopted on 3/10/2026
+2170,HP1458,"C ""A"" (H-957 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+2172,HP1460,"C ""A"" (H-842 )",False,,,
+2173,HP1461,"C ""A"" (H-1041 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2173,HP1461,"H ""A"" (H-1042 ) to C ""A"" (H-1041 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2175,HP1463,"C ""A"" (H-931 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+2175,HP1463,"C ""B"" (H-932 )",False,,,
+2175,HP1463,"H ""A"" (H-945 ) to C ""A"" (H-931 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+2176,SP0881,"C ""A"" (S-640 )",True,An Act to Safeguard Personal Information and Strengthen Tenant Rights in Maine,Adopted on 4/8/2026,Adopted on 4/7/2026
+2177,HP1465,"C ""A"" (H-921 )",True,,Adopted on 3/31/2026,Adopted on 4/2/2026
+2178,SP0883,"C ""A"" (S-703 )",True,,Adopted on 4/14/2026,Adopted on 4/13/2026
+2179,SP0884,"C ""A"" (S-549 )",True,An Act Regarding the Licensing of Online Used Car Dealers,Adopted on 3/19/2026,Adopted on 3/17/2026
+2180,HP1467,"C ""A"" (H-964 )",True,,Adopted on 4/2/2026,Adopted on 4/6/2026
+2184,SP0889,"C ""A"" (S-535 )",True,"Resolve, to Name a Bridge Between the Town of Hiram and the Town of Cornish Warren's Bridge",Adopted on 3/17/2026,Adopted on 3/10/2026
+2187,SP0892,"C ""A"" (S-569 )",False,,,
+2188,HP1469,"C ""A"" (H-920 )",True,,Adopted on 3/30/2026,Adopted on 4/2/2026
+2189,HP1470,"C ""A"" (H-851 )",True,,Adopted on 3/24/2026,Adopted on 3/18/2026
+2189,HP1470,"H ""A"" (H-886 ) to C ""A"" (H-851 )",True,,Adopted on 3/24/2026,Adopted on 3/25/2026
+2191,HP1472,"C ""A"" (H-855 )",True,,Adopted on 3/17/2026,Adopted on 3/18/2026
+2192,SP0893,"C ""A"" (S-623 )",True,An Act Regarding School Employee Investigations,Adopted on 4/13/2026,Adopted on 4/9/2026
+2192,SP0893,"S ""A"" (S-652 ) to C ""A"" (S-623 )",True,An Act Regarding School Employee Investigations,Adopted on 4/13/2026,Adopted on 4/9/2026
+2193,SP0894,"C ""A"" (S-562 )",True,,Adopted on 3/25/2026,Adopted on 3/24/2026
+2194,SP0895,"C ""A"" (S-582 )",True,,Adopted on 3/31/2026,Adopted on 3/30/2026
+2194,SP0895,"S ""A"" (S-589 ) to C ""A"" (S-582 )",True,,Adopted on 3/31/2026,Adopted on 3/30/2026
+2195,SP0896,"C ""A"" (S-539 )",True,An Act to Prohibit the Appointment or Assignment of an Attorney to Provide Indigent Legal Services Without That Attorney's Consent,Adopted on 3/19/2026,Adopted on 3/17/2026
+2196,HP1475,"C ""A"" (H-1033 )",False,,,
+2196,HP1475,"C ""B"" (H-1034 )",False,"Resolve, to Establish the Commission to Study Health Insurance Costs and Fair Pricing in Health Care",,
+2200,HP1479,"C ""A"" (H-919 )",True,An Act Relating to Noncompete Agreements Between Employers and Health Care Practitioners,Adopted on 4/7/2026,Adopted on 4/6/2026
+2200,HP1479,"S ""A"" (S-625 ) to C ""A"" (H-919 )",True,,Adopted on 4/7/2026,Adopted on 4/6/2026
+2201,HP1480,"C ""A"" (H-981 )",True,,Adopted on 4/7/2026,Adopted on 4/7/2026
+2203,HP1482,"C ""A"" (H-845 )",True,,Adopted on 3/17/2026,Adopted on 3/18/2026
+2204,SP0897,"C ""A"" (S-600 )",True,"Resolve, Directing the Department of Education to Develop Guidance for School Leaders to Ensure Supportive Measures for Young Students Involved in Challenging, Disruptive or Unsafe Behaviors",Adopted on 4/2/2026,Adopted on 3/31/2026
+2207,HP1484,"C ""A"" (H-867 )",True,,Adopted on 3/24/2026,Adopted on 3/25/2026
+2208,HP1487,"C ""A"" (H-987 )",True,,Adopted on 4/7/2026,Adopted on 4/7/2026
+2208,HP1487,"C ""B"" (H-988 )",False,An Act to Offset the Loss of Federal Health Insurance Premium Assistance and to Provide Ongoing Funding for the Maine Guaranteed Access Reinsurance Association,,
+2209,HP1488,"C ""A"" (H-872 )",True,,Adopted on 3/24/2026,Adopted on 3/25/2026
+2210,HP1489,"C ""A"" (H-879 )",True,,Adopted on 3/24/2026,Adopted on 3/25/2026
+2211,SP0899,"C ""A"" (S-604 )",False,An Act to Amend the Laws Governing the Automotive Right to Repair,,
+2211,SP0899,"S ""A"" (S-616 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+2211,SP0899,"S ""B"" (S-635 )",False,,,
+2212,HP1491,"C ""A"" (H-996 )",True,,Adopted on 4/8/2026,Adopted on 4/9/2026
+2212,HP1491,"H ""A"" (H-1007 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""B"" (H-1008 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""C"" (H-1009 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""D"" (H-1010 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""E"" (H-1011 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""F"" (H-1012 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""G"" (H-1013 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""H"" (H-1014 ) to C ""A"" (H-996 )",False,,,
+2212,HP1491,"H ""I"" (H-1015 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""J"" (H-1016 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""K"" (H-1017 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""L"" (H-1018 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""M"" (H-1019 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""N"" (H-1020 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""O"" (H-1021 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""P"" (H-1022 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""Q"" (H-1023 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""R"" (H-1024 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"S ""A"" (S-647 ) to C ""A"" (H-996 )",False,,,
+2212,HP1491,"S ""B"" (S-648 ) to C ""A"" (H-996 )",False,,,
+2212,HP1491,"H ""S"" (H-1026 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""T"" (H-1027 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"H ""U"" (H-1028 ) to C ""A"" (H-996 )",False,,Indefinitely postponed on 4/8/2026,
+2212,HP1491,"S ""C"" (S-650 ) to C ""A"" (H-996 )",False,,,
+2212,HP1491,"S ""D"" (S-651 ) to C ""A"" (H-996 )",False,,,
+2212,HP1491,"S ""E"" (S-654 ) to C ""A"" (H-996 )",False,,,
+2213,HP1492,"C ""A"" (H-1037 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2213,HP1492,"S ""A"" (S-697 ) to C ""A"" (H-1037 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2214,HP1493,"C ""A"" (H-884 )",True,,Adopted on 3/24/2026,Adopted on 3/25/2026
+2216,SP0903,"C ""A"" (S-637 )",True,,Adopted on 4/7/2026,Adopted on 4/6/2026
+2216,SP0903,"S ""A"" (S-691 ) to C ""A"" (S-637 )",False,,,
+2216,SP0903,"H ""A"" (H-1060 ) to C ""A"" (S-637 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2217,SP0904,"C ""A"" (S-638 )",True,,Adopted on 4/8/2026,
+2218,HP1495,"C ""A"" (H-869 )",True,,Adopted on 3/24/2026,Adopted on 3/25/2026
+2219,HP1496,"C ""A"" (H-909 )",True,,Adopted on 3/30/2026,Adopted on 4/2/2026
+2220,HP1497,"C ""A"" (H-858 )",True,,Adopted on 3/17/2026,Adopted on 3/18/2026
+2221,SP0905,"C ""A"" (S-557 )",True,,Adopted on 3/24/2026,Adopted on 3/18/2026
+2222,HP1499,"C ""A"" (H-897 )",True,,Adopted on 3/26/2026,Adopted on 4/6/2026
+2222,HP1499,"C ""B"" (H-898 )",False,,,
+2223,HP1498,"C ""A"" (H-925 )",True,,Adopted on 3/31/2026,Adopted on 4/2/2026
+2224,SP0907,"C ""A"" (S-610 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+2225,SP0908,"C ""A"" (S-603 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+2225,SP0908,"S ""A"" (S-708 ) to C ""A"" (S-603 )",False,,,
+2225,SP0908,"H ""A"" (H-1070 ) to C ""A"" (S-603 )",True,,Adopted on 4/14/2026,Adopted on 4/14/2026
+2226,HP1503,"C ""A"" (H-1046 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2227,HP1504,"C ""A"" (H-878 )",True,,Adopted on 3/24/2026,Adopted on 3/25/2026
+2228,HP1505,"C ""A"" (H-946 )",True,,Adopted on 4/2/2026,Adopted on 4/2/2026
+2230,SP0912,"C ""A"" (S-663 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2231,HP1506,"C ""A"" (H-997 )",True,,Adopted on 4/8/2026,Adopted on 4/8/2026
+2231,HP1506,"C ""B"" (H-998 )",False,An Act to Support Owners of Manufactured Housing,,
+2232,HP1507,"C ""A"" (H-924 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2232,HP1507,"S ""A"" (S-692 ) to C ""A"" (H-924 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2233,HP1509,"C ""A"" (H-1025 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2233,HP1509,"S ""A"" (S-659 ) to C ""A"" (H-1025 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2236,HP1512,"C ""A"" (H-986 )",True,,Adopted on 4/7/2026,Adopted on 4/8/2026
+2236,HP1512,"H ""A"" (H-994 ) to C ""A"" (H-986 )",True,,Adopted on 4/7/2026,Adopted on 4/8/2026
+2240,HP1515,"S ""A"" (S-599 )",True,,Adopted on 4/6/2026,Adopted on 4/2/2026
+2242,HP1521,"C ""A"" (H-982 )",False,,,
+2242,HP1521,"H ""A"" (H-992 )",False,,,
+2244,SP0922,"S ""A"" (S-702 )",True,,Adopted on 4/13/2026,Adopted on 4/13/2026
+2245,HP1523,"H ""A"" (H-1069 )",True,,Adopted on 4/14/2026,Adopted on 4/14/2026

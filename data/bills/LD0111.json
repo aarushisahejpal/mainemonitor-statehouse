@@ -1,0 +1,159 @@
+{
+  "ld": 111,
+  "paper": "HP0076",
+  "paper_display": "HP 76",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095666",
+  "title": "An Act to Increase the State's Share of Retired Teacher Health Insurance",
+  "committee": "Labor",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Apr 29, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/20/2025 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/29/2026 - Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)",
+  "sponsors": [
+    {
+      "name": "Janice DODGE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Belfast"
+    },
+    {
+      "name": "Michael BRENNAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Kelly MURPHY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Scarborough"
+    },
+    {
+      "name": "William PLUECKER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Warren"
+    },
+    {
+      "name": "Joseph RAFFERTY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Charles SKOLD",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Sophia WARREN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Scarborough"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE RETIREMENT SYSTEM",
+      "minor": "TEACHERS",
+      "detail": "STATE SHARE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "date_raw": "1/8/2025",
+      "chamber": "House",
+      "description": "Committee on Labor suggested and ordered printed. The Bill was REFERRED to the Committee on LABOR . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-01-08",
+      "date_raw": "1/8/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on LABOR in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-104) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-104) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-104), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending ENACTMENT - Emergency -2/3 Elected Required"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-04-29",
+      "date_raw": "4/29/2026",
+      "chamber": "Senate",
+      "description": "Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-104 )",
+      "new_title": "",
+      "house_action": "Adopted on 5/7/2025",
+      "senate_action": "Adopted on 5/13/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0076&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0076&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0076",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0076&SessionID=16",
+  "scraped_at": "2026-06-30T17:38:00Z"
+}

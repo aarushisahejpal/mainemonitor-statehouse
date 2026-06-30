@@ -1,0 +1,101 @@
+{
+  "ld": 1400,
+  "paper": "HP0922",
+  "paper_display": "HP 922",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098039",
+  "title": "An Act to Exempt Certain Public School Districts and Their Employees from the Paid Family and Medical Leave Benefits Program",
+  "committee": "Labor",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Jun 5, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/5/2025 - Reports READ . On motion of Representative ROEDER of Bangor, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/5/2025 - Reports Read On motion by Senator TIPPING of Penobscot the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Nathan CARLOW",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Buxton"
+    },
+    {
+      "name": "Kimberly HAGGAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hampden"
+    },
+    {
+      "name": "Joshua MORRIS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Turner"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "COMPENSATION",
+      "minor": "PAID LEAVE",
+      "detail": "SCHOOL EMPLOYEES EXEMPTED"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-01",
+      "date_raw": "4/1/2025",
+      "chamber": "House",
+      "description": "Committee on Labor suggested and ordered printed. The Bill was REFERRED to the Committee on LABOR . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-01",
+      "date_raw": "4/1/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on LABOR in concurrence"
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative ROEDER of Bangor, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator TIPPING of Penobscot the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-505 )",
+      "new_title": "An Act to Exempt Certain Public School Districts and Agricultural Employers and Employees from the Paid Family and Medical Leave Benefits Program",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0922&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0922&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0922",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0922&SessionID=16",
+  "scraped_at": "2026-06-30T19:18:45Z"
+}

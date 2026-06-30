@@ -1,0 +1,108 @@
+{
+  "ld": 1247,
+  "paper": "HP0822",
+  "paper_display": "HP 822",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097819",
+  "title": "An Act to Restrict Municipal Ordinance Requirements Regarding Housing Developments",
+  "committee": "Housing and Economic Development",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Jan 20, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/25/2025 - Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+  "last_senate_action": "1/20/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Traci GERE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunkport"
+    },
+    {
+      "name": "Daniel ANKELES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "Cassie JULIA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterville"
+    },
+    {
+      "name": "Marc MALON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Biddeford"
+    },
+    {
+      "name": "Anne-Marie MASTRACCIO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Sanford"
+    },
+    {
+      "name": "Amy ROEDER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HOUSING",
+      "minor": "REGULATION",
+      "detail": "MUNICIPAL ORDINANCES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "date_raw": "3/25/2025",
+      "chamber": "House",
+      "description": "Committee on Housing and Economic Development suggested and ordered printed. The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-25",
+      "date_raw": "3/25/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT in concurrence"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-01-20",
+      "date_raw": "1/20/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0822&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0822",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0822&SessionID=16",
+  "scraped_at": "2026-06-30T19:07:18Z"
+}

@@ -1,0 +1,81 @@
+{
+  "ld": 1371,
+  "paper": "HP0894",
+  "paper_display": "HP 894",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097962",
+  "title": "An Act to Tie Judicial Salaries to the Average Judicial Salaries of Other New England States",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 21, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/20/2025 - Reports READ . On motion of Representative KUHN of Falmouth, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/21/2025 - Reports Read On motion by Senator CARNEY of Cumberland the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Kenneth FREDETTE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Newport"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "COURTS",
+      "minor": "JUDGES",
+      "detail": "COMPENSATION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-28",
+      "date_raw": "3/28/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on March 28, 2025. The Bill was REFERRED to the Committee on JUDICIARY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative KUHN of Falmouth, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator CARNEY of Cumberland the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-196 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0894&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0894&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0894",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0894&SessionID=16",
+  "scraped_at": "2026-06-30T19:16:40Z"
+}

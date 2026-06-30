@@ -1,0 +1,378 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 340
+H.P. 240
+House of Representatives, February 3, 2025
+An Act Regarding Speedy Trials
+Received by the Clerk of the House on January 30, 2025.  Referred to the Committee on 
+Judiciary pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MOONEN of Portland.
+Cosponsored by Senator CARNEY of Cumberland and
+Representatives: Speaker FECTEAU of Biddeford, KUHN of Falmouth, LEE of Auburn, 
+PUGH of Portland, SATO of Gorham, SINCLAIR of Bath, Senator: TALBOT ROSS of 
+Cumberland.
+
+Page 1 - 132LR0008(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  15 MRSA c. 207 is enacted to read:
+3
+CHAPTER 207
+4
+SPEEDY TRIALS
+5
+§1491.  Short title
+6
+This chapter may be known and cited as "the Maine Speedy Trial Act."
+7
+§1492. Time for commencement of trial 
+8
+1.  Beginning January 1, 2027; maximum time period before trial.  For any 
+9
+complaint, indictment or information filed on or after January 1, 2027 and before January 
+10
+1, 2029, trial must commence within the following time limits:
+11
+A. For a defendant charged with murder or a Class A crime, trial must commence 
+12
+within 24 months from arraignment;
+13
+B. For a defendant charged with a Class B or Class C crime, trial must commence 
+14
+within 15 months from arraignment; and
+15
+C. For a defendant charged with a Class D or Class E crime, trial must commence 
+16
+within 12 months from arraignment.
+17
+If a defendant is charged with multiple counts in the same complaint, indictment or 
+18
+information, the applicable time limit is determined by the highest sentencing classification 
+19
+assigned to any count charged.
+20
+2. Beginning January 1, 2029; maximum time period before trial.  For any 
+21
+complaint, indictment or information filed on or after January 1, 2029 and before January 
+22
+1, 2031, trial must commence within the following time limits:
+23
+A. For a defendant charged with murder or a Class A crime, trial must commence 
+24
+within 24 months from arraignment;
+25
+B. For a defendant charged with a Class B or Class C crime, trial must commence 
+26
+within 12 months from arraignment; and
+27
+C. For a defendant charged with a Class D or Class E crime, trial must commence 
+28
+within 9 months from arraignment.
+29
+If a defendant is charged with multiple counts in the same complaint, indictment or 
+30
+information, the applicable time limit is determined by the highest sentencing classification 
+31
+assigned to any count charged.
+32
+3. Beginning January 1, 2031; maximum time period before trial.  For any 
+33
+complaint, indictment or information filed on or after January 1, 2031, trial must commence 
+34
+within the following time limits:
+35
+A. For a defendant charged with murder or a Class A crime, trial must commence 
+36
+within 24 months from arraignment;
+
+Page 2 - 132LR0008(01)
+1
+B. For a defendant charged with a Class B or Class C crime, trial must commence 
+2
+within 9 months from arraignment; and
+3
+C. For a defendant charged with a Class D or Class E crime, trial must commence 
+4
+within 6 months from arraignment.
+5
+If a defendant is charged with multiple counts in the same complaint, indictment or 
+6
+information, the applicable time limit is determined by the highest sentencing classification 
+7
+assigned to any count charged.
+8
+4.  Time excluded.  Delays attributable to the following are excluded in computing the 
+9
+time limits in subsections 1, 2 and 3:
+10
+A. Any trial or other court proceedings related to other charges against the defendant;
+11
+B. The absence or unavailability of the defendant;
+12
+C. Any proceedings relating to the extradition and transportation of the defendant from 
+13
+another jurisdiction under Title 15, chapter 9;
+14
+D. The time during which prosecution is deferred by the State pursuant to written 
+15
+agreement with the defendant pursuant to Title 17-A, chapter 67, subchapter 4 with the 
+16
+approval of the court or pursuant to the Maine Rules of Unified Criminal Procedure, 
+17
+Rule 11B or succeeding rule;
+18
+E. Any proceedings relating to a change of venue under the Maine Rules of Unified 
+19
+Criminal Procedure, Rule 21 or succeeding rule;
+20
+F. A reasonable time period during which the defendant is joined for trial with a 
+21
+codefendant as to whom the time for commencement of trial under subsection 1, 2 or 
+22
+3 has not expired and no motion for severance has been granted.  For the purposes of 
+23
+this paragraph, reasonableness is determined at the court's discretion;
+24
+G. A reasonable time to transport the defendant from another county or to and from a 
+25
+place of examination or hospitalization, except that any time consumed in excess of 5 
+26
+days from the date of an order of removal or an order directing transportation under 
+27
+this paragraph and the defendant's arrival at the destination is presumed to be 
+28
+unreasonable;
+29
+H. Any proceeding, including any examination, to evaluate the mental competency, 
+30
+abnormal condition of the mind, criminal responsibility or physical capacity of the 
+31
+defendant;
+32
+I. The time during which the defendant is mentally incompetent or physically unable 
+33
+to stand trial;
+34
+J. A period not to exceed 60 days during which any motion or request concerning the 
+35
+defendant is under advisement by the court after considering written or oral argument 
+36
+on the motion from the parties;
+37
+K. A continuance granted at the defendant's request. Before requesting a continuance, 
+38
+the defense attorney for a defendant shall inform the court that the attorney has advised 
+39
+the defendant of the right to a speedy trial and the effect of a continuance. If a defendant 
+40
+is not represented by an attorney, the court shall inform the defendant of the right to a 
+41
+speedy trial and the effect of a continuance and, before granting the request, allow a 
+42
+reasonable time for the defendant to withdraw the request; 
+
+Page 3 - 132LR0008(01)
+1
+L. An enlargement of time granted at the defendant's request or with the defendant's 
+2
+consent pursuant to section 1494;
+3
+M. A reasonable period of time after each change in the defendant's counsel at the 
+4
+defendant's request. Any time in excess of 30 days from the defendant's request to 
+5
+obtain new counsel is presumed to be unreasonable; and
+6
+N. An interlocutory appeal.
+7
+5. Effect of mistrial or order of new trial.  If the court orders a mistrial or grants a 
+8
+motion for a new trial, the new trial must commence for a defendant within 9 months from 
+9
+the date of the mistrial or date that the order granting a new trial is entered on the docket.
+10
+6. Rules. The Supreme Judicial Court may adopt rules necessary to implement this Act.
+11
+§1493. Waiver of speedy trial right 
+12
+A defendant may waive the defendant's right to a speedy trial under this Act.  The 
+13
+waiver is not effective unless the court has advised the defendant of the defendant's right 
+14
+to a speedy trial and the effect of the waiver.
+15
+§1494. Enlargement of time
+16
+1.  Enlargement of time; factors. The court, for good cause, may grant a motion to 
+17
+enlarge the applicable maximum time period before trial under section 1492.  A court may 
+18
+not grant a motion for enlargement of time under this section unless the court makes 
+19
+findings on the record that the interests of justice served by granting the enlargement 
+20
+outweigh the interests of the public and the interest of the defendant in a speedy trial. In 
+21
+making this determination, the court shall consider, at a minimum, the following factors:
+22
+A.  Whether the failure to grant the motion for enlargement of time is likely to make 
+23
+continuation of the proceeding impossible or to result in a miscarriage of justice;
+24
+B. Whether the case is so unusual or so complex, due to the number of defendants, the 
+25
+number of counts, the nature of the prosecution or the existence of novel questions of 
+26
+fact or law, that it is unreasonable to expect adequate preparation for pretrial 
+27
+proceedings or for the trial within the applicable time limit established by section 1492; 
+28
+and
+29
+C. Whether the failure to grant the motion for enlargement of time would unreasonably 
+30
+deny the defendant or the State continuity of counsel, would limit the availability of 
+31
+witnesses for the defendant or the State or would deny counsel for the defendant or the 
+32
+attorney for the State the reasonable time necessary for effective preparation, taking 
+33
+into account the exercise of due diligence.
+34
+2.  Consideration of certain factors prohibited. A court may not consider either the 
+35
+general congestion of the court's calendar or lack of diligent preparation on the part of the 
+36
+attorney for the State as factors weighing in favor of granting an enlargement of time under 
+37
+this section. 
+38
+§1495.  Remedy for noncompliance with time limit
+39
+1.  Motion by defendant or court. The defendant, by motion, or the court, acting sua 
+40
+sponte, may raise the issue of noncompliance with the applicable time limit established by 
+41
+section 1492.  
+
+Page 4 - 132LR0008(01)
+1
+2. Procedure on motion. Notice of the motion under subsection 1 and an opportunity 
+2
+to be heard must be provided to the defendant and to the attorney for the State.  
+3
+3. Remedy; factors. The court shall dismiss the case, with or without prejudice, if it 
+4
+determines that the defendant's trial did not commence within the applicable time limit 
+5
+established by section 1492 and any enlargement of that time limit ordered under section 
+6
+1494.  In making a determination whether to dismiss the case with or without prejudice, 
+7
+the court shall consider, at a minimum, the following factors:
+8
+A. The seriousness of the offense;
+9
+B. The facts and circumstances of the case that prompted the filing of the motion to 
+10
+dismiss; 
+11
+C. Whether the State can initiate future criminal proceedings based on the conduct 
+12
+underlying the dismissed case and the impact of such a prosecution on the 
+13
+administration of justice; 
+14
+D. An objection made by a victim pursuant to Title 17-A, section 2110; and
+15
+E. Any other factor the court considers relevant.
+16
+Sec. 2.  17-A MRSA §2102, sub-§1, ¶F-2, as enacted by PL 2021, c. 330, §6 and 
+17
+reallocated by RR 2021, c. 1, Pt. A, §14, is amended to read:
+18
+F-2.  The final disposition of the charges against the defendant, including the amount 
+19
+of deductions to time served that a defendant has accumulated as of the date of 
+20
+sentencing.  On or before the date of sentencing, the attorney for the State shall obtain 
+21
+information about the deductions to time served from each correctional facility at 
+22
+which a defendant was detained prior to sentencing on the relevant charges; and
+23
+Sec. 3.  17-A MRSA §2102, sub-§1, ¶F-3 is enacted to read:
+24
+F-3.  The time and place of any hearing under Title 15, section 1495, subsection 2 to 
+25
+determine the remedy for noncompliance with the Maine Speedy Trial Act and the right 
+26
+to be heard; and
+27
+Sec. 4.  17-A MRSA §2110 is enacted to read:
+28
+§2110.  Procedure on motion to dismiss for violation of Maine Speedy Trial Act
+29
+When the attorney for the State receives notice of a motion under Title 15, section 1495 
+30
+seeking dismissal of charges for noncompliance with the Maine Speedy Trial Act, the 
+31
+attorney for the State shall disclose to the court any attempts made to notify each victim 
+32
+and any objection by a victim. In a proceeding to determine the remedy for noncompliance 
+33
+with the Maine Speedy Trial Act, if a victim is present in court, the victim may address the 
+34
+court at that time.
+35
+SUMMARY
+36
+This bill establishes the Maine Speedy Trial Act. The Act establishes different time 
+37
+limits for the commencement of a defendant's criminal trial depending on when the 
+38
+complaint, indictment or information was filed and what class of crime the defendant is 
+39
+charged with. The Act also provides a time limit for the commencement of a new trial 
+40
+following a mistrial or order for a new trial. A defendant may waive the right to a speedy 
+36
+37
+38
+39
+40
+
+Page 5 - 132LR0008(01)
+41
+trial under the Act after the defendant has been advised of the defendant's rights with 
+42
+respect to the Act by the court. 
+3
+The Act also establishes several reasons for delay, which are excluded in computing 
+4
+the time limits for the commencement of trial; factors the court may consider when granting 
+5
+a motion to enlarge the maximum time period before commencement of trial; and remedies 
+6
+available to the defendant when the time limits established by the Act are not complied 
+7
+with. 
+8
+Upon motion by the defendant, the court must dismiss the case either with or without 
+9
+prejudice if it finds that the defendant's trial did not commence within the applicable time 
+10
+limit or any enlargement of that limit. Any victim of the crime for which the defendant is 
+11
+charged must be notified of any hearing to determine whether the defendant's rights under 
+12
+the Act have been violated, and that victim may object to the dismissal of charges and may 
+13
+be heard by the court at the time of that hearing.
+1
+2

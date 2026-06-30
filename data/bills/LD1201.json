@@ -1,0 +1,319 @@
+{
+  "ld": 1201,
+  "paper": "SP0490",
+  "paper_display": "SP 490",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097626",
+  "title": "An Act to Protect Maine Agriculture and Farms by Exempting Certain Pesticides from Regulation",
+  "committee": "",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Jun 25, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "None",
+  "last_senate_action": "6/25/2025 - Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)",
+  "sponsors": [
+    {
+      "name": "Harold STEWART",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Mark COOPER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Windham"
+    },
+    {
+      "name": "Dean CRAY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Palmyra"
+    },
+    {
+      "name": "Timothy GUERRETTE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Caribou"
+    },
+    {
+      "name": "Randall HALL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Wilton"
+    },
+    {
+      "name": "Caldwell JACKSON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Oxford"
+    },
+    {
+      "name": "Jeffrey TIMBERLAKE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "PESTICIDES",
+      "minor": "MANAGEMENT",
+      "detail": "EXCLUSIONS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Committee on AGRICULTURE, CONSERVATION AND FORESTRY suggested and ordered printed On motion by Senator STEWART of Aroostook Tabled until Later in Today's Session, pending REFERENCE Unfinished Business"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-03-25",
+      "date_raw": "3/25/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-03-27",
+      "date_raw": "3/27/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-01",
+      "date_raw": "4/1/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-15",
+      "date_raw": "4/15/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-22",
+      "date_raw": "4/22/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-23",
+      "date_raw": "4/23/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-29",
+      "date_raw": "4/29/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-14",
+      "date_raw": "5/14/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-04",
+      "date_raw": "6/4/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-11",
+      "date_raw": "6/11/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-13",
+      "date_raw": "6/13/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-13",
+      "date_raw": "6/13/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-18",
+      "date_raw": "6/18/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0490&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0490",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0490&SessionID=16",
+  "scraped_at": "2026-06-30T19:03:45Z"
+}

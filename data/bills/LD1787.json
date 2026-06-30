@@ -1,0 +1,353 @@
+{
+  "ld": 1787,
+  "paper": "HP1198",
+  "paper_display": "HP 1198",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098808",
+  "title": "An Act to Increase Seed Money Contribution Limits for Gubernatorial Candidates Under the Maine Clean Election Act",
+  "committee": "Veterans and Legal Affairs",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 12, 2025",
+  "governor_action": "Signed, Jun 12, 2025",
+  "chaptered_law": "ACTPUB, Chapter 296",
+  "chapter": "296",
+  "became_law": true,
+  "last_house_action": "6/9/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/9/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Lori GRAMLICH",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Orchard Beach"
+    },
+    {
+      "name": "Anne BEEBE-CENTER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Knox"
+    },
+    {
+      "name": "Richard BENNETT",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Jill DUSON",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Sean FAIRCLOTH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Marc MALON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Biddeford"
+    },
+    {
+      "name": "Ambureen RANA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Morgan RIELLY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    },
+    {
+      "name": "Michael TIPPING",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ELECTIONS",
+      "minor": "CAMPAIGN FINANCE",
+      "detail": "CLEAN ELECTIONS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "House",
+      "description": "Committee on Veterans and Legal Affairs suggested and ordered printed. The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS in concurrence"
+    },
+    {
+      "date": "2025-06-04",
+      "date_raw": "6/4/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SUPICA of Bangor, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-414) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-414) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator HICKMAN of Kennebec the Majority Ought to Pass as Amended Report ACCEPTED . PREVAILED Roll Call Ordered Roll Call Number 369 Yeas 20 - Nays 12 - Excused 3 - Absent 0 Bill READ ONCE. Committee Amendment \"A\" (H-414) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-414) in concurrence."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "369",
+      "date": "2025-06-05",
+      "date_raw": "June 5, 2025",
+      "motion": "ACCEPT MAJORITY OUGHT TO PASS AS AMENDED REPORT",
+      "outcome": "PREVAILS",
+      "yeas": 20,
+      "nays": 12,
+      "absent": 0,
+      "excused": 3,
+      "vacant": 0,
+      "yeas_required": 17,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "Y"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "E"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "E"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "E"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280098808&chamber=Senate&serialnumber=369"
+    }
+  ],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-414 )",
+      "new_title": "An Act to Increase Seed Money Contribution Limits for Gubernatorial Candidates Under the Maine Clean Election Act",
+      "house_action": "Adopted on 6/4/2025",
+      "senate_action": "Adopted on 6/5/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1198&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1198&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1198&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1198",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1198&SessionID=16",
+  "scraped_at": "2026-06-30T19:48:05Z"
+}

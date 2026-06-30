@@ -1,0 +1,90 @@
+{
+  "ld": 321,
+  "paper": "HP0221",
+  "paper_display": "HP 221",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096129",
+  "title": "An Act to Make May Progressive Supranuclear Palsy Month",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Enacted, May 20, 2025",
+  "governor_action": "Unsigned, May 20, 2025",
+  "chaptered_law": "ACTPUB, Chapter 81",
+  "chapter": "81",
+  "became_law": true,
+  "last_house_action": "5/6/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/7/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "John DUCHARME",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Madison"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE GOVERNMENT",
+      "minor": "STATE COMMEMORATIONS",
+      "detail": "PROGRESSIVE SUPRANUCLEAR PALSY MTH"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "date_raw": "1/30/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on January 30, 2025. The Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-04-29",
+      "date_raw": "4/29/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED, in concurrence. READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0221&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0221&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0221",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0221&SessionID=16",
+  "scraped_at": "2026-06-30T17:56:26Z"
+}

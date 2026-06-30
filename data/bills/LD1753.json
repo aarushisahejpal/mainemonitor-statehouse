@@ -1,0 +1,109 @@
+{
+  "ld": 1753,
+  "paper": "HP1171",
+  "paper_display": "HP 1171",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098713",
+  "title": "An Act to Establish the Upper St. John Valley Recovery High School Program",
+  "committee": "Education and Cultural Affairs",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/22/2025 - Committee on Education and Cultural Affairs suggested and ordered printed. The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Lucien DAIGLE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Fort Kent"
+    },
+    {
+      "name": "Flavia DEBRITO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterville"
+    },
+    {
+      "name": "Abigail GRIFFIN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Levant"
+    },
+    {
+      "name": "Kathy JAVNER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Chester"
+    },
+    {
+      "name": "Michael LEMELIN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Chelsea"
+    },
+    {
+      "name": "Marianne MOORE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Washington"
+    },
+    {
+      "name": "William TUELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "East Machias"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "SUBSTANCE USE DISORDER",
+      "minor": "TREATMENT",
+      "detail": "RECOVERY HIGH SCHOOLS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-22",
+      "date_raw": "4/22/2025",
+      "chamber": "House",
+      "description": "Committee on Education and Cultural Affairs suggested and ordered printed. The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-22",
+      "date_raw": "4/22/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS in concurrence"
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1171&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1171",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1171&SessionID=16",
+  "scraped_at": "2026-06-30T19:45:27Z"
+}

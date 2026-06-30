@@ -1,0 +1,90 @@
+{
+  "ld": 2202,
+  "paper": "HP1481",
+  "paper_display": "HP 1481",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101500",
+  "title": "An Act to Require Notice to the Attorney General Prior to the Merger of Certain Health Care Entities as Recommended by the Commission to Evaluate the Scope of Regulatory Review and Oversight over Health Care Transactions That Impact the Delivery of Health Care Services in the State",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 13, 2026",
+  "governor_action": "Signed, Apr 13, 2026",
+  "chaptered_law": "ACTPUB, Chapter 661",
+  "chapter": "661",
+  "became_law": true,
+  "last_house_action": "4/2/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/6/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Kristi MATHIESON",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kittery"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HEALTH CARE FACILITIES",
+      "minor": "ADMINISTRATION",
+      "detail": "MERGERS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "date_raw": "2/10/2026",
+      "chamber": "House",
+      "description": "Representative MATHIESON for the Joint Standing Committee on Health Coverage, Insurance and Financial Services pursuant to Resolve 2025, chapter 106, section 8 reports that the Bill be REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES and printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-02-10",
+      "date_raw": "2/10/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. On motion by Senator Bailey of York REFERRED to Committee on Health Coverage, Insurance and Financial Services, in concurrence."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED, in concurrence. READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1481&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1481&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1481",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1481&SessionID=16",
+  "scraped_at": "2026-06-30T20:21:33Z"
+}

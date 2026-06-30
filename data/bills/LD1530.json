@@ -1,0 +1,124 @@
+{
+  "ld": 1530,
+  "paper": "SP0614",
+  "paper_display": "SP 614",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098248",
+  "title": "An Act to Improve the Sustainability of Emergency Medical Services in Maine",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Apr 29, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/6/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/29/2026 - Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)",
+  "sponsors": [
+    {
+      "name": "Glenn CURRY",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Waldo"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "INSURANCE",
+      "minor": "HEALTH INSURANCE",
+      "detail": "EMERGENCY MEDICAL REIMBURSEMENT"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES suggested and ordered printed REFERENCE to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "Senate",
+      "description": "Reports READ. On motion by Senator BAILEY of York the Report A Ought to Pass as Amended by Committee Amendment \"A\" (S-595) Report ACCEPTED. READ ONCE. Committee Amendment \"A\" (S-595) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-595) Sent down for concurrence."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MATHIESON of Kittery, REPORT A Ought to Pass as Amended was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (S-595) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-595) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending PASSAGE TO BE ENACTED , in concurrence."
+    },
+    {
+      "date": "2026-04-29",
+      "date_raw": "4/29/2026",
+      "chamber": "Senate",
+      "description": "Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-595 )",
+      "new_title": "",
+      "house_action": "Adopted on 4/2/2026",
+      "senate_action": "Adopted on 4/2/2026",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "C \"B\" (S-596 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0614&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0614&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0614&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0614",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0614&SessionID=16",
+  "scraped_at": "2026-06-30T19:28:26Z"
+}

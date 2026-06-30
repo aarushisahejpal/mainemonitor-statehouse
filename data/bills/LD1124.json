@@ -1,0 +1,85 @@
+{
+  "ld": 1124,
+  "paper": "HP0743",
+  "paper_display": "HP 743",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097583",
+  "title": "An Act Regarding Retirement Benefits and Salary Adjustments for Judicial Employees",
+  "committee": "Labor",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 13, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/15/2025 - Representative KUHN from the Committee on JUDICIARY Reporting that the Bill be REFERRED to the Committee on LABOR . Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on LABOR Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/13/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Kenneth FREDETTE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Newport"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "COURTS",
+      "minor": "STAFF",
+      "detail": "SALARIES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "House",
+      "description": "Committee on Judiciary suggested and ordered printed. The Bill was REFERRED to the Committee on JUDICIARY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on JUDICIARY in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-04-15",
+      "date_raw": "4/15/2025",
+      "chamber": "House",
+      "description": "Representative KUHN from the Committee on JUDICIARY Reporting that the Bill be REFERRED to the Committee on LABOR . Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on LABOR Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED and the Bill was REFERRED to the Committee on LABOR in concurrence"
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0743&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0743",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0743&SessionID=16",
+  "scraped_at": "2026-06-30T18:57:51Z"
+}

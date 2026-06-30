@@ -1,0 +1,88 @@
+{
+  "ld": 944,
+  "paper": "HP0609",
+  "paper_display": "HP 609",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097222",
+  "title": "RESOLUTION, Proposing an Amendment to the Constitution of Maine to Improve Representation and Simplify Legislative Redistricting",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 21, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/21/2025 - Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+  "last_senate_action": "5/21/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Sophia WARREN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Scarborough"
+    },
+    {
+      "name": "Richard BENNETT",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "David BOYER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Poland"
+    },
+    {
+      "name": "Nicole GROHOSKI",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Hancock"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LEGISLATURE",
+      "minor": "REDISTRICTING",
+      "detail": "HOUSE OF REPRESENTATIVES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-05",
+      "date_raw": "3/5/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on March 5, 2025. The RESOLUTION was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0609&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0609",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0609&SessionID=16",
+  "scraped_at": "2026-06-30T18:43:45Z"
+}

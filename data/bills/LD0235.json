@@ -1,0 +1,82 @@
+{
+  "ld": 235,
+  "paper": "HP0158",
+  "paper_display": "HP 158",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095874",
+  "title": "Resolve, Regarding the Operation and Future Capacity of State-owned Landfills",
+  "committee": "Environment and Natural Resources",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "1/16/2025 - Received by the Clerk of the House on January 16, 2025. The Resolve was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+  "last_senate_action": "3/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Richard CAMPBELL",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Orrington"
+    },
+    {
+      "name": "Daniel ANKELES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "James DILL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Town"
+    },
+    {
+      "name": "Michael SOBOLESKI",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Phillips"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "SOLID WASTES",
+      "minor": "MANAGEMENT",
+      "detail": "FUTURE CAPACITY"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "date_raw": "1/16/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on January 16, 2025. The Resolve was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0158&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0158",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0158&SessionID=16",
+  "scraped_at": "2026-06-30T17:47:53Z"
+}

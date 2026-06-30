@@ -1,0 +1,124 @@
+{
+  "ld": 1982,
+  "paper": "HP1325",
+  "paper_display": "HP 1325",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099395",
+  "title": "An Act to Ensure Uniformity in the Regulation of PFAS",
+  "committee": "Environment and Natural Resources",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Jun 4, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/3/2025 - Reports READ . On motion of Representative DOUDERA of Camden, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/4/2025 - Reports Read On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Amy ARATA",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "New Gloucester"
+    },
+    {
+      "name": "Susan BERNARD",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "William BRIDGEO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Augusta"
+    },
+    {
+      "name": "Dean CRAY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Palmyra"
+    },
+    {
+      "name": "James DILL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Town"
+    },
+    {
+      "name": "Timothy GUERRETTE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Caribou"
+    },
+    {
+      "name": "Allison HEPLER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Woolwich"
+    },
+    {
+      "name": "Caldwell JACKSON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Oxford"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "PESTICIDES",
+      "minor": "MANAGEMENT",
+      "detail": "UNIFORM PRACTICES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative DOUDERA of Camden, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-04",
+      "date_raw": "6/4/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-394 )",
+      "new_title": "An Act to Exempt Pesticides from the Law Regulating Perfluoroalkyl and Polyfluoroalkyl Substances in Products",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1325&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1325&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1325",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1325&SessionID=16",
+  "scraped_at": "2026-06-30T20:04:04Z"
+}

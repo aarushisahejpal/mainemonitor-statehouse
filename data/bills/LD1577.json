@@ -1,0 +1,136 @@
+{
+  "ld": 1577,
+  "paper": "HP1035",
+  "paper_display": "HP 1035",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098406",
+  "title": "Resolve, to Establish the Commission to Study and Recommend Solutions for Modernizing the Maine Legislature",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Feb 3, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/25/2025 - Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+  "last_senate_action": "2/3/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Morgan RIELLY",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    },
+    {
+      "name": "Richard BENNETT",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "David BOYER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Poland"
+    },
+    {
+      "name": "Stacy BRENNER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Nathan CARLOW",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Buxton"
+    },
+    {
+      "name": "Holly EATON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Deer Isle"
+    },
+    {
+      "name": "Billy Bob FAULKINGHAM",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Winter Harbor"
+    },
+    {
+      "name": "Craig HICKMAN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Kennebec"
+    },
+    {
+      "name": "Harold STEWART",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Laura SUPICA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LEGISLATURE",
+      "minor": "ADMINISTRATION",
+      "detail": "MODERNIZATION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "House",
+      "description": "Committee on State and Local Government suggested and ordered printed. The Resolve was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT in concurrence"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-02-03",
+      "date_raw": "2/3/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1035&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1035",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1035&SessionID=16",
+  "scraped_at": "2026-06-30T19:31:50Z"
+}

@@ -1,0 +1,104 @@
+{
+  "ld": 1991,
+  "paper": "SP0803",
+  "paper_display": "SP 803",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100706",
+  "title": "An Act to Authorize an Educational Requirement for Seaweed Permit Holders",
+  "committee": "Marine Resources",
+  "status_summary": "",
+  "final_disposition": "Enacted, Mar 19, 2026",
+  "governor_action": "Signed, Mar 19, 2026",
+  "chaptered_law": "ACTPUB, Chapter 569",
+  "chapter": "569",
+  "became_law": true,
+  "last_house_action": "3/10/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/12/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Denise TEPLER",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Sagadahoc"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MARINE PLANTS",
+      "minor": "SEAWEED",
+      "detail": "PERMITS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-03",
+      "date_raw": "12/3/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on December 3, 2025 and REFERRED to the Committee on MARINE RESOURCES pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2026-02-26",
+      "date_raw": "2/26/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . Bill READ ONCE. Committee Amendment \"A\" (S-516) READ and ADOPTED. ASSIGNED FOR SECOND READING NEXT LEGISLATIVE DAY."
+    },
+    {
+      "date": "2026-03-03",
+      "date_raw": "3/3/2026",
+      "chamber": "Senate",
+      "description": "COMMITTEE ON BILLS IN THE SECOND READING REPORTS NO FURTHER VERBAL AMENDMENTS NECESSARY. REPORT ACCEPTED. READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-516) Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2026-03-05",
+      "date_raw": "3/5/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-516) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-10",
+      "date_raw": "3/10/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-12",
+      "date_raw": "3/12/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-516 )",
+      "new_title": "",
+      "house_action": "Adopted on 3/5/2026",
+      "senate_action": "Adopted on 2/26/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0803&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0803&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0803&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0803",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0803&SessionID=16",
+  "scraped_at": "2026-06-30T20:04:43Z"
+}

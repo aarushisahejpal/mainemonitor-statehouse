@@ -1,0 +1,149 @@
+{
+  "ld": 417,
+  "paper": "HP0271",
+  "paper_display": "HP 271",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096252",
+  "title": "An Act Regarding the Confidentiality of Certain Records Belonging to the Department of Agriculture, Conservation and Forestry Related to the Bureau of Forestry",
+  "committee": "Agriculture, Conservation and Forestry",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 14, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/13/2025 - Reports READ . On motion of Representative PLUECKER of Warren, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/14/2025 - Reports Read On motion by Senator TALBOT ROSS of Cumberland the Majority Ought Not to Pass Report ACCEPTED . in concurrence Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Jennifer POIRIER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Skowhegan"
+    },
+    {
+      "name": "David BOYER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Poland"
+    },
+    {
+      "name": "Elizabeth CARUSO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Caratunk"
+    },
+    {
+      "name": "John DUCHARME",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Madison"
+    },
+    {
+      "name": "David HAGGAN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Rachel HENDERSON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Rumford"
+    },
+    {
+      "name": "Adam LEE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "Laurie OSHER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Orono"
+    },
+    {
+      "name": "Rachel TALBOT ROSS",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "FORESTRY",
+      "minor": "PRACTICES",
+      "detail": "FORESTRY BUREAU INVESTIGATIONS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "House",
+      "description": "Committee on Agriculture, Conservation and Forestry suggested and ordered printed. The Bill was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative PLUECKER of Warren, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-14",
+      "date_raw": "5/14/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator TALBOT ROSS of Cumberland the Majority Ought Not to Pass Report ACCEPTED . in concurrence Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-114 )",
+      "new_title": "An Act Regarding Confidentiality of Certain Records Belonging to the Bureau of Forestry",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0271&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0271&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0271",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0271&SessionID=16",
+  "scraped_at": "2026-06-30T18:03:37Z"
+}

@@ -1,0 +1,161 @@
+{
+  "ld": 1866,
+  "paper": "SP0736",
+  "paper_display": "SP 736",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098978",
+  "title": "An Act to Amend the Laws Regarding the State-designated Agency Advocating for Individuals with Serious Mental Illness",
+  "committee": "Health and Human Services",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 17, 2025",
+  "governor_action": "Signed, Jun 17, 2025",
+  "chaptered_law": "ACTPUB, Chapter 349",
+  "chapter": "349",
+  "became_law": true,
+  "last_house_action": "6/10/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/11/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Anne CARNEY",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Richard BENNETT",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Flavia DEBRITO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterville"
+    },
+    {
+      "name": "Anne GRAHAM",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "North Yarmouth"
+    },
+    {
+      "name": "Rachel HENDERSON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Rumford"
+    },
+    {
+      "name": "Julia MCCABE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lewiston"
+    },
+    {
+      "name": "Michele MEYER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Eliot"
+    },
+    {
+      "name": "Marianne MOORE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Washington"
+    },
+    {
+      "name": "Harold STEWART",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Samuel ZAGER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MENTAL HEALTH SERVICES",
+      "minor": "PLANNING",
+      "detail": "ADVOCACY AGENCIES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on May 1, 2025 and REFERRED to the Committee on HEALTH AND HUMAN SERVICES pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE . Committee Amendment \"A\" (S-318) READ and ADOPTED . Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-318) . Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-318) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-11",
+      "date_raw": "6/11/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-318 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/9/2025",
+      "senate_action": "Adopted on 6/9/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0736&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0736&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0736&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0736",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0736&SessionID=16",
+  "scraped_at": "2026-06-30T19:54:32Z"
+}

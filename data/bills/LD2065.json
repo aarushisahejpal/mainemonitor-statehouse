@@ -1,0 +1,110 @@
+{
+  "ld": 2065,
+  "paper": "SP0854",
+  "paper_display": "SP 854",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100983",
+  "title": "An Act to Provide One-time Funds to Support the Construction of a Psychiatric Residential Treatment Facility for At-risk Youth",
+  "committee": "Health and Human Services",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 12, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "None",
+  "last_senate_action": "3/12/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Henry INGWERSEN",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Donna BAILEY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Lucien DAIGLE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Fort Kent"
+    },
+    {
+      "name": "Drew GATTINE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    },
+    {
+      "name": "Lori GRAMLICH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Orchard Beach"
+    },
+    {
+      "name": "Michele MEYER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Eliot"
+    },
+    {
+      "name": "Marianne MOORE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Washington"
+    },
+    {
+      "name": "Holly STOVER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Boothbay"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MENTAL HEALTH SERVICES",
+      "minor": "CHILDREN",
+      "detail": "AT-RISK YOUTH FACILITY"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-15",
+      "date_raw": "12/15/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on December 15, 2025 and REFERRED to the Committee on HEALTH AND HUMAN SERVICES pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2026-03-12",
+      "date_raw": "3/12/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0854&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0854",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0854&SessionID=16",
+  "scraped_at": "2026-06-30T20:10:36Z"
+}

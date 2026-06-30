@@ -1,0 +1,153 @@
+{
+  "ld": 1681,
+  "paper": "HP1116",
+  "paper_display": "HP 1116",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098593",
+  "title": "An Act to Consider Municipal Shelter Facilities and Housing Projects Essential for Public Health, Welfare and Safety by Updating the Definition of \"Public Service Infrastructure\"",
+  "committee": "Housing and Economic Development",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 10, 2025",
+  "governor_action": "Signed, Jun 10, 2025",
+  "chaptered_law": "ACTPUB, Chapter 250",
+  "chapter": "250",
+  "became_law": true,
+  "last_house_action": "6/3/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/3/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Grayson LOOKNER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Amy ARATA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "New Gloucester"
+    },
+    {
+      "name": "Glenn CURRY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Waldo"
+    },
+    {
+      "name": "Victoria DOUDERA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Camden"
+    },
+    {
+      "name": "Wayne FARRIN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Jefferson"
+    },
+    {
+      "name": "Ryan FECTEAU",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Speaker",
+      "district": "Biddeford"
+    },
+    {
+      "name": "Traci GERE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunkport"
+    },
+    {
+      "name": "Cassie JULIA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterville"
+    },
+    {
+      "name": "David ROLLINS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Augusta"
+    },
+    {
+      "name": "Suzanne SALISBURY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE GOVERNMENT",
+      "minor": "MUNICIPAL BOND BANK",
+      "detail": "PUBLIC SERVICE INFRASTRUCTURE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "House",
+      "description": "Committee on Housing and Economic Development suggested and ordered printed. The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT in concurrence"
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED, in concurrence. READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1116&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1116&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1116",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1116&SessionID=16",
+  "scraped_at": "2026-06-30T19:39:49Z"
+}

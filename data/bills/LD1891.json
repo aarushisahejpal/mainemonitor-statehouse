@@ -1,0 +1,103 @@
+{
+  "ld": 1891,
+  "paper": "HP1262",
+  "paper_display": "HP 1262",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099022",
+  "title": "An Act to Address the Dental Professional Workforce Shortage by Establishing Scholarship and Loan Programs and Updating the Dental Care Access Tax Credit",
+  "committee": "Education and Cultural Affairs",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/1/2025 - Received by the Clerk of the House on May 1, 2025. The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+  "last_senate_action": "5/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Lucien DAIGLE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Fort Kent"
+    },
+    {
+      "name": "Flavia DEBRITO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterville"
+    },
+    {
+      "name": "Anne GRAHAM",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "North Yarmouth"
+    },
+    {
+      "name": "Abigail GRIFFIN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Levant"
+    },
+    {
+      "name": "Michael LEMELIN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Chelsea"
+    },
+    {
+      "name": "Marianne MOORE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Washington"
+    },
+    {
+      "name": "Harold STEWART",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "INCOME TAX",
+      "minor": "CREDITS",
+      "detail": "ELIGIBLE DENTAL HYGIENIST"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-01",
+      "date_raw": "5/1/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on May 1, 2025. The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1262&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1262",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1262&SessionID=16",
+  "scraped_at": "2026-06-30T19:56:34Z"
+}

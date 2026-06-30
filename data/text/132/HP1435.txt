@@ -1,0 +1,422 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2120
+H.P. 1435
+House of Representatives, January 7, 2026
+An Act to Enable Survivors of Abuse to Disable Connected Vehicle 
+Services
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Reference to the Committee on Judiciary suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ROBERTS of South Berwick.
+
+Page 1 - 132LR2724(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  25 MRSA c. 262 is enacted to read:
+3
+CHAPTER 262
+4
+SAFE VEHICLE ACCESS FOR SURVIVORS ACT
+5
+§2261. Short title
+6
+This chapter may be known and cited as "the Safe Vehicle Access for Survivors Act.''
+7
+§2262. Definitions
+8
+As used in this chapter, unless the context otherwise indicates, the following terms 
+9
+have the following meanings.
+10
+1. Abuser. ''Abuser'' means an individual identified by a survivor pursuant to section 
+11
+2264 who has committed or allegedly committed a covered act against a survivor making 
+12
+a connected vehicle service request.
+13
+2. Account holder. ''Account holder'' means an individual who is:
+14
+A. A party to a contract with a covered provider that involves a connected vehicle 
+15
+service; or
+16
+B. A subscriber, customer or registered user of a connected vehicle service.
+17
+3. Affiliate. ''Affiliate'' means a company that controls, is controlled by or is under 
+18
+common control with another company.
+19
+4. Connected vehicle service. ''Connected vehicle service'' means a capability 
+20
+provided by or on behalf of a motor vehicle manufacturer or affiliate of the motor vehicle 
+21
+manufacturer that enables a person to remotely obtain data from or send commands to a 
+22
+covered vehicle and that may be accomplished through a software application that is 
+23
+designed to be operated on a mobile device or computer. 
+24
+5. Connected vehicle service request. ''Connected vehicle service request'' means a 
+25
+request by a survivor to terminate or disable an abuser's access to a connected vehicle 
+26
+service. 
+27
+6. Covered act. ''Covered act'' means conduct that constitutes:
+28
+A. A crime described in Section 40002(a) of the federal Violence Against Women Act 
+29
+of 1994, 34 United States Code, Section 12291(a), including domestic violence, dating 
+30
+violence, sexual assault, stalking and sex trafficking;
+31
+B. An act or practice described in the federal Trafficking Victims Protection Act of 
+32
+2000, 22 United States Code, Section 7102, Subsection (11) or (12), relating to severe 
+33
+forms of trafficking in persons and sex trafficking, respectively; or
+34
+C. An act under state law, tribal law or the United States Uniform Code of Military 
+35
+Justice that is similar to an offense described in paragraph A or B. 
+36
+A criminal conviction or any other determination of a court is not required in order for 
+37
+conduct under this subsection to constitute a covered act.
+
+Page 2 - 132LR2724(01)
+1
+7. Covered connected vehicle services account. ''Covered connected vehicle services 
+2
+account'' means an account or other means by which an individual enrolls in or obtains 
+3
+access to a connected vehicle service. 
+4
+8. Covered provider. ''Covered provider'' means a motor vehicle manufacturer, an 
+5
+affiliate of the motor vehicle manufacturer or an entity acting on behalf of the motor vehicle 
+6
+manufacturer that provides a connected vehicle service.
+7
+9. Covered vehicle. ''Covered vehicle'' means a motor vehicle that is the subject of a 
+8
+connected vehicle service request and identified by a survivor pursuant to section 2264.
+9
+10. Emergency situation. ''Emergency situation'' means a situation that, if allowed to 
+10
+continue, poses an imminent threat of serious bodily harm to or death of an individual.
+11
+11. In-vehicle interface. ''In-vehicle interface'' means a feature or mechanism installed 
+12
+in a vehicle that allows an individual within the vehicle to terminate or disconnect 
+13
+connected vehicle services. 
+14
+12. Survivor. ''Survivor'' means an individual who is 18 years of age or older and 
+15
+against whom a covered act has been committed or allegedly committed.
+16
+§2263. Protection of survivors
+17
+1. Action by covered provider. Regardless of whether an abuser is an account holder, 
+18
+not later than 2 business days after receiving a connected vehicle service request from a 
+19
+survivor pursuant to section 2264, a covered provider shall take one or more of the 
+20
+following actions:
+21
+A. Terminate or disable a covered connected vehicle services account associated with 
+22
+an abuser identified in the connected vehicle service request pursuant to section 2264;
+23
+B. Terminate or disable a covered connected vehicle services account associated with 
+24
+the covered vehicle, including by resetting or deleting any data or wireless connection 
+25
+with respect to the covered vehicle, and provide instructions to the survivor on how to 
+26
+reestablish a covered connected vehicle services account that does not include access 
+27
+by the abuser;
+28
+C. Terminate or disable connected vehicle services for the covered vehicle, including 
+29
+by resetting or deleting any data or wireless connection with respect to the covered 
+30
+vehicle, and provide instructions to the survivor on how to reestablish connected 
+31
+vehicle services; or
+32
+D. If the covered vehicle has an in-vehicle interface, provide information to the 
+33
+survivor about the availability of the in-vehicle interface and how to terminate or 
+34
+disable connected vehicle services using the in-vehicle interface.
+35
+2. Access to account data. If a covered provider takes action under subsection 1 in 
+36
+response to a connected vehicle service request, the covered provider shall deny a request 
+37
+from the abuser to obtain any data connected to the connected vehicle service maintained 
+38
+by the covered provider that was generated after the abuser's access to the connected vehicle 
+39
+service was terminated or disabled following a connected vehicle service request. 
+40
+3. Limitations on penalties, fees and other requirements. A covered provider may 
+41
+not make any action undertaken pursuant to subsection 1 contingent on any requirement 
+42
+other than the requirements under section 2264, including:
+
+Page 3 - 132LR2724(01)
+1
+A. Payment of a fee, penalty or other charge;
+2
+B. Maintaining or extending the term of a covered connected vehicle services account;
+3
+C. Approval of the action by the account holder, if the account holder is not the 
+4
+survivor; or
+5
+D. An increase in the rate charged for the connected vehicle service. 
+6
+4. Notice to survivor and abuser. The following provisions govern notice to the 
+7
+survivor and abuser.
+8
+A. Before a covered provider provides any formal notice to the abuser regarding any 
+9
+action undertaken pursuant to subsection 1, the covered provider shall notify the 
+10
+survivor of the date on which the covered provider intends to give such notice to the 
+11
+abuser. 
+12
+B. A covered provider shall take reasonable steps to provide any formal notice to an 
+13
+abuser as described in paragraph A:
+14
+(1) No less than 3 days after the survivor has been notified; and
+15
+(2) Only after the abuser's access to the connected vehicle service has been 
+16
+terminated or disabled.
+17
+C. When reviewing a connected vehicle service request, a covered provider shall allow 
+18
+the survivor to elect the manner in which the covered provider may:
+19
+(1) Contact the survivor in response to the connected vehicle service request, if 
+20
+necessary; or 
+21
+(2) Notify the survivor of the inability of the covered provider to complete the 
+22
+connected vehicle service request. 
+23
+5. Operational or technical infeasibility. The following provisions govern 
+24
+operational or technical infeasibility of a connected vehicle service request.
+25
+A. The requirement to effectuate the requested action in subsection 1 does not apply to 
+26
+a covered provider if the covered provider cannot operationally or technically 
+27
+effectuate the connected vehicle service request. 
+28
+B. If a covered provider cannot operationally or technically effectuate the connected 
+29
+vehicle service request as described in paragraph A, the covered provider shall:
+30
+(1) Promptly notify the survivor who submitted the connected vehicle service 
+31
+request of that infeasibility; and
+32
+(2) Provide the survivor with information about whether the operational or 
+33
+technical infeasibility can be remedied and, if so, any steps the survivor can take 
+34
+to assist in remedying the infeasibility. 
+35
+§2264. Connected vehicle service requests
+36
+1. Information provided by survivor. When making a connected vehicle service 
+37
+request under this chapter, the survivor shall provide:
+38
+A. The vehicle identification number of the covered vehicle;
+39
+B. The name of the abuser subject to the connected vehicle service request; and
+
+Page 4 - 132LR2724(01)
+1
+C. One of the following:
+2
+(1) Proof of sole ownership of the covered vehicle;
+3
+(2) In the case of a covered vehicle that is not solely owned by the survivor, proof 
+4
+of exclusive legal possession of the covered vehicle, which may take the form of a 
+5
+court order awarding possession of the covered vehicle to the survivor; or
+6
+(3)  In the case of a covered vehicle that is owned in whole or in part by the abuser, 
+7
+a dissolution decree, temporary order or domestic violence restraining order 
+8
+naming the abuser and granting possession of the covered vehicle to the survivor 
+9
+or restricting the abuser's use of a connected vehicle service against the survivor.
+10
+2. Confidential and secure treatment of information. The following provisions 
+11
+govern the confidential and secure treatment of information related to a connected vehicle 
+12
+service request.
+13
+A. A covered provider and any officer, director, employee, vendor or agent of a covered 
+14
+provider shall treat any information submitted by a survivor under subsection 1 as 
+15
+confidential and securely dispose of the information no later than 90 days after 
+16
+receiving the information.
+17
+B. A covered provider may not share information submitted by a survivor under 
+18
+subsection 1 with any 3rd party without the affirmative consent of the survivor unless 
+19
+such sharing is required to effectuate a connected vehicle service request under 
+20
+subsection 1.
+21
+C. A covered provider may not require a survivor to provide any information other than 
+22
+what is required in subsection 1 to establish the ability to terminate an abuser's access 
+23
+to a connected vehicle service. 
+24
+D. Paragraph A may not be construed to prohibit a covered provider from maintaining, 
+25
+for longer than the period specified in that paragraph, a record that verifies that a 
+26
+survivor fulfilled the conditions of a connected vehicle service request under 
+27
+subsection 1. The data maintained under this paragraph is limited to data that is 
+28
+reasonably necessary and proportionate to verify that a survivor fulfilled the conditions 
+29
+of a connected vehicle service request.
+30
+3. Emergency situations. The requirements of this chapter do not prohibit or prevent 
+31
+a covered provider from terminating or disabling an abuser's access to a connected vehicle 
+32
+service in an emergency situation after receiving a connected vehicle service request.
+33
+4. Changes in ownership or possession. The survivor shall take reasonable steps to 
+34
+notify the covered provider of any change in ownership or possession from what was 
+35
+provided under subsection 1 when the connected vehicle service request was made that 
+36
+materially impacts the need for action taken by the covered provider under section 2263, 
+37
+subsection 1.
+38
+§2265. Consumer notices
+39
+A covered provider shall provide information to consumers about how survivors can 
+40
+safely make connected vehicle service requests on a publicly accessible website maintained 
+41
+by the covered provider. This information provided to consumers must include information 
+42
+regarding the following.
+
+Page 5 - 132LR2724(01)
+1
+1. Confirmation e-mail. Upon submission of a connected vehicle service request, the 
+2
+covered provider shall automatically send a confirmation e-mail to the survivor 
+3
+acknowledging the receipt of the connected vehicle service request. This e-mail must 
+4
+contain a reference number for the connected vehicle service request and an outline of the 
+5
+subsequent steps in the process.
+6
+2. Action; notice. Upon completion of review of the connected vehicle service request, 
+7
+the covered provider shall inform the survivor by notice of the action taken, including the 
+8
+termination or disabling of access to the connected vehicle service, or if additional 
+9
+information is needed. This notice must clearly state any relevant details or further actions 
+10
+required from the survivor. 
+11
+3. Explanation and assistance. When a connected vehicle service request is approved, 
+12
+the covered provider shall provide the survivor with a clear explanation and guidance on 
+13
+how to create the survivor's own covered connected vehicle services account, if necessary, 
+14
+to ensure that the survivor can maintain control over the connected vehicle service once the 
+15
+abuser's access to the service has been terminated or disabled. 
+16
+4. Opt-out measures. When an abuser still has access to a survivor's e-mail account, 
+17
+the covered provider shall provide the option to opt out of receiving notices regarding the 
+18
+connected vehicle service request process and, to the best of the covered provider's ability, 
+19
+provide alternative options for the survivor to maintain a record of the connected vehicle 
+20
+service request process. 
+21
+§2266. Liability protection
+22
+A covered provider and any officer, director, employee, vendor or agent of a covered 
+23
+provider is not subject to liability for any claims deriving from an action taken or omission 
+24
+made with respect to compliance with this chapter.
+25
+SUMMARY
+26
+This bill allows a survivor of certain crimes and acts, including domestic violence, 
+27
+dating violence, sexual assault, stalking and sex trafficking, to request that a motor vehicle 
+28
+manufacturer terminate or disable the access of an abuser who committed or allegedly 
+29
+committed such a crime or act to a connected vehicle service. The bill defines "connected 
+30
+vehicle service" to mean a capability provided by or on behalf of a motor vehicle 
+31
+manufacturer or affiliate of the motor vehicle manufacturer that enables a person to 
+32
+remotely obtain data from or send commands to a motor vehicle and that may be 
+33
+accomplished through a software application that is designed to be operated on a mobile 
+34
+device or computer.
+26
+27
+28
+29
+30
+31
+32
+33
+34

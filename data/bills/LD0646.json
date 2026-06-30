@@ -1,0 +1,196 @@
+{
+  "ld": 646,
+  "paper": "HP0414",
+  "paper_display": "HP 414",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096716",
+  "title": "Resolve, Establishing the Commission to Study Unmanaged Storm Water Pollution",
+  "committee": "Environment and Natural Resources",
+  "status_summary": "",
+  "final_disposition": "Finally Passed, Apr 16, 2026",
+  "governor_action": "Signed, Apr 16, 2026",
+  "chaptered_law": "RESLV, Chapter 166",
+  "chapter": "166",
+  "became_law": true,
+  "last_house_action": "4/14/2026 - FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/14/2026 - FINALLY PASSED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Arthur BELL",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Yarmouth"
+    },
+    {
+      "name": "Daniel ANKELES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "William BRIDGEO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Augusta"
+    },
+    {
+      "name": "Victoria DOUDERA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Camden"
+    },
+    {
+      "name": "Lori GRAMLICH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Orchard Beach"
+    },
+    {
+      "name": "Laurie OSHER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Orono"
+    },
+    {
+      "name": "Morgan RIELLY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    },
+    {
+      "name": "Parnell TERRY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Gorham"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "WATER QUALITY",
+      "minor": "NONPOINT DISCHARGES",
+      "detail": "STORM WATER COMMISSION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "date_raw": "2/20/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on February 20, 2025. The Resolve was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Resolve was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-98) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-98) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-98), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FAILED FINAL PASSAGE . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-14",
+      "date_raw": "5/14/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator DUSON of Cumberland placed on the SPECIAL STUDY TABLE pending FINAL PASSAGE In NON-CONCURRENCE"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator DUSON of Cumberland taken from the Special Study Table On motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby the Bill was PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-98) in concurrence. On further motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby Committee Amendment \"A\" (H-98) was ADOPTED. On further motion by Same Senator Senate Amendment \"A\" (S-715) to Committee Amendment \"A\" (H-98) READ and ADOPTED Committee Amendment \"A\" (H-98) as Amended by Senate Amendment \"A\" (S-715) thereto ADOPTED in NON-CONCURRENCE. PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-98) as Amended by Senate Amendment \"A\" (S-715) thereto in NON-CONCURRENCE. Sent down for concurrence."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "House",
+      "description": "The House RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-98) as Amended by Senate Amendment \"A\" (S-715) thereto. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "House",
+      "description": "FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-98 )",
+      "new_title": "Resolve, Establishing the Commission to Study Unmanaged Storm Water Pollution",
+      "house_action": "Adopted on 4/14/2026",
+      "senate_action": "Adopted on 4/14/2026",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "S \"A\" (S-715 ) to C \"A\" (H-98 )",
+      "new_title": "",
+      "house_action": "Adopted on 4/14/2026",
+      "senate_action": "Adopted on 4/14/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0414&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0414&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0414&item=4&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0414&item=5&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0414",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0414&SessionID=16",
+  "scraped_at": "2026-06-30T18:21:28Z"
+}

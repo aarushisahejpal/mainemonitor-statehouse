@@ -1,0 +1,73 @@
+{
+  "ld": 1790,
+  "paper": "HP1201",
+  "paper_display": "HP 1201",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098811",
+  "title": "An Act Regarding Lobster Measurement",
+  "committee": "Marine Resources",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Jun 3, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/2/2025 - Reports READ . On motion of Representative HEPLER of Woolwich, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/3/2025 - Reports Read On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Billy Bob FAULKINGHAM",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Winter Harbor"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LOBSTERS",
+      "minor": "MANAGEMENT ZONES",
+      "detail": "PROVISION REVISED"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "House",
+      "description": "Committee on Marine Resources suggested and ordered printed. The Bill was REFERRED to the Committee on MARINE RESOURCES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on MARINE RESOURCES in concurrence"
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative HEPLER of Woolwich, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1201&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1201",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1201&SessionID=16",
+  "scraped_at": "2026-06-30T19:48:19Z"
+}

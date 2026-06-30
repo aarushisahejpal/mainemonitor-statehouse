@@ -1,0 +1,129 @@
+{
+  "ld": 656,
+  "paper": "HP0424",
+  "paper_display": "HP 424",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096726",
+  "title": "An Act to Save Tax Dollars in Maine's Elections by Amending the Laws Governing When a Ranked-choice Voting Count Must Be Conducted",
+  "committee": "Veterans and Legal Affairs",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 21, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/20/2025 - Reports READ . On motion of Representative SUPICA of Bangor, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/21/2025 - Reports Read On motion by Senator HICKMAN of Kennebec the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "David BOYER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Poland"
+    },
+    {
+      "name": "Nathan CARLOW",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Buxton"
+    },
+    {
+      "name": "Quentin CHAPMAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "Ann FREDERICKS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Sanford"
+    },
+    {
+      "name": "Benjamin HYMES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waldo"
+    },
+    {
+      "name": "Chad PERKINS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dover-Foxcroft"
+    },
+    {
+      "name": "Jeffrey TIMBERLAKE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ELECTIONS",
+      "minor": "VOTING PROCEDURES",
+      "detail": "RANKED-CHOICE VOTING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "date_raw": "2/20/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on February 20, 2025. The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SUPICA of Bangor, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator HICKMAN of Kennebec the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-186 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0424&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0424&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0424",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0424&SessionID=16",
+  "scraped_at": "2026-06-30T18:22:10Z"
+}

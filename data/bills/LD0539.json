@@ -1,0 +1,129 @@
+{
+  "ld": 539,
+  "paper": "HP0358",
+  "paper_display": "HP 358",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096455",
+  "title": "An Act to Repeal the Paid Family and Medical Leave Benefits Program",
+  "committee": "Labor",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/21/2025 - Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+  "last_senate_action": "5/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Shelley RUDNICKI",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Fairfield"
+    },
+    {
+      "name": "Susan BERNARD",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Quentin CHAPMAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "John DUCHARME",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Madison"
+    },
+    {
+      "name": "John EDER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterboro"
+    },
+    {
+      "name": "Michael LANCE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Paris"
+    },
+    {
+      "name": "Tracy QUINT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hodgdon"
+    },
+    {
+      "name": "Michael SOBOLESKI",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Phillips"
+    },
+    {
+      "name": "Tiffany STROUT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Harrington"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "EMPLOYMENT PRACTICES",
+      "minor": "LEAVE",
+      "detail": "FAMILY AND MEDICAL LEAVE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-11",
+      "date_raw": "2/11/2025",
+      "chamber": "House",
+      "description": "Committee on Labor suggested and ordered printed. The Bill was REFERRED to the Committee on LABOR . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-11",
+      "date_raw": "2/11/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on LABOR in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0358&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0358",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0358&SessionID=16",
+  "scraped_at": "2026-06-30T18:12:57Z"
+}

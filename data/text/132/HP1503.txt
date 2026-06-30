@@ -1,0 +1,537 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2226
+H.P. 1503
+House of Representatives, March 3, 2026
+An Act to Amend the Essential Programs and Services School 
+Funding Formula
+Reported by Representative MURPHY of Scarborough for the Joint Standing Committee 
+on Education and Cultural Affairs pursuant to Resolve 2025, chapter 84, section 2, subsection 
+4.
+Reference to the Committee on Education and Cultural Affairs suggested and ordered 
+printed pursuant to Joint Rule 218.
+ROBERT B. HUNT
+Clerk
+
+Page 1 - 132LR3057(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  20-A MRSA §2413, sub-§2, ¶B, as amended by PL 2011, c. 570, §19, is 
+3
+further amended by repealing subparagraph (3).
+4
+Sec. 2.  20-A MRSA §2413-A, sub-§2, ¶B, as enacted by PL 2015, c. 54, §5, is 
+5
+amended by repealing subparagraph (3).
+6
+Sec. 3.  20-A MRSA §2413-A, sub-§2, ¶H, as enacted by PL 2015, c. 54, §5, is 
+7
+amended to read:
+8
+H.  A public charter school may receive payment pursuant to paragraph A for students 
+9
+residing in the unorganized territory based on the state average EPS per-pupil rate as 
+10
+defined in section 15672, subsection 7‑A.  A special education student residing in the 
+11
+unorganized territory must be treated the same as a resident student from a school 
+12
+administrative unit for special education costs pursuant to paragraph B.  The 
+13
+responsibility for providing a free, appropriate public education for a special education 
+14
+student passes to the charter school in which the student enrolls.  As with other resident 
+15
+school administrative units in accordance with section 15681‑A, subsection 2, 
+16
+paragraph B, the department shall pay for high-cost in-district students.
+17
+Sec. 4.  20-A MRSA §15672, sub-§22-A, as repealed and replaced by PL 2005, c. 
+18
+519, Pt. AAAA, §4, is repealed.
+19
+Sec. 5.  20-A MRSA §15672, sub-§22-B is enacted to read:
+20
+22-B.  Predicted transportation costs.  "Predicted transportation costs" means the 
+21
+average of:
+22
+A.  A pupil density model based on the net cost per resident pupil for each school 
+23
+administrative unit that is predicted by pupil density per mile of road in the school 
+24
+administrative unit, including transportation costs for in-district and out-of-district 
+25
+special education programs, career and technical education programs and 
+26
+transportation of students who are experiencing homelessness pursuant to provisions 
+27
+adopted under section 5205, subsection 7.  Adjustments may be made for transportation 
+28
+costs of island school administrative units; and
+29
+B.  The most recent year's net transportation costs adjusted for inflation.
+30
+Sec. 6.  20-A MRSA §15675, sub-§2, as amended by PL 2021, c. 635, Pt. C, §2, is 
+31
+further amended to read:
+32
+2.  Economically disadvantaged students.  For each economically disadvantaged 
+33
+student, an eligible school administrative unit receives the following additional weights:
+34
+A.  An additional weight of between .15 and .35 based on an index developed by a 
+35
+statewide education policy research institute.  The index must be updated at least once 
+36
+every 5 years.  The number of economically disadvantaged students for each school 
+37
+administrative unit is determined by multiplying the number of resident pupils in the 
+38
+most recent calendar year by the most recent available elementary that are eligible for 
+39
+free or reduced-price meals percentage.  The elementary free or reduced-price meals 
+40
+percentage may be applied to determine the number of economically disadvantaged 
+41
+students in the unit's secondary grades; and.
+
+Page 2 - 132LR3057(01)
+1
+B.  An additional weight for approved extended learning programs that specifically 
+2
+benefit economically disadvantaged students equal to .05.  The commissioner shall 
+3
+approve qualifying extended learning programs based on evidence-based research by 
+4
+a statewide education policy research institute.
+5
+To be eligible to receive funds under this paragraph, a school administrative unit must 
+6
+certify that any funds previously received under this section and any funds that will be 
+7
+received are used in direct support of learning for economically disadvantaged students 
+8
+through summer schools, extended learning programs, tutoring and other evidence-
+9
+based practices conforming to rules developed by the department and informed by 
+10
+evidence from a statewide education policy research institute.
+11
+Sec. 7.  20-A MRSA §15676, sub-§1, as amended by PL 2017, c. 284, Pt. C, §31, 
+12
+is further amended to read:
+13
+1.  Teaching staff costs.  Beginning July 1, 2017, the salary and benefit costs for school 
+14
+level teaching staff that are necessary to carry out this Act, calculated in accordance with 
+15
+section 15678 and adjusted by the regional adjustment under section 15682 15682-A;
+16
+Sec. 8.  20-A MRSA §15676, sub-§2, as amended by PL 2017, c. 284, Pt. C, §31, 
+17
+is further amended to read:
+18
+2.  Other staff costs.  Beginning July 1, 2017, the salary and benefit costs for school-
+19
+level staff who are not teachers, but including substitute teachers, that are necessary to carry 
+20
+out this Act, calculated in accordance with section 15679 and adjusted by the regional 
+21
+adjustment under section 15682 15682-A; and
+22
+Sec. 9.  20-A MRSA §15680, sub-§1, ¶D, as enacted by PL 2003, c. 504, Pt. A, 
+23
+§6, is amended to read:
+24
+D.  Cocurricular and extracurricular activities; and
+25
+Sec. 10.  20-A MRSA §15680, sub-§1, ¶E, as enacted by PL 2003, c. 504, Pt. A, 
+26
+§6, is repealed.
+27
+Sec. 11.  20-A MRSA §15680, sub-§1, ¶F, as enacted by PL 2003, c. 504, Pt. A, 
+28
+§6, is amended to read:
+29
+F.  Instructional leadership staff support.
+30
+Sec. 12.  20-A MRSA §15681, sub-§2-A, as amended by PL 2013, c. 506, §16, is 
+31
+repealed.
+32
+Sec. 13.  20-A MRSA §15681-A, sub-§2, as amended by PL 2017, c. 284, Pt. C, 
+33
+§37 and affected by §66, is further amended to read:
+34
+2.  Special education costs.  A school administrative unit receives an additional weight 
+35
+of 1.50 for each special education student identified on the annual December 1st child count 
+36
+as required by the federal Individuals with Disabilities Education Act for the most recent 
+37
+year, up to a maximum of 15% of the school administrative unit's resident pupils as 
+38
+determined under section 15674, subsection 1, paragraph C, subparagraph (1).  For those 
+39
+school administrative units in which the annual December 1st child count for the most 
+40
+recent year is less than 15% 17% of the school administrative unit's resident pupils as 
+41
+determined under section 15674, subsection 1, paragraph C, subparagraph (1), the special 
+42
+education child count percentage may not increase more than 0.5% in any given year, up 
+
+Page 3 - 132LR3057(01)
+43
+to a maximum of 1.0% in any given 3-year period.  For each special education student 
+44
+above the 15% 17% maximum, the unit receives an additional weight of .38. In addition, 
+45
+each school administrative unit must receive additional allocations:
+4
+A.  For lower staff-student ratios and expenditures for related services for school 
+5
+administrative units with fewer than 20 enrolled special education students identified 
+6
+on the annual December 1st child count as required by the federal Individuals with 
+7
+Disabilities Education Act for the most recent year;
+8
+B.  For high-cost in-district special education placements.  Additional funds must be 
+9
+allocated for each student estimated to cost 3 times the statewide special education EPS 
+10
+per-pupil rate.  The additional funds for each student must equal the amount by which 
+11
+that student's estimated costs exceed 3 times the statewide special education EPS per-
+12
+pupil rate;
+13
+D.  Beginning July 1, 2018, to ensure the school administrative unit meets the federal 
+14
+maintenance of effort requirement for receiving federal Individuals with Disabilities 
+15
+Education Act funds in accordance with recommendations of any legislative task force 
+16
+established in the First Regular Session of the 128th Legislature to identify special 
+17
+education cost drivers and innovative approaches to services; and
+18
+E.  A separate allocation must be determined for high-cost out-of-district special 
+19
+education placements in accordance with this paragraph.
+20
+(1)  For private school placements, additional funds must be allocated for each 
+21
+student estimated to cost 4 times the statewide special education EPS per-pupil 
+22
+rate. The additional funds for each student must equal the amount by which that 
+23
+student's estimated costs exceed 4 times the statewide special education EPS per-
+24
+pupil rate.
+25
+(2)  For public school placements, additional funds must be allocated for each 
+26
+student estimated to cost 3 times the statewide special education EPS per-pupil 
+27
+rate. The additional funds for each student must equal the amount by which that 
+28
+student's estimated costs exceed 3 times the statewide special education EPS per-
+29
+pupil rate.
+30
+(3)  For public regional special education program placements, additional funds 
+31
+must be allocated for each student estimated to cost 2 times the statewide special 
+32
+education EPS per-pupil rate. The additional funds for each student must equal the 
+33
+amount by which that student's estimated costs exceed 2 times the statewide special 
+34
+education EPS per-pupil rate.  Resident students for the fiscal agent of the regional 
+35
+special education program are considered out-of-district placements for purposes 
+36
+of this determination.  The commissioner may expend and disburse funds pursuant 
+37
+to section 15689, subsection 9 for direct contractual agreements to provide legal 
+38
+services, facilitation services and other services to assist a school administrative 
+39
+unit with planning and implementing a regional special education program.
+40
+The commissioner shall develop an appeals procedure for calculated special education 
+41
+costs for school administrative units;
+42
+Sec. 14.  20-A MRSA §15681-A, sub-§2-B is enacted to read:
+43
+2-B.  Maintenance of effort adjustment cap.  Beginning in fiscal year 2027-28 and 
+44
+in each subsequent fiscal year, the department shall implement a cap on the total amount 
+1
+2
+3
+
+Page 4 - 132LR3057(01)
+45
+of funding allocated per school administrative unit per fiscal year for the maintenance of 
+46
+effort adjustment. The cap must be no more than 80% of the difference between the school 
+47
+administrative unit’s base special education allocation calculated in subsection 2 and the 
+48
+school administrative unit’s prior fiscal year’s actual special education expenditures;
+5
+Sec. 15.  20-A MRSA §15681-A, sub-§2-C is enacted to read:
+6
+2-C.  Midyear adjustment; out-of-district special education placement costs.  
+7
+Beginning in fiscal year 2027-28, the department may not allocate additional funds midyear 
+8
+for unexpected out-of-district special education placement costs;
+9
+Sec. 16.  20-A MRSA §15681-A, sub-§3, as repealed and replaced by PL 2005, c. 
+10
+519, Pt. AAAA, §8, is amended to read:
+11
+3.  Transportation costs.  For fiscal year 2006-07, the commissioner, using 
+12
+information provided by a statewide education policy research institute, shall establish for 
+13
+each school administrative unit a predicted per-pupil transportation cost as defined in 
+14
+section 15672, subsection 22‑A.  The established predicted per-pupil transportation cost 
+15
+multiplied by the number of the school administrative unit's resident students for each 
+16
+school administrative unit must be no less than 90% of the most recent year's reported net 
+17
+transportation expenditures.  Beginning in fiscal year 2007-08 2027-28, and for each 
+18
+subsequent fiscal year, the per-pupil transportation costs for each school administrative unit 
+19
+are its predicted per-pupil transportation cost costs for the most recent year adjusted by the 
+20
+Consumer Price Index or other comparable index, except that the established predicted per-
+21
+pupil transportation cost multiplied by the number of the school administrative unit's 
+22
+resident students costs for each school administrative unit must be no less than 90% of the 
+23
+most recent year's reported net transportation expenditures and no more than 105% of the 
+24
+most recent year's reported net transportation expenditures adjusted for inflation.  The 
+25
+commissioner shall develop an appeals procedure for established per-pupil transportation 
+26
+costs for school administrative units;
+27
+Sec. 17.  20-A MRSA §15682, as amended by PL 2011, c. 419, §2, is repealed.
+28
+Sec. 18.  20-A MRSA §15682-A is enacted to read:
+29
+§15682-A.  Regional adjustment
+30
+Beginning in fiscal year 2027-28, and for each subsequent fiscal year, the 
+31
+commissioner shall make a regional adjustment in the total operating allocation for each 
+32
+school administrative unit determined pursuant to section 15683.  The regional adjustment 
+33
+must be based on the regional differences in the cost of living, as computed by a statewide 
+34
+education policy research institute using a nationwide index or combination of nationwide 
+35
+indices.  The regional adjustment must align with the salary matrix described in section 
+36
+15677 so that the minimum index value is sufficient to pay the minimum teacher salary 
+37
+established under chapter 505. The regional adjustment must be applied only to appropriate 
+38
+teacher salary and benefit costs as calculated under section 15678 and salary costs of other 
+39
+school-level staff who are not teachers as calculated under section 15679.
+40
+Sec. 19.  20-A MRSA §15688, sub-§3-A, ¶A, as enacted by PL 2005, c. 2, Pt. D, 
+41
+§56 and affected by §§72 and 74 and c. 12, Pt. WW, §18, is amended by amending 
+42
+subparagraph (2) to read:
+1
+2
+3
+4
+
+Page 5 - 132LR3057(01)
+1
+(2)  The total of the full-value education mill rate calculated in section 15671‑A, 
+2
+subsection 2 multiplied by the property fiscal capacity of the municipality adjusted 
+3
+for relative income level using an index calculated by a statewide education policy 
+4
+research institute.  The index must be based on the percentage of resident pupils 
+5
+that are identified as economically disadvantaged under section 15675, subsection 
+6
+2.
+7
+Sec. 20.  20-A MRSA §15688, sub-§3-A, ¶B, as amended by PL 2015, c. 494, Pt. 
+8
+A, §13, is further amended by amending subparagraph (2) to read:
+9
+(2)  The total of the full-value education mill rate calculated in section 15671‑A, 
+10
+subsection 2 multiplied by the property fiscal capacity of the municipality adjusted 
+11
+for relative income level using an index calculated by a statewide education policy 
+12
+research institute. The index must be based on the percentage of resident pupils 
+13
+that are identified as economically disadvantaged under section 15675, subsection 
+14
+2.
+15
+Sec. 21.  20-A MRSA §15689, sub-§15, as enacted by PL 2017, c. 284, Pt. C, §53, 
+16
+is amended to read:
+17
+15.  Special education budgetary hardship adjustment.  Beginning in fiscal year 
+18
+2018-19 2026-27, the following provisions apply to adjustments for special education 
+19
+budgetary hardships.
+20
+A.  If a school administrative unit determined eligible pursuant to paragraph B petitions 
+21
+the commissioner and demonstrates that the unexpected education costs of placement 
+22
+of a student in a special education program will cause a budgetary hardship, the 
+23
+commissioner may provide to the unit an amount not to exceed the allowable costs of 
+24
+the placement less 3 times the statewide special education EPS per-pupil rate for in-
+25
+district placements or less 4 times the statewide special education EPS per-pupil rate 
+26
+for out-of-district placements. The allowable costs are those special education costs 
+27
+described in section 15672, subsection 30‑A, paragraphs A and B.
+28
+B.  The commissioner shall determine that a school administrative unit is eligible for 
+29
+an adjustment under paragraph A if:
+30
+(1)  The student's placement is a result of an appeal approved by the commissioner 
+31
+pursuant to section 5205, subsection 6 or the student became the fiscal 
+32
+responsibility of the school administrative unit after the passage of that unit's 
+33
+budget for the current fiscal year; and
+34
+(2)  The school administrative unit's unexpected allowable costs result in a 5% 10% 
+35
+or more increase in the percentage of the unit's special education budget category 
+36
+to the unit's total budget excluding the debt service budget category.
+37
+C.  The funds for adjustments under paragraph A are limited to the amount appropriated 
+38
+by the Legislature for that purpose, and any unexpended balance from another 
+39
+program's appropriated amounts under this chapter may be applied by the 
+40
+commissioner toward the adjustments.
+41
+D.  A school administrative unit may expend the funds from the adjustment under 
+42
+paragraph A without seeking approval by the unit's legislative body.
+
+Page 6 - 132LR3057(01)
+1
+SUMMARY
+2
+This bill is reported out by the Joint Standing Committee on Education and Cultural 
+3
+Affairs pursuant to Resolve 2025, chapter 84. The committee has not taken a position on 
+4
+the substance of this bill. By reporting this bill out, the committee is not suggesting and 
+5
+does not intend to suggest that it agrees or disagrees with any aspect of this bill. The 
+6
+committee is reporting the bill out for the sole purpose of having a bill printed that can be 
+7
+referred to the committee for an appropriate public hearing and subsequent processing in 
+8
+the normal course. The committee is taking this action to ensure clarity and transparency 
+9
+in the legislative review of the proposals contained in the bill.
+10
+The bill makes the following changes to the essential programs and services school 
+11
+funding formula.
+12
+1.  It provides a new calculation for predicted transportation costs for school 
+13
+administrative units and provides that a school administrative unit's transportation costs 
+14
+may not exceed 105% of the most recent year's reported net transportation expenditures 
+15
+adjusted for inflation.
+16
+2.  It provides for a variable weight for students identified as economically 
+17
+disadvantaged to be applied based on an index developed by a statewide education policy 
+18
+research institute.
+19
+3.  It removes a per-pupil cost component for professional development and inserts a 
+20
+new per-pupil cost component for instructional staff support.
+21
+4.  It increases the special education prevalence threshold from 15% to 17%, removes 
+22
+the additional allocation for high-cost in-district special education placements and corrects 
+23
+cross-references to the high-cost in-district special education allocation. 
+24
+5.  It updates the method of calculating the regional adjustment, to be based on a 
+25
+nationwide cost-of-living index, and provides that the regional adjustment must align with 
+26
+the salary matrix.  It also corrects cross-references related to the regional adjustment 
+27
+calculation.
+28
+6.  It inserts an income indicator into the calculation for a school administrative unit's 
+29
+local contribution to the cost of education. 
+30
+7.  It changes the eligibility requirements for a special education budgetary hardship 
+31
+adjustment. 
+32
+8.  It directs the Department of Education to implement a cap on the maintenance of 
+33
+effort special education expenditure adjustment based on the difference of the base 
+34
+allocation and the prior fiscal year's expenditures.
+35
+9.  It directs the department to discontinue midyear funding adjustments for out-of-
+36
+district tuition costs for special education students.
+2
+3
+4
+5
+6
+7
+8
+9

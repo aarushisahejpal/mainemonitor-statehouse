@@ -1,0 +1,84 @@
+{
+  "ld": 310,
+  "paper": "HP0210",
+  "paper_display": "HP 210",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096144",
+  "title": "Resolve, Regarding Legislative Review of Portions of Chapter 100:  Enforcement Procedures, a Major Substantive Rule of the Maine Health Data Organization",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Emergency Finally Passed, Mar 25, 2025",
+  "governor_action": "Emergency Signed, Mar 25, 2025",
+  "chaptered_law": "RESLV, Chapter 1",
+  "chapter": "1",
+  "became_law": true,
+  "last_house_action": "3/20/2025 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/20/2025 - FINALLY PASSED - Emergency - 2/3 Elected Required, in concurrence.",
+  "sponsors": [
+    {
+      "name": "Kristi MATHIESON",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kittery"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HEALTH DATA ORGANIZATION",
+      "minor": "RULES",
+      "detail": "ENFORCEMENT PROCEDURES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "date_raw": "1/30/2025",
+      "chamber": "House",
+      "description": "Reported by Representative MATHIESON for the Maine Health Data Organization pursuant to the Maine Revised Statutes, Title 5, section 8072. Received by the Clerk of the House on January 30, 2025. The Resolve was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES pursuant to Joint Rule 308.2 and ordered printed."
+    },
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Resolve was PASSED TO BE ENGROSSED. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED, in concurrence. READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED - Emergency - 2/3 Elected Required, in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0210&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0210&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0210",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0210&SessionID=16",
+  "scraped_at": "2026-06-30T17:55:40Z"
+}

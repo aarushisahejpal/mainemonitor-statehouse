@@ -1,0 +1,238 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1326
+H.P. 861
+House of Representatives, March 27, 2025
+An Act to Protect the Drinking Water for Consumers of Certain 
+Water Systems by Establishing Maximum Contaminant Levels for 
+Certain Perfluoroalkyl and Polyfluoroalkyl Substances
+Reference to the Committee on Health and Human Services suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SHAGOURY of Hallowell.
+Cosponsored by Senator BENNETT of Oxford and
+Representatives: ANKELES of Brunswick, ARFORD of Brunswick, FLYNN of Albion, 
+GRAMLICH of Old Orchard Beach, PLUECKER of Warren, Senators: President 
+DAUGHTRY of Cumberland, HICKMAN of Kennebec, INGWERSEN of York.
+
+Page 1 - 132LR1066(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  22 MRSA §2650-A is enacted to read:
+3
+§2650-A.  Drinking water standards, monitoring and treatment for perfluoroalkyl 
+4
+and polyfluoroalkyl substances
+5
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+6
+following terms have the following meanings.
+7
+A.  "Community water system" has the same meaning as in section 2660-B, subsection 
+8
+2.
+9
+B.  "Nontransient, noncommunity water system" has the same meaning as described in 
+10
+section 2660-B, subsection 5, paragraph A and is regulated as a nontransient, 
+11
+noncommunity water system for a school or child care facility under the federal Safe 
+12
+Drinking Water Act, 42 United States Code, Section 300f(16).
+13
+C.  "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" has the same meaning 
+14
+as in section 2660-AA, subsection 3, including a regulated PFAS contaminant under 
+15
+subsection 2, that is detectable in drinking water using standard analytical methods 
+16
+established by the United States Environmental Protection Agency.
+17
+2.  Maximum contaminant levels for regulated PFAS contaminants.  The 
+18
+maximum contaminant levels for the following regulated PFAS contaminants allowed for 
+19
+a community water system or nontransient, noncommunity water system are:
+20
+A.  Perfluorooctanoic acid, 4 parts per trillion;
+21
+B.  Perfluorooctane sulfonic acid, 4 parts per trillion;
+22
+C.  Perfluorohexane sulfonic acid, 10 parts per trillion;
+23
+D.  Perfluorononanoic acid, 20 parts per trillion;
+24
+E.  Perfluoroheptanoic acid, 20 parts per trillion;
+25
+F.  Perfluorodecanoic acid, 10 parts per trillion;
+26
+G.  Hexafluoropropylene oxide dimer acid, 10 parts per trillion; and
+27
+H.  Perfluorobutane sulfonic acid, 2,000 parts per trillion.
+28
+By rule, the commissioner may decrease the maximum level of a contaminant included in 
+29
+this subsection or add a regulated PFAS contaminant other than those specified in this 
+30
+subsection as the commissioner determines necessary to maintain an adequate margin of 
+31
+safety to protect human health at all stages, including prenatal development.  
+32
+3.  PFAS monitoring.  Beginning January 1, 2026, all community water systems and 
+33
+nontransient, noncommunity water systems shall conduct monitoring using standard 
+34
+analytical methods for the detectable level of PFAS established by the United States 
+35
+Environmental Protection Agency in effect at the time a sample was taken to perform the 
+36
+monitoring. Monitoring under this subsection must be conducted for all regulated PFAS 
+37
+contaminants under subsection 2 and additional PFAS included in the list of analytes in the 
+38
+standard analytical methods established by the United States Environmental Protection 
+39
+Agency in effect at the time a sample was taken to perform the monitoring. Initial 
+40
+monitoring must include 2 samples taken 5 to 7 months apart. If an initial sample indicates 
+
+Page 2 - 132LR1066(01)
+41
+a contaminant level in an amount over 50% of the level of a contaminant listed in subsection 
+42
+2, the community water system or nontransient, noncommunity water system conducting 
+43
+the monitoring shall sample every 3 months until all contaminant levels are 50% or below 
+44
+the contaminant levels listed in subsection 2.  If an initial or subsequent sample does not 
+45
+indicate a contaminant level in an amount over 50% of the level of a contaminant listed in 
+46
+subsection 2, the community water system or nontransient, noncommunity water system 
+47
+conducting the monitoring shall sample annually. If 3 consecutive annual samples do not 
+48
+indicate a contaminant level in an amount over 50% of the level of a contaminant listed in 
+49
+subsection 2, the community water system or nontransient, noncommunity water system 
+50
+conducting the monitoring shall sample every 3 years. 
+11
+4.  Submission of drinking water samples; reporting.  When determined necessary 
+12
+by the department, a community water system or nontransient, noncommunity water 
+13
+system shall:
+14
+A.  Submit a water sample for determination of contaminant levels of regulated PFAS 
+15
+contaminants to an approved laboratory pursuant to section 2607;
+16
+B.  Report: 
+17
+(1)  Any failure to comply with department rules;
+18
+(2)  The results of tests, measurements or analyses of a drinking water sample under 
+19
+paragraph A; or
+20
+(3)  A change in ownership of the community water system or nontransient, 
+21
+noncommunity water system; and 
+22
+C.  Submit a monthly operational report.
+23
+5.  Treatment; notice.  Beginning January 1, 2029, if a monitoring result confirms the 
+24
+presence of a regulated PFAS contaminant in excess of the maximum contaminant level in 
+25
+subsection 2 or a combination of regulated PFAS contaminants exceeding 20 nanograms 
+26
+per liter in the drinking water of a community water system or nontransient, noncommunity 
+27
+water system, the department shall direct the community water system or nontransient, 
+28
+noncommunity water system to:
+29
+A.  Implement treatment or another remedy to reduce the level of PFAS or regulated 
+30
+PFAS contaminants in the drinking water to below 20 nanograms per liter; and
+31
+B.  Issue a notice to all users of the community water system or nontransient, 
+32
+noncommunity water system informing the users of the detected regulated PFAS 
+33
+contaminant concentration and potential risk to public health until the treatment or 
+34
+other remedy in paragraph A is completed and effective.
+35
+6.  Enforcement; appeal.  The department may enforce this section pursuant to section 
+36
+2605, subsection 5.  A person may appeal an act or decision of the department under this 
+37
+section pursuant to section 2620-A.
+38
+7.  Notification of suspected tampering.  A community water system or nontransient, 
+39
+noncommunity water system shall notify the department and law enforcement officials 
+40
+immediately of any act of potential or suspected tampering of the community water system 
+41
+or nontransient, noncommunity water system.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Page 3 - 132LR1066(01)
+1
+8.  Rules.  The department may adopt routine technical rules as defined in Title 5, 
+2
+chapter 375, subchapter 2-A to carry out the purposes of this section.
+3
+SUMMARY
+4
+This bill establishes maximum levels of regulated perfluoroalkyl and polyfluoroalkyl 
+5
+substances in the drinking water of community water systems and nontransient, 
+6
+noncommunity water systems. The bill allows the Commissioner of Health and Human 
+7
+Services through rulemaking to lower the maximum levels of regulated PFAS contaminants 
+8
+or include additional PFAS contaminants to the list of regulated PFAS contaminants, 
+9
+requires beginning January 1, 2029 treatment and notice to consumers if PFAS 
+10
+contaminants are found in the drinking water of community water systems and 
+11
+nontransient, noncommunity water systems and requires the water systems to submit 
+12
+drinking water samples and report to the Department of Health and Human Services in a 
+13
+manner as determined by the department.
+14
+The bill also requires, beginning January 1, 2026, all community water systems and 
+15
+nontransient, noncommunity water systems to conduct monitoring of PFAS at detectable 
+16
+levels established by the United States Environmental Protection Agency.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13

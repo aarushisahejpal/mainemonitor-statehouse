@@ -1,0 +1,123 @@
+{
+  "ld": 1742,
+  "paper": "HP1160",
+  "paper_display": "HP 1160",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098712",
+  "title": "An Act to Prohibit a State Social Media Platform Account from Restricting User Comments",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 28, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/22/2025 - Committee on Judiciary suggested and ordered printed. The Bill was REFERRED to the Committee on JUDICIARY . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/28/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "David BOYER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Poland"
+    },
+    {
+      "name": "Jeffrey ADAMS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lebanon"
+    },
+    {
+      "name": "John EDER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterboro"
+    },
+    {
+      "name": "Benjamin HYMES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waldo"
+    },
+    {
+      "name": "Nina MILLIKEN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Blue Hill"
+    },
+    {
+      "name": "Amy ROEDER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Katrina SMITH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Palermo"
+    },
+    {
+      "name": "Rachel TALBOT ROSS",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Sophia WARREN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Scarborough"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE GOVERNMENT",
+      "minor": "AGENCY REGULATION",
+      "detail": "SOCIAL MEDIA"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-22",
+      "date_raw": "4/22/2025",
+      "chamber": "House",
+      "description": "Committee on Judiciary suggested and ordered printed. The Bill was REFERRED to the Committee on JUDICIARY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-22",
+      "date_raw": "4/22/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on JUDICIARY in concurrence"
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1160&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1160",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1160&SessionID=16",
+  "scraped_at": "2026-06-30T19:44:30Z"
+}

@@ -1,0 +1,174 @@
+{
+  "ld": 1515,
+  "paper": "HP0999",
+  "paper_display": "HP 999",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098271",
+  "title": "An Act to Exempt Wheelchair Adapted Motor Vehicles from the Sales and Use Tax",
+  "committee": "Taxation",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Apr 29, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/10/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/29/2026 - Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)",
+  "sponsors": [
+    {
+      "name": "Amy ARATA",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "New Gloucester"
+    },
+    {
+      "name": "Bruce BICKFORD",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    },
+    {
+      "name": "Steven BISHOP",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bucksport"
+    },
+    {
+      "name": "Michael BRENNAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Mark COOPER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Windham"
+    },
+    {
+      "name": "Rolf OLSEN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Raymond"
+    },
+    {
+      "name": "Cameron RENY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Lincoln"
+    },
+    {
+      "name": "Daniel SAYRE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunk"
+    },
+    {
+      "name": "Peter WOOD",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Norway"
+    },
+    {
+      "name": "Samuel ZAGER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "SALES AND USE TAX",
+      "minor": "EXEMPT ITEMS",
+      "detail": "WHEELCHAIR ACCESSORIES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "House",
+      "description": "Committee on Taxation suggested and ordered printed. The Bill was REFERRED to the Committee on TAXATION . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on TAXATION in concurrence"
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-526) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-526) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-526), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending ENACTMENT in concurrence"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-04-29",
+      "date_raw": "4/29/2026",
+      "chamber": "Senate",
+      "description": "Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-526 )",
+      "new_title": "An Act to Exempt Wheelchair Adapted Motor Vehicles from the Sales and Use Tax",
+      "house_action": "Adopted on 6/9/2025",
+      "senate_action": "Adopted on 6/9/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0999&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0999&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0999",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0999&SessionID=16",
+  "scraped_at": "2026-06-30T19:27:18Z"
+}

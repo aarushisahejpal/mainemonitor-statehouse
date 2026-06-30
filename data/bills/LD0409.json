@@ -1,0 +1,116 @@
+{
+  "ld": 409,
+  "paper": "HP0263",
+  "paper_display": "HP 263",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096256",
+  "title": "An Act to Enhance the Mobility of Licensed Massage Therapists Across State Lines",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "2/4/2025 - Committee on Health Coverage, Insurance and Financial Services suggested and ordered printed. The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Holly EATON",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Deer Isle"
+    },
+    {
+      "name": "Daniel ANKELES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "Anne GRAHAM",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "North Yarmouth"
+    },
+    {
+      "name": "Lori GRAMLICH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Orchard Beach"
+    },
+    {
+      "name": "Nicole GROHOSKI",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Hancock"
+    },
+    {
+      "name": "Adam LEE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "Cameron RENY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Lincoln"
+    },
+    {
+      "name": "Parnell TERRY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Gorham"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HEALTH CARE PERSONNEL",
+      "minor": "MASSAGE THERAPISTS",
+      "detail": "OUT OF STATE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "House",
+      "description": "Committee on Health Coverage, Insurance and Financial Services suggested and ordered printed. The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES in concurrence"
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0263&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0263",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0263&SessionID=16",
+  "scraped_at": "2026-06-30T18:03:02Z"
+}

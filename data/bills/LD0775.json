@@ -1,0 +1,300 @@
+{
+  "ld": 775,
+  "paper": "HP0498",
+  "paper_display": "HP 498",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096852",
+  "title": "An Act Requiring Voter Approval of Legislative and Gubernatorial Pay Increases",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 28, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/27/2025 - Reports READ . On motion of Representative SALISBURY of Westbrook, the Majority Ought Not to Pass Report was ACCEPTED . Representative LIBBY of Auburn REQUESTED a Roll Call. Less than one-fifth of the members present expressed a desire for a roll call, which was NOT ORDERED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/28/2025 - Reports Read On motion by Senator BALDACCI of Penobscot the Majority Ought Not to Pass Report ACCEPTED in concurrence. PREVAILED Roll Call Ordered Roll Call Number 242 Yeas 20 - Nays 14 - Excused 1 - Absent 0 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "William TUELL",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "East Machias"
+    },
+    {
+      "name": "Mathew MCINTYRE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lowell"
+    },
+    {
+      "name": "Marianne MOORE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Washington"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LEGISLATURE",
+      "minor": "LEGISLATORS",
+      "detail": "SALARIES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-25",
+      "date_raw": "2/25/2025",
+      "chamber": "House",
+      "description": "Committee on State and Local Government suggested and ordered printed. The Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-25",
+      "date_raw": "2/25/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SALISBURY of Westbrook, the Majority Ought Not to Pass Report was ACCEPTED . Representative LIBBY of Auburn REQUESTED a Roll Call. Less than one-fifth of the members present expressed a desire for a roll call, which was NOT ORDERED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator BALDACCI of Penobscot the Majority Ought Not to Pass Report ACCEPTED in concurrence. PREVAILED Roll Call Ordered Roll Call Number 242 Yeas 20 - Nays 14 - Excused 1 - Absent 0 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "242",
+      "date": "2025-05-28",
+      "date_raw": "May 28, 2025",
+      "motion": "ACCEPT MAJORITY OUGHT NOT TO PASS REPORT",
+      "outcome": "PREVAILS",
+      "yeas": 20,
+      "nays": 14,
+      "absent": 0,
+      "excused": 1,
+      "vacant": 0,
+      "yeas_required": 18,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "N"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "E"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280096852&chamber=Senate&serialnumber=242"
+    }
+  ],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-261 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0498&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0498&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0498",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0498&SessionID=16",
+  "scraped_at": "2026-06-30T18:30:59Z"
+}

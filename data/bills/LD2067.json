@@ -1,0 +1,334 @@
+{
+  "ld": 2067,
+  "paper": "SP0856",
+  "paper_display": "SP 856",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100985",
+  "title": "An Act to Include Community Mental Health Workers Under the 1998 Special Plan for Retirement",
+  "committee": "Labor",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Apr 29, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/7/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/29/2026 - Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)",
+  "sponsors": [
+    {
+      "name": "Michael TIPPING",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Matthea DAUGHTRY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "President",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Deqa DHALAC",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    },
+    {
+      "name": "Ryan FECTEAU",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Speaker",
+      "district": "Biddeford"
+    },
+    {
+      "name": "Craig HICKMAN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Kennebec"
+    },
+    {
+      "name": "Ambureen RANA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Amy ROEDER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE RETIREMENT SYSTEM",
+      "minor": "SPECIAL PLANS",
+      "detail": "1998 SPECIAL PLAN"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-15",
+      "date_raw": "12/15/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on December 15, 2025 and REFERRED to the Committee on LABOR pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "Reports READ. On motion by Senator TIPPING of Penobscot the Majority Ought to Pass as Amended Report ACCEPTED . Roll Call Ordered Roll Call Number 871 Yeas 23 - Nays 9 - Excused 3 - Absent 0 READ ONCE. Committee Amendment \"A\" (S-617) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-617) Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative ROEDER of Bangor, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (S-617) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-617) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-07",
+      "date_raw": "4/7/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-07",
+      "date_raw": "4/7/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending PASSAGE TO BE ENACTED , in concurrence."
+    },
+    {
+      "date": "2026-04-29",
+      "date_raw": "4/29/2026",
+      "chamber": "Senate",
+      "description": "Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)"
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "871",
+      "date": "2026-04-06",
+      "date_raw": "April 6, 2026",
+      "motion": "ACCEPT MAJORITY OUGHT TO PASS AS AMENDED REPORT",
+      "outcome": "PREVAILS",
+      "yeas": 23,
+      "nays": 9,
+      "absent": 0,
+      "excused": 3,
+      "vacant": 0,
+      "yeas_required": 17,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "Y"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "E"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "E"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "E"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280100985&chamber=Senate&serialnumber=871"
+    }
+  ],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-617 )",
+      "new_title": "An Act to Include Community Mental Health Workers Under the 1998 Special Plan for Retirement",
+      "house_action": "Adopted on 4/6/2026",
+      "senate_action": "Adopted on 4/6/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0856&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0856&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0856",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0856&SessionID=16",
+  "scraped_at": "2026-06-30T20:10:46Z"
+}

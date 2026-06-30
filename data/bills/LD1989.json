@@ -1,0 +1,104 @@
+{
+  "ld": 1989,
+  "paper": "SP0801",
+  "paper_display": "SP 801",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100675",
+  "title": "An Act to Increase Access to the Progressive Treatment Program Fund",
+  "committee": "Health and Human Services",
+  "status_summary": "",
+  "final_disposition": "Emergency Enacted, Mar 19, 2026",
+  "governor_action": "Emergency Signed, Mar 19, 2026",
+  "chaptered_law": "ACTPUB, Chapter 576",
+  "chapter": "576",
+  "became_law": true,
+  "last_house_action": "3/5/2026 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/10/2026 - PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence.",
+  "sponsors": [
+    {
+      "name": "Marianne MOORE",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Washington"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MENTAL HEALTH SERVICES",
+      "minor": "DELIVERY",
+      "detail": "PROGRESSIVE TREATMENT PROGRAM"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-03",
+      "date_raw": "12/3/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on December 3, 2025 and REFERRED to the Committee on HEALTH AND HUMAN SERVICES pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2026-02-24",
+      "date_raw": "2/24/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . Bill READ ONCE. Committee Amendment \"A\" (S-512) READ and ADOPTED. ASSIGNED FOR SECOND READING NEXT LEGISLATIVE DAY."
+    },
+    {
+      "date": "2026-02-26",
+      "date_raw": "2/26/2026",
+      "chamber": "Senate",
+      "description": "COMMITTEE ON BILLS IN THE SECOND READING REPORTS NO FURTHER VERBAL AMENDMENTS NECESSARY. REPORT ACCEPTED. READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-512) Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2026-03-03",
+      "date_raw": "3/3/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-512) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-05",
+      "date_raw": "3/5/2026",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-10",
+      "date_raw": "3/10/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-512 )",
+      "new_title": "",
+      "house_action": "Adopted on 3/3/2026",
+      "senate_action": "Adopted on 2/24/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0801&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0801&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0801&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0801",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0801&SessionID=16",
+  "scraped_at": "2026-06-30T20:04:35Z"
+}

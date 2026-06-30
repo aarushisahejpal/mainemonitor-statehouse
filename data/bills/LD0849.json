@@ -1,0 +1,114 @@
+{
+  "ld": 849,
+  "paper": "HP0535",
+  "paper_display": "HP 535",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097120",
+  "title": "An Act to Establish a Recall Process for Public School Board Members",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 18, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/25/2025 - Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+  "last_senate_action": "3/18/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Daniel SAYRE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunk"
+    },
+    {
+      "name": "Daniel ANKELES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "William BRIDGEO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Augusta"
+    },
+    {
+      "name": "Henry INGWERSEN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Joseph RAFFERTY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "David ROLLINS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Augusta"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE AND LOCAL GOVERNMENT",
+      "minor": "ADMINISTRATION",
+      "detail": "SCHOOL BOARD MEMBER RECALLS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "House",
+      "description": "Committee on EDUCATION AND CULTURAL AFFAIRS suggested and ordered printed. On motion of Representative MURPHY of Scarborough, the Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-03-18",
+      "date_raw": "3/18/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0535&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0535",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0535&SessionID=16",
+  "scraped_at": "2026-06-30T18:36:35Z"
+}

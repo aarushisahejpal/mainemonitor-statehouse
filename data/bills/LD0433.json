@@ -1,0 +1,136 @@
+{
+  "ld": 433,
+  "paper": "HP0287",
+  "paper_display": "HP 287",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096282",
+  "title": "An Act Relating to Requirements for School Bus Drivers",
+  "committee": "Transportation",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/21/2025 - Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+  "last_senate_action": "5/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Gary DRINKWATER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Milford"
+    },
+    {
+      "name": "James DILL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Town"
+    },
+    {
+      "name": "John EDER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterboro"
+    },
+    {
+      "name": "Abigail GRIFFIN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Levant"
+    },
+    {
+      "name": "Stacey GUERIN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Timothy GUERRETTE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Caribou"
+    },
+    {
+      "name": "Randall HALL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Wilton"
+    },
+    {
+      "name": "Allison HEPLER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Woolwich"
+    },
+    {
+      "name": "Laurel LIBBY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "Richard MASON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lisbon"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MOTOR VEHICLES",
+      "minor": "DRIVERS LICENSES",
+      "detail": "SCHOOL BUS CLASSIFICATION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "House",
+      "description": "Committee on Transportation suggested and ordered printed. The Bill was REFERRED to the Committee on TRANSPORTATION . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on TRANSPORTATION in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0287&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0287",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0287&SessionID=16",
+  "scraped_at": "2026-06-30T18:04:51Z"
+}

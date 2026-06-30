@@ -1,0 +1,130 @@
+{
+  "ld": 1314,
+  "paper": "SP0544",
+  "paper_display": "SP 544",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097856",
+  "title": "An Act to Protect Cannabis Industry Workers' Access to Personal Credit",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 28, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/27/2025 - The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . In concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/28/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Nicole GROHOSKI",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Hancock"
+    },
+    {
+      "name": "David BOYER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Poland"
+    },
+    {
+      "name": "Stacy BRENNER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Sally CLUCHEY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bowdoinham"
+    },
+    {
+      "name": "Holly EATON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Deer Isle"
+    },
+    {
+      "name": "Craig HICKMAN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Kennebec"
+    },
+    {
+      "name": "Anne-Marie MASTRACCIO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Sanford"
+    },
+    {
+      "name": "Joshua MORRIS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Turner"
+    },
+    {
+      "name": "Cameron RENY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Lincoln"
+    },
+    {
+      "name": "Jeffrey TIMBERLAKE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "FINANCIAL PRACTICES",
+      "minor": "CONSUMER CREDIT",
+      "detail": "APPROVALS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-27",
+      "date_raw": "3/27/2025",
+      "chamber": "Senate",
+      "description": "Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES suggested and ordered printed REFERENCE to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-03-27",
+      "date_raw": "3/27/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0544&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0544",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0544&SessionID=16",
+  "scraped_at": "2026-06-30T19:12:25Z"
+}

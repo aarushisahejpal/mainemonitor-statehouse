@@ -1,0 +1,116 @@
+{
+  "ld": 1486,
+  "paper": "HP0977",
+  "paper_display": "HP 977",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098214",
+  "title": "An Act to Provide Financing Assistance for Down Payments for First-generation Homeowners",
+  "committee": "Housing and Economic Development",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Apr 30, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/3/2025 - Committee on Housing and Economic Development suggested and ordered printed. The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/30/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Yusuf YUSUF",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Richard BENNETT",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Glenn CURRY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Waldo"
+    },
+    {
+      "name": "Deqa DHALAC",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    },
+    {
+      "name": "Traci GERE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunkport"
+    },
+    {
+      "name": "Cheryl GOLEK",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Harpswell"
+    },
+    {
+      "name": "Grayson LOOKNER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Ambureen RANA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HOUSING",
+      "minor": "ASSISTANCE",
+      "detail": "DOWN PAYMENT ASSISTANCE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-03",
+      "date_raw": "4/3/2025",
+      "chamber": "House",
+      "description": "Committee on Housing and Economic Development suggested and ordered printed. The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT in concurrence"
+    },
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0977&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0977",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0977&SessionID=16",
+  "scraped_at": "2026-06-30T19:25:10Z"
+}

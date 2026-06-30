@@ -1,0 +1,327 @@
+{
+  "ld": 218,
+  "paper": "HP0141",
+  "paper_display": "HP 141",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095868",
+  "title": "An Act to Make Student Transfer Agreements Renew Automatically Except in Certain Circumstances",
+  "committee": "Education and Cultural Affairs",
+  "status_summary": "",
+  "final_disposition": "Died Between Houses, Jun 11, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/10/2025 - Speaker laid before the House Subsequently, the House INSISTED on ACCEPTANCE of the Majority Ought Not to Pass Report. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/11/2025 - On motion by Senator PIERCE of Cumberland the Senate INSISTED on The Minority Ought to Pass Report. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Tavis HASENFUS",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Readfield"
+    },
+    {
+      "name": "Amy ARATA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "New Gloucester"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "EDUCATIONAL OPTIONS",
+      "minor": "SCHOOL CHOICE",
+      "detail": "TRANSFER AGREEMENTS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "date_raw": "1/16/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on January 16, 2025. The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MURPHY of Scarborough, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "Reports Read Motion by Senator RAFFERTY of York the Majority Ought Not to Pass Report FAILED Roll Call Ordered Roll Call Number 223 Yeas 17 - Nays 17 - Excused 1 - Absent 0 On motion by Senator PIERCE of Cumberland Tabled until Later in Today's Session, pending ACCEPTANCE of the Minority Ought to Pass Report. In NON-CONCURRENCE Unfinished Business"
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President Subsequently, The Minority Ought to Pass Report ACCEPTED. Bill READ ONCE. Under suspension of the Rules READ A SECOND TIME and PASSED TO BE ENGROSSED In NON-CONCURRENCE. Sent down for concurrence."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "House",
+      "description": "On motion of Representative MOONEN of Portland, TABLED pending FURTHER CONSIDERATION . Later today assigned."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-04",
+      "date_raw": "6/4/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "House",
+      "description": "Speaker laid before the House Subsequently, the House INSISTED on ACCEPTANCE of the Majority Ought Not to Pass Report. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-11",
+      "date_raw": "6/11/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland the Senate INSISTED on The Minority Ought to Pass Report. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "223",
+      "date": "2025-05-27",
+      "date_raw": "May 27, 2025",
+      "motion": "ACCEPT MAJORITY OUGHT NOT TO PASS REPORT",
+      "outcome": "FAILS",
+      "yeas": 17,
+      "nays": 17,
+      "absent": 0,
+      "excused": 1,
+      "vacant": 0,
+      "yeas_required": 18,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "N"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "E"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280095868&chamber=Senate&serialnumber=223"
+    }
+  ],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0141&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0141",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0141&SessionID=16",
+  "scraped_at": "2026-06-30T17:46:32Z"
+}

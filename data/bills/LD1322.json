@@ -1,0 +1,160 @@
+{
+  "ld": 1322,
+  "paper": "HP0857",
+  "paper_display": "HP 857",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097870",
+  "title": "Resolve, to Establish a Pilot Program to Enhance Youth Hunting Participation",
+  "committee": "Inland Fisheries and Wildlife",
+  "status_summary": "",
+  "final_disposition": "Finally Passed, May 30, 2025",
+  "governor_action": "Signed, May 30, 2025",
+  "chaptered_law": "RESLV, Chapter 44",
+  "chapter": "44",
+  "became_law": true,
+  "last_house_action": "5/27/2025 - FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/27/2025 - FINALLY PASSED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Tiffany ROBERTS",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Berwick"
+    },
+    {
+      "name": "William BRIDGEO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Augusta"
+    },
+    {
+      "name": "Sally CLUCHEY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bowdoinham"
+    },
+    {
+      "name": "Amanda COLLAMORE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Pittsfield"
+    },
+    {
+      "name": "James DILL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Town"
+    },
+    {
+      "name": "Stacey GUERIN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Cassie JULIA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterville"
+    },
+    {
+      "name": "Richard MASON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lisbon"
+    },
+    {
+      "name": "Anne-Marie MASTRACCIO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Sanford"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HUNTING",
+      "minor": "YOUTH LICENSES",
+      "detail": "PARTICIPATION PROGRAM"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-27",
+      "date_raw": "3/27/2025",
+      "chamber": "House",
+      "description": "Committee on Inland Fisheries and Wildlife suggested and ordered printed. The Resolve was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-27",
+      "date_raw": "3/27/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE in concurrence"
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Resolve was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-202) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-202) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-202), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-202 )",
+      "new_title": "",
+      "house_action": "Adopted on 5/22/2025",
+      "senate_action": "Adopted on 5/22/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0857&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0857&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0857&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0857",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0857&SessionID=16",
+  "scraped_at": "2026-06-30T19:13:00Z"
+}

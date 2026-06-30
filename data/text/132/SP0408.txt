@@ -1,0 +1,217 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 981
+S.P. 408
+In Senate, March 11, 2025
+An Act to Provide Electronic Notification to Victims of Crimes
+Reference to the Committee on Criminal Justice and Public Safety suggested and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator CARNEY of Cumberland.
+Cosponsored by Senator: HARRINGTON of York.
+
+Page 1 - 132LR0739(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  15 MRSA §2136, sub-§6-A is enacted to read:
+3
+6-A.  Electronic notice.  "Electronic notice" means a notice delivered by an e-mail, 
+4
+text message or application-based system.
+5
+Sec. 2.  15 MRSA §2138, sub-§13, as enacted by PL 2001, c. 469, §1, is amended 
+6
+to read:
+7
+13.  Victim notification.  When practicable, the attorney for the State shall make a 
+8
+good faith effort to give written notice or electronic notice of a motion under this section 
+9
+to the victim of the person described in subsection 1 or to the victim's family if the victim 
+10
+is deceased.  The A written notice must be by first-class mail to the victim's last known 
+11
+address.  Upon the victim's request, the attorney for the State shall give the victim written 
+12
+notice or electronic notice of the time and place of any hearing on the motion and shall 
+13
+inform the victim of the court's grant or denial of a new trial to the person.
+14
+Sec. 3.  15 MRSA §6101, sub-§1, as amended by PL 2019, c. 113, Pt. C, §§53 and 
+15
+54, is further amended to read:
+16
+1.  Notice to victims.  Whenever practicable, the attorney for the State shall make a 
+17
+good faith effort to inform, by written notice or electronic notice, as defined in section 
+18
+2136, subsection 6-A, the victims and families of victims of crimes of domestic violence 
+19
+and sexual assault and crimes in which the victim or the victim's family suffered serious 
+20
+physical trauma or serious financial loss of:
+21
+A.  The victim advocate and the victims' compensation fund pursuant to Title 5, chapter 
+22
+316‑A;
+23
+B.  The victim's right to be advised of the existence of a negotiated plea agreement 
+24
+before that agreement is submitted to the court pursuant to Title 17‑A, section 2103;
+25
+C.  The time and place of the trial, if one is to be held;
+26
+D.  The victim's right to make a statement or submit a written statement at the time of 
+27
+sentencing pursuant to Title 17‑A, section 2104 upon conviction of the defendant; and
+28
+E.  The final disposition of the charges against that defendant.
+29
+Sec. 4.  17-A MRSA §2101, sub-§1-A is enacted to read:
+30
+1-A.  Electronic notice.  "Electronic notice" means a notice delivered by an e-mail, 
+31
+text message or application-based system.
+32
+Sec. 5.  17-A MRSA §2106, sub-§2, as enacted by PL 2019, c. 113, Pt. A, §2, is 
+33
+amended to read:
+34
+2.  Notification of victim.   The Department of Corrections or the state mental health 
+35
+institute or the county jail to which the defendant is committed shall keep the victim's 
+36
+written request for a notification under subsection 1 in the file of the defendant and shall 
+37
+notify the victim by written notice in the mail or electronic notice to a telephone number or 
+38
+e-mail address of any impending release as soon as the release date is set or, if the defendant 
+39
+has escaped, by the quickest means reasonably practicable.  This notification must be 
+40
+mailed to the address provided in the request or any subsequent address provided by the 
+41
+victim.
+
+Page 2 - 132LR0739(01)
+1
+Sec. 6.  17-A MRSA §2107, sub-§3, as enacted by PL 2019, c. 113, Pt. A, §2, is 
+2
+amended to read:
+3
+3.  Method of notification.   Notification under subsection 2 must be made by a 
+4
+telephone call or electronic notice either directly to the victim or as provided in subsection 
+5
+5.  In the event that the jail has not succeeded in contacting the victim after the jail has 
+6
+exercised due diligence in attempting to contact the victim, notification of the defendant's 
+7
+release must be made to the law enforcement agency that investigated the report of 
+8
+domestic violence, sexual assault under chapter 11 or stalking.  That law enforcement 
+9
+agency shall make a reasonable attempt to notify the victim of the defendant's release on 
+10
+preconviction bail.
+11
+Sec. 7. Automated crime victims notification system. The County Corrections 
+12
+Professional Standards Council, as established in the Maine Revised Statutes, Title 5, 
+13
+section 12004-G, subsection 6-D, shall establish an automated crime victims notification 
+14
+system. The system must be used to provide notices of an offender's change in incarceration 
+15
+status or custody and notices regarding criminal justice proceedings considered to be in the 
+16
+best interest of crime victims in this State and public safety. The council shall contract with 
+17
+a commercial real-time automated crime victims notification system intended to develop, 
+18
+support, house and maintain the automated crime victims notification system for use by the 
+19
+Department of Public Safety, the Maine Sheriffs' Association and the Department of 
+20
+Corrections. The contract must require that the contracted entity provide the following:
+21
+1. Operating a support center open on a 24-hours-per-day, 7-days-per-week basis;
+22
+2. E-mail, text message and application-based capabilities;
+23
+3. English and Spanish real-time operations; and
+24
+4. Directory or contact information for community-based support services, including 
+25
+but not limited to housing services, mental and physical health resources, domestic violence 
+26
+resources and financial assistance.
+27
+Sec. 8.  Appropriations and allocations.  The following appropriations and 
+28
+allocations are made.
+29
+CORRECTIONS, DEPARTMENT OF
+30
+Administration - Corrections 0141
+31
+Initiative: Provides one-time funding to the County Corrections Professional Standards 
+32
+Council for the development, support and maintenance of the automated crime victims 
+33
+notification system.
+GENERAL FUND
+2025-26
+2026-27
+All Other
+$575,000
+$0
+ 
+__________
+__________
+GENERAL FUND TOTAL
+$575,000
+$0
+34
+SUMMARY
+35
+Current law requires written notice to be made to victims of crimes in the event that a 
+36
+defendant is released on preconviction bail or released or escaped from custody. This bill 
+37
+allows for that notice to be electronic. The bill requires the County Corrections Professional 
+34
+35
+36
+37
+38
+39
+40
+41
+
+Page 3 - 132LR0739(01)
+38
+Standards Council to implement an automated crime victims notification system. The 
+39
+automated system provides a victim with timely notices of an offender's change in 
+40
+incarceration status or custody and notices regarding criminal justice proceedings 
+41
+considered to be in the best interest of crime victims in this State and in the interests of 
+42
+public safety. Finally, the bill provides an appropriation of $575,000 from the General Fund 
+43
+in fiscal year 2025-26 for the purposes of development, support and maintenance of the 
+44
+automated crime victims notification system.
+1
+2
+3
+4
+5
+6
+7

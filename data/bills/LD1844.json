@@ -1,0 +1,173 @@
+{
+  "ld": 1844,
+  "paper": "HP1228",
+  "paper_display": "HP 1228",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098958",
+  "title": "An Act to Expand the State's Workforce by Supporting the Transition from Incarceration to Employment",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jul 1, 2025",
+  "governor_action": "Signed, Jul 1, 2025",
+  "chaptered_law": "ACTPUB, Chapter 485",
+  "chapter": "485",
+  "became_law": true,
+  "last_house_action": "6/9/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/25/2025 - On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table PASSED TO BE ENACTED in concurrence.",
+  "sponsors": [
+    {
+      "name": "Daniel SAYRE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunk"
+    },
+    {
+      "name": "Daniel ANKELES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "Tavis HASENFUS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Readfield"
+    },
+    {
+      "name": "Kristi MATHIESON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kittery"
+    },
+    {
+      "name": "Nina MILLIKEN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Blue Hill"
+    },
+    {
+      "name": "William PLUECKER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Warren"
+    },
+    {
+      "name": "Holly SARGENT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "York"
+    },
+    {
+      "name": "David SINCLAIR",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bath"
+    },
+    {
+      "name": "Rachel TALBOT ROSS",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Sophia WARREN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Scarborough"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "PRISONERS",
+      "minor": "TRANSITIONING",
+      "detail": "EMPLOYMENT"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "House",
+      "description": "Committee on Criminal Justice and Public Safety suggested and ordered printed. The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY in concurrence"
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative HASENFUS of Readfield, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-499) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-499) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator BEEBE-CENTER of Knox the Majority Ought to Pass as Amended Report ACCEPTED . Bill READ ONCE Committee Amendment \"A\" (H-499) READ and ADOPTED Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-499) in concurrence"
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending ENACTMENT in concurrence."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table PASSED TO BE ENACTED in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-499 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/5/2025",
+      "senate_action": "Adopted on 6/5/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1228&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1228&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1228&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1228",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1228&SessionID=16",
+  "scraped_at": "2026-06-30T19:52:54Z"
+}

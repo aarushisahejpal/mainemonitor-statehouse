@@ -1,0 +1,61 @@
+{
+  "ld": 2073,
+  "paper": "HP1386",
+  "paper_display": "HP 1386",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100990",
+  "title": "An Act to Add Positions to the Maine State Police Executive Protection Unit",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 5, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "12/15/2025 - Received by the Clerk of the House on December 15, 2025. The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+  "last_senate_action": "3/5/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Matt MOONEN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LAW ENFORCEMENT",
+      "minor": "PERSONNEL",
+      "detail": "EXECUTIVE PROTECTION UNIT"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-15",
+      "date_raw": "12/15/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on December 15, 2025. The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2026-03-05",
+      "date_raw": "3/5/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1386&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1386",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1386&SessionID=16",
+  "scraped_at": "2026-06-30T20:11:13Z"
+}

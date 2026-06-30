@@ -1,0 +1,102 @@
+{
+  "ld": 1442,
+  "paper": "SP0583",
+  "paper_display": "SP 583",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098100",
+  "title": "Resolve, Regarding Personal Care Agency Licensing Rules",
+  "committee": "Health and Human Services",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 29, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/8/2025 - The Resolve was REFERRED to the Committee on HEALTH AND HUMAN SERVICES . In concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/29/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Joseph BALDACCI",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Anne GRAHAM",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "North Yarmouth"
+    },
+    {
+      "name": "Tavis HASENFUS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Readfield"
+    },
+    {
+      "name": "Nina MILLIKEN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Blue Hill"
+    },
+    {
+      "name": "Laura SUPICA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Parnell TERRY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Gorham"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HEALTH CARE SERVICES",
+      "minor": "DELIVERY",
+      "detail": "PERSONAL CARE AGENCIES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "Committee on HEALTH AND HUMAN SERVICES suggested and ordered printed REFERENCE to the Committee on HEALTH AND HUMAN SERVICES Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "House",
+      "description": "The Resolve was REFERRED to the Committee on HEALTH AND HUMAN SERVICES . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0583&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0583",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0583&SessionID=16",
+  "scraped_at": "2026-06-30T19:22:00Z"
+}

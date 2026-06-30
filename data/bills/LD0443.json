@@ -1,0 +1,88 @@
+{
+  "ld": 443,
+  "paper": "HP0297",
+  "paper_display": "HP 297",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096287",
+  "title": "An Act to Exempt Gold and Silver Coins and Bullion from the State Sales and Use Tax",
+  "committee": "Taxation",
+  "status_summary": "",
+  "final_disposition": "Leave to Withdraw, Mar 4, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "2/4/2025 - Committee on Taxation suggested and ordered printed. The Bill was REFERRED to the Committee on TAXATION . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/4/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Laurel LIBBY",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "David BOYER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Poland"
+    },
+    {
+      "name": "Nina MILLIKEN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Blue Hill"
+    },
+    {
+      "name": "Tracy QUINT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hodgdon"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "SALES AND USE TAX",
+      "minor": "EXEMPT ITEMS",
+      "detail": "COINS AND BULLION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "House",
+      "description": "Committee on Taxation suggested and ordered printed. The Bill was REFERRED to the Committee on TAXATION . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on TAXATION in concurrence"
+    },
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0297&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0297",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0297&SessionID=16",
+  "scraped_at": "2026-06-30T18:05:35Z"
+}

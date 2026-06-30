@@ -1,0 +1,124 @@
+{
+  "ld": 668,
+  "paper": "HP0436",
+  "paper_display": "HP 436",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096738",
+  "title": "An Act to Abolish Ranked-choice Voting",
+  "committee": "Veterans and Legal Affairs",
+  "status_summary": "",
+  "final_disposition": "Leave to Withdraw, Mar 18, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "2/20/2025 - Received by the Clerk of the House on February 20, 2025. The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+  "last_senate_action": "3/13/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Joseph UNDERWOOD",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Presque Isle"
+    },
+    {
+      "name": "Jeffrey ADAMS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lebanon"
+    },
+    {
+      "name": "Barbara BAGSHAW",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Windham"
+    },
+    {
+      "name": "Richard CAMPBELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Orrington"
+    },
+    {
+      "name": "Alicia COLLINS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Sidney"
+    },
+    {
+      "name": "Kimberly HAGGAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hampden"
+    },
+    {
+      "name": "James LIBBY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Tracy QUINT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hodgdon"
+    },
+    {
+      "name": "Michael SOBOLESKI",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Phillips"
+    },
+    {
+      "name": "James THORNE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Carmel"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ELECTIONS",
+      "minor": "VOTING PROCEDURES",
+      "detail": "RANKED-CHOICE VOTING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "date_raw": "2/20/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on February 20, 2025. The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-13",
+      "date_raw": "3/13/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0436&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0436",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0436&SessionID=16",
+  "scraped_at": "2026-06-30T18:23:02Z"
+}

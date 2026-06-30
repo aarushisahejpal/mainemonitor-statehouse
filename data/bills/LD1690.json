@@ -1,0 +1,109 @@
+{
+  "ld": 1690,
+  "paper": "HP1125",
+  "paper_display": "HP 1125",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098612",
+  "title": "An Act Regarding Artificial Intelligence in Campaign Advertising",
+  "committee": "Veterans and Legal Affairs",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 27, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/17/2025 - Committee on Veterans and Legal Affairs suggested and ordered printed. The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/27/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Amy KUHN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Falmouth"
+    },
+    {
+      "name": "Kristen CLOUTIER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lewiston"
+    },
+    {
+      "name": "Marc MALON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Biddeford"
+    },
+    {
+      "name": "Jennifer POIRIER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Skowhegan"
+    },
+    {
+      "name": "Dylan PUGH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Daniel SAYRE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunk"
+    },
+    {
+      "name": "Laura SUPICA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ELECTIONS",
+      "minor": "CAMPAIGNS",
+      "detail": "ADVERTISING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "House",
+      "description": "Committee on Veterans and Legal Affairs suggested and ordered printed. The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS in concurrence"
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1125&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1125",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1125&SessionID=16",
+  "scraped_at": "2026-06-30T19:40:26Z"
+}

@@ -1,0 +1,796 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2231
+H.P. 1506
+House of Representatives, March 10, 2026
+An Act to Support Owners of Manufactured Housing, Mobile 
+Homes and Tiny Homes
+Reported by Representative GERE of Kennebunkport for the Joint Standing Committee on 
+Housing and Economic Development pursuant to Public Law 2025, chapter 365, section 2.
+Reference to the Committee on Housing and Economic Development suggested and 
+ordered printed pursuant to Joint Rule 218.
+ROBERT B. HUNT
+Clerk
+
+Page 1 - 132LR3038(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  9-A MRSA §9-101, as amended by PL 2017, c. 106, §10, is further amended 
+3
+to read:
+4
+§9-101.  Scope
+5
+This Article applies to all consumer credit transactions made by creditors that are not 
+6
+supervised financial organizations, that are made to finance or refinance the acquisition of 
+7
+real estate or the initial construction of a dwelling or that are secured by a first-lien 
+8
+mortgage on real estate and applies to the servicing of those transactions. For purposes of 
+9
+this Article, unless prohibited by federal law, "real estate" includes manufactured housing, 
+10
+as defined in Title 10, section 9002, subsection 7, or tiny home, as defined in Title 29-A, 
+11
+section 101, subsection 80-C, regardless of whether title to the real property to which the 
+12
+manufactured housing or tiny home is affixed is held by the owner of the manufactured 
+13
+housing or tiny home, as long as the owner meets the requirements of Title 29-A, section 
+14
+669-A.
+15
+Sec. 2.  9-A MRSA §13-102, sub-§3, as enacted by PL 2009, c. 362, Pt. B, §1, is 
+16
+amended to read:
+17
+3.  Dwelling.  "Dwelling" has the same meaning as in the federal Truth in Lending Act, 
+18
+Section 103(v) and, unless prohibited by federal law, also includes manufactured housing, 
+19
+as defined in Title 10, section 9002, subsection 7, or tiny home, as defined in Title 29-A, 
+20
+section 101, subsection 80-C, regardless of whether title to the real property to which the 
+21
+manufactured housing or tiny home is affixed is held by the owner of the manufactured 
+22
+housing or tiny home, as long as the owner meets the requirements of Title 29-A, section 
+23
+669-A.
+24
+Sec. 3.  10 MRSA §9093-B, sub-§2, as enacted by PL 2025, c. 399, §2, is amended 
+25
+to read:
+26
+2.  Notice contents.  The notice under subsection 1 must include:
+27
+A.  The name, address, telephone number and e-mail address of the owner of the 
+28
+manufactured housing community;
+29
+B.  The amount of the increase in lot rent or fees, in dollars, and the type of fee 
+30
+increased;
+31
+C.  The average lot rent and fees by the type of fee, as a dollar amount, for a 
+32
+manufactured housing community with equivalent services and amenities in the area 
+33
+at the time of the notice;
+34
+D.  The average lot rent, calculated pursuant to paragraph C, increased by 1% above 
+35
+the Consumer Price Index for the Northeast Region, or its successor index, as published 
+36
+by the United States Department of Labor, Bureau of Labor Statistics or its successor 
+37
+agency, in dollar amounts, referred to in this section as "the allowed lot rent increase";
+38
+E.  The average fee for each type of fee, calculated pursuant to paragraph C, increased 
+39
+by 1% above the Consumer Price Index for the Northeast Region, or its successor 
+40
+index, as published by the United States Department of Labor, Bureau of Labor 
+41
+Statistics or its successor agency, in dollar amounts, referred to in this section as "the 
+42
+allowed fee increase"; and
+
+Page 2 - 132LR3038(01)
+1
+F.  A statement of the manufactured home owner's right to request mediation and the 
+2
+requirements to make a request.; and
+3
+G.  The percentage change for the previous 12-month period in the Consumer Price 
+4
+Index for the Northeast Region, or its successor index, as published by the United 
+5
+States Department of Labor, Bureau of Labor Statistics, or its successor agency.
+6
+Sec. 4.  10 MRSA §9093-B, sub-§3, as enacted by PL 2025, c. 399, §2, is amended 
+7
+to read:
+8
+3.  Request for mediation.  If the dollar amount of the proposed lot rent increase is 
+9
+above the allowed lot rent increase or the dollar amount of the proposed fee increase is 
+10
+above the allowed fee increase for the type of fee increased percentage increase in lot rent 
+11
+or fees is above the percentage from subsection 2, paragraph G, owners of manufactured 
+12
+homes in the housing community, subject to the proposed lot rent or fee increase, may 
+13
+request the proposed lot rent or fee increase be subject to mediation, if:
+14
+A.  A number of owners representing 51% or more of the households in the community, 
+15
+subject to the proposed lot rent or fee increase, sign a written request for mediation; 
+16
+and
+17
+B.  The written request is mailed, by certified mail, to the owner of the manufactured 
+18
+housing community within 90 days of the date of the notice required by subsection 1.
+19
+Sec. 5.  10 MRSA §9100, as enacted by PL 1987, c. 737, Pt. B, §1 and Pt. C, §106 
+20
+and amended by PL 1989, c. 6; c. 9, §2; and c. 104, Pt. C, §§8 and 10, is further amended 
+21
+to read:
+22
+§9100.  Violations; board petition
+23
+A violation of this chapter is a violation of Title 5, chapter 10, the unfair trade practices 
+24
+laws. The Manufactured Housing Board may petition the Attorney General to initiate legal 
+25
+action in any court of competent jurisdiction for monetary or injunctive relief to enforce 
+26
+this chapter.
+27
+Sec. 6.  29-A MRSA §651, sub-§6, as amended by PL 2009, c. 435, §9, is further 
+28
+amended to read:
+29
+6.  Manufactured housing.  Beginning October 1, 2007, the Secretary of State shall 
+30
+issue certificates of title for new single-unit manufactured housing beginning with model 
+31
+year 2007.  Beginning October 1, 2007 and ending September 30, 2009, the Secretary of 
+32
+State shall issue a certificate of title for used manufactured housing that was previously 
+33
+issued a State of Maine certificate of title.  Beginning October 1, 2009, the Secretary of 
+34
+State may issue a certificate of title for used manufactured housing that was previously 
+35
+issued a State of Maine certificate of title or a model year 2007 or later model that was 
+36
+never issued a certificate of title.  A certificate of title issued pursuant to this subsection 
+37
+remains in effect unless cancelled pursuant to section 669 669-A.
+38
+Sec. 7.  29-A MRSA §651, sub-§7, as enacted by PL 2019, c. 650, §4, is amended 
+39
+to read:
+40
+7.  Tiny homes.  The Secretary of State shall issue certificates of title for new tiny 
+41
+homes beginning with model year 2020.  The Secretary of State shall issue a certificate of 
+42
+title for a used tiny home of any model year that was previously issued a State of Maine 
+
+Page 3 - 132LR3038(01)
+43
+certificate of title.  A certificate of title issued pursuant to this subsection remains in effect 
+44
+unless cancelled pursuant to section 669 669-A.
+3
+Sec. 8.  29-A MRSA §669, as amended by PL 2019, c. 650, §8, is repealed.
+4
+Sec. 9.  29-A MRSA §669-A is enacted to read:
+5
+§669-A.  Cancellation of certificate of title to manufactured housing and tiny homes
+6
+1.  Real property transactions.  This section governs the cancellation of a certificate 
+7
+of title to manufactured housing, as defined in Title 10, section 9002, subsection 7, or a 
+8
+tiny home, as defined in section 101, subsection 80-C, by the owner of the manufactured 
+9
+housing or tiny home and the conversion to titling the manufactured housing or tiny home 
+10
+as real estate. 
+11
+2.  Request for cancellation; cancellation.  An owner of manufactured housing or a 
+12
+tiny home may file a written request with the Secretary of State, upon a form acceptable to 
+13
+the Secretary of State, for cancellation of the certificate of title to the manufactured housing 
+14
+or tiny home after completion of the requirements in subsections 3 and 4 and by returning 
+15
+the recorded certificate of title to the Secretary of State.  The Secretary of State shall cancel 
+16
+the certificate of title upon receipt of the written request from the owner of the 
+17
+manufactured housing or tiny home requesting cancellation of the certificate of title, 
+18
+accompanied by the certificate of title and documents listed in subsection 3 that have been 
+19
+recorded pursuant to subsection 4.  Upon cancellation of the certificate of title, the Secretary 
+20
+of State shall issue a document certifying that the certificate of title has been cancelled.
+21
+3.  Required actions.  An owner of manufactured housing or a tiny home that requests 
+22
+that the certificate of title to the manufactured housing or tiny home be cancelled by the 
+23
+Secretary of State under subsection 2 shall complete the following actions and submit the 
+24
+following documents to the Secretary of State.
+25
+A.  If the owner of the manufactured housing or tiny home owns the real property upon 
+26
+which the manufactured housing or tiny home is affixed, the owner shall record the 
+27
+following documents in the registry of deeds for the county in which the real property 
+28
+is located:
+29
+(1)  The original certificate of title to the manufactured housing or tiny home; 
+30
+(2)  A description of the manufactured housing or tiny home, including model year, 
+31
+make, width, length and identification number, if applicable, and a statement by 
+32
+any recorded lienholder on the certificate of title that the security interest has been 
+33
+released or that such security interest will be released upon cancellation of the 
+34
+certificate of title as set forth in this section;
+35
+(3)  The legal description of the real property;  
+36
+(4)  A sworn statement by the owner of the real property, as shown on the real 
+37
+property deed, that the owner of the real property is the owner of the manufactured 
+38
+housing or tiny home and that the manufactured housing or tiny home is 
+39
+permanently affixed to the real property in accordance with state law; and
+40
+(5) A deed substantially similar to the applicable form of a deed in subsection 11, 
+41
+12 or 13.
+1
+2
+
+Page 4 - 132LR3038(01)
+1
+B. If the owner of the manufactured housing or tiny home does not own the real 
+2
+property upon which the manufactured housing or tiny home is affixed, the owner shall 
+3
+record the following documents in the registry of deeds for the county in which the real 
+4
+property is located:
+5
+(1)  The original certificate of title to the manufactured housing or tiny home; 
+6
+(2)  A description of the manufactured housing or tiny home, including model year, 
+7
+make, width, length and identification number, if applicable, and a statement by 
+8
+any recorded lienholder on the certificate of title that the security interest has been 
+9
+released or that such security interest will be released upon cancellation of the 
+10
+certificate of title as set forth in this section; and
+11
+(3)  A deed substantially similar to the applicable form of the deed in subsection 
+12
+11, 12 or 13, that includes the signature of the owner of the real property upon 
+13
+which the manufactured housing or tiny home is affixed stating that the 
+14
+manufactured housing or tiny home is affixed to the real property in accordance 
+15
+with state law.
+16
+4.  Recording.  The register of deeds, upon receipt of the documents set forth in 
+17
+subsection 3, shall record the documents.
+18
+5. Consent from real property owner. If consent of the owner of real property to 
+19
+which a manufactured housing or tiny home is affixed is required on a statutory form set 
+20
+forth in subsection 11, 12 or 13, the owner may not unreasonably withhold consent. If the 
+21
+owner of a manufactured housing community or mobile home park is asked to sign a deed 
+22
+under this section, the owner shall sign the deed within 15 days of a written request for 
+23
+signature being mailed to the owner or delivered to the owner's place of business for 
+24
+signature. The owner may not charge more than $25 for a signature on a deed.
+25
+6.  Liens.  For purposes of perfection, realization and foreclosure of security interests, 
+26
+if a certificate of title has been cancelled pursuant to this section, a separate security interest 
+27
+in the manufactured housing or tiny home does not exist, and the manufactured housing or 
+28
+tiny home may be secured only as part of the real estate through a mortgage under Title 33.
+29
+7.  Applicability.  This section applies to manufactured housing or tiny homes required 
+30
+to be titled under section 651 and to any person who voluntarily elects to cancel a certificate 
+31
+of title to manufactured housing or a tiny home pursuant to this section.
+32
+8.  Taxation not affected.  This section may not be construed to affect the taxation of 
+33
+manufactured housing or tiny homes.
+34
+9.  No change to common law.  Except as otherwise provided in this section, this 
+35
+section may not be construed to modify or change existing common law.
+36
+10. Recording of deed; property considered real estate. Upon recording of a deed 
+37
+in the registry of deeds, manufactured housing or tiny homes situated on land not belonging 
+38
+to the owners of the manufactured housing or tiny home are deemed real estate for all 
+39
+purposes. 
+40
+11.  Form of manufactured housing warranty deed.  
+41
+FORM FOR MANUFACTURED HOUSING WARRANTY DEED
+
+Page 5 - 132LR3038(01)
+1
+……………, of ………………, …………… County, State of ……………, for 
+2
+consideration paid, grant to ……………………, (complete mailing address) 
+3
+…………………, of …………….. Street, Town (City) of …………….., ……………. 
+4
+County, State of ………………, with warranty covenants, the ………….. (Description of 
+5
+manufactured housing being conveyed: name of manufacturer, model and serial number 
+6
+and incumbrances, exceptions, reservations, if any) situated, or to be situated, at 
+7
+………………. (state name of park, if any, and street address), Town (City) of 
+8
+………………, ………………..County, State of Maine.
+9
+The tract or parcel of land upon which the manufactured housing is situated, or is to be 
+10
+situated, is owned by …………………….. by deed dated …………………….. and 
+11
+recorded at Book ……, Page ……. in the ……………… County Registry of Deeds. 
+12
+Signed this …………….. day of ……………., ………...
+13
+(Here add acknowledgment)
+14
+………………., owner of the tract or parcel of land upon which the aforesaid manufactured 
+15
+housing is situated, or is to be situated, hereby consents to the conveyance of the 
+16
+manufactured housing.
+17
+Signed this ……………… day of …………., ……...
+18
+(Here add acknowledgment)
+19
+[  ] Check box if the manufactured housing has been relocated from one site to another 
+20
+within Maine. The manufactured housing was previously located at ……………….. (state 
+21
+name of park, if any, and street address), Town (City) of ……………………, 
+22
+……………… County, State of Maine and title, if any, to the same was recorded at Book 
+23
+……., Page ……., in the ……………… County Registry of Deeds. If the relocation is to 
+24
+a county of the State of Maine other than the county in which the deed to the grantor was 
+25
+recorded, a duplicate original of the deed must be recorded in the registry of deeds of that 
+26
+county at the same time this deed is recorded.
+27
+12.  Form of manufactured housing quitclaim deed.  
+28
+FORM FOR MANUFACTURED HOUSING QUITCLAIM DEED
+29
+…………., of ……………, …………… County, State of …………, for consideration 
+30
+paid, grant to ………….., (complete mailing address) ……………, of …………. Street, 
+31
+Town (City) of …………., …………. County, State of ……………., with warranty 
+32
+covenants, the ………… (Description of manufactured housing being conveyed: name of 
+33
+manufacturer, model and serial number and incumbrances, exceptions, reservations, if any) 
+34
+situated, or to be situated, at …………… (state name of park, if any, and street address), 
+35
+Town (City) of …………., …………… County, State of Maine.
+36
+The tract or parcel of land upon which the manufactured housing is situated, or is to be 
+37
+situated, is owned by …………. by deed dated …………. and recorded at Book ………., 
+38
+Page ……. in the ……………. County Registry of Deeds.
+39
+Signed this ………….. day of ……………, …….
+40
+(Here add acknowledgment)
+
+Page 6 - 132LR3038(01)
+1
+…………….., owner of the tract or parcel of land upon which the aforesaid manufactured 
+2
+housing is situated, or is to be situated, hereby consents to the conveyance of the 
+3
+manufactured housing.
+4
+Signed this …………… day of ……………., ……..
+5
+(Here add acknowledgment)
+6
+[  ] Check box if the manufactured housing has been relocated from one site to another 
+7
+within Maine. The manufactured housing was previously located at ……………… (state 
+8
+name of park, if any, and street address), Town (City) of ………………., ……………. 
+9
+County, State of Maine and title, if any, to the same was recorded at Book …….., Page 
+10
+……, in the …………… County Registry of Deeds. If the relocation is to a county of the 
+11
+State of Maine other than the county in which the deed to the grantor was recorded, a 
+12
+duplicate original of the deed must be recorded in the registry of deeds of that county at the 
+13
+same time this deed is recorded.
+14
+13.  Form of out-of-state transfer statement.  
+15
+FORM FOR OUT-OF-STATE TRANSFER STATEMENT
+16
+…………., of …………., County, State of …………., for consideration paid, grant to 
+17
+………….., (complete mailing address) ………………, of …………… Street, Town 
+18
+(City) of ……………, …………. County, State of ……….., the …………. (Description 
+19
+of manufactured housing being conveyed: name of manufacturer, model and serial number 
+20
+and incumbrances, exceptions, reservations, if any) situated at ……….. (state name of park, 
+21
+if any, and street address), Town (City) ………… of ………… County, State of Maine.
+22
+The tract or parcel of land upon which the manufactured housing was situated is owned by 
+23
+……….. by deed …………. dated …………. and recorded at Book ……., Page ……. in 
+24
+the ……….. County Registry of Deeds.
+25
+Signed this ………… day of ……….., ……….
+26
+(Here add acknowledgment)
+27
+…………., owner of the tract or parcel of land upon which the aforesaid manufactured 
+28
+housing was situated, hereby consents to the conveyance of the manufactured housing.
+29
+Signed this ………….. day of …………. , ……….
+30
+(Here add acknowledgment)
+31
+…………., holder of (lien, attachment or encumbrance) hereby consent to the conveyance 
+32
+of the aforesaid manufactured housing, subject to condition that the aforesaid (lien, 
+33
+attachment or encumbrance) shall remain in force and effect thereon.
+34
+Signed this ………… day of ………….., ………...
+35
+(Here add acknowledgment)
+36
+Sec. 10.  30-A MRSA §4358, sub-§3, as corrected by RR 1993, c. 1, §76 and 
+37
+amended by PL 2003, c. 689, Pt. B, §6, is further amended to read:
+38
+3.  Regulation of mobile home parks.  This subsection governs a municipality's 
+39
+regulation of mobile home parks.
+
+Page 7 - 132LR3038(01)
+1
+A.  Except as required under Title 38, or an ordinance adopted pursuant to Title 38, a 
+2
+municipality shall may not require:
+3
+(1)  The size of any mobile home park lot served by a public sewer system to be 
+4
+larger than the smaller of:
+5
+(a)  Six thousand five hundred Four thousand square feet; or
+6
+(b)  The area of the smallest residential lot permitted in the municipality;
+7
+(2)  The size of any mobile home park lot with on-site subsurface waste water 
+8
+wastewater disposal to be larger than 20,000 10,000 square feet; or
+9
+(3)  The size of any mobile home park lot served by a central on-site subsurface 
+10
+waste water wastewater disposal system approved by the Department of Health 
+11
+and Human Services to be larger than 12,000 5,000 square feet, provided that a 
+12
+municipality may require that the overall density of the mobile home park be no 
+13
+more than one home for every 20,000 square feet.
+14
+B.  A municipality shall may not require the overall area of a mobile home park to be 
+15
+greater than the combined area of its mobile home park lots plus:
+16
+(1)  The area required for road rights-of-way;
+17
+(2)  The area required for buffer strips, if any; and
+18
+(3)  For mobile home parks served by a public sewer, an additional area for open 
+19
+space, storage or recreation, as those terms are defined by local ordinances 
+20
+applicable to all residential developments.  A municipality shall may not require 
+21
+this additional area to be greater than 10% of the combined area of the individual 
+22
+lots within a mobile home park; and
+23
+(4)  The area of any setbacks required under Title 38 or an ordinance adopted 
+24
+pursuant to Title 38.
+25
+C.  Except as required under Title 38 or an ordinance adopted pursuant to Title 38, a 
+26
+municipality shall may not require setbacks that have the effect of requiring lots larger 
+27
+than those permitted under paragraph A.
+28
+D.  Notwithstanding paragraph C, a municipality may require that mobile homes on 
+29
+lots adjacent to a public road be set back from the public road according to requirements 
+30
+applicable to other residential developments.
+31
+E.  A municipality shall may not require road frontage on individual lots within a 
+32
+mobile home park that has the effect of requiring a manufactured home on the lot to be 
+33
+placed parallel to an adjacent private or public roadway.
+34
+F.  Except as provided by paragraph G, municipal road standards shall do not apply to 
+35
+private roads within a mobile home park unless the developer intends to offer the roads 
+36
+to the municipality for acceptance as town ways.
+37
+G.  A municipality may require by ordinance or rule that privately owned roads within 
+38
+a mobile home park:
+39
+(1)  Be built according to acceptable engineering standards and with a professional 
+40
+engineer's seal as required by the Manufactured Housing Board;
+
+Page 8 - 132LR3038(01)
+1
+(2)  Have a right-of-way up to 23 feet in width, 20 feet of which the municipality 
+2
+may require to be paved; and
+3
+(3)  Conform to reasonable safety standards applicable to intersections with public 
+4
+ways adjacent to the mobile home park.
+5
+H.  The Manufactured Housing Board shall develop standards for construction of roads 
+6
+within a mobile home park no later than January 1, 1990.  The board shall submit these 
+7
+standards to the joint standing committee of the Legislature having jurisdiction over 
+8
+legal affairs matters for that committee's review.
+9
+I.  A municipality may require buffer strips, not to exceed 50 feet, including individual 
+10
+lot setbacks, along any mobile home park boundary which abuts land used for 
+11
+residential use if the per-acre density of homes within the mobile home park is at least 
+12
+2 times greater than:
+13
+(1)  The density of residential development on immediately adjacent parcels of 
+14
+land; or
+15
+(2)  If the immediately adjacent parcels of land are undeveloped, the maximum net 
+16
+residential density permitted by applicable municipal ordinances or state law.
+17
+No structures, streets or utilities may be placed in the buffer strip, except that utilities 
+18
+may cross a buffer strip to provide services to a mobile home park.  Municipalities may 
+19
+impose reasonable natural screening requirements within the first 25 feet of the buffer 
+20
+strip as measured from the exterior boundaries of the mobile home park if the 
+21
+requirements are no greater than those for other residential developments.
+22
+J.  A municipality shall may not require electrical utilities and telephone lines to be 
+23
+located underground within a mobile home park.  A municipality shall allow a 
+24
+developer to install utilities anywhere within the mobile home park.
+25
+K.  Except as required under Title 38, or an ordinance adopted pursuant to Title 38, a 
+26
+municipality may not enact or enforce land use regulations or ordinances, including, 
+27
+but not limited to, subdivision regulations or ordinances, which limit the number of lots 
+28
+in a mobile home park, which circumvent the intent of this section or which conflict 
+29
+with the provisions of this section.
+30
+L.  Notwithstanding any provision in this subsection, a person developing or expanding 
+31
+a mobile home park has the burden of proving that development will not pollute a 
+32
+public water supply or aquifer or violate any state law relating to land development, 
+33
+subdivision or use.
+34
+M.  A municipality shall permit mobile home parks to expand and to be developed in 
+35
+a number of environmentally suitable locations in the municipality with reasonable 
+36
+consideration being given to permit existing mobile home parks to expand in their 
+37
+existing locations.  A municipality may not select a location for a mobile home park 
+38
+development which is not reasonably suitable because of:
+39
+(1)  Prior lot division;
+40
+(2)  Locational setting within the municipality;
+41
+(3)  Natural features; or
+42
+(4)  Other similar factors.
+
+Page 9 - 132LR3038(01)
+1
+This paragraph is effective January 1, 1990.
+2
+Sec. 11.  33 MRSA §459-A is enacted to read:
+3
+§459-A.  Purchase of manufactured housing community or mobile home park
+4
+After signing a purchase and sale agreement, or similar legal instrument to and prior to 
+5
+executing a transfer in interest of a manufactured housing community or mobile home park, 
+6
+as defined in Title 10, section 9091, subsection 2, the purchaser shall hire a qualified 3rd 
+7
+party to conduct an inspection of the community's infrastructure.  For purposes of this 
+8
+section, infrastructure includes, but is not limited to, roads, sidewalks, water and sewer 
+9
+systems, utilities, digital connectivity and landscaping.
+10
+SUMMARY
+11
+This bill is reported out by the Joint Standing Committee on Housing and Economic 
+12
+Development pursuant to Resolve 2025, chapter 365. The committee has not taken a 
+13
+position on the substance of this bill.  By reporting this bill out, the committee is not 
+14
+suggesting and does not intend to suggest that it agrees or disagrees with any aspect of this 
+15
+bill.  The committee is reporting the bill out for the sole purpose of having a bill printed 
+16
+that can be referred to the committee for an appropriate public hearing and subsequent 
+17
+processing in the normal course.
+18
+The bill does the following:
+19
+1. It authorizes the Manufactured Housing Board to petition the Office of the Attorney 
+20
+General to investigate a violation of, and enforce the provisions of, in the Maine Revised 
+21
+Statutes, Title 10, chapter 953;
+22
+2. It amends the provisions in Title 10, chapter 953, that require the owner of a 
+23
+manufactured housing community proposing to raise the lot rent or fees in the community 
+24
+to participate in mediation with the owners of the community impacted by a proposed lot 
+25
+rent or fee increase under certain circumstances.  It requires the community owner to notify 
+26
+the homeowners of the community of the percent change in the Consumer Price Index for 
+27
+the Northeast Region during the 12-month period prior to the proposed lot rent or fee 
+28
+increase.  It clarifies that only the homeowners impacted by the proposed increase may 
+29
+request the community owner participate in mediation and that a request is permitted only 
+30
+if the proposed lot rent or fee increase is a percentage increase higher than the Consumer 
+31
+Price Index percent increase provided in the notice. 
+32
+3.  It clarifies that for purposes of Title 9-A, Article 9, "real estate" includes 
+33
+manufactured housing or tiny homes regardless of whether title to the real property to which 
+34
+the housing or home is affixed is owned by the owner of the housing or home.
+35
+4. It clarifies for purposes of the Maine Secure and Fair Enforcement for Mortgage 
+36
+Licensing Act of 2009, that the term "dwelling" includes manufactured housing or tiny 
+37
+homes regardless of whether title to the real property to which the housing or home is 
+38
+affixed is owned by the owner of the housing or home.
+39
+5. It allows the owner of manufactured housing or a tiny home to request the Secretary 
+40
+of State to cancel the certificate of title for the manufactured housing or tiny home as long 
+41
+as the owner files certain documents in the registry of deeds in the county where the 
+42
+manufactured housing or tiny home is located.  Completion of the actions by the owner and 
+11
+12
+13
+14
+15
+16
+17
+
+Page 10 - 132LR3038(01)
+43
+the Secretary of State renders the manufactured housing or tiny home real estate for 
+44
+purposes of obtaining financing. 
+3
+6. It changes the minimum lot size required for a lot in a manufactured housing 
+4
+community.
+5
+7. It requires a purchaser of a manufactured housing community to hire a professional 
+6
+to inspect the infrastructure of the community prior to the purchase.
+1
+2

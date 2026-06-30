@@ -1,0 +1,173 @@
+{
+  "ld": 748,
+  "paper": "HP0490",
+  "paper_display": "HP 490",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096821",
+  "title": "An Act to Increase Bridging Rental Assistance Program Housing Voucher Funding to Reduce the Current Partial Waiting List and Increase Housing Vouchers for Persons Living with Mental Health Challenges",
+  "committee": "Housing and Economic Development",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Apr 29, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/28/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/29/2026 - Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)",
+  "sponsors": [
+    {
+      "name": "Cheryl GOLEK",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Harpswell"
+    },
+    {
+      "name": "William BRIDGEO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Augusta"
+    },
+    {
+      "name": "Lynn COPELAND",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Saco"
+    },
+    {
+      "name": "Flavia DEBRITO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterville"
+    },
+    {
+      "name": "Deqa DHALAC",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    },
+    {
+      "name": "Holly EATON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Deer Isle"
+    },
+    {
+      "name": "Traci GERE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunkport"
+    },
+    {
+      "name": "Cassie JULIA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterville"
+    },
+    {
+      "name": "Kristi MATHIESON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kittery"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HOUSING",
+      "minor": "ASSISTANCE",
+      "detail": "RENTALS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-25",
+      "date_raw": "2/25/2025",
+      "chamber": "House",
+      "description": "Committee on Housing and Economic Development suggested and ordered printed. The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-25",
+      "date_raw": "2/25/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative GERE of Kennebunkport, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-229) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-229) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator CURRY of Waldo the Majority Ought to Pass as Amended Report ACCEPTED . Bill READ ONCE. Committee Amendment \"A\" (H-229) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-229) in concurrence."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending ENACTMENT in concurrence"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-04-29",
+      "date_raw": "4/29/2026",
+      "chamber": "Senate",
+      "description": "Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-229 )",
+      "new_title": "",
+      "house_action": "Adopted on 5/22/2025",
+      "senate_action": "Adopted on 5/27/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0490&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0490&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0490",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0490&SessionID=16",
+  "scraped_at": "2026-06-30T18:29:03Z"
+}

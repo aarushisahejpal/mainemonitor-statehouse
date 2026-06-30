@@ -1,0 +1,297 @@
+{
+  "ld": 2207,
+  "paper": "HP1484",
+  "paper_display": "HP 1484",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101518",
+  "title": "An Act Regarding the Statute of Limitations for Certain Sexual Offenses Committed Against Minors",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 3, 2026",
+  "governor_action": "Signed, Apr 3, 2026",
+  "chaptered_law": "ACTPUB, Chapter 617",
+  "chapter": "617",
+  "became_law": true,
+  "last_house_action": "3/26/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/30/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Amy KUHN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Falmouth"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CRIMES",
+      "minor": "SEX OFFENSES",
+      "detail": "COMMITTED AGAINST MINORS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "date_raw": "2/10/2026",
+      "chamber": "House",
+      "description": "Representative KUHN for the Joint Standing Committee on Judiciary pursuant to Public Law 2025, chapter 479, section 2 reports that the Bill be REFERRED to the Committee on JUDICIARY and printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on JUDICIARY Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-02-10",
+      "date_raw": "2/10/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. Bill and accomanying papers REFERRED to the Committee on JUDICIARY , in concurrence."
+    },
+    {
+      "date": "2026-03-24",
+      "date_raw": "3/24/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative KUHN of Falmouth, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-867) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-867) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-25",
+      "date_raw": "3/25/2026",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator CARNEY of Cumberland the Majority Ought to Pass as Amended Report ACCEPTED . Roll Call Ordered Roll Call Number 794 Yeas 35 - Nays 0 - Excused 0 - Absent 0 Bill READ ONCE. Committee Amendment \"A\" (H-867) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-867) in concurrence."
+    },
+    {
+      "date": "2026-03-26",
+      "date_raw": "3/26/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-30",
+      "date_raw": "3/30/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "794",
+      "date": "2026-03-25",
+      "date_raw": "March 25, 2026",
+      "motion": "ACCEPT MAJORITY OUGHT TO PASS AS AMENDED REPORT",
+      "outcome": "PREVAILS",
+      "yeas": 35,
+      "nays": 0,
+      "absent": 0,
+      "excused": 0,
+      "vacant": 0,
+      "yeas_required": 18,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "Y"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280101518&chamber=Senate&serialnumber=794"
+    }
+  ],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-867 )",
+      "new_title": "",
+      "house_action": "Adopted on 3/24/2026",
+      "senate_action": "Adopted on 3/25/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1484&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1484&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1484&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1484",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1484&SessionID=16",
+  "scraped_at": "2026-06-30T20:21:55Z"
+}

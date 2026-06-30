@@ -1,0 +1,333 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 668
+H.P. 436
+House of Representatives, February 25, 2025
+An Act to Abolish Ranked-choice Voting
+Received by the Clerk of the House on February 20, 2025.  Referred to the Committee on 
+Veterans and Legal Affairs pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint 
+Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative UNDERWOOD of Presque Isle.
+Cosponsored by Senator LIBBY of Cumberland and
+Representatives: ADAMS of Lebanon, BAGSHAW of Windham, CAMPBELL of Orrington, 
+COLLINS of Sidney, HAGGAN of Hampden, QUINT of Hodgdon, SOBOLESKI of Phillips, 
+THORNE of Carmel.
+
+Page 1 - 132LR1123(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  21-A MRSA §1, sub-§27-C, as repealed and replaced by PL 2021, c. 273, 
+3
+§1, is repealed.
+4
+Sec. 2.  21-A MRSA §1, sub-§35-A, as enacted by IB 2015, c. 3, §2, is repealed.
+5
+Sec. 3.  21-A MRSA §601, sub-§1, as amended by PL 2019, c. 320, §2, is further 
+6
+amended to read:
+7
+1.  Arrangement.  The ballots must be arranged in a manner that is as consistent and 
+8
+uniform as possible throughout the State, except that ranked‑choice contests must be 
+9
+grouped together and may be presented on the same page of the ballot as contests other 
+10
+than ranked-choice contests or on a separate ballot or ballot page from contests other than 
+11
+ranked-choice contests.
+12
+Sec. 4.  21-A MRSA §601, sub-§2, ¶A, as amended by PL 2019, c. 320, §3, is 
+13
+further amended to read:
+14
+A.  Instructions must be printed on the ballot informing the voter how to designate the 
+15
+voter's choices on the ballot.  Specific instructions must be presented above or next to 
+16
+the first contest of each type, such as ranked-choice contests, contests other than 
+17
+ranked-choice contests or referenda.
+18
+Sec. 5.  21-A MRSA §601, sub-§2, ¶J, as amended by PL 2017, c. 316, §3, is 
+19
+repealed.
+20
+Sec. 6.  21-A MRSA §601, sub-§3, as amended by PL 2021, c. 273, §10, is further 
+21
+amended to read:
+22
+3.  Order of offices.  The order of offices on the ballot is as follows:  President, United 
+23
+States Senator, Governor, Representative to Congress, State Senator and Representative to 
+24
+the Legislature, and the county offices in the following order: judge of probate, register of 
+25
+probate, county treasurer, register of deeds, sheriff, district attorney and county 
+26
+commissioner, except that the order may be modified to allow ranked-choice contests to be 
+27
+printed on the opposite side of the ballot, separate from contests other than ranked-choice 
+28
+contests.
+29
+Sec. 7.  21-A MRSA §605-A, sub-§2, ¶A, as amended by PL 2019, c. 320, §4, is 
+30
+further amended to read:
+31
+A.  The voting instruction poster must include information on how to mark the ballot, 
+32
+including how to mark a write-in vote; how to replace the ballot if the voter makes a 
+33
+mistake; and how to receive assistance in marking the ballot.  It may include other 
+34
+voting information.  The Secretary of State may design separate instruction posters to 
+35
+instruct the voters on how to mark a ballot for elections to be determined by 
+36
+ranked‑choice voting and those to be determined by plurality.
+37
+Sec. 8.  21-A MRSA §695, first ¶, as amended by PL 2017, c. 316, §4, is further 
+38
+amended to read:
+39
+Except for elections determined by ranked-choice voting, the The following provisions 
+40
+apply to the counting of ballots.  The election clerks shall count the ballots under the 
+41
+supervision of the warden as soon as the polls are closed, except that if, in the opinion of 
+
+Page 2 - 132LR1123(01)
+42
+the municipal clerk the public interests will best be served, referendum ballots may be 
+43
+counted on the day immediately following the election, as long as the count is completed 
+44
+within 24 hours after the polls are closed.  If referendum ballots are counted under this 
+45
+exception, the municipal clerk is responsible for the security and safekeeping of the ballots 
+46
+until the count has been completed.
+6
+Sec. 9.  21-A MRSA §696, sub-§2, ¶A, as amended by PL 2019, c. 320, §5, is 
+7
+further amended to read:
+8
+A.  Except as provided in section 723‑A for elections determined by ranked-choice 
+9
+voting, if If a voter marks more names for an office than there are vacancies to be filled 
+10
+or more choices for a question than are permitted, the voter's vote for that office or 
+11
+question may not be counted.
+12
+Sec. 10.  21-A MRSA §700, first ¶, as amended by PL 2019, c. 320, §6, is further 
+13
+amended to read:
+14
+As soon as practicable after the election return is prepared under section 711, if a secure 
+15
+place is available at the voting place or municipal office where the public may view a paper 
+16
+copy of the unofficial election results even when the voting place or municipal office is 
+17
+closed, an election official shall post a paper copy of the unofficial results of the election.  
+18
+For elections determined by ranked‑choice voting, an election official shall post a paper 
+19
+copy of the results of the first choice votes cast.
+20
+Sec. 11.  21-A MRSA §711, first ¶, as amended by PL 2019, c. 320, §7, is further 
+21
+amended to read:
+22
+As soon as the results of the election have been declared, the election return must be 
+23
+prepared.  The warden at each ward or precinct shall fill out the election return form 
+24
+provided by the Secretary of State, showing the number of votes cast for each candidate or 
+25
+question and recording the total number of state ballots cast in that ward or precinct.  For 
+26
+elections determined by ranked‑choice voting, the warden shall report on the election return 
+27
+only the first choice votes cast.  The warden and one other election official shall sign the 
+28
+return and immediately deliver it to the municipal clerk.  The form provided by the 
+29
+Secretary of State must include the names of all candidates, including declared write-in 
+30
+candidates as determined by section 722‑A.
+31
+Sec. 12.  21-A MRSA §722, sub-§1, as amended by PL 2019, c. 371, §26, is further 
+32
+amended to read:
+33
+1.  How tabulated.  The Secretary of State shall tabulate all votes that appear by an 
+34
+election return to have been cast for each question or candidate whose name appeared on 
+35
+the ballot.  For elections determined by ranked-choice voting, the Secretary of State shall 
+36
+tabulate the votes according to the ranked-choice voting method described in section 
+37
+723‑A.  The Secretary of State shall tabulate the votes that appear by an election return to 
+38
+have been cast for a declared write-in candidate pursuant to section 722‑A.
+39
+Sec. 13.  21-A MRSA §723, sub-§1, as amended by PL 2019, c. 320, §8, is further 
+40
+amended to read:
+41
+1.  Primary election.  In a primary election, the person who receives a plurality of the 
+42
+votes cast for nomination to any office, as long as there is at least one vote cast for that 
+1
+2
+3
+4
+5
+
+Page 3 - 132LR1123(01)
+43
+office, is nominated for that office, except for write-in candidates under paragraph A and 
+44
+elections determined by ranked‑choice voting under section 723‑A.
+3
+A.  A write-in candidate who complies with section 722‑A and who fulfills the other 
+4
+qualifications under section 334 may be nominated at the primary election if that person 
+5
+receives a number of valid write-in votes equal to at least twice the minimum number 
+6
+of signatures required under section 335, subsection 5 on a primary petition for a 
+7
+candidate for that office.
+8
+B.  The Secretary of State shall immediately certify by mail the nomination of each 
+9
+person nominated by the primary election.
+10
+Sec. 14.  21-A MRSA §723, sub-§2, as amended by PL 2017, c. 316, §7, is further 
+11
+amended to read:
+12
+2.  Other elections.  In any other election except for those determined by ranked-choice 
+13
+voting, the person who receives a plurality of the votes cast for election to any office, as 
+14
+long as there is at least one vote cast for that office, is elected to that office, except that a 
+15
+write-in candidate must also comply with section 722‑A.
+16
+Sec. 15.  21-A MRSA §723-A, as amended by PL 2023, c. 628, §§1 to 4, is repealed.
+17
+Sec. 16.  21-A MRSA §737-A, 3rd ¶, as amended by PL 2019, c. 320, §16, is 
+18
+further amended to read:
+19
+A candidate who is the apparent loser and who desires a recount must file with the 
+20
+Secretary of State a written request for a recount within 5 business days after the election, 
+21
+except that in an election determined by ranked‑choice voting, only a candidate who 
+22
+received one of the top 3 rankings at the end of the penultimate round of ranked‑choice 
+23
+counting may request a recount.  The recount is held under the supervision of the Secretary 
+24
+of State, who shall allow the candidate's representatives or counsel to recount the ballots.  
+25
+The candidate may not act as a counter of ballots.
+26
+Sec. 17.  21-A MRSA §801, sub-§2, as amended by PL 2023, c. 628, §5, is 
+27
+repealed.
+28
+Sec. 18.  21-A MRSA §803, sub-§1, as enacted by PL 2023, c. 628, §6, is amended 
+29
+to read:
+30
+1.  Duties.  Except when the National Popular Vote for President Act governs the 
+31
+appointment of presidential electors, as soon as possible after the presidential electors are 
+32
+chosen, the Governor shall send a certificate of the determination of the electors to the 
+33
+Archivist of the United States under state seal. The certificate must state the names of the 
+34
+electors and the number of votes each candidate for President received statewide and for 
+35
+each congressional district in the final round of tabulation under section 723‑A. The 
+36
+Governor shall deliver 6 certificates under state seal to the electors before the day 
+37
+established by federal law for the meeting of electors.
+38
+Sec. 19.  21-A MRSA §803, sub-§2, ¶A, as enacted by PL 2023, c. 628, §6, is 
+39
+amended to read:
+40
+A.  As soon as possible after the canvass of the presidential count under section 723‑A, 
+41
+subsection 7 is determined electors are chosen, the Governor shall send a certificate of 
+42
+determination containing the names of the electors and the statewide number of votes 
+1
+2
+
+Page 4 - 132LR1123(01)
+43
+for each presidential slate that received votes in the final round to the Archivist of the 
+44
+United States under state seal.  This final round vote is deemed to be the determination 
+45
+of the vote in the State for the purposes of section 1304.   
+4
+As used in this paragraph, "final round" means the round that ends with the result 
+5
+described in section 723‑A, subsection 7, paragraph C, subparagraph (1).
+6
+Sec. 20.  21-A MRSA §805, sub-§2, as amended by PL 2023, c. 628, §7, is further 
+7
+amended to read:
+8
+2.  Presidential electors.  Except as provided in subsection 2-A, the presidential 
+9
+electors at large shall cast their ballots for the presidential and vice-presidential candidates 
+10
+who received the largest number of votes in the State according to the ranked‑choice 
+11
+method of counting votes described in section 723‑A. The presidential electors of each 
+12
+congressional district shall cast their ballots for the presidential and vice-presidential 
+13
+candidates who received the largest number of votes in each respective congressional 
+14
+district according to the ranked‑choice method of counting votes described in section 
+15
+723‑A.
+16
+SUMMARY
+17
+This bill repeals the laws governing ranked-choice voting in:
+18
+1.  Primary elections for the offices of President of the United States, United States 
+19
+Senator, United States Representative to Congress, Governor, State Senator and State 
+20
+Representative;
+21
+2.  General and special elections for the offices of United States Senator and United 
+22
+States Representative to Congress; and
+23
+3.  General elections for presidential electors.
+1
+2
+3
+17

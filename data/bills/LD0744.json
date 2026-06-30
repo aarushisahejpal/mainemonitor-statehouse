@@ -1,0 +1,117 @@
+{
+  "ld": 744,
+  "paper": "HP0486",
+  "paper_display": "HP 486",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096809",
+  "title": "An Act to Remove Certain Wharves and Piers from the Laws Governing the Current Use Valuation of Working Waterfront Land",
+  "committee": "Taxation",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 20, 2025",
+  "governor_action": "Signed, Jun 20, 2025",
+  "chaptered_law": "ACTPUB, Chapter 380",
+  "chapter": "380",
+  "became_law": true,
+  "last_house_action": "6/17/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/17/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Daniel ANKELES",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "Poppy ARFORD",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "Allison HEPLER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Woolwich"
+    },
+    {
+      "name": "Morgan RIELLY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "TAX ASSESSMENT",
+      "minor": "VALUATION",
+      "detail": "WORKING WATERFRONT PROPERTY"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-25",
+      "date_raw": "2/25/2025",
+      "chamber": "House",
+      "description": "Committee on Taxation suggested and ordered printed. The Bill was REFERRED to the Committee on TAXATION . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-25",
+      "date_raw": "2/25/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on TAXATION in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SAYRE of Kennebunk, the Majority Ought to Pass Report was ACCEPTED . The Bill was READ ONCE . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator TIPPING of Penobscot the Majority Ought to Pass Report ACCEPTED . READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED in concurrence"
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0486&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0486&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0486",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0486&SessionID=16",
+  "scraped_at": "2026-06-30T18:28:45Z"
+}

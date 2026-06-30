@@ -1,0 +1,318 @@
+{
+  "ld": 1979,
+  "paper": "HP1322",
+  "paper_display": "HP 1322",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099307",
+  "title": "Resolve, Directing the Department of Corrections to Convene a Working Group to Examine the Establishment of a Program to Award Earned Time Credit for Educational Achievement to Persons Who Are Incarcerated",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Finally Passed, Jun 17, 2025",
+  "governor_action": "Unsigned, Jun 17, 2025",
+  "chaptered_law": "RESLV, Chapter 81",
+  "chapter": "81",
+  "became_law": true,
+  "last_house_action": "6/3/2025 - FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/3/2025 - FINALLY PASSED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Holly SARGENT",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "York"
+    },
+    {
+      "name": "Janice DODGE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Belfast"
+    },
+    {
+      "name": "Lori GRAMLICH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Orchard Beach"
+    },
+    {
+      "name": "Tavis HASENFUS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Readfield"
+    },
+    {
+      "name": "Kelly MURPHY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Scarborough"
+    },
+    {
+      "name": "Joseph RAFFERTY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "PRISONERS",
+      "minor": "EARLY RELEASE",
+      "detail": "EDUCATION DEGREES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "House",
+      "description": "Committee on Criminal Justice and Public Safety suggested and ordered printed. The Resolve was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY in concurrence"
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative HASENFUS of Readfield, the Majority Ought to Pass Report was ACCEPTED . The Resolve was READ ONCE . Under suspension of the rules, the Resolve was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Resolve was PASSED TO BE ENGROSSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator BEEBE-CENTER of Knox the Majority Ought to Pass Report ACCEPTED PREVAILED Roll Call Ordered Roll Call Number 312 Yeas 20 - Nays 13 - Excused 2 - Absent 0 Bill READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED in concurrence."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "House",
+      "description": "FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED , in concurrence."
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "312",
+      "date": "2025-06-03",
+      "date_raw": "June 3, 2025",
+      "motion": "ACCEPT MAJORITY OUGHT TO PASS REPORT",
+      "outcome": "PREVAILS",
+      "yeas": 20,
+      "nays": 13,
+      "absent": 0,
+      "excused": 2,
+      "vacant": 0,
+      "yeas_required": 17,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "Y"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "E"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "E"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280099307&chamber=Senate&serialnumber=312"
+    }
+  ],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1322&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1322&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1322",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1322&SessionID=16",
+  "scraped_at": "2026-06-30T20:03:51Z"
+}

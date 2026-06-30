@@ -1,0 +1,95 @@
+{
+  "ld": 1721,
+  "paper": "HP1148",
+  "paper_display": "HP 1148",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098626",
+  "title": "An Act to Amend the Laws Governing Commingling of Beverage Containers",
+  "committee": "Environment and Natural Resources",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/17/2025 - Committee on Environment and Natural Resources suggested and ordered printed. The Bill was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Allison HEPLER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Woolwich"
+    },
+    {
+      "name": "Arthur BELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Yarmouth"
+    },
+    {
+      "name": "William BRIDGEO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Augusta"
+    },
+    {
+      "name": "Richard CAMPBELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Orrington"
+    },
+    {
+      "name": "David WOODSOME",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterboro"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CONTAINERS - RETURNABLE",
+      "minor": "BOTTLES",
+      "detail": "COMMINGLING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "House",
+      "description": "Committee on Environment and Natural Resources suggested and ordered printed. The Bill was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES in concurrence"
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1148&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1148",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1148&SessionID=16",
+  "scraped_at": "2026-06-30T19:42:51Z"
+}

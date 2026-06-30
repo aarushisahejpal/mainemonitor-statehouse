@@ -1,0 +1,706 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 527
+H.P. 346
+House of Representatives, February 11, 2025
+An Act to Establish Bail Officers to Administer the Maine Bail Code
+Submitted by the Judicial Department pursuant to Joint Rule 204.
+Reference to the Committee on Criminal Justice and Public Safety suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative LEE of Auburn.
+Cosponsored by Senator STEWART of Aroostook.
+
+Page 1 - 132LR0527(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  15 MRSA §288 is amended to read:
+3
+§288.  Recognizance after commitment
+4
+A person committed for not recognizing as aforesaid pursuant to section 285 may be 
+5
+discharged by a Justice of the Superior Court or a bail commissioner, a bail officer as 
+6
+defined in section 1003, subsection 1-A, a law enforcement officer as defined in section 
+7
+1003, subsection 8-B or a corrections officer as defined in Title 25, section 2801-A, 
+8
+subsection 2, on giving the security required under section 281.
+9
+Sec. 2.  15 MRSA §1003, sub-§1-A is enacted to read:
+10
+1-A.  Bail officer.  "Bail officer" refers to an employee of the judicial branch who is 
+11
+hired and trained to set and execute bail in accordance with this chapter.
+12
+Sec. 3.  15 MRSA §1003, sub-§8-B is enacted to read:
+13
+8-B.  Law enforcement officer.  "Law enforcement officer" means a sworn police 
+14
+officer who is certified by the Maine Criminal Justice Academy.
+15
+Sec. 4.  15 MRSA §1023, as amended by PL 2023, c. 299, §1, is further amended to 
+16
+read:
+17
+§1023.  Bail commissioners; bail officers
+18
+1.  Authority.  A bail commissioner, appointed under this section, or a bail officer shall 
+19
+set preconviction bail for a defendant in a criminal proceeding in accordance with this 
+20
+chapter, provided except that a bail commissioner or bail officer may not set preconviction 
+21
+bail for a defendant:
+22
+A.  Who is charged with murder;
+23
+B.  If the attorney for the State requests a Harnish bail proceeding for a defendant 
+24
+charged with any other formerly capital offense; or
+25
+C.  As otherwise provided in subsection 4.
+26
+2.  Appointment of bail commissioners.  The Chief Judge of the District Court may 
+27
+appoint one or more residents of the State as bail commissioners.  A bail commissioner 
+28
+serves at the pleasure of the Chief Judge of the District Court, but no the term for which a 
+29
+bail commissioner is appointed commissioner's appointment may not exceed 5 years.  The 
+30
+Chief Judge of the District Court shall require bail commissioners to complete the 
+31
+necessary training requirements set out in this section.  Bail commissioners have the powers 
+32
+of notaries public to administer oaths or affirmations in carrying out their duties.
+33
+3.  Immunity from liability of bail commissioners.  A person appointed and serving 
+34
+as a bail commissioner is immune from any civil liability, as are employees of 
+35
+governmental entities under the Maine Tort Claims Act, Title 14, chapter 741 for acts 
+36
+performed within the scope of the bail commissioner's duties.
+37
+4.  Limitations on authority.  A bail commissioner or bail officer may not:
+38
+A.  Set preconviction bail for a defendant confined in jail or held under arrest by virtue 
+39
+of any order issued by a court in which bail has not been authorized;
+40
+B.  Change the amount of bail or bail conditions set by a court;
+
+Page 2 - 132LR0527(01)
+1
+B-1.  Set preconviction bail for a defendant alleged to have committed any of the 
+2
+following offenses against a family or household member as defined in Title 19‑A, 
+3
+section 4102, subsection 6:
+4
+(1)  A violation of a protection from abuse order provision set forth in Title 19‑A, 
+5
+former section 4006, subsection 5, paragraph A, B, C, D, E or F; Title 19‑A, former 
+6
+section 4007, subsection 1, paragraph A, A-1, A-2, B, C, D, E or G; Title 19‑A, 
+7
+section 4108, subsection 2, paragraph B, subparagraphs (1) to (6); or Title 19‑A, 
+8
+section 4110, subsection 3, paragraph A, B, C, D, E, F, G or I;
+9
+(2)  Any Class A, B or C crime under Title 17‑A, chapter 9;
+10
+(3)  Any Class A, B or C sexual assault offense under Title 17‑A, chapter 11;
+11
+(4)  Kidnapping under Title 17‑A, section 301;
+12
+(5)  Criminal restraint under Title 17‑A, section 302, subsection 1, paragraph A, 
+13
+subparagraph (4) or Title 17‑A, section 302, subsection 1, paragraph B, 
+14
+subparagraph (2);
+15
+(6)  Domestic violence stalking that is a Class C crime under Title 17‑A, section 
+16
+210‑C, subsection 1, paragraph B;
+17
+(7)  Domestic violence criminal threatening that is a Class C crime under Title 
+18
+17‑A, section 209‑A, subsection 1, paragraph B or domestic violence criminal 
+19
+threatening that is elevated to a Class C crime by the use of a dangerous weapon 
+20
+under Title 17‑A, section 1604, subsection 5, paragraph A;
+21
+(8)  Domestic violence terrorizing that is a Class C crime under Title 17‑A, section 
+22
+210‑B, subsection 1, paragraph B or domestic violence terrorizing that is elevated 
+23
+to a Class C crime by the use of a dangerous weapon under Title 17‑A, section 
+24
+1604, subsection 5, paragraph A; or
+25
+(9)  Domestic violence reckless conduct that is a Class C crime under Title 17‑A, 
+26
+section 211‑A, subsection 1, paragraph B or domestic violence reckless conduct 
+27
+that is elevated to a Class C crime by the use of a dangerous weapon under Title 
+28
+17‑A, section 1604, subsection 5, paragraph A;
+29
+C.  In a case involving domestic violence, set preconviction bail for a defendant before 
+30
+making a good faith effort to obtain from the arresting officer, the responsible 
+31
+prosecutorial office, a jail employee or other law enforcement officer:
+32
+(1)  A brief history of the alleged abuser;
+33
+(2)  The relationship of the parties;
+34
+(3)  The name, address, phone number and date of birth of the victim;
+35
+(4)  Existing conditions of protection from abuse orders, conditions of bail and 
+36
+conditions of probation;
+37
+(5)  Information about the severity of the alleged offense; and
+38
+(6)  Beginning no later than January 1, 2015, the results of a validated, evidence-
+39
+based domestic violence risk assessment recommended by the Maine Commission 
+40
+on Domestic and Sexual Abuse, established in Title 5, section 12004‑I, subsection 
+
+Page 3 - 132LR0527(01)
+41
+74‑C, and approved by the Department of Public Safety conducted on the alleged 
+42
+abuser when the results are available;
+3
+D.  Set preconviction or post-conviction bail for a violation of condition of release 
+4
+pursuant to section 1092, except as provided in section 1092, subsection 4;
+5
+E.  Set preconviction bail using a condition of release not included in every order for 
+6
+pretrial release without specifying a court date within 8 weeks of the date of the bail 
+7
+order;
+8
+F.  Set preconviction bail for crimes involving allegations of domestic violence without 
+9
+specifying a court date within 5 weeks of the date of the bail order; or
+10
+G.  Notwithstanding section 1026, subsection 3, paragraph A, subparagraph (9-A), 
+11
+impose a condition of preconviction bail that a defendant submit to random search with 
+12
+respect to a prohibition on the possession, use or excessive use of alcohol, cannabis or 
+13
+illegal drugs.
+14
+5.  Fees Bail commissioner fees.  A bail commissioner is entitled to receive a fee not 
+15
+to exceed $60 for the charges pursuant to which the defendant is presently in custody, 
+16
+unless the defendant lacks the present financial ability to pay the fee.  A defendant presently 
+17
+in custody who is qualified to be released upon personal recognizance or upon execution 
+18
+of an unsecured appearance bond, whether or not accompanied by one or more conditions 
+19
+of bail that have been set by a judicial officer, but who in fact lacks the present financial 
+20
+ability to pay a bail commissioner fee, must nonetheless be released upon personal 
+21
+recognizance or upon execution of an unsecured appearance bond.  A bail commissioner 
+22
+may not refuse to examine a person to determine the person's eligibility for bail, set bail, 
+23
+prepare the personal recognizance or bond or take acknowledgement of the person in 
+24
+custody because the person in custody lacks the present financial ability to pay a bail 
+25
+commissioner fee.  The bail commissioner shall submit such forms as the Judicial 
+26
+Department directs to verify the amount of fees received under this subsection.  The sheriff 
+27
+of the county in which the defendant is detained may create a fund for the distribution by 
+28
+the sheriff or the sheriff's designee for the payment in whole or in part of the $60 bail 
+29
+commissioner fee for those defendants who do not have the financial ability to pay that fee.
+30
+A bail commissioner fee under this subsection is not a financial condition of release for the 
+31
+purposes of section 1026, subsection 3, paragraph B‑1.
+32
+6.  Attorneys-at-law Bail commissioners; attorneys-at-law.  No An attorney-at-law 
+33
+who has acted as bail commissioner in any proceeding may not act as attorney for or on 
+34
+behalf of any defendant for whom that attorney-at-law has taken bail in any such 
+35
+proceeding, nor may any attorney-at-law who has acted as attorney for a defendant in any 
+36
+offense act as bail commissioner in any proceeding arising out of the offense with which 
+37
+the defendant is charged.
+38
+7.  Mandatory training.  As a condition of appointment and continued service, a bail 
+39
+commissioner must successfully complete a bail training program, as prescribed and 
+40
+scheduled by the Chief Judge of the District Court, not later than one year following 
+41
+appointment.  The Maine Criminal Justice Academy shall provide assistance to collaborate 
+42
+with the Chief Judge of the District Court in establishing an appropriate training program 
+43
+class for law enforcement officers regarding execution of bail commissioners bonds.  The 
+44
+program shall class must include instruction on the provisions of this chapter, the relevant 
+1
+2
+
+Page 4 - 132LR0527(01)
+45
+constitutional provisions on bail and any other matters pertinent to bail that the Chief Judge 
+46
+of the District Court considers appropriate and necessary.  The Maine Criminal Justice 
+47
+Academy and the Chief Judge of the District Court may also establish a continuing 
+48
+education program class for bail commissioners law enforcement officers.
+5
+8.  Bail commissioners in indigent cases.  The Chief Judge of the District Court may 
+6
+adopt rules requiring a bail commissioner to appear and set bail regardless of whether the 
+7
+defendant is indigent and unable to pay the bail commissioner's fee. The Chief Judge of the 
+8
+District Court may also adopt rules governing the manner in which a bail commissioner is 
+9
+paid in the event an indigent person is released on bail and is unable to pay the bail 
+10
+commissioner's fee.
+11
+Sec. 5.  15 MRSA §1024, first ¶, as enacted by PL 1987, c. 758, §20, is amended 
+12
+to read:
+13
+Clerks of the District Court and clerks of the Superior Court, during the hours when 
+14
+the clerk's office is open for business and subject to the control of the District Court Judge 
+15
+or Superior Court Justice, may, without fee, take the personal recognizance of any 
+16
+defendant for appearance on a charge of a Class D or Class E crime.  Nothing in this section 
+17
+may be construed to prohibit the appointment of any clerk of the District Court or the 
+18
+Superior Court as a bail commissioner, except that no fee may be charged by the clerk 
+19
+while the clerk's office is open for business.
+20
+Sec. 6.  15 MRSA §1025, as amended by PL 2003, c. 414, Pt. B, §28 and affected 
+21
+by Pt. D, §7 and c. 614, §9, is further amended to read:
+22
+§1025.  Law enforcement officers
+23
+A law enforcement officer making a warrantless arrest under Title 17‑A, section 15 
+24
+may, without fee, take the personal recognizance of any defendant for appearance on a 
+25
+charge of a Class D or Class E crime as required by Title 15, section 1092, paragraph 4.  If 
+26
+authorized, a law enforcement officer may, without fee, take the personal recognizance 
+27
+with deposit in accordance with Title 12, section 10353, subsection 2, paragraph C; and 
+28
+Title 12, section 9707. The law enforcement officer's authority under this section continues 
+29
+as long as the arrestee remains in the officer's custody.
+30
+If a court, bail commissioner or bail officer issues an order that a defendant in custody 
+31
+be released pending trial, whether or not accompanied by one or more conditions under 
+32
+section 1026, subsection 3, a law enforcement officer may, without fee, prepare the bond 
+33
+and take the acknowledgment of the defendant.
+34
+Sec. 7.  15 MRSA §1025-A, as amended by PL 2023, c. 508, §1, is further amended 
+35
+to read:
+36
+§1025-A.  County jail employees
+37
+If a court or, bail commissioner or bail officer issues an order that a defendant in 
+38
+custody be released, pending trial, on personal recognizance or upon execution of an 
+39
+unsecured appearance bond, whether or not accompanied by one or more conditions under 
+40
+section 1026, subsection 3, an employee of the county jail having custody of the defendant, 
+41
+if authorized to do so by the sheriff, may, without fee, prepare the personal recognizance 
+42
+or bond and take the acknowledgment of the defendant.
+1
+2
+3
+4
+
+Page 5 - 132LR0527(01)
+1
+Sec. 8.  15 MRSA §1026, sub-§3, ¶A, as amended by PL 2023, c. 299, §2, is further 
+2
+amended by amending subparagraph (11) to read:
+3
+(11)  Execute an agreement to forfeit, in the event of noncompliance, such 
+4
+designated property, including money, as is reasonably necessary to ensure the 
+5
+appearance of the defendant at the time and place required, to ensure that the 
+6
+defendant will refrain from any new criminal conduct, to ensure the integrity of the 
+7
+judicial process and to ensure the safety of others in the community and post with 
+8
+an appropriate court such evidence of ownership of the property or such percentage 
+9
+of the money as the judicial officer specifies. Whenever there is a financial 
+10
+condition of bail, any money or cash bail may be paid with United States currency 
+11
+or any other form of payment permitted by the Chief Judge of the District Court. 
+12
+If payment is made by credit card, the court is authorized to impose, in addition to 
+13
+the amount designated as bail, a surcharge in the amount equal to the service charge 
+14
+to the court for accepting payment made by credit card;
+15
+Sec. 9.  15 MRSA §1026, sub-§4, as amended by PL 2021, c. 397, §5 and c. 647, 
+16
+Pt. B, §10 and affected by §65, is further amended to read:
+17
+4.  Factors to be considered in release decision.  In setting bail, the judicial officer 
+18
+shall, on the basis of an interview with the defendant, information provided by the 
+19
+defendant's attorney and, information provided by the attorney for the State or information 
+20
+provided by an informed law enforcement officer if the attorney for the State is not 
+21
+available and other reliable information that can be obtained, take into account the available 
+22
+information concerning the following:
+23
+A.  The nature and circumstances of the crime charged;
+24
+B.  The nature of the evidence against the defendant; and
+25
+C.  The history and characteristics of the defendant, including, but not limited to:
+26
+(1)  The defendant's character and physical and mental condition;
+27
+(2)  The defendant's family ties in the State;
+28
+(3)  The defendant's employment history in the State;
+29
+(4)  The defendant's financial resources, including the ability of the defendant to 
+30
+afford a financial condition imposed by the judicial officer;
+31
+(5)  The defendant's length of residence in the community and the defendant's 
+32
+community ties;
+33
+(6)  The defendant's past conduct;
+34
+(7)  The defendant's criminal history, if any;
+35
+(8)  The defendant's record concerning appearances at court proceedings;
+36
+(9)  Whether, at the time of the current offense or arrest, the defendant was on 
+37
+probation, parole or other release pending trial, sentencing, appeal or completion 
+38
+of a sentence for an offense in this jurisdiction or another;
+39
+(9-A)  Any evidence that the defendant poses a danger to the safety of others in the 
+40
+community, including the results of a validated, evidence-based domestic violence 
+41
+risk assessment recommended by the Maine Commission on Domestic and Sexual 
+
+Page 6 - 132LR0527(01)
+42
+Abuse, established in Title 5, section 12004‑I, subsection 74‑C, and approved by 
+43
+the Department of Public Safety;
+3
+(10)  Any evidence that the defendant has obstructed or attempted to obstruct 
+4
+justice by threatening, injuring or intimidating a victim or a prospective witness, 
+5
+juror, attorney for the State, judge, justice or other officer of the court;
+6
+(11)  Whether the defendant has previously violated conditions of release, 
+7
+probation or other court orders, including, but not limited to, violating protection 
+8
+from abuse orders pursuant to former Title 19, section 769 or Title 19‑A, former 
+9
+section 4011 or Title 19‑A, section 4113;
+10
+(12)  Whether the defendant is the person primarily responsible for the care of 
+11
+another person;
+12
+(13)  Whether the defendant has a specific health care need, including a mental 
+13
+health care need, that is being met or would be better met outside of custody; and
+14
+(14)  Whether being placed or remaining in custody would prevent the defendant 
+15
+from maintaining employment.
+16
+Sec. 10.  15 MRSA §1028, as amended by PL 2015, c. 431, §12, is further amended 
+17
+to read:
+18
+§1028.  De novo determination of bail under section 1026
+19
+1.  By defendant in custody.  Any defendant who is in custody as a result of a decision 
+20
+of a bail commissioner or bail officer acting under section 1026 may file a petition with the 
+21
+Unified Criminal Docket for a de novo determination of bail.  The bail commissioner or 
+22
+bail officer making the decision shall advise the defendant of the right to obtain a de novo 
+23
+determination.
+24
+A.  If the defendant chooses to have a de novo determination of bail, the defendant 
+25
+must be furnished with a petition and, upon execution of the petition and without the 
+26
+issuance of any writ or other process, the sheriff of the county in which the decision 
+27
+was made shall provide for the transportation of the defendant together with the petition 
+28
+and all papers relevant to the petition or copies of the petition or papers to the court.
+29
+If no justice or judge will be available within 48 hours, excluding Saturdays, Sundays 
+30
+and holidays, arrangements must be made for a de novo determination of bail in the 
+31
+nearest county in which a justice or judge is then sitting.  The defendant's custodian 
+32
+shall provide transportation to the court as required by this chapter without the issuance 
+33
+of any writ or other process.
+34
+If there is no justice or judge available, the defendant must be retained in custody until 
+35
+the petition can be considered.
+36
+B.  The petition and such other papers as may accompany it must be delivered to the 
+37
+clerk of the Unified Criminal Docket to which the defendant is transported and upon 
+38
+receipt the clerk shall notify the attorney for the State.   The court shall review the 
+39
+petition de novo and set bail in any manner authorized by section 1026.
+40
+C.  Upon receipt of a pro se petition or upon oral or written request of the attorney for 
+41
+the defendant, the clerk shall set a time for hearing and provide oral or written notice 
+1
+2
+
+Page 7 - 132LR0527(01)
+42
+to the attorney for the State.  The hearing must be scheduled for a time not less than 24 
+43
+hours nor more than 48 hours after the clerk notifies the attorney for the State.
+3
+2.  By defendant not in custody.  Any defendant who is not in custody but who is 
+4
+aggrieved by a decision of a bail commissioner or bail officer acting under section 1026 as 
+5
+to the amount or conditions of bail set may file a petition with the Unified Criminal Docket 
+6
+for a de novo determination of bail.  A justice or judge shall review the petition de novo 
+7
+and set bail in any manner authorized by section 1026.  The petition must be considered as 
+8
+scheduled by the clerk.
+9
+3.  No further relief.  The de novo determination by a justice or judge under this 
+10
+section is final and no further relief is available.
+11
+Sec. 11.  15 MRSA §1092, sub-§4, as amended by PL 2013, c. 519, §3, is further 
+12
+amended to read:
+13
+4.  Limitations on authority of bail commissioner or bail officer to set bail.  A court 
+14
+may, but a bail commissioner or bail officer may not, set bail for a defendant granted 
+15
+preconviction or post-conviction bail who has been arrested for an alleged violation of this 
+16
+section if:
+17
+A.  The condition of release alleged to be violated relates to new criminal conduct for 
+18
+a crime classified as Class C or above or for a Class D or Class E crime involving 
+19
+domestic violence, sexual assault pursuant to Title 17‑A, chapter 11 or sexual 
+20
+exploitation of minors pursuant to Title 17‑A, chapter 12;
+21
+B.  The underlying crime for which preconviction or post-conviction bail was granted 
+22
+is classified as Class C or above; or
+23
+C.  The underlying crime for which preconviction or post-conviction bail was granted 
+24
+is a crime involving domestic violence, sexual assault pursuant to Title 17‑A, chapter 
+25
+11 or sexual exploitation of minors pursuant to Title 17‑A, chapter 12.
+26
+If a bail commissioner or bail officer does not have sufficient information to determine 
+27
+whether the violation of the condition of release meets the criteria set forth under this 
+28
+subsection, the bail commissioner or bail officer may not set bail on the violation of the 
+29
+condition of release.
+30
+Sec. 12.  15 MRSA §1096, first ¶, as amended by PL 2005, c. 449, §3, is further 
+31
+amended to read:
+32
+A preconviction bail order of a bail commissioner or bail officer may be revoked by 
+33
+any judge or justice, and a preconviction bail order of a judge or justice may be revoked by 
+34
+any judge or justice of the same court, upon a determination made after notice and 
+35
+opportunity for hearing that:
+36
+Sec. 13.  17-A MRSA §2108, sub-§3, as enacted by PL 2019, c. 113, Pt. A, §2, is 
+37
+amended to read:
+38
+3.  Limited disclosure as part of bail condition or court order.   A bail 
+39
+commissioner, bail officer, judge, justice, court clerk, law enforcement officer or attorney 
+40
+for the State may disclose a victim's current address or location to the defendant or accused 
+41
+person, or the attorney or authorized agent of the defendant or accused person, as part of a 
+42
+bail condition or court order restricting contact with the victim only when it is clear that 
+43
+the defendant already knows the victim's current address or location or when the victim 
+1
+2
+
+Page 8 - 132LR0527(01)
+44
+requests that such bail condition or court order be issued and the victim requests that the 
+45
+current address or location be specified. For purposes of this subsection, "bail officer" has 
+46
+the same meaning as in Title 15, section 1003, subsection 1-A.
+4
+Sec. 14.  19-A MRSA §4114, sub-§6, ¶E, as enacted by PL 2021, c. 647, Pt. A, §3 
+5
+and affected by Pt. B, §65, is amended to read:
+6
+E.  Making a good faith effort to administer a validated, evidence-based domestic 
+7
+violence risk assessment recommended by the Maine Commission on Domestic and 
+8
+Sexual Abuse, established in Title 5, section 12004‑I, subsection 74‑C, and approved 
+9
+by the Department of Public Safety.  The law enforcement officer administering this 
+10
+assessment shall provide the results of the assessment to the bail commissioner or bail 
+11
+officer, if appropriate, and the district attorney for the county in which the abuse took 
+12
+place. For purposes of this paragraph, "bail officer" has the same meaning as in Title 
+13
+15, section 1003, subsection 1-A.
+14
+Sec. 15.  25 MRSA §2803-B, sub-§1, ¶D, as amended by PL 2023, c. 235, §§6 to 
+15
+8, is further amended by amending subparagraph (2) to read:
+16
+(2)  A process for the collection of information regarding the defendant that 
+17
+includes the defendant's previous history, the parties' relationship, whether the 
+18
+commission of an alleged crime included the use of strangulation as defined in 
+19
+Title 17‑A, section 208, subsection 1, paragraph C, the name of the victim and a 
+20
+process to relay this information to a bail commissioner or bail officer before a bail 
+21
+determination is made. For purposes of this paragraph, "bail officer" has the same 
+22
+meaning as in Title 15, section 1003, subsection 1-A;
+23
+Sec. 16.  25 MRSA §2803-B, sub-§1, ¶D, as amended by PL 2023, c. 235, §§6 to 
+24
+8, is further amended by amending subparagraph (5) to read:
+25
+(5)  A process for the administration of a validated, evidence-based domestic 
+26
+violence risk assessment recommended by the Maine Commission on Domestic 
+27
+and Sexual Abuse, established in Title 5, section 12004‑I, subsection 74‑C, and 
+28
+approved by the Department of Public Safety and the conveyance of the results of 
+29
+that assessment to the bail commissioner or bail officer, if appropriate, and the 
+30
+district attorney for the county in which the domestic violence occurred; and
+31
+SUMMARY
+32
+This bill amends the Maine Bail Code to create a new position of bail officer within 
+33
+the judicial branch to set and execute bail in accordance with the law. This bill requires the 
+34
+Maine Criminal Justice Academy to collaborate with the Chief Judge of the District Court 
+35
+to establish a training class for law enforcement officers regarding the execution of bail 
+36
+bonds. The bill also authorizes the court to impose a surcharge for accepting bail payments 
+37
+made by credit card.
+1
+2
+3
+32
+33
+34
+35
+36
+37

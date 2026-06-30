@@ -1,0 +1,197 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 451
+H.P. 305
+House of Representatives, February 4, 2025
+An Act to Require Testing of Solar and Wind Energy Developments 
+for Perfluoroalkyl and Polyfluoroalkyl Substances Contamination
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative PAUL of Winterport.
+Cosponsored by Representatives: FOSTER of Dexter, SOBOLESKI of Phillips, 
+WADSWORTH of Hiram, Senator: HARRINGTON of York.
+
+Page 1 - 132LR0444(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  35-A MRSA c. 44-A is enacted to read:
+3
+CHAPTER 44-A
+4
+PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES TESTING 
+5
+FOR SOLAR AND WIND ENERGY DEVELOPMENTS
+6
+§4421.  Definitions
+7
+As used in this chapter, unless the context otherwise indicates, the following terms 
+8
+have the following meanings.
+9
+1.  Department.  "Department" means the Department of Environmental Protection.
+10
+2.  Operator.  "Operator" means the person operating a solar energy development or 
+11
+wind energy development.
+12
+3.  Perfluoroalkyl and polyfluoroalkyl substances.  "Perfluoroalkyl and 
+13
+polyfluoroalkyl substances" or "PFAS" has the same meaning as in Title 38, section 1614, 
+14
+subsection 1, paragraph F.  
+15
+4.  Solar energy development.  "Solar energy development" means a development 
+16
+that uses a solar energy system to convert solar energy to electrical energy for sale or use 
+17
+by a person other than the generator.  "Solar energy development" includes generating 
+18
+facilities and associated facilities.
+19
+5.  Wind energy development.  "Wind energy development" has the same meaning as 
+20
+in section 3451, subsection 11.
+21
+§4422.  PFAS contamination testing requirements; rules
+22
+In accordance with rules adopted by the department, the operator of a solar energy 
+23
+development or a wind energy development shall conduct testing for PFAS contamination 
+24
+at the development site.  Rules adopted by the department pursuant to this section are 
+25
+routine technical rules as defined in Title 5, chapter 375, subchapter 2-A and must include, 
+26
+but are not limited to, the following provisions:
+27
+1.  Scope.  Requirements regarding the scope of testing to be conducted by the operator, 
+28
+including sampling and testing methods. The rules must require such testing to be 
+29
+conducted prior to development of a solar energy development or wind energy 
+30
+development, again after one year of operation of the development and every 5 years 
+31
+thereafter;
+32
+2.  Third-party analysis.  Requirements for the operator to contract for a 3rd-party 
+33
+analysis of any PFAS contamination discovered through testing to assess whether the 
+34
+development is the source of the contamination;
+35
+3.  Documentation.  Requirements regarding documentation of testing and submission 
+36
+by the operator of testing results, the 3rd-party analysis if applicable and other information 
+37
+to the department; and
+
+Page 2 - 132LR0444(01)
+1
+4.  Evaluation.  Provisions outlining the process by which the department will evaluate 
+2
+any PFAS contamination discovered through testing at the development site.  The rules 
+3
+must require that, based on submitted testing and analysis and any other information 
+4
+available to the department, the department issue a written determination as to whether the 
+5
+PFAS contamination was reasonably caused by the construction, operation or components 
+6
+of the development.  The department shall provide a copy of the determination to the 
+7
+operator of the development and to the commission and post a copy of the determination 
+8
+on the department's publicly accessible website.
+9
+The costs of remediation of any PFAS contamination discovered through testing at the 
+10
+development site is the responsibility of the owner or operator of the development.
+11
+The department shall administer and enforce testing requirements adopted by rule 
+12
+pursuant to this section subject to the same powers and authorities granted to it pursuant to 
+13
+Title 38, chapter 2.
+14
+§4423.  Effect of determination; commission notification
+15
+Notwithstanding any provision of this Title or commission rule to the contrary, if the 
+16
+department determines in accordance with rules adopted pursuant to section 4422 that 
+17
+PFAS contamination discovered at the site of a solar energy development or wind energy 
+18
+development was reasonably caused by the construction, operation or components of the 
+19
+development, the development no longer meets the eligibility requirements:
+20
+1.  Renewable resource.  As a renewable resource or renewable capacity resource for 
+21
+the purposes of section 3210 and for any procurement or other contracting conducted in 
+22
+accordance with chapter 32; and
+23
+2.  Net energy billing; distributed generation resource.  For participation in net 
+24
+energy billing under section 3209-A or 3209-B and no longer meets the eligibility 
+25
+requirements as a distributed generation resource for the purposes of section 3209-D.
+26
+If the commission receives from the department a written determination that PFAS 
+27
+contamination discovered at the site of a solar energy development or wind energy 
+28
+development was reasonably caused by the construction, operation or components of the 
+29
+development, the commission shall notify all competitive electricity providers and 
+30
+transmission and distribution utilities regarding the effect of that determination as set forth 
+31
+in this section.
+32
+SUMMARY
+33
+This bill requires the operator of a solar energy development or a wind energy 
+34
+development to conduct testing for perfluoroalkyl and polyfluoroalkyl substances, or 
+35
+PFAS, contamination at the development site in accordance with rules adopted by the 
+36
+Department of Environmental Protection.  If any PFAS contamination is discovered as a 
+37
+result of that testing, the department must issue a written determination as to whether the 
+38
+PFAS contamination was reasonably caused by the construction, operation or components 
+39
+of the development.  
+40
+If the department determines that PFAS contamination was reasonably caused by the 
+41
+construction, operation or components of a solar energy development or wind energy 
+42
+development, the development no longer meets the eligibility requirements:
+33
+34
+35
+36
+37
+38
+39
+
+Page 3 - 132LR0444(01)
+1
+1.  As a renewable resource or renewable capacity resource for the purposes of energy 
+2
+procurement or other energy contracting under the Maine Revised Statutes, Title 35-A, 
+3
+chapter 32; and
+4
+2.  For participation in state net energy billing programs as a distributed generation 
+5
+resource for the purposes of Title 35-A, section 3209-D.

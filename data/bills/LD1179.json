@@ -1,0 +1,131 @@
+{
+  "ld": 1179,
+  "paper": "HP0784",
+  "paper_display": "HP 784",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097682",
+  "title": "An Act Regarding Safety from Fire for Recreational Vehicles",
+  "committee": "Housing and Economic Development",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 10, 2025",
+  "governor_action": "Signed, Jun 10, 2025",
+  "chaptered_law": "ACTPUB, Chapter 245",
+  "chapter": "245",
+  "became_law": true,
+  "last_house_action": "6/3/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/3/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Rafael MACIAS",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Topsham"
+    },
+    {
+      "name": "Marshall ARCHER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Saco"
+    },
+    {
+      "name": "Poppy ARFORD",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "Kilton WEBB",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Durham"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HOUSING",
+      "minor": "EMERGENCY SHELTER",
+      "detail": "CONSTRUCTION STANDARDS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "Committee on Housing and Economic Development suggested and ordered printed. The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-420) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-420) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-420), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-420 )",
+      "new_title": "An Act Regarding Safety from Fire for Recreational Vehicles",
+      "house_action": "Adopted on 6/2/2025",
+      "senate_action": "Adopted on 6/3/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0784&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0784&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0784&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0784",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0784&SessionID=16",
+  "scraped_at": "2026-06-30T19:02:05Z"
+}

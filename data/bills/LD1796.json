@@ -1,0 +1,166 @@
+{
+  "ld": 1796,
+  "paper": "SP0698",
+  "paper_display": "SP 698",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098814",
+  "title": "An Act to Implement the Recommendations of the Maine Commission on Public Defense Services to Clarify the Types of Cases for Which the Commission Is Responsible for Providing Counsel",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jan 11, 2026",
+  "governor_action": "Unsigned, Jan 11, 2026",
+  "chaptered_law": "ACTPUB, Chapter 511",
+  "chapter": "511",
+  "became_law": true,
+  "last_house_action": "6/25/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "7/8/2025 - HELD BY THE GOVERNOR.",
+  "sponsors": [
+    {
+      "name": "Anne CARNEY",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "FREEDOM OF ACCESS",
+      "minor": "RECORD CONFIDENTIALITY",
+      "detail": "PUBLIC DEFENSE SERVICES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "Senate",
+      "description": "Reported by Senator CARNEY of Cumberland for the Joint Standing Committee on Judiciary pursuant to the Maine Revised Statutes, Title 4, section 1804, subsection 3, paragraph H. Report READ and ACCEPTED . REFERRED to the Committee on Judiciary and ordered printed pursuant to Joint Rule 218. Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "House",
+      "description": "Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on JUDICIARY In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "Senate",
+      "description": "Reports READ Senator CARNEY of Cumberland moved to ACCEPT The Majority Ought to Pass As Amended Report On motion by Same Senator Tabled until Later in Today's Session, pending Motion to ACCEPT The Majority Ought to Pass As Amended Report Unfinished Business"
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President Subsequently The Majority Ought to Pass As Amended Report ACCEPTED. Bill READ ONCE Committee Amendment \"A\" (S-418) READ On motion by Senator CARNEY of Cumberland Senate Amendment \"A\" (S-424) to Committee Amendment \"A\" (S-418) READ and ADOPTED Committee Amendment \"A\" (S-418) as Amended by Senate Amendment \"A\" (S-424) thereto ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-418) as Amended by Senate Amendment \"A\" (S-424) thereto. Sent down for concurrence"
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative KUHN of Falmouth, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (S-418) was READ . Senate Amendment \"A\" (S-424) to Committee Amendment \"A\" (S-418) was READ and ADOPTED . Committee Amendment \"A\" (S-418) as Amended by Senate Amendment \"A\" (S-424) thereto was ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-418) as Amended by Senate Amendment \"A\" (S-424) thereto. In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-18",
+      "date_raw": "6/18/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending ENACTMENT in concurrence."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table On motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby the Bill was PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-418) On further motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby Committee Amendment \"A\" (S-418) was ADOPTED. On further motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby Senate Amendment \"A\" (S-424) was ADOPTED and moved to INDEFINITLY POSTPONE the same . On further motion by Same Senator Senate Amendment \"B\" (S-481) to Committee Amendment \"A\" (S-418) READ and ADOPTED. Committee Amendment \"A\" (S-418) as Amended by Senate Amendment \"B\" (S-481) thereto ADOPTED. PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-418) as Amended by Senate Amendment \"B\" (S-481) thereto in NON-CONCURRENCE. Sent down for concurrence."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "The House RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-418) as Amended by Senate Amendment \"B\" (S-481) thereto. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    },
+    {
+      "date": "2025-07-08",
+      "date_raw": "7/8/2025",
+      "chamber": "Senate",
+      "description": "HELD BY THE GOVERNOR."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-418 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/25/2025",
+      "senate_action": "Adopted on 6/25/2025",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "S \"A\" (S-424 ) to C \"A\" (S-418 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "Indefinitely postponed on 6/25/2025",
+      "adopted": false,
+      "pdf_url": ""
+    },
+    {
+      "label": "S \"B\" (S-481 ) to C \"A\" (S-418 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/25/2025",
+      "senate_action": "Adopted on 6/25/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0698&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0698&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0698&item=6&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0698&item=8&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0698&item=4&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0698",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0698&SessionID=16",
+  "scraped_at": "2026-06-30T19:48:45Z"
+}

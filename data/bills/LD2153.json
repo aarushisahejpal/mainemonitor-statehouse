@@ -1,0 +1,104 @@
+{
+  "ld": 2153,
+  "paper": "HP1442",
+  "paper_display": "HP 1442",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101173",
+  "title": "An Act to Transfer the Responsibilities of the Governor's Energy Office to the Department of Energy Resources",
+  "committee": "Energy, Utilities and Technology",
+  "status_summary": "",
+  "final_disposition": "Enacted, Mar 23, 2026",
+  "governor_action": "Signed, Mar 23, 2026",
+  "chaptered_law": "ACTPUB, Chapter 597",
+  "chapter": "597",
+  "became_law": true,
+  "last_house_action": "3/18/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/19/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Melanie SACHS",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Freeport"
+    }
+  ],
+  "subjects": [],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "date_raw": "1/7/2026",
+      "chamber": "House",
+      "description": "Representative SACHS for the Department of Energy Resources pursuant to Public Law 2025, chapter 476, Part B, section 1, reports that the Bill be REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY and ordered printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY and ordered printed pursuant to Joint Rule 218. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-01-07",
+      "date_raw": "1/7/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. On motion by Senator Lawrence of York REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY and ordered printed pursuant to Joint Rule 218, in concurrence."
+    },
+    {
+      "date": "2026-03-10",
+      "date_raw": "3/10/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SACHS of Freeport, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-835) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-835) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-12",
+      "date_raw": "3/12/2026",
+      "chamber": "Senate",
+      "description": "Reports READ On motion by Senator LAWRENCE of York the Majority Ought to Pass as Amended Report ACCEPTED . Bill READ ONCE. Committee Amendment \"A\" (H-835) READ and ADOPTED. ASSIGNED FOR SECOND READING NEXT LEGISLATIVE DAY."
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "Senate",
+      "description": "COMMITTEE ON BILLS IN THE SECOND READING REPORTS NO FURTHER VERBAL AMENDMENTS NECESSARY. REPORT ACCEPTED. READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-835) , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2026-03-18",
+      "date_raw": "3/18/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-19",
+      "date_raw": "3/19/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-835 )",
+      "new_title": "",
+      "house_action": "Adopted on 3/10/2026",
+      "senate_action": "Adopted on 3/12/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1442&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1442&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1442&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1442",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1442&SessionID=16",
+  "scraped_at": "2026-06-30T20:17:38Z"
+}

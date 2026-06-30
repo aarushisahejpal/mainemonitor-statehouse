@@ -1,0 +1,131 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1824
+S.P. 711
+In Senate, April 29, 2025
+An Act to Prohibit the Public Release of Information Regarding a 
+Railroad Fatality
+Reference to the Committee on Judiciary suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator RAFFERTY of York.
+Cosponsored by Representative LYMAN of Livermore Falls and
+Senators: BALDACCI of Penobscot, TIMBERLAKE of Androscoggin.
+
+Page 1 - 132LR1288(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  1 MRSA §402, sub-§3, ¶U, as amended by PL 2023, c. 618, §1, is further 
+3
+amended to read:
+4
+U.  Records provided by a railroad company pursuant to Title 23, section 7311, 
+5
+subsection 5 and records describing hazardous materials transported by the railroad 
+6
+company in this State, the routes of hazardous materials shipments and the frequency 
+7
+of hazardous materials operations on those routes that are in the possession of a state 
+8
+or local emergency management entity or law enforcement agency, fire department or 
+9
+other first responder, except that records related to a train carrying hazardous materials 
+10
+that has derailed at any point from a main line train track or related to a discharge of 
+11
+hazardous materials transported by a railroad company that poses a threat to public 
+12
+health, safety and welfare are subject to public disclosure after that discharge.  For the 
+13
+purposes of this paragraph, "hazardous material" has the same meaning as set forth in 
+14
+49 Code of Federal Regulations, Section 105.5; and
+15
+Sec. 2.  1 MRSA §402, sub-§3, ¶V, as enacted by PL 2017, c. 118, §3, is amended 
+16
+to read:
+17
+V.  Participant application materials and other personal information obtained or 
+18
+maintained by a municipality or other public entity in administering a community well-
+19
+being check program, except that a participant's personal information, including health 
+20
+information, may be made available to first responders only as necessary to implement 
+21
+the program. For the purposes of this paragraph, "community well-being check 
+22
+program" means a voluntary program that involves daily, or regular, contact with a 
+23
+participant and, when contact cannot be established, sends first responders to the 
+24
+participant's residence to check on the participant's well-being.; and
+25
+Sec. 3.  1 MRSA §402, sub-§3, ¶W is enacted to read:
+26
+W.  Notwithstanding any provision of Title 23, section 7311 to the contrary, during the 
+27
+course of an investigation of an accident resulting in a fatality involving a railroad or 
+28
+railroad line, reports of a law enforcement agency regarding that accident and all 
+29
+records of communication between the law enforcement agency and a railroad 
+30
+company employee involved in that accident.  A law enforcement agency that responds 
+31
+to the accident shall maintain such reports and records in a manner that ensures 
+32
+confidentiality of the reports and records, except that the reports and records may be 
+33
+accessible at all reasonable times, upon written request, to:
+34
+(1)  A railroad company responsible for the railroad or railroad line on which the 
+35
+accident occurred;
+36
+(2)  A railroad company whose employee is identified in a report or record; and
+37
+(3)  Any other person authorized by judicial order to obtain the reports or records 
+38
+under this paragraph if access to the report or record is necessary in the 
+39
+performance of the person's duties.
+40
+The reports and records under this paragraph must be accessible at all reasonable times, 
+41
+upon written or e-mail request to law enforcement agencies, district attorneys and 
+42
+assistant district attorneys.
+
+Page 2 - 132LR1288(01)
+1
+For the purposes of this paragraph, "railroad" has the same meaning as in Title 23, 
+2
+section 5001, subsection 1; "railroad company" has the same meaning as in Title 23, 
+3
+section 5001, subsection 2; and "railroad line" has the same meaning as in Title 23, 
+4
+section 7152, subsection 3.
+5
+SUMMARY
+6
+This bill excludes from the definition of "public record" reports of a law enforcement 
+7
+agency regarding an accident resulting in a fatality involving a railroad or railroad line and 
+8
+all records of communication between the law enforcement agency and a railroad company 
+9
+employee involved in that accident. The exclusion applies only during the course of an 
+10
+investigation of such an accident. The bill provides certain exceptions to the confidentiality 
+11
+of the reports and records.
+6
+7
+8
+9
+10
+11

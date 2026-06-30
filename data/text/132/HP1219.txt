@@ -1,0 +1,401 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1821
+H.P. 1219
+House of Representatives, April 29, 2025
+An Act to Ensure Responsible Business Practices by Licensed 
+Firearms Dealers
+Reference to the Committee on Judiciary suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative KUHN of Falmouth.
+Cosponsored by Senator CARNEY of Cumberland and
+Representatives: DOUDERA of Camden, GRAMLICH of Old Orchard Beach, LEE of 
+Auburn, MOONEN of Portland.
+
+Page 1 - 132LR1676(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  15 MRSA c. 19 is enacted to read:
+3
+CHAPTER 19
+4
+FIREARM DEALER RESPONSIBLE BUSINESS PRACTICES ACT
+5
+§501. Short title
+6
+This chapter may be known and cited as "the Firearm Dealer Responsible Business 
+7
+Practices Act." 
+8
+§502. Definitions 
+9
+As used in this chapter, unless the context otherwise indicates, the following terms 
+10
+have the following meanings.
+11
+1.  ATF. "ATF" means the federal Department of Justice, Bureau of Alcohol, Tobacco, 
+12
+Firearms and Explosives or its successor agency. 
+13
+2.  Dealer. "Dealer" has the same meaning as in section 395, subsection 1, paragraph 
+14
+E.
+15
+3.  Department. "Department" means the Department of Public Safety.
+16
+4.  Firearm. "Firearm" has the same meaning as in Title 17-A, section 2, subsection 
+17
+12-A.
+18
+5.  Gun show. "Gun show" has the same meaning as in section 395, subsection 1, 
+19
+paragraph G.
+20
+6.  Law enforcement officer. "Law enforcement officer" has the same meaning as in 
+21
+Title 25, section 2801-A, subsection 5.
+22
+7.  Office of Violence Prevention. "Office of Violence Prevention" means the office 
+23
+established in Title 22, section 1427, subsection 1.
+24
+8.  Straw purchase. "Straw purchase" means the purchase or attempted purchase by a 
+25
+person of a firearm or ammunition for a firearm on behalf of or for the use of another person 
+26
+known or unknown. "Straw purchase" does not include a purchase or attempted purchase 
+27
+for the purposes of making a bona fide gift to a person who is not prohibited from 
+28
+possessing or receiving the firearm or ammunition. For purposes of this subsection, a gift 
+29
+is not a bona fide gift if the person offers or gives the purchaser a service or thing of value 
+30
+to acquire the firearm for the person. 
+31
+9.  Transaction. "Transaction" means the transfer of ownership of a firearm from a 
+32
+seller to a buyer.
+33
+§503. Security 
+34
+1.  Security measures required for firearm dealer. The department shall, by rule, 
+35
+adopt standards specifying the minimum security requirements for dealers. Beginning July 
+36
+1, 2026, a dealer shall comply with the standards. The standards may require dealers to 
+37
+employ the following security measures:
+
+Page 2 - 132LR1676(01)
+1
+A.  An alarm system certified by a federal or state agency, a not-for-profit organization 
+2
+or another entity specializing in security alarm standards approved by the department 
+3
+for the purposes of this chapter. The rules must specify when the alarm system must be 
+4
+capable of being monitored by a central station as well as provide monitoring of all 
+5
+accessible openings and partial motion and sound detection at all other areas of the 
+6
+premises;
+7
+B.  Site hardening, including locks on doors and windows;
+8
+C.  Video surveillance, including video recording devices at each point of sale and each 
+9
+entrance and exit to the premises. The rules must require that any video surveillance 
+10
+system allow recordings from both indoor and outdoor vantage points and must require 
+11
+the maintenance of such recordings for a period of not less than 2 years; and
+12
+D.  Other reasonable and effective security measures designed to reduce the risk of 
+13
+theft at a dealer's business establishment. 
+14
+2.  Gun show applicability. The department shall specify, by rule, which of the 
+15
+security measures in subsection 1 apply to gun shows. 
+16
+§504. Employee vetting and training 
+17
+1.  Background checks on employees required. A dealer may not employ any person 
+18
+to handle, sell or deliver firearms unless the person is 18 years of age or older and is not 
+19
+prohibited from possessing a firearm under state or federal law as determined by a 
+20
+background check using the Federal Bureau of Investigation National Instant Criminal 
+21
+Background Check System.
+22
+2.  Employee training required. A dealer shall provide the training developed by the 
+23
+department pursuant to subsection 3 to all new employees within 30 days of employment, 
+24
+to all existing employees within 90 days of the effective date of this chapter and to all 
+25
+employees annually thereafter. 
+26
+3.  Department to develop firearm dealer employee training. The department, with 
+27
+assistance from the Office of Violence Prevention, shall develop and make available to 
+28
+each dealer a training course on safe firearm transactions, including at a minimum the 
+29
+following:
+30
+A.  Federal and state laws governing firearm transactions;
+31
+B.  How to recognize, identify, respond to and report straw purchases, illegal purchases 
+32
+and fraudulent activity;
+33
+C.  How to recognize, identify, respond to and report individuals who intend to use 
+34
+firearms for unlawful purposes, including self-harm;
+35
+D.  How to prevent, respond to and report theft or burglary of firearms and ammunition;
+36
+E.  How to educate customers on gun safety practices, including but not limited to the 
+37
+safe handling and storage of firearms and ammunition; and
+38
+F.  Any other responsible business practice identified by the department. 
+39
+4.  Prohibition. A dealer and a dealer's employee may not participate in the sale or 
+40
+disposition of firearms unless the dealer and dealer's employee have first received the 
+41
+training required by this section. 
+
+Page 3 - 132LR1676(01)
+1
+5.  Rulemaking. The department shall adopt rules setting forth minimum requirements 
+2
+for the maintenance of records of the training required by this section. 
+3
+§505. Maintenance of records
+4
+1.  Record of purchase. A dealer shall establish and maintain a written or electronic 
+5
+record of purchases, sales, acquisitions and dispositions, as required by 27 Code of Federal 
+6
+Regulations, Section 478.125. The records must, at a minimum, include the make, model, 
+7
+caliber or gauge, manufacturer's name and serial number of all firearms that the dealer 
+8
+acquires or disposes of no later than one business day after the acquisition or disposal. 
+9
+Physical copies of written records must be created at least monthly and stored in a secure 
+10
+container designed to prevent loss by fire, theft or flood. Electronic records must be backed 
+11
+up on an external server or over the Internet at the close of each business day.
+12
+2.  Federal form required. A dealer shall retain all ATF Form 4473 records on their 
+13
+premises for a minimum of 20 years, as required by 27 Code of Federal Regulations, 
+14
+Section 478.124. The records must be stored in a secure container designed to prevent loss 
+15
+by fire, theft or flood.
+16
+3.  Record of inventory. A dealer shall account for all firearms acquired but not yet 
+17
+disposed of in a monthly inventory check and shall maintain records of such checks in a 
+18
+secure location. 
+19
+4.  Record of criminal firearm trace. A dealer shall maintain records of all criminal 
+20
+firearm traces initiated by the ATF.
+21
+5.  Records confidential. Notwithstanding any provision of law to the contrary, 
+22
+information contained in the records maintained under this section is confidential and may 
+23
+not be disclosed to any person other than a law enforcement officer acting in the 
+24
+performance of the officer's duties. 
+25
+6.  Inspection of records. A dealer shall permit law enforcement officers to inspect 
+26
+the records required to be maintained under this section during regular business hours. 
+27
+§506. Reporting
+28
+1.  Transactions involving more than one firearm. A dealer shall report a transaction 
+29
+involving more than one pistol or revolver to a law enforcement agency, as required by 27 
+30
+Code of Federal Regulations, Section 478.126a.
+31
+2.  Thefts and losses. A dealer shall report a theft or loss within 48 hours of discovery 
+32
+to a law enforcement agency, as required by 27 Code of Federal Regulations, Section 
+33
+478.39a.
+34
+§507. Compliance 
+35
+1.  Certification. A dealer shall, at least annually, certify to the department in a form 
+36
+designed by the department by rule that the dealer is in compliance with the requirements 
+37
+of this chapter. 
+38
+2.  Inspections. A dealer shall provide the department with full access to the dealer's 
+39
+premises for an inspection. The department shall adopt rules authorizing an inspection by 
+40
+the department of a dealer during regular business hours of the premises of the dealer to 
+41
+determine compliance by the dealer with the requirements of this chapter. 
+
+Page 4 - 132LR1676(01)
+1
+3.  Report. The department shall, beginning January 15, 2026, prepare and publish on 
+2
+its publicly accessible website an annual report providing information on the number of 
+3
+dealers inspected annually, the number of dealers in compliance with requirements of this 
+4
+chapter, the number of dealers failing to comply with the requirements of this chapter and 
+5
+other information that the department considers necessary and appropriate. 
+6
+4.  False certification; penalty. A dealer may not falsify information or contents in 
+7
+the compliance report required by subsection 1. A person who violates this subsection 
+8
+commits a Class C crime. 
+9
+§508. Violations
+10
+1. Violation. Except as otherwise specified, a person may not violate this chapter or a 
+11
+rule adopted pursuant to this chapter. 
+12
+2.  Penalties. The following penalties apply to violations of this section.
+13
+A.  A dealer who violates any provisions in this chapter commits a civil violation for 
+14
+which a fine of no less than $100 and no more than $500 may be adjudged. 
+15
+B.  A dealer who violates any provision of this chapter after having been adjudicated 
+16
+as having committed one or more civil violations or for engaging in substantially 
+17
+similar conduct to that contained in this subsection in another jurisdiction within the 
+18
+previous 5-year period commits a civil violation for which a fine of no less than $500 
+19
+and no more than $1,000 may be adjudged. 
+20
+§509. Notice to purchasers upon sale of firearm
+21
+1.  Notice required. Except as provided in subsection 2, a dealer shall conspicuously 
+22
+post at each firearm point of sale a sign in a format to be prescribed by the department 
+23
+containing the following notices:
+24
+A.  "ENDANGERING THE WELFARE OF A CHILD IS A CRIME. IF YOU LEAVE 
+25
+A FIREARM AND AMMUNITION WITHIN EASY ACCESS OF A CHILD, YOU 
+26
+MAY BE SUBJECT TO A FINE, IMPRISONMENT OR BOTH.
+27
+KEEP FIREARMS AND AMMUNITION SEPARATE.
+28
+KEEP FIREARMS AND AMMUNITION LOCKED UP.
+29
+USE TRIGGER LOCKS, CABLE LOCKS, A LOCKBOX OR A SAFE.
+30
+PER STATE LAW, STORE STAFF MUST OFFER TO DEMONSTRATE THE USE 
+31
+OF THESE SAFETY DEVICES."; 
+32
+B.  A notice prescribed by the department that informs purchasers of the background 
+33
+check requirements of section 395 and the waiting period requirements of Title 25, 
+34
+section 2016; 
+35
+C.  "Firearm suicide is the most common type of gun fatality. If you or a loved one is 
+36
+experiencing distress or depression or is contemplating suicide, please call [insert the 
+37
+telephone number for mental health assistance] to find your nearest Maine Crisis 
+38
+Receiving Center or call the National Suicide Prevention Lifeline at [insert the 
+39
+telephone number for lifeline]."; and
+40
+D.  The names, addresses and phone numbers of businesses or instructors that offer 
+41
+firearm safety courses. 
+
+Page 5 - 132LR1676(01)
+1
+2.  Gun shows. The sign required by this section must be posted at all entrances of a 
+2
+gun show. 
+3
+3.  Violation. A dealer or gun show operator who fails to post the notices required by 
+4
+this section commits a civil violation for which a fine of no more than $200 may be 
+5
+adjudged. 
+6
+§510. Rulemaking
+7
+The department may adopt rules necessary to implement this chapter. Rules adopted 
+8
+pursuant to this section are routine technical rules as defined in Title 5, chapter 375, 
+9
+subchapter 2‑A.
+10
+Sec. 2.  25 MRSA §2012, sub-§2, ¶B, as enacted by PL 1991, c. 127, is amended 
+11
+to read:
+12
+B.  Offer to demonstrate to the purchaser the use of a trigger locking device, cable lock, 
+13
+gun safe or lockbox; and
+14
+SUMMARY
+15
+This bill requires the Department of Public Safety to adopt rules specifying the 
+16
+minimum security requirements for firearm dealers including the requirement of alarm 
+17
+systems, record retention and site hardening.  The bill also designates as a Class C crime 
+18
+falsifying a certification that a firearm dealer is in compliance with department minimum 
+19
+security rules.  The bill also creates a civil violation for failure to comply with the minimum 
+20
+security requirements outlined in the bill.  Finally, the bill requires firearm dealers and gun 
+21
+shows to post signs informing customers of the crime of endangering the welfare of a child, 
+22
+background check requirements, suicide prevention resources and firearm safety course 
+23
+information.
+15
+16
+17
+18
+19
+20
+21
+22
+23

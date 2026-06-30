@@ -1,0 +1,79 @@
+{
+  "ld": 844,
+  "paper": "HP0530",
+  "paper_display": "HP 530",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097111",
+  "title": "An Act to Regulate Social Media Use by Minors Under 16 Years of Age",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Jun 16, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/16/2025 - Reports READ . On motion of Representative KUHN of Falmouth, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/16/2025 - Reports Read On motion by Senator CARNEY of Cumberland the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Kenneth FREDETTE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Newport"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "INDUSTRIES",
+      "minor": "INTERNET SERVICE PROVIDERS",
+      "detail": "SOCIAL MEDIA REGULATION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "House",
+      "description": "Committee on HOUSING AND ECONOMIC DEVELOPMENT suggested and ordered printed. On motion of Representative GERE of Kennebunkport, the Bill was REFERRED to the Committee on JUDICIARY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on JUDICIARY . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative KUHN of Falmouth, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator CARNEY of Cumberland the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0530&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0530",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0530&SessionID=16",
+  "scraped_at": "2026-06-30T18:36:14Z"
+}

@@ -1,0 +1,207 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2007
+S.P. 825
+In Senate, December 5, 2025
+An Act Regarding the Prohibition of Online Sweepstakes Games
+Submitted by the Department of Public Safety pursuant to Joint Rule 203.
+Received by the Secretary of the Senate on December 3, 2025.  Referred to the Committee 
+on Veterans and Legal Affairs pursuant to Joint Rule 308.2 and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator HICKMAN of Kennebec.
+
+Page 1 - 132LR2873(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA §20006-B, sub-§1, as amended by PL 2011, c. 657, Pt. AA, §24, 
+3
+is further amended to read:
+4
+1.  Fund established.  The Gambling Addiction Prevention and Treatment Fund, 
+5
+referred to in this section as "the fund," is established for the purpose of supporting 
+6
+gambling addiction analysis, prevention and treatment to be administered by the 
+7
+department.  The fund is a dedicated, nonlapsing fund into which payments are received in 
+8
+accordance with Title 8, section 1036, subsection 2 and Title 8, section 1402, subsection 1.
+9
+Sec. 2.  8 MRSA c. 39 is enacted to read:
+10
+CHAPTER 39
+11
+ONLINE SWEEPSTAKES GAMES PROHIBITED
+12
+§1401. Definitions 
+13
+As used in this chapter, unless the context otherwise indicates, the following terms 
+14
+have the following meanings.
+15
+1. Board. "Board" means the Gambling Control Board established under section 1002.
+16
+2. Direct consideration. "Direct consideration" means a coin, token or other 
+17
+representation of value that may be purchased by a person or received through a bonus or 
+18
+promotion and that is used for playing or participating in an online sweepstakes game.
+19
+3. Dual-currency system of payment. "Dual-currency system of payment" means a 
+20
+system of payment that allows a person to play or participate with direct consideration or 
+21
+indirect consideration or that is otherwise designed in a manner that:
+22
+A. Prevents a person from directly purchasing coins, tokens or other representations of 
+23
+value that are redeemable for any cash prize, cash award or cash equivalents or the 
+24
+chance to win any cash prize, cash award or cash equivalents; and 
+25
+B. Encourages a person to purchase services, products, coins, tokens or other 
+26
+representations of value that are not exchangeable for a prize, award, cash or cash 
+27
+equivalents or a chance to win a prize, award, cash or cash equivalents in order for that 
+28
+person to obtain the coins, tokens or other representations of value that are 
+29
+exchangeable for prizes, awards, cash or cash equivalents or a chance to win a prize, 
+30
+award, cash or cash equivalents.
+31
+The unit may adopt rules to further define what constitutes a dual-currency system of 
+32
+payment. Rules adopted pursuant to this subsection are major substantive rules as defined 
+33
+in Title 5, chapter 375, subchapter 2‑A.
+34
+4. Indirect consideration. “Indirect consideration” means a coin, token or other 
+35
+representation of value that: 
+36
+A. Is provided for free through a promotion or bonus or with the purchase of a related 
+37
+product, service or activity; and 
+
+Page 2 - 132LR2873(01)
+1
+B. May be exchanged for a prize, award, cash or cash equivalents or a chance to win a 
+2
+prize, award, cash or cash equivalents. 
+3
+As used in this subsection, “related product, service or activity” includes a coin, token or 
+4
+other representation of value that may be used for direct consideration.
+5
+5. Licensee. "Licensee" means a person that holds any one of the following licenses: 
+6
+A. A license issued under chapter 31; 
+7
+B. A license issued under chapter 33; 
+8
+C. A license issued under chapter 35; or 
+9
+D. A license issued under Title 17, chapter 62.
+10
+6. Online sweepstakes game. "Online sweepstakes game" means any game, contest or 
+11
+promotion that:
+12
+A. Is available on the Internet and accessible on a mobile telephone, computer terminal 
+13
+or similar access device; 
+14
+B. Uses a dual-currency system of payment; and 
+15
+C. Simulates casino-style gaming, including, but not limited to, slot machines, poker 
+16
+and other table games, lottery games, bingo or sports wagering. 
+17
+7. Unit. "Unit" means the Gambling Control Unit established as a bureau within the 
+18
+Department of Public Safety under Title 25, section 2902, subsection 12. 
+19
+§1402. Online sweepstakes games prohibited; fines; other penalties 
+20
+A person that operates or promotes an online sweepstakes game or supports the 
+21
+operation or promotion of an online sweepstakes game commits a civil violation. 
+22
+1. Fine. A person that violates this section is subject to a fine of not less than $10,000 
+23
+and not more than $100,000.  All fines adjudged pursuant to this section must be collected 
+24
+by the unit and distributed to the Gambling Addiction Prevention and Treatment Fund 
+25
+established in Title 5, section 20006-B. 
+26
+2. Revocation of license. If a licensee is convicted of unlawful gambling under Title 
+27
+17-A, section 954, subsection 1-B or is otherwise found to be in violation of this section 
+28
+through the administrative process applicable to the license held by the licensee, the unit 
+29
+or board, whichever is responsible for administering the license, shall revoke the licensee's 
+30
+license.
+31
+3. Ineligible for license. A person that is found to be in violation of this section is 
+32
+ineligible to receive a license described in section 1401, subsection 5.
+33
+Sec. 3.  17-A MRSA §954, sub-§1-B is enacted to read:
+34
+1-B.  A person is guilty of unlawful gambling if the person operates or promotes an 
+35
+online sweepstakes game or supports the operation or promotion of an online sweepstakes 
+36
+game. For the purposes of this subsection, "online sweepstakes game" has the same 
+37
+meaning as in Title 8, section 1401, subsection 6.
+
+Page 3 - 132LR2873(01)
+1
+SUMMARY
+2
+This bill clarifies that operating or promoting an online sweepstakes game constitutes 
+3
+"unlawful gambling" within the meaning of the Maine Criminal Code and establishes 
+4
+additional civil penalties related to that unlawful conduct. 
+5
+The bill impacts online games or contests that use a dual-currency system of payment 
+6
+and that simulate casino-style gaming, including, but not limited to, slot machines, poker 
+7
+and other table games, lottery games, bingo or sports wagering. "Dual-currency system of 
+8
+payment" refers to the practice of using more than one system of coins or tokens to facilitate 
+9
+game play and is further defined in the bill. 
+10
+The bill provides that a person that operates or promotes an online sweepstakes game 
+11
+is subject to a fine of not less than $10,000 and not more than $100,000. The bill requires 
+12
+that all fines collected be distributed to the Gambling Addiction Prevention and Treatment 
+13
+Fund.
+14
+Under the bill, if a person is found to operate or promote an online sweepstakes game 
+15
+and that person holds a license with the Gambling Control Unit or Gambling Control Board 
+16
+within the Department of Public Safety to operate certain gambling activities, the licensing 
+17
+entity must revoke that license. A person that violates the online sweepstakes games 
+18
+prohibition is also ineligible to receive one of the licenses specified by the bill.  
+2
+3
+4

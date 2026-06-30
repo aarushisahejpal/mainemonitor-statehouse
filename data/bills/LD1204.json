@@ -1,0 +1,341 @@
+{
+  "ld": 1204,
+  "paper": "SP0493",
+  "paper_display": "SP 493",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097631",
+  "title": "An Act to Support Direct Access Worker Employment by Removing Certain Employment Disqualifications",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 27, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/27/2025 - Reports READ . On motion of Representative MATHIESON of Kittery, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )",
+  "last_senate_action": "5/22/2025 - Taken from the table by the President ACCEPTANCE of the Majority Ought Not To Pass Report. PREVAILED Roll Call Ordered Roll Call Number 217 Yeas 28 - Nays 5 - Excused 2 - Absent 0 Ordered sent down forthwith for concurrence.",
+  "sponsors": [
+    {
+      "name": "Rachel TALBOT ROSS",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "David BOYER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Poland"
+    },
+    {
+      "name": "Quentin CHAPMAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "Billy Bob FAULKINGHAM",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Winter Harbor"
+    },
+    {
+      "name": "Craig HICKMAN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Kennebec"
+    },
+    {
+      "name": "Henry INGWERSEN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Arthur MINGO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Calais"
+    },
+    {
+      "name": "Jeffrey TIMBERLAKE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    },
+    {
+      "name": "Michael TIPPING",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Stephen WOOD",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Greene"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HEALTH CARE PERSONNEL",
+      "minor": "MEDICAL PROFESSIONALS",
+      "detail": "DIRECT CARE WORKERS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES suggested and ordered printed REFERENCE to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Reports READ Motion by Senator BAILEY of York to ACCEPT The Majority Ought Not To Pass Report. On motion by Senator STEWART of Aroostook Tabled until Later in Today's Session, pending ACCEPTANCE the Majority Ought Not To Pass Report. Roll Call Ordered Unfinished Business"
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President ACCEPTANCE of the Majority Ought Not To Pass Report. PREVAILED Roll Call Ordered Roll Call Number 217 Yeas 28 - Nays 5 - Excused 2 - Absent 0 Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MATHIESON of Kittery, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )"
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "217",
+      "date": "2025-05-22",
+      "date_raw": "May 22, 2025",
+      "motion": "ACCEPT MAJORITY OUGHT NOT TO PASS REPORT",
+      "outcome": "PREVAILS",
+      "yeas": 28,
+      "nays": 5,
+      "absent": 0,
+      "excused": 2,
+      "vacant": 0,
+      "yeas_required": 17,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "Y"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "E"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "E"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280097631&chamber=Senate&serialnumber=217"
+    }
+  ],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0493&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0493",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0493&SessionID=16",
+  "scraped_at": "2026-06-30T19:04:05Z"
+}

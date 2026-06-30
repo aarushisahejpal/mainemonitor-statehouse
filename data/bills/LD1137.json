@@ -1,0 +1,114 @@
+{
+  "ld": 1137,
+  "paper": "SP0467",
+  "paper_display": "SP 467",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097530",
+  "title": "An Act to Expand Landowner Liability Protections to Include Sport Shooting Ranges",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 6, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/6/2025 - Reports READ . On motion of Representative KUHN of Falmouth, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )",
+  "last_senate_action": "4/30/2025 - Reports Read On motion by Senator CARNEY of Cumberland the Majority Ought Not to Pass Report ACCEPTED . Sent down for concurrence",
+  "sponsors": [
+    {
+      "name": "Harold STEWART",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Donald ARDELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Monticello"
+    },
+    {
+      "name": "Richard BRADSTREET",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Kennebec"
+    },
+    {
+      "name": "Gary DRINKWATER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Milford"
+    },
+    {
+      "name": "Chad PERKINS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dover-Foxcroft"
+    },
+    {
+      "name": "Jeffrey TIMBERLAKE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "INSURANCE",
+      "minor": "CASUALTY",
+      "detail": "SHOOTING RANGES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "Senate",
+      "description": "Committee on JUDICIARY suggested and ordered printed REFERENCE to the Committee on JUDICIARY Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on JUDICIARY . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator CARNEY of Cumberland the Majority Ought Not to Pass Report ACCEPTED . Sent down for concurrence"
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative KUHN of Falmouth, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0467&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0467",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0467&SessionID=16",
+  "scraped_at": "2026-06-30T18:58:54Z"
+}

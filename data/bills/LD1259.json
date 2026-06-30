@@ -1,0 +1,148 @@
+{
+  "ld": 1259,
+  "paper": "HP0834",
+  "paper_display": "HP 834",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097780",
+  "title": "An Act to Enhance Public Safety in Maine by Defining the Relationship Between Local and Federal Law Enforcement",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 17, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/25/2025 - Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+  "last_senate_action": "3/17/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Ambureen RANA",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Mana ABDI",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lewiston"
+    },
+    {
+      "name": "Anne CARNEY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Kristen CLOUTIER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lewiston"
+    },
+    {
+      "name": "Deqa DHALAC",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    },
+    {
+      "name": "Amy KUHN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Falmouth"
+    },
+    {
+      "name": "Julia MCCABE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lewiston"
+    },
+    {
+      "name": "Melanie SACHS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Freeport"
+    },
+    {
+      "name": "Eleanor SATO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Gorham"
+    },
+    {
+      "name": "Rachel TALBOT ROSS",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "PUBLIC SAFETY DEPT",
+      "minor": "PROCEDURES",
+      "detail": "FEDERAL IMMIGRATION AUTHORITY"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "date_raw": "3/25/2025",
+      "chamber": "House",
+      "description": "Committee on Criminal Justice and Public Safety suggested and ordered printed. The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-25",
+      "date_raw": "3/25/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY in concurrence"
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative HASENFUS of Readfield, the Majority Refer to Another Committee Report was ACCEPTED . On further motion of Representative HASENFUS of Readfield the Bill was REFERRED to the Committee on JUDICIARY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-14",
+      "date_raw": "5/14/2025",
+      "chamber": "Senate",
+      "description": "Report READ On motion by Senator BEEBE-CENTER of Knox Bill and accompanying papers COMMITTED to the Committee on Judiciary in concurrence Ordered sent down forthwith"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0834&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0834",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0834&SessionID=16",
+  "scraped_at": "2026-06-30T19:08:12Z"
+}

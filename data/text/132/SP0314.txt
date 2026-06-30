@@ -1,0 +1,507 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 697
+S.P. 314
+In Senate, February 25, 2025
+An Act to Direct the Maine Prescription Drug Affordability Board 
+to Assess Strategies to Reduce Prescription Drug Costs and to Take 
+Steps to Implement Reference-based Pricing
+Received by the Secretary of the Senate on February 20, 2025.  Referred to the Committee 
+on Health Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator RENY of Lincoln.
+Cosponsored by Representative MATHIESON of Kittery and
+Senators: BAILEY of York, INGWERSEN of York, RAFFERTY of York, TEPLER of 
+Sagadahoc, Representative: MASTRACCIO of Sanford.
+
+Page 1 - 132LR0293(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA §2041, sub-§2, as repealed and replaced by PL 2021, c. 293, Pt. 
+3
+A, §5, is amended to read:
+4
+2.  Membership.    The board has 5 consists of 6 members with expertise in health 
+5
+policy, health care data, health care economics or clinical medicine, who may not be 
+6
+affiliated with or represent the interests of a pharmaceutical manufacturer or a public payor, 
+7
+as that term is defined in section 2042, and who are appointed as follows:
+8
+A.  Two members appointed by the President of the Senate. The President of the Senate 
+9
+shall also appoint one alternate board member who will participate in deliberations of 
+10
+the board in the event a member appointed by the President of the Senate elects to be 
+11
+recused as provided in subsection 7, paragraph B;
+12
+B.  Two members appointed by the Speaker of the House of Representatives. The 
+13
+Speaker of the House of Representatives shall also appoint one alternate board member 
+14
+who will participate in deliberations of the board in the event a member appointed by 
+15
+the Speaker of the House of Representatives elects to be recused as provided in 
+16
+subsection 7, paragraph B; and
+17
+C.  One member appointed by the Governor. The Governor shall also appoint one 
+18
+alternate board member who will participate in deliberations of the board in the event 
+19
+the member appointed by the Governor elects to be recused as provided in subsection 
+20
+7, paragraph B.; and
+21
+D.  The executive director of the Maine Health Data Organization established by Title 
+22
+22, section 8703, or the executive director's designee, who serves as an ex officio, 
+23
+nonvoting member.
+24
+Sec. 2.  5 MRSA §2041, sub-§9, as repealed and replaced by PL 2021, c. 293, Pt. 
+25
+A, §5, is amended to read:
+26
+9.  Compensation. A Except for the member under subsection 2, paragraph D, a 
+27
+member of the board and a member of the advisory council appointed pursuant to 
+28
+subsection 10, paragraph L are entitled to legislative per diem and reimbursement for 
+29
+expenses as provided in section 12004‑G, subsection 14‑I.
+30
+Sec. 3.  5 MRSA §2041, sub-§10, as repealed and replaced by PL 2021, c. 293, Pt. 
+31
+A, §5, is amended to read:
+32
+10.  Advisory council.    A 12-member advisory council is established to advise the 
+33
+board on establishing annual spending targets pursuant to section 2042, subsection 1 and 
+34
+determining methods for meeting those spending targets pursuant to section 2042, 
+35
+subsection 3. The advisory council consists of:
+36
+A.  The Governor or the governor's designee;
+37
+B.  The Commissioner of Administrative and Financial Services or the commissioner's 
+38
+designee;
+39
+C.  The Commissioner of Corrections or the commissioner's designee;
+40
+D.  The Commissioner of Health and Human Services or the commissioner's designee;
+41
+E.  The Attorney General or the Attorney General's designee;
+
+Page 2 - 132LR0293(01)
+1
+F.  The Executive Director of Employee Health and Benefits, within the Department 
+2
+of Administrative and Financial Services, Bureau of Human Resources, or the 
+3
+executive director's designee;
+4
+G.  A representative from the Maine State Service Employees Association, appointed 
+5
+by the Governor, based on a nomination by the association;
+6
+H.  A representative from the Maine Education Association, appointed by the 
+7
+Governor, based on a nomination by the association;
+8
+I.  A representative from the Maine Municipal Association, appointed by the Governor, 
+9
+based on a nomination by the association;
+10
+J.  A representative from the University of Maine System, appointed by the Governor, 
+11
+based on a nomination by the system;
+12
+K.  A representative from the Maine Community College System, appointed by the 
+13
+Governor, based on a nomination by the system; and
+14
+L.  A representative of consumer interests, appointed by the Governor, who serves a 
+15
+3‑year term.
+16
+Sec. 4.  5 MRSA §2041, sub-§12, as repealed and replaced by PL 2021, c. 293, Pt. 
+17
+A, §5, is repealed.
+18
+Sec. 5.  5 MRSA §2042, as repealed and replaced by PL 2021, c. 293, Pt. A, §5, is 
+19
+amended to read:
+20
+§2042.  Powers and duties of the board
+21
+The board has the following powers and duties.
+22
+1.  Prescription drug spending targets.    The board has the following powers and 
+23
+duties. For the purposes of this section, the term "public payor" means any division of state, 
+24
+county or municipal government that administers a health plan for employees of that 
+25
+division of state, county or municipal government or an association of state, county or 
+26
+municipal employers that administers a health plan for its employees, except for the 
+27
+MaineCare program.  The board shall:
+28
+A.  Beginning for the year 2021 and in consultation with the advisory council 
+29
+established under section 2041, subsection 10, determine annual spending targets for 
+30
+prescription drugs purchased by public payors based upon a 10-year rolling average of 
+31
+the medical care services component of the United States Department of Labor, Bureau 
+32
+of Labor Statistics Consumer Price Index medical care services index plus a reasonable 
+33
+percentage for inflation and minus a spending target determined by the board for 
+34
+pharmacy savings;
+35
+B.  Determine spending targets on specific prescription drugs that may cause 
+36
+affordability challenges to enrollees in a public payor health plan; and
+37
+C.  Determine which public payors are likely to exceed the spending targets determined 
+38
+under paragraph A.
+39
+1-A.  Strategies to reduce costs of prescription drugs.  The board shall:
+
+Page 3 - 132LR0293(01)
+1
+A.  Review prescription drug spending and utilization data to identify causes of high 
+2
+spending or rising spending affecting public payors and private payors and impacting 
+3
+consumers;
+4
+B.  Solicit public input to identify cost-related barriers to accessing prescription drugs; 
+5
+and
+6
+C.  Assess strategies to reduce the cost of prescription drugs and reduce the rate of 
+7
+growth in prescription drug spending and to reduce cost barriers for consumers. The 
+8
+review of strategies must include consideration of the strategies' likely impact on 
+9
+consumers and overall health care costs and the feasibility of implementing such 
+10
+strategies. At a minimum, the board shall assess the following strategies:
+11
+(1)  Empowering the board to assess the affordability of drugs and to establish 
+12
+upper payment limits;
+13
+(2)  Implementing reference-based pricing, including reviewing potential savings 
+14
+for the state employee group health plan under Title 5, section 285 by 
+15
+implementing reference-based pricing for the first 10 drugs negotiated under the 
+16
+Medicare drug price negotiation program established in United States Public Law 
+17
+117-169 (August 16, 2022);
+18
+(3)  Recommending annual spending targets for prescription drugs for public 
+19
+payors and implementing strategies for the purchase of prescription drugs by public 
+20
+payors in order to meet those annual spending targets, including group purchasing 
+21
+and formulary alignment.  For the purposes of this subsection, the term "public 
+22
+payor" means any division of state, county or municipal government that 
+23
+administers a health plan for employees of that division of state, county or 
+24
+municipal government or an association of state, county or municipal employers 
+25
+that administers a health plan for its employees, except for the MaineCare program;
+26
+(4)  Recommending annual spending targets for prescription drugs that could be 
+27
+applied to one or more segments of the state-regulated commercial insurance 
+28
+market and implementing strategies to meet those annual spending targets;
+29
+(5)  Implementing transparency requirements and regulation of supply chain 
+30
+entities, including, but not limited to, pharmacy benefits managers, including 
+31
+regarding the role of discounts and rebates in prescription drug costs;
+32
+(6)  Implementing strategies to reduce out-of-pocket costs for prescription drugs 
+33
+through the regulation of insurance and the rate review process of the Department 
+34
+of Professional and Financial Regulation, Bureau of Insurance;
+35
+(7)  Developing opportunities for engagement with providers and other health care 
+36
+professionals to disseminate information about prescription drug costs and pricing; 
+37
+and
+38
+(8)  Aligning the payment for prescription drugs with actual drug acquisition costs.
+39
+1-B.  Other states' experiences.  To accomplish the duties under subsection 1-A, the 
+40
+board shall consider and review the experiences of other states, including, but not limited 
+41
+to, the role of prescription drug affordability boards established in other states that are 
+42
+authorized to assess affordability of prescription drugs and to establish upper payment 
+
+Page 4 - 132LR0293(01)
+43
+limits or reference-based pricing requirements and their regulation of pharmacy benefits 
+44
+managers.
+3
+2.  Prescription drug spending data.    The board may consider the following data to 
+4
+accomplish its duties under this section:
+5
+A.  A public payor's prescription Prescription drug spending data, which the not 
+6
+available through the Maine Health Data Organization. The board may request data 
+7
+under this paragraph from 3rd‑party administrator administrators or insurer for the 
+8
+public payor's health plan shall provide to the board on behalf of the public payor upon 
+9
+request insurers notwithstanding any provision of law to the contrary, including:
+10
+(1)  Expenditures and utilization data for prescription drugs for each plan offered 
+11
+by a public payor;
+12
+(2)  The formulary for each plan offered by a public payor and prescription drugs 
+13
+common to each formulary;
+14
+(3)  Pharmacy benefit management benefits manager services and other 
+15
+administrative expenses of the prescription drug benefit for each plan offered by a 
+16
+public payor; and
+17
+(4)  Enrollee cost sharing for each plan offered by a public payor and other 
+18
+available information regarding costs to consumers, including premiums and out-
+19
+of-pocket costs; and
+20
+B.  Data compiled by the Maine Health Data Organization under Title 22, chapter 1683.
+21
+Prescription drug spending data provided to the board and its staff under this subsection is 
+22
+confidential to the same extent it is confidential while in the custody of the entity that 
+23
+provided the data to the board.
+24
+3.  Recommendations.  Based upon the prescription drug spending data received under 
+25
+subsection 2, the board, in consultation with a representative of each public payor identified 
+26
+under subsection 1, paragraph A, shall determine methods for the public payor to meet the 
+27
+spending targets established under subsection 1. The board shall determine whether the 
+28
+following methods reduce costs to individuals purchasing prescription drugs through a 
+29
+public payor and allow public payors to meet the spending targets established under 
+30
+subsection 1:
+31
+A.  Negotiating specific rebate amounts on the prescription drugs that contribute most 
+32
+to spending that exceeds the spending targets;
+33
+B.  Changing a formulary when sufficient rebates cannot be secured under paragraph 
+34
+A;
+35
+C.  Changing a formulary with respect to all of the prescription drugs of a manufacturer 
+36
+within a formulary when sufficient rebates cannot be secured under paragraph A;
+37
+D.  Establishing a common prescription drug formulary for all public payors;
+38
+E.  Prohibiting health insurance carriers in the State from offering on their formularies 
+39
+a prescription drug or any of the prescription drugs manufactured by a particular 
+40
+manufacturer when the methods described in paragraph B or C are implemented;
+41
+F.  Purchasing prescription drugs in bulk or through a single purchasing agreement for 
+42
+use among public payors;
+1
+2
+
+Page 5 - 132LR0293(01)
+1
+G.  Collaborating with other states and state prescription drug purchasing consortia to 
+2
+purchase prescription drugs in bulk or to jointly negotiate rebates;
+3
+H.  Allowing health insurance carriers providing coverage to small businesses and 
+4
+individuals in the State to participate in the public payor prescription drug benefit for 
+5
+a fee;
+6
+I.  Procuring common expert services for public payors, including but not limited to 
+7
+pharmacy benefit management services and actuarial services; and
+8
+J.  Any other method the board may determine.
+9
+4.  Report.   The board shall report its any recommendations, including prescription 
+10
+drug spending targets, and the progress of implementing those recommendations regarding 
+11
+strategies to reduce the cost of prescription drugs, other states' experiences and prescription 
+12
+drug spending data to the joint standing committee of the Legislature having jurisdiction 
+13
+over health coverage and insurance matters no later than October 1, 2020 and on January 
+14
+30th annually thereafter. The joint standing committee may report out legislation based 
+15
+upon the report.
+16
+5.  Rulemaking.  The board may adopt rules to carry out the purposes of this chapter. 
+17
+Rules adopted pursuant to this subsection are routine technical rules as defined by chapter 
+18
+375, subchapter 2-A.
+19
+Sec. 6.  Affordability program.  The Maine Prescription Drug Affordability Board 
+20
+established under the Maine Revised Statutes, Title 5, section 2041, referred to in this 
+21
+section as "the board," in consultation with its advisory council established under Title 5, 
+22
+section 2041, subsection 10 and any technical committees the board may establish, shall 
+23
+develop a program to reduce the impact of prescription drug costs on the State's health care 
+24
+system, stem the rate of growth in prescription drug spending and reduce cost barriers for 
+25
+consumers. The program must be based on the prescription drug spending data received 
+26
+under Title 5, section 2042, subsection 2 and the assessment conducted under Title 5, 
+27
+section 2042, subsections 1-A and 1-B, include recommended implementation and 
+28
+enforcement strategies and identify necessary funding and regulatory and legislative 
+29
+authority.
+30
+1.  The board shall adopt and submit a preliminary plan for a prescription drug 
+31
+affordability program in its annual report due by January 30, 2026 pursuant to the Maine 
+32
+Revised Statutes, Title 5, section 2042, subsection 4 to the Joint Standing Committee on 
+33
+Health Coverage, Insurance and Financial Services.  The preliminary plan must include 
+34
+any proposals for legislative action needed to implement the program.  The joint standing 
+35
+committee may report out legislation based upon the report to the 133rd Legislature in 
+36
+2027.
+37
+2.  The board shall adopt and submit its final plan for a prescription drug affordability 
+38
+program in a report to the joint standing committee of the Legislature having jurisdiction 
+39
+over health coverage, insurance and financial services matters by October 1, 2027.  The 
+40
+final plan must include any proposals for legislative action needed to implement the 
+41
+program.  The joint standing committee may report out legislation based upon the report to 
+42
+the Second Regular Session of the 133rd Legislature.
+
+Page 6 - 132LR0293(01)
+1
+SUMMARY
+2
+This bill makes the following changes to the laws governing the Maine Prescription 
+3
+Drug Affordability Board.
+4
+1. It adds to the board the executive director of the Maine Health Data Organization, 
+5
+or the executive director's designee, as an ex officio, nonvoting member.
+6
+2. It removes the authority of the board to recommend that public payors pay an annual 
+7
+assessment to support the administration of the board.
+8
+3. It changes the scope of the duties of the board from determining prescription drug 
+9
+spending targets to focusing on an assessment of strategies to reduce prescription drug 
+10
+costs, reduce the rate of growth in prescription drug spending and reduce cost barriers for 
+11
+consumers.
+12
+4. It requires the board to review how states with authority to establish upper payment 
+13
+limits have implemented that authority and their regulation of pharmacy benefits managers, 
+14
+to recommend whether the board should have comparable authority and to assess 
+15
+implementing reference-based pricing for the first 10 prescription drugs for which the 
+16
+Medicare program has negotiated maximum fair prices through the Medicare drug price 
+17
+negotiation program.
+18
+5. It requires the board to recommend annual spending targets for prescription drugs 
+19
+for public payors and implementing complementary purchasing strategies; annual spending 
+20
+targets and strategies for the commercial insurance market; transparency requirements and 
+21
+supply chain regulation; strategies to reduce out-of-pocket costs through insurance 
+22
+regulation; and aligning prescription drug payment with acquisition costs.
+23
+The bill also directs the board to recommend a program to reduce the impact of 
+24
+prescription drug costs on the State's health care system, stem the rate of growth in 
+25
+prescription drug spending and reduce cost barriers for consumers based on data the board 
+26
+has collected.  The board is directed to submit in reports to the joint standing committee of 
+27
+the Legislature having jurisdiction over health coverage, insurance and financial services 
+28
+matters a preliminary plan to implement the program by January 30, 2026 and a final plan 
+29
+by October 1, 2027.  The joint standing committee is authorized to report out legislation 
+30
+based on the reports.
+2
+3

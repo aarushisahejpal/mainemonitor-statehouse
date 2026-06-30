@@ -1,0 +1,104 @@
+{
+  "ld": 1025,
+  "paper": "SP0443",
+  "paper_display": "SP 443",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097391",
+  "title": "An Act to Allow Federal Civil Service to Count for Purposes of Maine Public Employees Retirement System Benefits",
+  "committee": "Labor",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 9, 2025",
+  "governor_action": "Signed, Jun 9, 2025",
+  "chaptered_law": "ACTPUB, Chapter 206",
+  "chapter": "206",
+  "became_law": true,
+  "last_house_action": "5/29/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/2/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Matthew HARRINGTON",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE RETIREMENT SYSTEM",
+      "minor": "BENEFITS",
+      "detail": "FEDERAL CIVIL SERVICE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-12",
+      "date_raw": "3/12/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on March 12, 2025 and REFERRED to the Committee on LABOR pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE . Committee Amendment \"A\" (S-145) READ and ADOPTED . Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-145) . Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-145) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-145 )",
+      "new_title": "",
+      "house_action": "Adopted on 5/28/2025",
+      "senate_action": "Adopted on 5/27/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0443&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0443&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0443&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0443",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0443&SessionID=16",
+  "scraped_at": "2026-06-30T18:49:48Z"
+}

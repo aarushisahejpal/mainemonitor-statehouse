@@ -1,0 +1,108 @@
+{
+  "ld": 1460,
+  "paper": "HP0952",
+  "paper_display": "HP 952",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098176",
+  "title": "An Act to Require Parents to Be Informed of Hospitals' Safe Sleep Rules",
+  "committee": "Health and Human Services",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Jun 9, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/5/2025 - Reports READ . On motion of Representative MEYER of Eliot, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/9/2025 - Reports READ. On motion by Senator INGWERSEN of York The Majority Ought Not To Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "John EDER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterboro"
+    },
+    {
+      "name": "Abigail GRIFFIN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Levant"
+    },
+    {
+      "name": "Kathy JAVNER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Chester"
+    },
+    {
+      "name": "William TUELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "East Machias"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HEALTH CARE FACILITIES",
+      "minor": "HOSPITALS",
+      "detail": "SAFE SLEEP RULES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-03",
+      "date_raw": "4/3/2025",
+      "chamber": "House",
+      "description": "Committee on Health and Human Services suggested and ordered printed. The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES in concurrence"
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MEYER of Eliot, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "Reports READ. On motion by Senator INGWERSEN of York The Majority Ought Not To Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-503 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0952&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0952&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0952",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0952&SessionID=16",
+  "scraped_at": "2026-06-30T19:23:15Z"
+}

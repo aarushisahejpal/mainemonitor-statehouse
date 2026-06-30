@@ -1,0 +1,128 @@
+{
+  "ld": 1504,
+  "paper": "HP0988",
+  "paper_display": "HP 988",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098275",
+  "title": "An Act to Support Small Businesses by Providing a Refundable Tax Credit to Certain Businesses to Offset Credit and Debit Card Transaction Fees",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 27, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/13/2025 - Representative CLOUTIER from the Committee on TAXATION Reporting that the Bill be REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/27/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Wayne FARRIN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Jefferson"
+    },
+    {
+      "name": "W. CROCKETT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Paul FLYNN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Albion"
+    },
+    {
+      "name": "Cameron RENY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Lincoln"
+    },
+    {
+      "name": "David ROLLINS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Augusta"
+    },
+    {
+      "name": "Abden SIMMONS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waldoboro"
+    },
+    {
+      "name": "Holly STOVER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Boothbay"
+    },
+    {
+      "name": "Parnell TERRY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Gorham"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "INCOME TAX",
+      "minor": "CREDITS",
+      "detail": "SMALL BUSINESSES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "House",
+      "description": "Committee on Taxation suggested and ordered printed. The Bill was REFERRED to the Committee on TAXATION . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on TAXATION in concurrence"
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "House",
+      "description": "Representative CLOUTIER from the Committee on TAXATION Reporting that the Bill be REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES in concurrence"
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0988&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0988",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0988&SessionID=16",
+  "scraped_at": "2026-06-30T19:26:29Z"
+}

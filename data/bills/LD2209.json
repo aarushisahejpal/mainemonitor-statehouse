@@ -1,0 +1,297 @@
+{
+  "ld": 2209,
+  "paper": "HP1488",
+  "paper_display": "HP 1488",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101546",
+  "title": "Resolve, to Direct the Department of Health and Human Services to Develop Innovative Models for the Delivery of Dental Services to Expand Access to Oral Health Care Throughout the State",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Finally Passed, Apr 11, 2026",
+  "governor_action": "Unsigned, Apr 11, 2026",
+  "chaptered_law": "RESLV, Chapter 156",
+  "chapter": "156",
+  "became_law": true,
+  "last_house_action": "3/26/2026 - FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/30/2026 - FINALLY PASSED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Kristi MATHIESON",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kittery"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HEALTH CARE SERVICES",
+      "minor": "DELIVERY",
+      "detail": "DENTAL SERVICES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "date_raw": "2/10/2026",
+      "chamber": "House",
+      "description": "Representative MATHIESON for the Joint Standing Committee on Health Coverage, Insurance and Financial Services pursuant to Resolve 2025, chapter 107, section 8 reports that the Resolve be REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES and printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Resolve was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-02-10",
+      "date_raw": "2/10/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. On motion by Senator Bailey of York REFERRED to Committee on Health Coverage, Insurance and Financial Services, in concurrence."
+    },
+    {
+      "date": "2026-03-24",
+      "date_raw": "3/24/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MATHIESON of Kittery, the Majority Ought to Pass as Amended Report was ACCEPTED . The Resolve was READ ONCE . Committee Amendment \"A\" (H-872) was READ and ADOPTED . Under suspension of the rules, the Resolve was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Resolve was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-872) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-25",
+      "date_raw": "3/25/2026",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator BAILEY of York the Majority Ought to Pass as Amended Report ACCEPTED . Roll Call Ordered Roll Call Number 792 Yeas 22 - Nays 13 - Excused 0 - Absent 0 Bill READ ONCE. Committee Amendment \"A\" (H-872) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-872) in concurrence."
+    },
+    {
+      "date": "2026-03-26",
+      "date_raw": "3/26/2026",
+      "chamber": "House",
+      "description": "FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-30",
+      "date_raw": "3/30/2026",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED , in concurrence."
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "792",
+      "date": "2026-03-25",
+      "date_raw": "March 25, 2026",
+      "motion": "ACCEPT MAJORITY OUGHT TO PASS AS AMENDED REPORT",
+      "outcome": "PREVAILS",
+      "yeas": 22,
+      "nays": 13,
+      "absent": 0,
+      "excused": 0,
+      "vacant": 0,
+      "yeas_required": 18,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "Y"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280101546&chamber=Senate&serialnumber=792"
+    }
+  ],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-872 )",
+      "new_title": "",
+      "house_action": "Adopted on 3/24/2026",
+      "senate_action": "Adopted on 3/25/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1488&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1488&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1488&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1488",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1488&SessionID=16",
+  "scraped_at": "2026-06-30T20:22:06Z"
+}

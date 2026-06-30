@@ -1,0 +1,178 @@
+{
+  "ld": 1114,
+  "paper": "HP0733",
+  "paper_display": "HP 733",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097586",
+  "title": "An Act to Provide That Spouses and Children of Corrections Officers Who Die in the Line of Duty Receive a Pension",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Died Between Houses, Jun 16, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/16/2025 - The House INSISTED on PASSAGE TO BE ENACTED . ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/16/2025 - On motion by Senator PIERCE of Cumberland The Senate INSISTED on FAILED ENACTMENT. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Suzanne SALISBURY",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    },
+    {
+      "name": "Anne BEEBE-CENTER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Knox"
+    },
+    {
+      "name": "Matthew HARRINGTON",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Craig HICKMAN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Kennebec"
+    },
+    {
+      "name": "Wayne PARRY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Arundel"
+    },
+    {
+      "name": "Chad PERKINS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dover-Foxcroft"
+    },
+    {
+      "name": "Parnell TERRY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Gorham"
+    },
+    {
+      "name": "James WHITE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Guilford"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CORRECTIONS DEPT",
+      "minor": "ADMINISTRATION",
+      "detail": "DEATH BENEFITS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "House",
+      "description": "Committee on LABOR suggested and ordered printed. On motion of Representative ROEDER of Bangor, the Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-597) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-597) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-597), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "House",
+      "description": "In accordance with the provisions of Section 21 of Article IX of the Constitution, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-11",
+      "date_raw": "6/11/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator STEWART of Aroostook Tabled until Later in Today's Session, pending PASSAGE TO BE ENACTED - 2/3 Elected Required, in concurrence. Unfinished Business"
+    },
+    {
+      "date": "2025-06-13",
+      "date_raw": "6/13/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-13",
+      "date_raw": "6/13/2025",
+      "chamber": "Senate",
+      "description": "TAKEN from the Table by the President. ENACTMENT - 2/3 Elected Required. FAILED In NON-CONCURRENCE Sent down for concurrence"
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "House",
+      "description": "The House INSISTED on PASSAGE TO BE ENACTED . ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland The Senate INSISTED on FAILED ENACTMENT. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-597 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/9/2025",
+      "senate_action": "Adopted on 6/10/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0733&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0733&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0733",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0733&SessionID=16",
+  "scraped_at": "2026-06-30T18:56:31Z"
+}

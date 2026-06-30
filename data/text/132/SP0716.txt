@@ -1,0 +1,267 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1834
+S.P. 716
+In Senate, April 30, 2025
+An Act to Allow Dental Care Providers to Opt In to Receive Claim 
+Reimbursement Payments Made by Virtual Credit Cards
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BALDACCI of Penobscot.
+
+Page 1 - 132LR1972(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  24-A MRSA §2770-A is enacted to read:
+3
+§2770-A.  Credit card and other payment methods to dental care providers
+4
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings.
+6
+A. "Automated clearing house network" or "ACH" means a nationwide system that 
+7
+facilitates electronic transfers of funds between bank accounts.
+8
+B. "Dental care provider" means a person licensed under Title 32, chapter 143, 
+9
+subchapter 3.
+10
+2.  Credit card and other payment methods to dental care providers.  An insurer 
+11
+that issues individual health insurance policies and contracts may pay a claim for 
+12
+reimbursement to a dental care provider by credit card, automatic clearing house network 
+13
+or other similar electronic payment method that imposes on the provider a fee or similar 
+14
+charge to process the payment if, prior to payment: 
+15
+A. The insurer notifies the dental care provider of the fee or other charge associated 
+16
+with the use of the payment method; 
+17
+B. The insurer offers the dental care provider an alternative payment method that does 
+18
+not impose a fee or similar charge to process the payment; and
+19
+C. The dental care provider or a designee of the provider elects to accept payment of 
+20
+the claim for reimbursement using the payment method under paragraph A. 
+21
+3.  Third-party vendor.  If an insurer under subsection 2 contracts with a 3rd-party 
+22
+vendor to process a payment under subsection 2, the insurer shall require the vendor to 
+23
+comply with subsection 2, paragraph A. 
+24
+4.  Opt-out.  If a dental care provider who has elected to accept payment under 
+25
+subsection 2, paragraph C opts out of the election, the insurer may not pay a claim for 
+26
+reimbursement to the dental care provider with a payment method under subsection 2 
+27
+unless the dental care provider subsequently elects to accept payment by that method under 
+28
+subsection 2, paragraph C. 
+29
+Sec. 2.  24-A MRSA §2847-X is enacted to read:
+30
+§2847-X.  Credit card and other payment methods to dental care providers
+31
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+32
+following terms have the following meanings.
+33
+A. "Automated clearing house network" or "ACH" means a nationwide system that 
+34
+facilitates electronic transfers of funds between bank accounts.
+35
+B. "Dental care provider" means a person licensed under Title 32, chapter 143, 
+36
+subchapter 3.
+37
+2.  Credit card and other payment methods to dental care providers.  An insurer 
+38
+that issues group health insurance policies and contracts may pay a claim for 
+39
+reimbursement to a dental care provider by credit card, automatic clearing house network 
+
+Page 2 - 132LR1972(01)
+40
+or other similar electronic payment method that imposes on the provider a fee or similar 
+41
+charge to process the payment if, prior to payment: 
+3
+A. The insurer notifies the dental care provider of the fee or other charge associated 
+4
+with the use of the payment method; 
+5
+B. The insurer offers the dental care provider an alternative payment method that does 
+6
+not impose a fee or similar charge to process the payment; and
+7
+C. The dental care provider or a designee of the provider elects to accept payment of 
+8
+the claim for reimbursement using the payment method under paragraph A. 
+9
+3.  Third-party vendor.  If an insurer under subsection 2 contracts with a 3rd-party 
+10
+vendor to process a payment under subsection 2, the insurer shall require the vendor to 
+11
+comply with subsection 2, paragraph A. 
+12
+4.  Opt-out.  If a dental care provider who has elected to accept payment under 
+13
+subsection 2, paragraph C opts out of the election, the insurer may not pay a claim for 
+14
+reimbursement to the dental care provider with a payment method under subsection 2 
+15
+unless the dental care provider subsequently elects to accept payment by that method under 
+16
+subsection 2, paragraph C. 
+17
+Sec. 3.  24-A MRSA §4261 is enacted to read:
+18
+§4261.  Credit card and other payment methods to dental care providers
+19
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+20
+following terms have the following meanings.
+21
+A. "Automated clearing house network" or "ACH" means a nationwide system that 
+22
+facilitates electronic transfers of funds between bank accounts.
+23
+B. "Dental care provider" means a person licensed under Title 32, chapter 143, 
+24
+subchapter 3.
+25
+2.  Credit card and other payment methods to dental care providers.  A health 
+26
+maintenance organization that issues group health insurance policies and contracts may pay 
+27
+a claim for reimbursement to a dental care provider by credit card, automatic clearing house 
+28
+network or other similar electronic payment method that imposes on the provider a fee or 
+29
+similar charge to process the payment if, prior to payment: 
+30
+A. The health maintenance organization notifies the dental care provider of the fee or 
+31
+other charge associated with the use of the payment method; 
+32
+B. The health maintenance organization offers the dental care provider an alternative 
+33
+payment method that does not impose a fee or similar charge to process the payment; 
+34
+and
+35
+C. The dental care provider or a designee of the provider elects to accept payment of 
+36
+the claim for reimbursement using the payment method under paragraph A. 
+37
+3.  Third-party vendor.  If a health maintenance organization under subsection 2 
+38
+contracts with a 3rd-party vendor to process a payment under subsection 2, the health 
+39
+maintenance organization shall require the vendor to comply with subsection 2, paragraph 
+40
+A. 
+1
+2
+
+Page 3 - 132LR1972(01)
+1
+4.  Opt-out.  If a dental care provider who has elected to accept payment under 
+2
+subsection 2, paragraph C opts out of the election, the health maintenance organization may 
+3
+not pay a claim for reimbursement to the dental care provider with a payment method under 
+4
+subsection 2 unless the dental care provider subsequently elects to accept payment by that 
+5
+method under subsection 2, paragraph C. 
+6
+Sec. 4.  24-A MRSA §4320-W is enacted to read:
+7
+§4320-W.  Credit card and other payment methods to dental care providers
+8
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+9
+following terms have the following meanings.
+10
+A. "Automated clearing house network" or "ACH" means a nationwide system that 
+11
+facilitates electronic transfers of funds between bank accounts.
+12
+B. "Dental care provider" means a person licensed under Title 32, chapter 143, 
+13
+subchapter 3.
+14
+2.  Credit card and other payment methods to dental care providers.  A carrier that 
+15
+issues group health insurance policies and contracts may pay a claim for reimbursement to 
+16
+a dental care provider by credit card, automatic clearing house network or other similar 
+17
+electronic payment method that imposes on the provider a fee or similar charge to process 
+18
+the payment if, prior to payment: 
+19
+A. The carrier notifies the dental care provider of the fee or other charge associated 
+20
+with the use of the payment method; 
+21
+B. The carrier offers the dental care provider an alternative payment method that does 
+22
+not impose a fee or similar charge to process the payment; and
+23
+C. The dental care provider or a designee of the provider elects to accept payment of 
+24
+the claim for reimbursement using the payment method under paragraph A. 
+25
+3.  Third-party vendor.  If a carrier under subsection 2 contracts with a 3rd-party 
+26
+vendor to process a payment under subsection 2, the carrier shall require the vendor to 
+27
+comply with subsection 2, paragraph A. 
+28
+4.  Opt-out.  If a dental care provider who has elected to accept payment under 
+29
+subsection 2, paragraph C opts out of the election, the carrier may not pay a claim for 
+30
+reimbursement to the dental care provider with a payment method under subsection 2 
+31
+unless the dental care provider subsequently elects to accept payment by that method under 
+32
+subsection 2, paragraph C. 
+33
+SUMMARY
+34
+This bill allows insurers of individual and group health insurance policies, health 
+35
+maintenance organizations and insurance carriers to pay claims for reimbursement to dental 
+36
+care providers by credit card, automated clearing house network or other similar electronic 
+37
+payment methods that charge a fee or other similar charge to process the payment if the 
+38
+insurer informs the dental care provider of the fee or similar charge prior to payment, the 
+39
+insurer offers an alternative payment method that does not charge a fee or similar charge 
+40
+and the dental care provider agrees to accept payment by that payment method.
+34
+35
+36
+37
+38
+39
+40

@@ -1,0 +1,121 @@
+{
+  "ld": 836,
+  "paper": "SP0369",
+  "paper_display": "SP 369",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097060",
+  "title": "An Act to Authorize a General Fund Bond Issue to Upgrade Municipal Culverts at Stream Crossings",
+  "committee": "Appropriations and Financial Affairs",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Apr 29, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/4/2025 - The Bill was REFERRED to the Committee on APPROPRIATIONS AND FINANCIAL AFFAIRS . In concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/29/2026 - Died in Possession of the Committee Upon Conclusion of the 132nd Legislature and PLACED IN THE LEGISLATIVE FILES ( DEAD ).",
+  "sponsors": [
+    {
+      "name": "Matthea DAUGHTRY",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "President",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Russell BLACK",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Franklin"
+    },
+    {
+      "name": "Lydia CRAFTS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Newcastle"
+    },
+    {
+      "name": "Bradlee FARRIN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Somerset"
+    },
+    {
+      "name": "Timothy NANGLE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "D. RAY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lincolnville"
+    },
+    {
+      "name": "Denise TEPLER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Sagadahoc"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "BOND ISSUES",
+      "minor": "TRANSPORTATION",
+      "detail": "MUNICIPAL CULVERTS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "Senate",
+      "description": "Committee on APPROPRIATIONS AND FINANCIAL AFFAIRS suggested and ordered printed REFERENCE to the Committee on APPROPRIATIONS AND FINANCIAL AFFAIRS Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on APPROPRIATIONS AND FINANCIAL AFFAIRS . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-04-29",
+      "date_raw": "4/29/2026",
+      "chamber": "Senate",
+      "description": "Died in Possession of the Committee Upon Conclusion of the 132nd Legislature and PLACED IN THE LEGISLATIVE FILES ( DEAD )."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0369&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0369",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0369&SessionID=16",
+  "scraped_at": "2026-06-30T18:35:34Z"
+}

@@ -1,0 +1,309 @@
+{
+  "ld": 271,
+  "paper": "HP0174",
+  "paper_display": "HP 174",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095969",
+  "title": "Resolve, Regarding Legislative Review of Chapter 12:  Fees for Kickboxing Contests and Authorized Participants, a Major Substantive Rule of the Combat Sports Authority of Maine",
+  "committee": "Housing and Economic Development",
+  "status_summary": "",
+  "final_disposition": "Emergency Finally Passed, May 2, 2025",
+  "governor_action": "Emergency Signed, May 2, 2025",
+  "chaptered_law": "RESLV, Chapter 23",
+  "chapter": "23",
+  "became_law": true,
+  "last_house_action": "4/15/2025 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/29/2025 - Taken from the table by the President Subsequently, the Resolve was FINALLY PASSED - Emergency 2/3 Elected Required in concurrence",
+  "sponsors": [
+    {
+      "name": "Traci GERE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunkport"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LICENSING",
+      "minor": "INDUSTRIES",
+      "detail": "COMBAT SPORTS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "date_raw": "1/23/2025",
+      "chamber": "House",
+      "description": "Reported by Representative GERE for the Combat Sports Authority of Maine pursuant to the Maine Revised Statutes, Title 5, section 8072. Received by the Clerk of the House on January 23, 2025. The Resolve was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT pursuant to Joint Rule 308.2 and ordered printed."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Resolve was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-38) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-38) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-38), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-04-15",
+      "date_raw": "4/15/2025",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending FINAL PASSAGE - Emergency -2/3 Elected Required"
+    },
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "Senate",
+      "description": "TAKEN from the Special Appropriations Table by Senator ROTUNDO of Androscoggin. On motion by Senator BENNETT of Oxford Tabled until Later in Today's Session, pending FINAL PASSAGE - Emergency 2/3 Elected Required in concurrence Roll Call Ordered"
+    },
+    {
+      "date": "2025-04-29",
+      "date_raw": "4/29/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President Subsequently, the Resolve was FINALLY PASSED - Emergency 2/3 Elected Required in concurrence"
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "130",
+      "date": "2025-04-29",
+      "date_raw": "April 29, 2025",
+      "motion": "FINAL PASSAGE-EMERGENCY 2/3 ELECTED",
+      "outcome": "PREVAILS",
+      "yeas": 31,
+      "nays": 2,
+      "absent": 0,
+      "excused": 2,
+      "vacant": 0,
+      "yeas_required": 24,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "Y"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "E"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "E"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280095969&chamber=Senate&serialnumber=130"
+    }
+  ],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-38 )",
+      "new_title": "",
+      "house_action": "Adopted on 4/8/2025",
+      "senate_action": "Adopted on 4/10/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0174&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0174&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0174&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0174",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0174&SessionID=16",
+  "scraped_at": "2026-06-30T17:50:59Z"
+}

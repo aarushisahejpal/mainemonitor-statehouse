@@ -1,0 +1,167 @@
+{
+  "ld": 1332,
+  "paper": "HP0867",
+  "paper_display": "HP 867",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097871",
+  "title": "An Act to Establish the Community Schools Success Fund to Ensure the Implementation and Success of Community Schools Programs",
+  "committee": "Education and Cultural Affairs",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 22, 2025",
+  "governor_action": "Unsigned, Jun 22, 2025",
+  "chaptered_law": "ACTPUB, Chapter 410",
+  "chapter": "410",
+  "became_law": true,
+  "last_house_action": "6/10/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/10/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Kelly MURPHY",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Scarborough"
+    },
+    {
+      "name": "Kristen CLOUTIER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lewiston"
+    },
+    {
+      "name": "Lydia CRAFTS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Newcastle"
+    },
+    {
+      "name": "Deqa DHALAC",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    },
+    {
+      "name": "Janice DODGE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Belfast"
+    },
+    {
+      "name": "Amy KUHN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Falmouth"
+    },
+    {
+      "name": "Adam LEE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "Teresa PIERCE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Joseph RAFFERTY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Margaret ROTUNDO",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "EDUCATIONAL OPTIONS",
+      "minor": "COMMUNITY SCHOOLS",
+      "detail": "FUNDING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-27",
+      "date_raw": "3/27/2025",
+      "chamber": "House",
+      "description": "Committee on Education and Cultural Affairs suggested and ordered printed. The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-27",
+      "date_raw": "3/27/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS in concurrence"
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MURPHY of Scarborough, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-517) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-517) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator RAFFERTY of York the Majority Ought to Pass as Amended Report ACCEPTED . Bill READ ONCE. Committee Amendment \"A\" (H-517) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-517) in concurrence."
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-517 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/9/2025",
+      "senate_action": "Adopted on 6/9/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0867&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0867&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0867&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0867",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0867&SessionID=16",
+  "scraped_at": "2026-06-30T19:13:47Z"
+}

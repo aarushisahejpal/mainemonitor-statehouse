@@ -1,0 +1,416 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1971
+H.P. 1315
+House of Representatives, May 13, 2025
+An Act to Protect Workers in This State by Clarifying the 
+Relationship of State and Local Law Enforcement Agencies with 
+Federal Immigration Authorities
+Reference to the Committee on Judiciary suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative DHALAC of South Portland.
+Cosponsored by Senator TALBOT ROSS of Cumberland and
+Representatives: ABDI of Lewiston, DEBRITO of Waterville, HASENFUS of Readfield, LEE 
+of Auburn, MACIAS of Topsham, RANA of Bangor, SATO of Gorham, YUSUF of Portland.
+
+Page 1 - 132LR0978(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA c. 337-E is enacted to read:
+3
+CHAPTER 337-E
+4
+IMMIGRATION
+5
+§4761. Definitions
+6
+As used in this chapter, unless the context otherwise indicates, the following terms 
+7
+have the following meanings.
+8
+1. Civil immigration warrant. "Civil immigration warrant" means a warrant for a 
+9
+violation of federal civil immigration law.
+10
+2. Department of Homeland Security. "Department of Homeland Security" means 
+11
+the United States Department of Homeland Security, or its successor agency, and any of 
+12
+its component agencies, including the United States Immigration and Customs 
+13
+Enforcement and the United States Customs and Border Protection.
+14
+3. Hold request. "Hold request" means a request issued by an immigration authority 
+15
+to a local law enforcement agency, including an immigration detainer, that the law 
+16
+enforcement agency maintain custody of a person in the law enforcement agency's custody 
+17
+beyond the time the person would otherwise be eligible for release in order to facilitate 
+18
+transfer to the immigration authority.
+19
+4. Immigration authority. "Immigration authority" means a federal, state or local 
+20
+officer, employee or other person performing immigration enforcement functions, 
+21
+including the Department of Homeland Security.
+22
+5. Immigration detainer. "Immigration detainer" means a written request, including 
+23
+a civil or administrative warrant, issued on behalf of the Department of Homeland Security 
+24
+to a federal, state or local law enforcement agency to provide notice of release of and to 
+25
+detain an individual based on an inquiry into immigration status or an alleged violation of 
+26
+a civil immigration law, including detainers issued pursuant to 8 Code of Federal 
+27
+Regulations, Section 287.7 or 236.1, or on a Department of Homeland Security form 
+28
+requesting voluntary notification of a pending release of a person identified by the 
+29
+Department of Homeland Security as a suspected priority alien or requesting a law 
+30
+enforcement agency to voluntarily take action to maintain custody of a detained person.
+31
+6. Immigration enforcement. "Immigration enforcement" means any effort to 
+32
+investigate, enforce or assist in the investigation or enforcement of any federal civil 
+33
+immigration law and includes any effort to investigate, enforce or assist in the investigation 
+34
+or enforcement of any violations of Title 8 of the United States Code.
+35
+7. Inmate. "Inmate" means an individual in the custody of a law enforcement agency.
+36
+8. Law enforcement agency. "Law enforcement agency" means an agency in the State, 
+37
+including an employee or agent of the agency, charged with enforcement of state, county 
+38
+or municipal laws or with managing custody of detained persons in the State and includes 
+39
+but is not limited to municipal police departments, sheriff's departments, the State Police, 
+
+Page 2 - 132LR0978(01)
+40
+a university or college campus police department, safety department or the equivalent, the 
+41
+Department of Corrections and the Department of Public Safety.
+3
+§4762. Prohibited activities
+4
+1. Prohibited activities. A law enforcement agency may not:
+5
+A. Except as provided in subsection 2, use agency or department money or personnel 
+6
+to investigate, interrogate, detain, detect, stop, arrest or search a person for immigration 
+7
+enforcement purposes, including:
+8
+(1) Inquiring into a person's immigration status;
+9
+(2) Detaining a person on the basis of a hold request;
+10
+(3) Providing information regarding the person's release date unless that 
+11
+information is available to the public;
+12
+(4) Providing personal information about the person, including the person's home 
+13
+address or work address;
+14
+(5) Making or intentionally participating in an arrest based upon a hold request;
+15
+(6) Assisting immigration authorities in activities described in 8 United States 
+16
+Code, Section 1357(a)(3); or
+17
+(7) Performing the functions of an immigration authority;
+18
+B. Place a law enforcement officer under the supervision of a federal agency or employ 
+19
+a law enforcement officer deputized as a special federal officer or special federal 
+20
+deputy for immigration enforcement;
+21
+C. Use an agent or employee of an immigration authority as an interpreter for local law 
+22
+enforcement agency matters regarding a person in the law enforcement agency's 
+23
+custody;
+24
+D. Transfer a person to an immigration authority unless authorized by a court order or 
+25
+criminal warrant; or
+26
+E. Provide office space within a law enforcement agency facility for use by an 
+27
+immigration authority for a generalized search of or inquiry about an inmate.
+28
+With the exception of willful or wanton misconduct, a law enforcement agency that acts in 
+29
+good faith compliance with this section in releasing a person subject to a hold request is 
+30
+immune from civil or criminal liability as a result of making the release.
+31
+2. Permitted activities. Notwithstanding the provisions of subsection 1, if an activity 
+32
+does not violate a policy of the law enforcement agency or a state or local law or policy of 
+33
+the jurisdiction in which the agency is operating, a law enforcement agency may:
+34
+A. Investigate, take enforcement action against or detain a person upon reasonable 
+35
+suspicion of or arrest a person for a violation of 8 United States Code, Section 1326 
+36
+that may be subject to the enhancement specified under 8 United States Code, Section 
+37
+1326(b)(2) and that is detected during an unrelated law enforcement activity. A transfer 
+38
+to an immigration authority under this paragraph is permitted only if authorized by a 
+39
+court order or criminal warrant;
+1
+2
+
+Page 3 - 132LR0978(01)
+1
+B. Respond to a request from an immigration authority for information about a specific 
+2
+person's criminal history, including a previous criminal arrest or conviction or similar 
+3
+public criminal history record information accessed under Title 16, chapter 7, when 
+4
+otherwise permitted by state law;
+5
+C. Conduct enforcement or investigative duties associated with a joint law enforcement 
+6
+task force, including the sharing of confidential information with another law 
+7
+enforcement agency, for the purpose of a task force investigation, if:
+8
+(1) The primary purpose of the joint law enforcement task force is not immigration 
+9
+enforcement;
+10
+(2) The enforcement or investigative duties are primarily related to a violation of 
+11
+state or federal law unrelated to immigration enforcement; and
+12
+(3) Participation in the task force by the law enforcement agency does not violate 
+13
+any state or local law or policy to which the agency is subject;
+14
+D. Make an inquiry into information necessary to certify an individual identified as a 
+15
+potential crime or trafficking victim for a visa pursuant to 8 United States Code, Section 
+16
+1101(a)(15)(T) or 1101(a)(15)(U) or to comply with 18 United States Code, Section 
+17
+922(d)(5);
+18
+E. Give an immigration authority access to interview an individual in the custody of 
+19
+the agency; or
+20
+F. Arrest or detain a person upon a hold request if the person:
+21
+(1) Has been convicted of murder or a Class A, B or C crime;
+22
+(2) Is subject to pending criminal charges when bail has not been set;
+23
+(3) Is subject to an outstanding arrest warrant;
+24
+(4) Is identified as a possible match in the federal terrorist screening database or 
+25
+similar database;
+26
+(5) Is subject to a final order of deportation or removal issued by a federal 
+27
+immigration authority; or
+28
+(6) Presents an unacceptable risk to public safety as determined by the law 
+29
+enforcement agency.
+30
+3. Detention solely for immigration enforcement. If a person is being detained solely 
+31
+for the purposes of immigration enforcement, the person must be released as soon as 
+32
+possible and may be detained no longer than 48 hours, excluding Saturdays, Sundays and 
+33
+federal holidays.
+34
+4. State employees. A state employee, other than law enforcement officers, judges and 
+35
+counsel for defendants in criminal proceedings, may not inquire about a person's 
+36
+immigration status unless:
+37
+A. Determining the person's immigration status is necessary for the determination of 
+38
+program, service or benefit eligibility or the provision of state services; or
+39
+B. The state employee is required by federal or state law or by court order to inquire 
+40
+about the person's immigration status.
+
+Page 4 - 132LR0978(01)
+1
+5. Exceptions. This section does not prohibit:
+2
+A. A law enforcement agency from sending to or requesting or receiving from an 
+3
+immigration authority information regarding the immigration status of a person or 
+4
+maintaining or exchanging that information with any other federal, state or local 
+5
+governmental entity under 8 United States Code, Section 1373 or 1644; or
+6
+B. A law enforcement agency from asserting the agency's own jurisdiction over a 
+7
+criminal law enforcement matter.
+8
+§4763. Duties of custodial law enforcement agencies
+9
+1. Custodial duties. A law enforcement agency shall for an inmate in the agency's 
+10
+custody:
+11
+A. In advance of an interview between the inmate and an immigration authority 
+12
+regarding a civil immigration violation, provide the inmate with a written consent form 
+13
+that explains the purpose of the interview, that the interview is voluntary and that the 
+14
+inmate may decline the interview or be interviewed only with the inmate's attorney 
+15
+present. The consent form must be written in the primary language of the inmate and 
+16
+read to the inmate by a person who is not an immigration authority. This paragraph 
+17
+does not establish a right of counsel that otherwise does not exist in law; and
+18
+B. Upon receiving a hold request, provide a copy of the request to the inmate and 
+19
+inform the inmate whether the agency intends to comply with the request.
+20
+2. Custodial prohibitions. A law enforcement agency may not:
+21
+A. Restrict access to an in-custody educational or rehabilitative program or good 
+22
+behavior credit-earning opportunity on the sole basis of citizenship or immigration 
+23
+status, including whether the inmate is in removal proceedings or an immigration 
+24
+authority has issued a hold request or civil immigration warrant against the inmate; or
+25
+B. Consider citizenship or immigration status as a factor in determining an inmate's 
+26
+custodial classification level, including whether the person is in removal proceedings 
+27
+or an immigration authority has issued a hold request or civil immigration warrant 
+28
+against the inmate.
+29
+§4764. Records
+30
+A law enforcement agency shall retain indefinitely a copy of a hold request and any 
+31
+other request along with any accompanying information or documentation provided by an 
+32
+immigration authority and information on the inmate subject to the hold request, including:
+33
+1. Race. The inmate's race;
+34
+2. Gender. The inmate's gender;
+35
+3. Birthplace. The inmate's place of birth;
+36
+4. Date and time of arrest. The inmate's date and time of arrest;
+37
+5. Charges. All of the inmate's charges of arrest;
+38
+6. Receipt of hold request. The date and time of receipt of the hold request;
+39
+7. Custody. The date and time that the inmate was taken into custody by the 
+40
+immigration authority acting under authority of the hold request;
+
+Page 5 - 132LR0978(01)
+1
+8. History. The inmate's immigration and criminal history known or recorded in the 
+2
+hold request;
+3
+9. Accompanying information. A listing of any accompanying information or 
+4
+documentation regarding immigration status or proceedings; and
+5
+10. Copy provided. Documentation that a copy of the hold request was provided to 
+6
+the inmate as required by section 4763, subsection 1, paragraph B.
+7
+SUMMARY
+8
+This bill enacts provisions to clarify the relationship of state and local law enforcement 
+9
+agencies, including correctional facilities, and state employees with federal immigration 
+10
+authorities.  The bill:
+11
+1. Prohibits a law enforcement agency from stopping, investigating, interrogating, 
+12
+arresting or detaining a person for immigration enforcement purposes, including in 
+13
+response to a hold request, immigration detainer or administrative warrant issued by the 
+14
+United States Department of Homeland Security, or allowing the United States Department 
+15
+of Homeland Security access to inmates or inmate information or providing law 
+16
+enforcement agency resources or personnel to assist immigration enforcement activities;
+17
+2. Clarifies that a law enforcement agency upon a request from the United States 
+18
+Department of Homeland Security may arrest and detain a person and perform other law 
+19
+enforcement duties due to suspected criminal activity or other reasons not solely based on 
+20
+the person's immigration status;
+21
+3. Establishes the permissible scope of collaboration of a law enforcement agency with 
+22
+a joint law enforcement task force;
+23
+4. Requires a law enforcement agency to release as soon as possible and detain no 
+24
+longer than 48 hours a person determined to be held solely for immigration enforcement 
+25
+purposes;
+26
+5. Establishes duties and prohibitions for law enforcement agencies regarding 
+27
+immigration issues of inmates, including requiring the agency to inform an inmate of the 
+28
+inmate's rights prior to interview by an immigration authority and whether the agency 
+29
+intends to comply with a hold request and prohibiting an agency from restricting access to 
+30
+educational programming and good conduct credits or determining an inmate's custodial 
+31
+status based upon the inmate's immigration status; and
+32
+6. Prohibits state employees other than law enforcement officers from inquiring into 
+33
+immigration status unless the inquiry is required by law or necessary to provide the service 
+34
+sought by the resident.
+8
+9
+10

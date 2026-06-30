@@ -1,0 +1,166 @@
+{
+  "ld": 1412,
+  "paper": "HP0934",
+  "paper_display": "HP 934",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098066",
+  "title": "An Act to Increase Contingency Reserves for Maine's Consumer-owned Electric Transmission and Distribution Utilities",
+  "committee": "Energy, Utilities and Technology",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 9, 2025",
+  "governor_action": "Signed, Jun 9, 2025",
+  "chaptered_law": "ACTPUB, Chapter 214",
+  "chapter": "214",
+  "became_law": true,
+  "last_house_action": "6/2/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/2/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "John DUCHARME",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Madison"
+    },
+    {
+      "name": "Roger ALBERT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Madawaska"
+    },
+    {
+      "name": "Susan BERNARD",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Steven FOSTER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dexter"
+    },
+    {
+      "name": "Joseph RAFFERTY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Daniel SAYRE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunk"
+    },
+    {
+      "name": "Harold STEWART",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Gregory SWALLOW",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Houlton"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ELECTRIC UTILITIES",
+      "minor": "PLANNING",
+      "detail": "CONTINGENCY RESERVES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-01",
+      "date_raw": "4/1/2025",
+      "chamber": "House",
+      "description": "Committee on Energy, Utilities and Technology suggested and ordered printed. The Bill was REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-01",
+      "date_raw": "4/1/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY in concurrence"
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SACHS of Freeport, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-286) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-286) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator LAWRENCE of York the Majority Ought to Pass as Amended by Committee Amendment \"A\" (H-286) Report ACCEPTED. Bill READ ONCE. Committee Amendment \"A\" (H-286) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-286) in concurrence."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-286 )",
+      "new_title": "",
+      "house_action": "Adopted on 5/28/2025",
+      "senate_action": "Adopted on 5/29/2025",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "C \"B\" (H-287 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0934&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0934&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0934&item=4&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0934&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0934",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0934&SessionID=16",
+  "scraped_at": "2026-06-30T19:19:36Z"
+}

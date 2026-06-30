@@ -1,0 +1,142 @@
+{
+  "ld": 880,
+  "paper": "HP0566",
+  "paper_display": "HP 566",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097137",
+  "title": "An Act Regarding Nondiscrimination in Financial Services",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 7, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/6/2025 - Reports READ . On motion of Representative MATHIESON of Kittery, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/7/2025 - Reports Read On motion by Senator BAILEY of York the Majority Ought Not to Pass Report ACCEPTED . in concurrence Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Tracy QUINT",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hodgdon"
+    },
+    {
+      "name": "Susan BERNARD",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "John DUCHARME",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Madison"
+    },
+    {
+      "name": "Randall GREENWOOD",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Wales"
+    },
+    {
+      "name": "Reagan PAUL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Winterport"
+    },
+    {
+      "name": "Chad PERKINS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dover-Foxcroft"
+    },
+    {
+      "name": "Nathan WADSWORTH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hiram"
+    },
+    {
+      "name": "James WHITE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Guilford"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "FINANCIAL PRACTICES",
+      "minor": "ACCOUNT SALES",
+      "detail": "NONDISCRIMINATION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "House",
+      "description": "Committee on Health Coverage, Insurance and Financial Services suggested and ordered printed. The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MATHIESON of Kittery, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator BAILEY of York the Majority Ought Not to Pass Report ACCEPTED . in concurrence Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-99 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0566&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0566&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0566",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0566&SessionID=16",
+  "scraped_at": "2026-06-30T18:38:55Z"
+}

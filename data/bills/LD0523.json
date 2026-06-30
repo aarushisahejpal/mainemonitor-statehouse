@@ -1,0 +1,67 @@
+{
+  "ld": 523,
+  "paper": "HP0342",
+  "paper_display": "HP 342",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096446",
+  "title": "An Act to Change How the Office of the Attorney General Investigates Officer-involved Shootings",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Leave to Withdraw, Mar 11, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "2/11/2025 - Committee on Judiciary suggested and ordered printed. The Bill was REFERRED to the Committee on JUDICIARY . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/11/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Nina MILLIKEN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Blue Hill"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LAW ENFORCEMENT",
+      "minor": "DEADLY FORCE",
+      "detail": "INVESTIGATIONS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-11",
+      "date_raw": "2/11/2025",
+      "chamber": "House",
+      "description": "Committee on Judiciary suggested and ordered printed. The Bill was REFERRED to the Committee on JUDICIARY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-11",
+      "date_raw": "2/11/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on JUDICIARY in concurrence"
+    },
+    {
+      "date": "2025-03-11",
+      "date_raw": "3/11/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0342&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0342",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0342&SessionID=16",
+  "scraped_at": "2026-06-30T18:11:34Z"
+}

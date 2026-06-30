@@ -1,0 +1,190 @@
+{
+  "ld": 1433,
+  "paper": "HP0942",
+  "paper_display": "HP 942",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098133",
+  "title": "Resolve, to Establish a Working Waterfront Infrastructure Engineer Corps Pilot Program and to Conduct a Feasibility Study of a Higher Education Service Corps Program",
+  "committee": "Education and Cultural Affairs",
+  "status_summary": "",
+  "final_disposition": "Finally Passed, Jul 1, 2025",
+  "governor_action": "Signed, Jul 1, 2025",
+  "chaptered_law": "RESLV, Chapter 118",
+  "chapter": "118",
+  "became_law": true,
+  "last_house_action": "6/25/2025 - FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/25/2025 - FINALLY PASSED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Morgan RIELLY",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    },
+    {
+      "name": "Richard BENNETT",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Michael BRENNAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Traci GERE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunkport"
+    },
+    {
+      "name": "Julia MCCABE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lewiston"
+    },
+    {
+      "name": "Kelly MURPHY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Scarborough"
+    },
+    {
+      "name": "Joseph RAFFERTY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Holly STOVER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Boothbay"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "COLLEGES AND UNIVERSITIES",
+      "minor": "POLICIES AND PROGRAMS",
+      "detail": "SERVICE CORPS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-03",
+      "date_raw": "4/3/2025",
+      "chamber": "House",
+      "description": "Committee on Education and Cultural Affairs suggested and ordered printed. The Resolve was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS in concurrence"
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MURPHY of Scarborough, the Majority Ought to Pass as Amended Report was ACCEPTED . The Resolve was READ ONCE . Committee Amendment \"A\" (H-194) was READ and ADOPTED . Under suspension of the rules, the Resolve was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Resolve was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-194) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator RAFFERTY of York the Majority Ought to Pass as Amended Report ACCEPTED . Bill READ ONCE Committee Amendment \"A\" (H-194) READ and ADOPTED Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-194) in concurrence."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending FINAL PASSAGE in concurrence."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table On motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby the Resolve was PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-194) On further motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby Committee Amendment \"A\" (H-194) was ADOPTED. On further motion by Same Senator Senate Amendment \"A\" (S-475) to Committee Amendment \"A\" (H-194) READ and ADOPTED. Committee Amendment \"A\" (H-194) as Amended by Senate Amendment \"A\" (S-475) thereto ADOPTED. PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-194) as Amended by Senate Amendment \"A\" (S-475) thereto in NON-CONCURRENCE. Sent down for concurrence."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "The House RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-194) as Amended by Senate Amendment \"A\" (S-475) thereto. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-194 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/25/2025",
+      "senate_action": "Adopted on 6/25/2025",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "S \"A\" (S-475 ) to C \"A\" (H-194 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/25/2025",
+      "senate_action": "Adopted on 6/25/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0942&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0942&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0942&item=4&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0942&item=6&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0942",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0942&SessionID=16",
+  "scraped_at": "2026-06-30T19:21:19Z"
+}

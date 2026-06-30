@@ -1,0 +1,210 @@
+{
+  "ld": 1426,
+  "paper": "HP0935",
+  "paper_display": "HP 935",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098097",
+  "title": "Resolve, to Expand Child Assertive Community Treatment",
+  "committee": "Health and Human Services",
+  "status_summary": "",
+  "final_disposition": "Emergency Finally Passed, Jan 11, 2026",
+  "governor_action": "Emergency Unsigned, Jan 11, 2026",
+  "chaptered_law": "RESLV, Chapter 119",
+  "chapter": "119",
+  "became_law": true,
+  "last_house_action": "6/25/2025 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "7/8/2025 - HELD BY THE GOVERNOR.",
+  "sponsors": [
+    {
+      "name": "Lori GRAMLICH",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Orchard Beach"
+    },
+    {
+      "name": "Michael BRENNAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Kristen CLOUTIER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lewiston"
+    },
+    {
+      "name": "Drew GATTINE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    },
+    {
+      "name": "Anne GRAHAM",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "North Yarmouth"
+    },
+    {
+      "name": "Matt MOONEN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Marianne MOORE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Washington"
+    },
+    {
+      "name": "Cameron RENY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Lincoln"
+    },
+    {
+      "name": "Margaret ROTUNDO",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    },
+    {
+      "name": "Holly STOVER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Boothbay"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MENTAL HEALTH SERVICES",
+      "minor": "CHILDREN",
+      "detail": "ACT"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-01",
+      "date_raw": "4/1/2025",
+      "chamber": "House",
+      "description": "Committee on Health and Human Services suggested and ordered printed. The Resolve was REFERRED to the Committee on HEALTH AND HUMAN SERVICES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-01",
+      "date_raw": "4/1/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES in concurrence"
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Resolve was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-206) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-206) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-206), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending FINAL PASSAGE - Emergency -2/3 Elected Required"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table On motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby the Resolve was PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-206) On further motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby Committee Amendment \"A\" (H-206) was ADOPTED. On further motion by Same Senator Senate Amendment \"A\" (S-474) to Committee Amendment \"A\" (H-206) READ and ADOPTED. Committee Amendment \"A\" (H-206) as Amended by Senate Amendment \"A\" (S-474) thereto ADOPTED. PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-206) as Amended by Senate Amendment \"A\" (S-474) thereto in NON-CONCURRENCE. Sent down for concurrence."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "The House RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-206) as Amended by Senate Amendment \"A\" (S-474) thereto. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED - Emergency - 2/3 Elected Required, in concurrence."
+    },
+    {
+      "date": "2025-07-08",
+      "date_raw": "7/8/2025",
+      "chamber": "Senate",
+      "description": "HELD BY THE GOVERNOR."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-206 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/25/2025",
+      "senate_action": "Adopted on 6/25/2025",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "S \"A\" (S-474 ) to C \"A\" (H-206 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/25/2025",
+      "senate_action": "Adopted on 6/25/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0935&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0935&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0935&item=4&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0935&item=6&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0935",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0935&SessionID=16",
+  "scraped_at": "2026-06-30T19:20:46Z"
+}

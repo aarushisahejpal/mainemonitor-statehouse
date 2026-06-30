@@ -1,0 +1,81 @@
+{
+  "ld": 2031,
+  "paper": "HP1361",
+  "paper_display": "HP 1361",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100884",
+  "title": "An Act to Offer Military Veterans a 50 Percent Discount on the License Fee for a Commercial Shellfish License",
+  "committee": "Marine Resources",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Mar 18, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/17/2026 - Reports READ . On motion of Representative HEPLER of Woolwich, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/18/2026 - Reports Read On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "William TUELL",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "East Machias"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "COMMERCIAL FISHING",
+      "minor": "LICENSES",
+      "detail": "VETERANS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-03",
+      "date_raw": "12/3/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on December 3, 2025. The Bill was REFERRED to the Committee on MARINE RESOURCES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative HEPLER of Woolwich, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-18",
+      "date_raw": "3/18/2026",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-854 )",
+      "new_title": "An Act to Offer Certain Disabled Military Veterans a 50 Percent Discount on the License Fee for a Commercial Shellfish License",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1361&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1361&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1361",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1361&SessionID=16",
+  "scraped_at": "2026-06-30T20:07:39Z"
+}

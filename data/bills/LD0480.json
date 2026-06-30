@@ -1,0 +1,96 @@
+{
+  "ld": 480,
+  "paper": "HP0309",
+  "paper_display": "HP 309",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096388",
+  "title": "An Act to Support Healthy Weight by Providing MaineCare Coverage for Certain Weight Loss Medications",
+  "committee": "Health and Human Services",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "2/6/2025 - Received by the Clerk of the House on February 6, 2025. The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+  "last_senate_action": "3/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Anne GRAHAM",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "North Yarmouth"
+    },
+    {
+      "name": "Daniel ANKELES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "Holly EATON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Deer Isle"
+    },
+    {
+      "name": "Tiffany ROBERTS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Berwick"
+    },
+    {
+      "name": "Suzanne SALISBURY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    },
+    {
+      "name": "Parnell TERRY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Gorham"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MEDICAID",
+      "minor": "MAINECARE",
+      "detail": "WEIGHT REDUCTION MEDICATIONS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "date_raw": "2/6/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on February 6, 2025. The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0309&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0309",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0309&SessionID=16",
+  "scraped_at": "2026-06-30T18:08:15Z"
+}

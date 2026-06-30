@@ -1,0 +1,672 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1838
+S.P. 721
+In Senate, April 30, 2025
+An Act to Provide Opportunities and Sustainable Revenue for 
+Maine Farms, Agricultural Fairs, Wabanaki Tribes and Veterans' 
+Homes
+Reference to the Committee on Veterans and Legal Affairs suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator FARRIN of Somerset.
+Cosponsored by Representative ROLLINS of Augusta and
+Senators: DUSON of Cumberland, HICKMAN of Kennebec, MOORE of Washington, 
+Representatives: FREDETTE of Newport, PARRY of Arundel.
+
+Page 1 - 132LR1450(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  8 MRSA c. 39 is enacted to read:
+3
+CHAPTER 39
+4
+REGULATION OF ELECTRONIC GAMES
+5
+§1501. Definitions
+6
+As used in this chapter, unless the context otherwise indicates, the following terms 
+7
+have the following meanings.
+8
+1.  Beano.  "Beano" means a game of chance, as defined in Title 17, section 1831, 
+9
+subsection 5, in which:
+10
+A.  A participant plays with one or more cards bearing numbers or other designations;
+11
+B.  A participant covers those numbers or other designations on that participant's card 
+12
+or cards when objects similarly numbered or designated are drawn;
+13
+C.  The winner of the game is the first person who covers a previously designated 
+14
+arrangement of numbers or other designations on the cards under paragraph A; and
+15
+D.  A participant plays for prizes, including monetary prizes.
+16
+2.  Director.  "Director" means the director of the Gambling Control Unit within the 
+17
+Department of Public Safety.
+18
+3.  Electronic beano.  "Electronic beano" means a game of beano played in an 
+19
+electronic or electromechanical format that replicates the game of beano by incorporating 
+20
+all of the characteristics of the game of beano and that allows the participant to play against 
+21
+other participants who are playing electronic beano, but not to play with or against the 
+22
+electronic wagering terminal.
+23
+4.  Electronic wagering terminal.  "Electronic wagering terminal" means an 
+24
+electronic device approved by the director that allows a person to insert cash, a token or 
+25
+credit and:
+26
+A.  Place one or more wagers on a historical horse race, as long as the outcome of each 
+27
+wager is based on the outcome of the historical horse race and a random element does 
+28
+not determine the outcome of the wager;
+29
+B.  Play one or more games of electronic beano from a draw of no more than 75 
+30
+numbers or other designations that correspond to the electronic beano game, as long as 
+31
+the element of chance is determined by a central computer server system that 
+32
+communicates with the electronic wagering terminal; or
+33
+C.  Purchase one or more virtual sealed tickets, as long as the element of chance is 
+34
+provided by the virtual sealed ticket based on the sealed ticket deal and not by the 
+35
+electronic wagering terminal.
+36
+An electronic wagering terminal may not distribute cash but may issue a printed or 
+37
+electronic voucher or other noncash physical item to a player that may be redeemed for 
+
+Page 2 - 132LR1450(01)
+38
+cash or other prizes. An electronic wagering terminal is not a slot machine as defined in 
+39
+section 1001, subsection 39.
+3
+5.  Gambling Control Unit.  "Gambling Control Unit" means the Gambling Control 
+4
+Unit within the Department of Public Safety.
+5
+6.  Historical horse race.  "Historical horse race" means a horse race that:
+6
+A.  Was previously run at a licensed pari-mutuel facility located in the United States;
+7
+B.  Concluded with official results; and
+8
+C.  Concluded without scratches, disqualifications or finishes in a dead heat.
+9
+7.  License.  "License" means a license issued by the director under this chapter.
+10
+8.  Licensee.  "Licensee" means a person granted a license under this chapter.
+11
+9.  Net terminal income.  "Net terminal income" means cash, tokens, credits or similar 
+12
+objects or things of value used to play on an electronic wagering terminal minus cash, 
+13
+credits or prizes paid out to winners.
+14
+10.  Sealed ticket.  "Sealed ticket" means a ticket or card with preprinted symbols, 
+15
+numbers or other figures that are hidden by an opaque, removable material. Each ticket or 
+16
+card represents a chance to win a specific single prize, including a monetary prize, or 
+17
+specific single set of prizes. A winning ticket or card contains a predetermined winning 
+18
+configuration of symbols, numbers or other figures. "Sealed ticket" does not include a 
+19
+lottery ticket under chapter 14-A or chapter 16.
+20
+11.  Sealed ticket deal.  "Sealed ticket deal" means each separate package or series of 
+21
+packages of sealed tickets consisting of one sealed ticket game with a unique serial number 
+22
+or their substantial equivalent in the case of a virtual sealed ticket.
+23
+12.  Shared wagering arrangement.  "Shared wagering arrangement" means an 
+24
+agreement to operate electronic wagering terminals from a central computer server system 
+25
+located in the State controlled by a licensee providing common access to a historical horse 
+26
+race, virtual sealed ticket deal or electronic beano game from multiple locations.
+27
+13.  Pari-mutuel wagering.  "Pari-mutuel wagering" means a method of wagering in 
+28
+which those who wager on horses that finish in the position or positions for which wagers 
+29
+are taken share in the total amounts wagered.
+30
+14.  Terminal distributor.  "Terminal distributor" means a person, firm, corporation, 
+31
+association or organization that sells, markets or otherwise distributes electronic wagering 
+32
+terminals.
+33
+15.  Virtual sealed ticket.  "Virtual sealed ticket" means a sealed ticket displayed on 
+34
+a screen or other display substantially similar to a physical sealed ticket in a manner 
+35
+approved by the director.
+36
+§1502. Powers of director
+37
+1.  Powers.  In administering and enforcing this chapter, the director may:
+38
+A.  Pursuant to section 1503, approve or deny an application for and issue, limit, 
+39
+restrict, suspend or revoke a license issued under this chapter;
+1
+2
+
+Page 3 - 132LR1450(01)
+1
+B.  Review reports of the investigation and qualifications of an applicant before a 
+2
+license is issued;
+3
+C.  Prescribe the manner for the collection of all revenues under this chapter;
+4
+D.  Investigate complaints regarding the operation of electronic wagering terminals in 
+5
+violation of this chapter and rules adopted pursuant to this chapter;
+6
+E.  Impose sanctions, penalties and costs of investigation or hearing against an 
+7
+applicant or licensee for violation of this chapter or rules adopted pursuant to this 
+8
+chapter;
+9
+F.  Conduct a financial audit of a licensee at any time to ensure compliance with this 
+10
+chapter; and
+11
+G.  Adopt rules, which are routine technical rules under Title 5, chapter 375, subchapter 
+12
+2-A, for licensing of employees or agents of licensees under this chapter.
+13
+§1503. License to operate electronic wagering terminals
+14
+1.  License required.  A person may not operate an electronic wagering terminal unless 
+15
+the person has been issued a license by the director.
+16
+2.  Persons eligible for electronic wagering terminal licenses.  The director may 
+17
+issue licenses to operate electronic wagering terminals to:
+18
+A.  Federally recognized Indian tribes within the State;
+19
+B.  Commercial tracks licensed to conduct pari-mutuel wagering under chapter 11 and 
+20
+not licensed under chapter 31, subchapter 2;
+21
+C.  Organizations described in Title 17, section 1832, subsection 2 that were licensed 
+22
+under Title 17, chapter 62 at any time between January 1, 2021 and December 31, 
+23
+2024; and
+24
+D.  Off-track betting facilities licensed under section 275-D that were in operation at 
+25
+any time between January 1, 2024 and December 31, 2024.
+26
+3.  Application; license fee; term.  An application for a license must be submitted in 
+27
+a manner prescribed by the director. The initial fee and renewal fee for a license to operate 
+28
+electronic wagering terminals may not exceed the greater of $500 or $10 per electronic 
+29
+wagering terminal in operation by the licensee. Licenses must be renewed annually.
+30
+4.  Location; number of electronic wagering terminals; municipal approval.  
+31
+Electronic wagering terminals may be located in the State according to this subsection.
+32
+A.  A licensed commercial track under subsection 2, paragraph B may operate up to 
+33
+100 electronic wagering terminals at the location of the commercial track, subject to 
+34
+approval of the municipality where the commercial track is located.
+35
+B.  An eligible organization under subsection 2, paragraph C may operate up to 4 
+36
+electronic wagering terminals on the premises of the organization, subject to the 
+37
+approval of the municipality where the premises of the organization is located.
+38
+C.  An off-track betting facility under subsection 2, paragraph D may operate up to 25 
+39
+electronic wagering terminals on the premises of the facility, subject to the approval of 
+40
+the municipality where the premises of the facility is located.
+
+Page 4 - 132LR1450(01)
+1
+D.  A federally recognized Indian tribe under subsection 2, paragraph A may operate 
+2
+up to 100 electronic wagering terminals in any territory under the jurisdiction of the 
+3
+respective tribe not subject to a zoning ordinance of a municipality. In addition, a 
+4
+federally recognized Indian tribe may operate electronic wagering terminals in any 
+5
+municipality, subject to the approval of the municipality where the electronic wagering 
+6
+terminals are located, except that each federally recognized Indian tribe may not 
+7
+operate more than 100 electronic wagering terminals in total.
+8
+As used in this subsection, "approval of the municipality" means an affirmative vote by the 
+9
+municipality or the municipal officers in the manner provided by Title 30-A, section 3002.
+10
+5.  Cooperative agreements; approval.  Upon application by 2 or more licensees 
+11
+under subsection 2, the director may approve a cooperative agreement among the licensees 
+12
+to colocate electronic wagering terminals at a single facility controlled by one licensee 
+13
+authorized under subsection 2, paragraph A or B, or to operate electronic wagering 
+14
+terminals through a shared wagering arrangement. Any such cooperative agreement may 
+15
+authorize one licensee to be the party under the agreement responsible for operating the 
+16
+electronic wagering terminals under this chapter and pay to the other licensee or licensees 
+17
+a fee to host or otherwise operate the electronic wagering terminals. The terms of a 
+18
+cooperative agreement under this subsection are confidential.
+19
+6.  Electronic wagering terminal fee.  In addition to the license fee under subsection 
+20
+3, the fee for each electronic wagering terminal is $50 annually.
+21
+7.  Terminal distributor; registration.  A licensee may use only electronic wagering 
+22
+terminals that are certified and registered with the Gambling Control Unit and that are 
+23
+provided by a terminal distributor licensed under section 1505. The director shall adopt 
+24
+rules regarding the certification and registration of electronic wagering terminals. Rules 
+25
+adopted pursuant to this subsection are routine technical rules as defined by Title 5, chapter 
+26
+375, subchapter 2-A.
+27
+8.  Minimum age.  A licensee may not permit a person under 21 years of age to operate 
+28
+an electronic wagering terminal. A licensee may not permit a person under 21 years of age 
+29
+to enter any area where an electronic wagering terminal is being operated unless otherwise 
+30
+permitted by rule adopted under this chapter.
+31
+§1504. Allocation of funds
+32
+1.  Distribution of net terminal income.  A licensee shall collect and distribute 25% 
+33
+of the net terminal income from electronic wagering terminals to the director for 
+34
+distribution by the director as follows:
+35
+A.  One percent of net terminal income must be deposited to the General Fund for 
+36
+administrative expenses of the Gambling Control Unit;
+37
+B.  One percent of net terminal income must be forwarded by the director to the 
+38
+Treasurer of State, who shall credit the money to the Gambling Addiction Prevention 
+39
+and Treatment Fund established by Title 5, section 20006-B;
+40
+C.  Two percent of net terminal income must be forwarded by the director to the 
+41
+Treasurer of State, who shall credit the money to the Agricultural Fair Support Fund 
+42
+established by Title 7, section 91;
+
+Page 5 - 132LR1450(01)
+1
+D.  Five percent of net terminal income must be forwarded by the director to the 
+2
+Treasurer of State, who shall credit the money to the fund established in section 298 to 
+3
+supplement harness racing purses;
+4
+E.  One percent of net terminal income must be forwarded by the director to the 
+5
+Treasurer of State, who shall credit the money to the Harness Racing Promotional Fund 
+6
+established in section 299-A;
+7
+F.  One percent of net terminal income must be forwarded by the director to the 
+8
+Treasurer of State, who shall credit the money to the Sire Stakes Fund established under 
+9
+section 281;
+10
+G.  Five percent of net terminal income must be forwarded by the director to the 
+11
+Treasurer of State, who shall credit any money received before January 1, 2035 to the 
+12
+Maine Milk Pool established in Title 7, section 3153, and any money received on or 
+13
+after January 1, 2035 to the Agricultural Development Fund established in Title 7, 
+14
+section 306-A;
+15
+H.  Five percent of net terminal income must be forwarded by the director to the 
+16
+Treasurer of State, who shall credit the money to the Maine Veterans' Homes 
+17
+Stabilization Fund established in Title 37-B, section 613;
+18
+I.  Three percent of net terminal income must be forwarded by the director to the 
+19
+Treasurer of State, who shall credit the money to the Fund for the Efficient Delivery of 
+20
+Educational Services in Title 20-A, section 2651, to be expended in support of career 
+21
+and technical education; and
+22
+J.  One percent of net terminal income must be forwarded by the director to the 
+23
+Treasurer of State, who shall remit the funds annually to the municipality in which the 
+24
+electronic wagering terminals are located.
+25
+2.  Failure to collect and distribute funds.  A licensee who knowingly or intentionally 
+26
+fails to comply with this section commits a Class D crime. In addition to any other sanction 
+27
+available by law, the license of the person may be revoked by the director and electronic 
+28
+wagering terminals operated by the licensee may be disabled and the proceeds and 
+29
+associated gaming equipment may be confiscated by the director and are subject to 
+30
+forfeiture under Title 17-A, section 959 or 960.
+31
+3.  Late payments.  The director may adopt rules establishing the dates on which 
+32
+payments required by this section are due. All payments not remitted when due must be 
+33
+paid together with interest on the unpaid balance at a rate of 1.5% per month.  Rules adopted 
+34
+pursuant to this subsection are routine technical rules as described in Title 5, chapter 375, 
+35
+subchapter 2-A.
+36
+§1505. Terminal distributors; licenses; records and reports
+37
+1.  Terminal distributors licensed.  A terminal distributor may not sell, lease, market 
+38
+or otherwise distribute electronic wagering terminals unless licensed by the Gambling 
+39
+Control Unit. A nonresident manufacturer or distributor of electronic wagering terminals 
+40
+doing business in the State must have an agent in this State who is licensed as a terminal 
+41
+distributor. A terminal distributor may not sell, market or otherwise distribute electronic 
+42
+wagering terminals to a person or organization, except to persons licensed to operate 
+43
+electronic wagering terminals under section 1503.
+
+Page 6 - 132LR1450(01)
+1
+2.  Application; fee.  An applicant for a terminal distributor license or, if the applicant 
+2
+is a firm, corporation, association or other organization, its resident manager, 
+3
+superintendent or official representative, shall file an application with the Gambling 
+4
+Control Unit on a form provided by the Gambling Control Unit. The fee for a terminal 
+5
+distributor license is $5,000 annually. In addition to the license fee, the director may charge 
+6
+a one-time initial application fee for a terminal distributor license in an amount equal to the 
+7
+projected cost of processing the application and performing any background investigations. 
+8
+If the actual cost exceeds the projected cost, an additional fee may be charged to meet the 
+9
+actual cost. If the projected cost exceeds the actual cost, the difference may be refunded to 
+10
+the applicant.
+11
+3.  Terminal distributor employee licenses.  An employee of a terminal distributor 
+12
+whose duties include directly interacting with electronic wagering terminals may not 
+13
+undertake such duties without the receipt of a license from the director. The fee for a license 
+14
+under this subsection is $250 for an initial license and $50 for a renewal of the license.  A 
+15
+license is valid for a period of one year.
+16
+4.  Sales agreements.  A terminal distributor shall forward to the Gambling Control 
+17
+Unit, prior to delivery of any electronic wagering terminals to the purchaser, a copy of all 
+18
+sales agreements, sales contracts or any other agreements involving the sale of any 
+19
+electronic wagering terminals. The terms of these agreements must include, but are not 
+20
+limited to: the name of the seller; the name of the purchaser; the address of the seller; the 
+21
+address of the purchaser; a description of the electronic wagering terminals, including serial 
+22
+number and model name and number; total sale price; any arrangement or terms for 
+23
+payments; and the date of final payment. Any change, modification or alteration of these 
+24
+agreements must be reported to the Gambling Control Unit by the purchaser within 6 days 
+25
+of the change, modification or alteration.
+26
+5.  Service agreement.  With the sale of any electronic wagering terminals that 
+27
+includes a service agreement, the terminal distributor shall forward to the Gambling 
+28
+Control Unit a copy of the service agreement prior to delivery of the electronic wagering 
+29
+terminal. The terms of the service agreement must include, but are not limited to: the name 
+30
+of the seller; the name of the purchaser; the address of the seller; the address of the 
+31
+purchaser; a description of the electronic wagering terminal to be serviced, including serial 
+32
+number and model name and number; and all prices and payments for that service. Any 
+33
+change, modification or alteration of the agreement must be reported to the Gambling 
+34
+Control Unit by the purchaser within 6 days of the change, modification or alteration.
+35
+6.  Lease agreement.  When an electronic wagering terminal is leased, the terminal 
+36
+distributor shall forward to the Gambling Control Unit a copy of the lease agreement and 
+37
+shipment approval prior to delivery of the electronic wagering terminal. The terms of the 
+38
+lease must include, but are not limited to: the name of the lessor; the address of the lessor; 
+39
+the name of the lessee; the address of the lessee; a description of the electronic wagering 
+40
+terminal; the serial number, model name or number of the electronic wagering terminal; 
+41
+and all prices and payments for the lease. Each lease must be for a specific period of time. 
+42
+Electronic wagering terminals leased under this section must be clearly marked to identify 
+43
+the name and address of the terminal distributor. A lease agreement under this subsection 
+44
+may not allow a terminal distributor to receive more than 30% of net terminal income.
+45
+7.  Reports.  A terminal distributor shall file annually with the Gambling Control Unit 
+46
+a report indicating:
+
+Page 7 - 132LR1450(01)
+1
+A.  The names and addresses of all persons or federally recognized Indian tribes to 
+2
+which the terminal distributor has distributed electronic wagering terminals and the 
+3
+dates of the distribution;
+4
+B.  A description of the electronic wagering terminals distributed, including serial 
+5
+number and model name and number; and
+6
+C.  The number of electronic wagering terminals distributed.
+7
+8.  Retention and inspection of records.  A terminal distributor shall maintain and 
+8
+keep for a period of 3 years, on the premises of the terminal distributor, any records that 
+9
+may be necessary to substantiate the reports required by this section or by the rules adopted 
+10
+under this chapter. The records must be open to inspection by the Gambling Control Unit, 
+11
+and a terminal distributor may not refuse the Gambling Control Unit permission to inspect 
+12
+or audit the records. Refusal to permit inspection or audit of the records does not constitute 
+13
+a crime under this chapter but constitutes grounds for the revocation of a terminal 
+14
+distributor license.
+15
+9.  Rulemaking.  The director shall adopt rules as necessary to administer this section, 
+16
+including rules regarding the licensing of terminal distributors under subsection 1 and the 
+17
+licensing of terminal distributor employees under subsection 3. Rules adopted pursuant to 
+18
+this subsection are routine technical rules pursuant to Title 5, chapter 375, subchapter 2-A.
+19
+§1506. Violations and penalties
+20
+1.  Violation.  A person, firm, corporation or association or an agent or employee of 
+21
+one of those entities who violates any provision of this chapter or a rule adopted pursuant 
+22
+to this chapter is subject to the penalties under subsection 2.
+23
+2.  Penalty.  For each violation of this chapter or of a rule adopted pursuant to this 
+24
+chapter, the director may:
+25
+A.  Impose a fine of up to $1,000 per violation; or
+26
+B.  Impose a fine not to exceed $5,000 for violations arising out of the same transaction 
+27
+or occurrence.
+28
+§1507. Applicability of other laws
+29
+Unless otherwise specified in this chapter, the provisions of Title 17, chapter 62 and 
+30
+Title 17-A, chapter 39 do not apply to the conduct of electronic beano and historical horse 
+31
+racing operated in accordance with this chapter and rules adopted pursuant to this chapter. 
+32
+Any materials provided to the Gambling Control Unit under this chapter by a licensee that 
+33
+would be confidential if provided to the Gambling Control Unit under another provision of 
+34
+law for any other license are confidential.
+35
+§1508. Rulemaking
+36
+The director shall adopt rules to implement this chapter. Rules adopted pursuant to this 
+37
+section are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+38
+1.  Required rules.  Rules adopted pursuant to this section must include, but are not 
+39
+limited to, the following:
+40
+A.  Provisions allowing individuals to restrict themselves from using an electronic 
+41
+wagering terminal upon request by placing themselves on the list established pursuant 
+42
+to section 1003, subsection 3, paragraph I;
+
+Page 8 - 132LR1450(01)
+1
+B.  Standards for involuntary placement on the list established pursuant to section 1003, 
+2
+subsection 3, paragraph I and for removal from the list;
+3
+C.  Provisions to prevent undesirable conduct relating to the ownership, leasing, 
+4
+distribution and operation of electronic wagering terminals;
+5
+D.  Provisions for the licensure of employees conducting wagering activities for 
+6
+persons licensed under section 1503, subsection 2; and
+7
+E.  Provisions enabling licensees authorized to conduct similar wagering activities, 
+8
+including but not limited to pari-mutuel wagering, sports wagering and high-stakes 
+9
+beano, to use facilities and staffing for such similar wagering activities concurrently 
+10
+with the operation of electronic wagering terminals.
+11
+SUMMARY
+12
+This bill authorizes the licensed operation of electronic wagering terminals to place 
+13
+wagers on historical horse races, purchase virtual sealed tickets and to conduct electronic 
+14
+beano by federally recognized Indian tribes, certain off-track betting facilities and 
+15
+commercial tracks and organizations eligible to conduct certain games of chance. Licenses 
+16
+are issued by the director of the Gambling Control Unit within the Department of Public 
+17
+Safety. The bill also requires distributors of electronic wagering terminals to be licensed 
+18
+with the Gambling Control Unit.
+19
+The bill establishes limits on the number and location of terminals based upon the type 
+20
+of licensee. The bill requires an operator of an electronic wagering terminal to collect 25% 
+21
+of net terminal income for distribution among the General Fund for administrative expenses 
+22
+of the Gambling Control Unit; gambling addiction prevention and treatment services; the 
+23
+Maine Milk Pool until January 1, 2035 and, on or after January 1, 2035, to the Agricultural 
+24
+Development Fund; agricultural fairs; funds dedicated to supporting and promoting harness 
+25
+racing; career and technical education; the Maine Veterans' Homes Stabilization Fund; and 
+26
+municipalities in which terminals are located.
+12
+13
+14
+15
+16
+17
+18

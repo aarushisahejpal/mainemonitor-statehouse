@@ -1,0 +1,103 @@
+{
+  "ld": 313,
+  "paper": "HP0213",
+  "paper_display": "HP 213",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096111",
+  "title": "An Act to Improve Voter Confidence in Electronic Ballot Counting by Requiring Ballots to Contain Unique Identifiers",
+  "committee": "Veterans and Legal Affairs",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 18, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "1/30/2025 - Received by the Clerk of the House on January 30, 2025. The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+  "last_senate_action": "3/18/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Steven FOSTER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dexter"
+    },
+    {
+      "name": "Mark BABIN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Fort Fairfield"
+    },
+    {
+      "name": "Paul FLYNN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Albion"
+    },
+    {
+      "name": "Timothy GUERRETTE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Caribou"
+    },
+    {
+      "name": "David HAGGAN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Mathew MCINTYRE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lowell"
+    },
+    {
+      "name": "Reagan PAUL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Winterport"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ELECTIONS",
+      "minor": "BALLOTS",
+      "detail": "ELECTRONIC TABULATION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "date_raw": "1/30/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on January 30, 2025. The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0213&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0213",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0213&SessionID=16",
+  "scraped_at": "2026-06-30T17:55:53Z"
+}

@@ -1,0 +1,90 @@
+{
+  "ld": 1992,
+  "paper": "SP0805",
+  "paper_display": "SP 805",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100714",
+  "title": "An Act to Create a Process for the Residents of a Municipality to Withdraw from a School Union",
+  "committee": "Education and Cultural Affairs",
+  "status_summary": "",
+  "final_disposition": "Enacted, Mar 9, 2026",
+  "governor_action": "Signed, Mar 9, 2026",
+  "chaptered_law": "ACTPUB, Chapter 548",
+  "chapter": "548",
+  "became_law": true,
+  "last_house_action": "2/26/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/3/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Joseph RAFFERTY",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "SCHOOL ADMINISTRATION",
+      "minor": "ADMINISTRATIVE UNITS",
+      "detail": "SCHOOL UNIONS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-03",
+      "date_raw": "12/3/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on December 3, 2025 and REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2026-02-10",
+      "date_raw": "2/10/2026",
+      "chamber": "Senate",
+      "description": "Reports READ. On motion by Senator RAFFERTY of York The Majority Ought to Pass Report ACCEPTED. Bill READ ONCE ASSIGNED FOR SECOND READING NEXT LEGISLATIVE DAY."
+    },
+    {
+      "date": "2026-02-12",
+      "date_raw": "2/12/2026",
+      "chamber": "Senate",
+      "description": "COMMITTEE ON BILLS IN THE SECOND READING REPORTS NO FURTHER VERBAL AMENDMENTS NECESSARY. REPORT ACCEPTED. READ A SECOND TIME and PASSED TO BE ENGROSSED. Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2026-02-24",
+      "date_raw": "2/24/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MURPHY of Scarborough, the Majority Ought to Pass Report was ACCEPTED . The Bill was READ ONCE . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-02-26",
+      "date_raw": "2/26/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-03",
+      "date_raw": "3/3/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0805&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0805&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0805",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0805&SessionID=16",
+  "scraped_at": "2026-06-30T20:04:48Z"
+}

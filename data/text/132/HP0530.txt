@@ -1,0 +1,170 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 844
+H.P. 530
+House of Representatives, March 4, 2025
+An Act to Regulate Social Media Use by Minors Under 16 Years of 
+Age
+Reference to the Committee on Housing and Economic Development suggested and 
+ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative FREDETTE of Newport.
+
+Page 1 - 132LR0945(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  10 MRSA c. 239 is enacted to read:
+3
+CHAPTER 239
+4
+SOCIAL MEDIA SAFETY FOR MINORS
+5
+§1500-Z. Definitions 
+6
+As used in this chapter, unless the context otherwise indicates, the following terms 
+7
+have the following meanings. 
+8
+1.  Account holder. "Account holder" means a person who has an account or profile 
+9
+to use a social media company's social media platform.
+10
+2.  Minor. "Minor" has the same meaning as in Title 18-C, section 5-102, subsection 
+11
+18.  
+12
+3.  Parent. "Parent" has the same meaning as in Title 19-A, section 101, subsection 8.  
+13
+4.  Post. "Post" means content that an account holder makes available on a social media 
+14
+platform for other account holders to consume.
+15
+5.  Social media company. "Social media company" means a person that is an 
+16
+interactive computer service and that provides a social media platform.
+17
+6.  Social media platform. "Social media platform" means a website or Internet 
+18
+application that:
+19
+A.  Allows a person to create an account; and 
+20
+B.  Enables an account holder to communicate with other account holders through 
+21
+posts.
+22
+§1500-AA. Use of social media platform; age requirements
+23
+1.  Age verification. A social media company must verify the age of an individual who 
+24
+attempts to become an account holder.
+25
+2.  Individuals under 14 years of age. A social media company may not allow an 
+26
+individual who is a minor under 14 years of age to become an account holder or remain an 
+27
+account holder.
+28
+3.  Individuals who are 14 or 15 years of age. If an individual is a minor who is 14 
+29
+or 15 years of age, the social media company must verify that express parental consent has 
+30
+been provided pursuant to section 1500-BB for the minor to become an account holder or 
+31
+remain an account holder.
+32
+§1500-BB.  Parental consent; requirements
+33
+1.  Verification of parental consent. To verify parental consent for an individual who 
+34
+is 14 or 15 years of age to become or remain an account holder, a social media company 
+35
+must require the individual's parent to provide:
+36
+A.  A government-issued identification document; and
+
+Page 2 - 132LR0945(01)
+1
+B.  Documentation verifying parental authorization. 
+2
+2.  Retention and revocation of parental consent.  Upon receipt of parental consent 
+3
+in accordance with subsection 1, a social media company shall retain those records for no 
+4
+less than 2 years.  A social media company shall provide an easily accessible method for a 
+5
+parent to revoke parental consent and to request the termination of the individual's account 
+6
+for which the parent provided the consent.
+7
+§1500-CC. Applicability
+8
+This chapter does not prohibit access to educational platforms or services specifically 
+9
+designed for minors, as long as such platforms are not primarily social media platforms. 
+10
+§1500-DD. Parental right to report 
+11
+A parent or guardian of a minor who believes that the minor has been permitted to 
+12
+become an account holder of a social media company in violation of this chapter may file 
+13
+a complaint against the social media company with the Office of the Attorney General.
+14
+§1500-EE.  Enforcement; penalties 
+15
+The Attorney General shall enforce the provisions of this chapter.  A social media 
+16
+company that violates a provision of this chapter is subject to the following civil penalties 
+17
+recoverable by the Attorney General in a civil action.
+18
+1.  No prior violations; penalty.  A social media company that has no previous 
+19
+violations of this chapter may be fined an amount not to exceed $10,000 per violation. 
+20
+2.  Prior violation; penalty.  A social media company that is found to have a previous 
+21
+violation of this chapter may be fined an amount not to exceed $25,000 per violation. 
+22
+§1500-FF.  Rulemaking 
+23
+The Office of the Attorney General shall adopt rules to implement this chapter.  Rules 
+24
+must include, but are not limited to, procedures for verifying account holder age and 
+25
+parental consent.  Rules adopted pursuant to this section are routine technical rules as 
+26
+defined in Title 5, chapter 375, subchapter 2-A.
+27
+Sec. 2.  Effective date. This Act takes effect January 1, 2026.
+28
+SUMMARY
+29
+This bill requires social media companies to prohibit individuals under 14 years of age 
+30
+from becoming or remaining an account holder. The bill requires social media companies 
+31
+to verify the age of an individual who attempts to become an account holder and requires 
+32
+social media companies to obtain and verify parental consent of social media account 
+33
+holders who are 14 or 15 years of age. The bill requires the Attorney General to enforce 
+34
+these provisions and stipulates the penalties recoverable by the Attorney General. The bill 
+35
+also directs the Office of the Attorney General to adopt rules to implement the age 
+36
+verification and parental consent processes.
+29
+30
+31
+32
+33
+34
+35
+36

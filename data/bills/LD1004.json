@@ -1,0 +1,154 @@
+{
+  "ld": 1004,
+  "paper": "HP0651",
+  "paper_display": "HP 651",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097356",
+  "title": "An Act to Adjust Certain Implementation and Reporting Dates in Legislation Held by the Governor That Became Law",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 16, 2026",
+  "governor_action": "Signed, Apr 16, 2026",
+  "chaptered_law": "ACTPUB, Chapter 757",
+  "chapter": "757",
+  "became_law": true,
+  "last_house_action": "4/9/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/14/2026 - On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table Subsequently, PASSED TO BE ENACTED in concurrence.",
+  "sponsors": [
+    {
+      "name": "Matt MOONEN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LEGISLATURE",
+      "minor": "STATUTES",
+      "detail": "PROVISIONS REVISED"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-11",
+      "date_raw": "3/11/2025",
+      "chamber": "House",
+      "description": "Committee on State and Local Government suggested and ordered printed. The Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-11",
+      "date_raw": "3/11/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-04-07",
+      "date_raw": "4/7/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SALISBURY of Westbrook, REPORT A Ought to Pass as Amended was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-990) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-990) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-09",
+      "date_raw": "4/9/2026",
+      "chamber": "Senate",
+      "description": "Reports READ. On motion by Senator BALDACCI of Penobscot The Report A Ought to Pass As Amended by Committee Amendment \"A\" (H-990) Report ACCEPTED. READ ONCE. Committee Amendment \"A\" (H-990) READ On motion by Senator GROHOSKI of Hancock Senate Amendment \"A\" (S-655) to Committee Amendment \"A\" (H-990) READ and ADOPTED Committee Amendment \"A\" (H-990) as Amended by Senate Amendment \"A\" (S-655) thereto ADOPTED Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-990) as Amended by Senate Amendment \"A\" (S-655) thereto In NON-CONCURRENCE Sent down for concurrence"
+    },
+    {
+      "date": "2026-04-09",
+      "date_raw": "4/9/2026",
+      "chamber": "House",
+      "description": "The House RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-990) as Amended by Senate Amendment \"A\" (S-655) thereto. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-09",
+      "date_raw": "4/9/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-13",
+      "date_raw": "4/13/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator RENY of Lincoln PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending PASSAGE TO BE ENACTED , in concurrence."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table Subsequently, PASSED TO BE ENACTED in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-990 )",
+      "new_title": "An Act to Adjust Certain Implementation and Reporting Dates in Legislation Held by the Governor That Became Law",
+      "house_action": "Adopted on 4/9/2026",
+      "senate_action": "Adopted on 4/9/2026",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "C \"B\" (H-991 )",
+      "new_title": "An Act to Adjust Certain Implementation and Reporting Dates in Legislation Held by the Governor That Became Law",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    },
+    {
+      "label": "S \"A\" (S-655 ) to C \"A\" (H-990 )",
+      "new_title": "",
+      "house_action": "Adopted on 4/9/2026",
+      "senate_action": "Adopted on 4/9/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0651&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0651&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0651&item=5&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0651&item=6&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0651&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0651",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0651&SessionID=16",
+  "scraped_at": "2026-06-30T18:48:09Z"
+}

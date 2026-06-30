@@ -1,0 +1,432 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2236
+H.P. 1512
+House of Representatives, March 17, 2026
+An Act Regarding Public Records Maintained by the Department of 
+Inland Fisheries and Wildlife
+Reported by Representative ROBERTS of South Berwick for the Joint Standing Committee 
+on Inland Fisheries and Wildlife pursuant to Resolve 2025, chapter 37, section 6.
+Reference to the Committee on Inland Fisheries and Wildlife suggested and ordered printed 
+pursuant to Joint Rule 218.
+ROBERT B. HUNT
+Clerk
+
+Page 1 - 132LR3027(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  12 MRSA §10110, as enacted by PL 2011, c. 185, §1, is repealed.
+3
+Sec. 2.  12 MRSA §10111 is enacted to read:
+4
+§10111.  Records and databases related to licenses, permits, registrations, harvest 
+5
+records and applications
+6
+1.  Definitions.  For purposes of this section, unless the context otherwise indicates, 
+7
+the following terms have the following meanings.
+8
+A.  "Commercial record" means any record the department holds that is intended for 
+9
+business operations or that allows a person or entity to charge a fee for a product or 
+10
+service.
+11
+B.  "Data" means information existing in an electronic medium and contained in a 
+12
+records database.
+13
+C.  "Noncommercial record" means any paper or electronic record the department 
+14
+holds, including, but not limited to, a license, permit, registration, harvest record and 
+15
+any application for these records, that is not intended for business operations and that 
+16
+does not allow a person or entity to charge a fee for a product or service.
+17
+D.  "Personally identifiable information" means:
+18
+(1)  A person's name;
+19
+(2)  A person's social security number;
+20
+(3)  A person's telephone number;
+21
+(4)  A person's e-mail address;
+22
+(5)  A person's physical address;
+23
+(6)  A person's identification number in the department's online electronic system 
+24
+for people who hunt, fish or trap;
+25
+(7)  A person's date of birth;
+26
+(8)  A person's driver's license number;
+27
+(9)  A person's taxpayer identification number;
+28
+(10)  Information contained in any free text data field; and
+29
+(11)  Any other information contained in a data field that may be used to identify 
+30
+a person.
+31
+With respect to a commercial record, "personally identifiable information" does not 
+32
+include a person's telephone number, e-mail address or physical address.
+33
+2.  Individual records requests; confidentiality of personally identifiable 
+34
+information in records.  Any personally identifiable information included in any 
+35
+commercial or noncommercial record, whether contained in a records database or in 
+36
+individual or multiple records, is confidential, except that the department may disclose 
+37
+personally identifiable information:
+
+Page 2 - 132LR3027(01)
+1
+A.  For law enforcement purposes in accordance with section 13106-E and Title 16, 
+2
+section 805-A;
+3
+B.  For the purposes described in section 13106-E, subsection 2 or section 13157-D, 
+4
+subsection 2;
+5
+C.  For fish and wildlife management purposes;
+6
+D.  To other state and federal government entities; or
+7
+E.  To the person who is the subject of the record or to that person's agent.
+8
+3.  Disclosure of data not personally identifiable.  The department may publicly 
+9
+disseminate data that is not personally identifiable information that is contained in a 
+10
+database and may provide to persons, businesses and other entities copies of individual 
+11
+records and whole or partial databases of records that do not contain personally identifiable 
+12
+information.
+13
+4.  Reasonable fees.  The department may charge reasonable fees for both individual 
+14
+record requests and database requests at the expense of the person making the request.  The 
+15
+cost of furnishing a copy of the record is not subject to the limitations of Title 1, section 
+16
+408-A.
+17
+Sec. 3.  12 MRSA §13106-E is enacted to read:
+18
+§13106-E.  Snowmobile accident report data
+19
+1.  Definitions.  For purposes of this section, unless the context otherwise indicates, 
+20
+the following terms have the following meanings.
+21
+A.  "Data" means information existing in an electronic medium and contained in an 
+22
+accident report database.
+23
+B.  "Nonpersonally identifiable accident report data" means any data in an accident 
+24
+report that are not personally identifiable accident report data.
+25
+C.  "Personally identifiable accident report data" means:
+26
+(1)  A person's name, residential and post office box mailing address, social 
+27
+security number, date of birth and driver's license number;
+28
+(2)  A snowmobile registration number;
+29
+(3)  An insurance policy number;
+30
+(4)  Information contained in any free text data field of an accident report; and
+31
+(5)  Any other information contained in a data field of an accident report that may 
+32
+be used to identify a person.
+33
+2.  Accident report information.  An accident report made by a law enforcement 
+34
+officer or a report made by an operator as required by section 13106-B or 13106-C is for 
+35
+the purposes of statistical analysis and accident prevention.  A report or statement contained 
+36
+in the accident report, or a report as required by section 13106-C, subsection 1, or a decision 
+37
+made as a result of that report or statement contained in the accident report or report 
+38
+required by section 13106-C, subsection 1 is confidential and may not be admitted as 
+39
+evidence in any trial, civil or criminal, arising out of the accident. Such a report may be 
+40
+admissible as evidence solely to prove compliance with this section.
+
+Page 3 - 132LR3027(01)
+1
+Notwithstanding this section or section 13106-C, the Game Warden Colonel may disclose 
+2
+the date, time and location of the accident reported under section 13106-B or 13106-C; the 
+3
+names and addresses of operators, owners and injured persons; the names and addresses of 
+4
+witnesses; and the name and address of the investigating officer. On written request, the 
+5
+Game Warden Colonel may furnish a photocopy of the investigating officer's report at the 
+6
+expense of the person making the request.
+7
+3.  Accident report database; public dissemination of accident report data.  Data 
+8
+maintained, administered or contributed to by the Bureau of Warden Service must be 
+9
+treated as follows.
+10
+A.  Except as provided in paragraph B, personally identifiable accident report data 
+11
+maintained, administered or contributed to by the Bureau of Warden Service is 
+12
+confidential.
+13
+B.  The Bureau of Warden Service may disseminate a snowmobile registration number 
+14
+contained in an accident report database maintained, administrated or contributed to by 
+15
+the Bureau of Warden Service to a person only if that person provides the Bureau of 
+16
+Warden Service an affidavit stating that the person will not:
+17
+(1)  Use the snowmobile registration number to identify or contact a person; or
+18
+(2)  Disseminate the snowmobile registration number to another person.
+19
+C.  The Bureau of Warden Service may publicly disseminate nonpersonally identifiable 
+20
+accident report data maintained, administered or contributed to by the Bureau of 
+21
+Warden Service.
+22
+4.  Reasonable fees.  The Bureau of Warden Service may charge reasonable fees for 
+23
+snowmobile accident report data. The cost of furnishing a copy of the report is not subject 
+24
+to the limitations of Title 1, section 408-A.
+25
+5.  Violation.  A person commits a Class E crime if that person:
+26
+A.  Is required to make a report pursuant to section 13106-B or 13106-C and knowingly 
+27
+fails to do so within the time required;
+28
+B.  Is an operator involved in a reportable snowmobile accident and knowingly fails to 
+29
+give a correct name and address when requested by a law enforcement officer at the 
+30
+scene;
+31
+C.  Is the operator involved in a reportable snowmobile accident under this section or 
+32
+is the owner of a snowmobile involved in a reportable accident and knowingly fails to 
+33
+produce the snowmobile or, if the snowmobile is operational, return it to the scene 
+34
+when requested by the investigating officer; or
+35
+D.  Obtains a snowmobile registration number pursuant to section 13104 and 
+36
+knowingly uses that snowmobile registration number to identify or contact a person or 
+37
+knowingly disseminates that snowmobile registration number to another person.
+38
+Sec. 4.  12 MRSA §13157-D is enacted to read:
+39
+§13157-D.  ATV accident report data
+40
+1.  Definitions.  For purposes of this section, unless the context otherwise indicates, 
+41
+the following terms have the following meanings.
+
+Page 4 - 132LR3027(01)
+1
+A.  "Data" means information existing in an electronic medium and contained in an 
+2
+accident report database.
+3
+B.  "Nonpersonally identifiable accident report data" means any data in an accident 
+4
+report that are not personally identifiable accident report data.
+5
+C.  "Personally identifiable accident report data" means:
+6
+(1)  A person's name, residential and post office box mailing address, social 
+7
+security number, date of birth and driver's license number;
+8
+(2)  An ATV registration number;
+9
+(3) An insurance policy number;
+10
+(4)  Information contained in any free text data field of an accident report; and
+11
+(5)  Any other information contained in a data field of an accident report that may 
+12
+be used to identify a person.
+13
+2.  Accident report information.  An accident report made by a law enforcement 
+14
+officer or a report of an ATV accident made by an operator as required by section 13157-C 
+15
+is for the purposes of statistical analysis and accident prevention. A report or statement 
+16
+contained in the accident report, or a report as required by section 13157-C, subsection 1, 
+17
+or a decision made as a result of that report or statement is confidential and may not be 
+18
+admitted as evidence in any trial, civil or criminal, arising out of the accident. Such a report 
+19
+may be admissible as evidence solely to prove compliance with this section.
+20
+Notwithstanding this section, the Game Warden Colonel may disclose the date, time and 
+21
+location of the accident and the names and addresses of operators, owners, injured persons, 
+22
+witnesses and the investigating officer.
+23
+3.  Accident report database; public dissemination of accident report data.  Data 
+24
+maintained, administered or contributed to by the Bureau of Warden Service must be 
+25
+treated as follows.
+26
+A.  Except as provided in paragraph B, personally identifiable accident report data 
+27
+maintained, administered or contributed to by the Bureau of Warden Service is 
+28
+confidential.
+29
+B.  The Bureau of Warden Service may disseminate an ATV registration number 
+30
+contained in an accident report database maintained, administrated or contributed to by 
+31
+the Bureau of Warden Service to a person only if that person provides the Bureau of 
+32
+Warden Service an affidavit stating that the person will not:
+33
+(1)  Use the ATV registration number to identify or contact a person; or
+34
+(2)  Disseminate the ATV registration number to another person.
+35
+C.  The Bureau of Warden Service may publicly disseminate nonpersonally identifiable 
+36
+accident report data maintained, administered or contributed to by the Bureau of 
+37
+Warden Service.
+38
+4.  Reasonable fees.  On written request, the Game Warden Colonel may furnish a 
+39
+photocopy of the investigating officer's report at the expense of the person making the 
+40
+request.  The cost of furnishing a copy of the report is not subject to the limitations of Title 
+41
+1, section 408-A.
+
+Page 5 - 132LR3027(01)
+1
+SUMMARY
+2
+This bill repeals a provision in law that allows an applicant for a hunting or fishing 
+3
+license to indicate that the applicant's e-mail address is confidential and that requires that 
+4
+information be held confidential by the Department of Inland Fisheries and Wildlife.  It 
+5
+creates a new section of law related to records held by the department and databases the 
+6
+department contributes to related to department licenses, permits, registrations and 
+7
+applications. The bill also defines "data," "commercial record," "noncommercial record" 
+8
+and "personally identifiable information" within a noncommercial record and within a 
+9
+commercial record. There is more personally identifiable information held confidential for 
+10
+a noncommercial record than for a commercial record.
+11
+The bill provides exemptions to holding personally identifiable information 
+12
+confidential, including exceptions for law enforcement purposes in accordance with the 
+13
+Maine Revised Statutes, Title 16, section 805-A, fish and wildlife management purposes, 
+14
+other state and federal government entities and the person who is the subject of the record 
+15
+or that person's agent.
+16
+The bill provides that data contained in a records database, whether individual or 
+17
+multiple records, maintained, administered or contributed to by the department that is 
+18
+considered confidential may not be publicly disseminated.
+19
+The bill provides that the department may publicly disseminate nonpersonally 
+20
+identifiable data that is contained in a records database and may provide copies of 
+21
+individual records and whole or partial databases of records to individuals, businesses and 
+22
+other entities.
+23
+The bill provides that the department may charge reasonable fees for both individual 
+24
+record requests and database requests at the expense of the person making the request.  The 
+25
+cost of furnishing a copy of the record is not subject to the limitations of the Maine Revised 
+26
+Statutes, Title 1, section 408-A. The bill creates all-terrain vehicle and snowmobile 
+27
+accident reporting system exemptions that mirror the Department of Public Safety's 
+28
+exemption for motor vehicle crash report data that is held in the Maine Crash Reporting 
+29
+Online Search and Ordering Service. These provisions allow any nonpersonally identifiable 
+30
+all-terrain vehicle and snowmobile accident report data to be released to the public, and the 
+31
+cost to process these data requests and release the records is not subject to the limitations 
+32
+within the Maine Revised Statutes, Title 1, section 408-A.  These provisions also create 
+33
+definitions for "data," "nonpersonally identifiable accident report data" and "personally 
+34
+identifiable accident report data."
+35
+The bill also provides that all-terrain vehicle and snowmobile accident reports or 
+36
+statements contained within have specific uses for law enforcement purposes and the 
+37
+agency can disseminate individual records or many records within records databases in 
+38
+accordance with this law. All-terrain vehicle and snowmobile registration numbers may be 
+39
+released only under an affidavit restricting the use and misuse of registration numbers, and 
+40
+failure to comply with reporting obligations is a Class E crime.
+2
+3
+4
+5
+6
+7
+8
+9
+10

@@ -1,0 +1,202 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1780
+H.P. 1191
+House of Representatives, April 24, 2025
+An Act to Secure Under Authority of a Subpoena Pretrial 
+Statements from a Witness Other than the Defendant in a Criminal 
+Proceeding
+Reference to the Committee on Judiciary suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SINCLAIR of Bath.
+
+Page 1 - 132LR0876(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  15 MRSA §1322 is enacted to read:
+3
+§1322.  Witnesses other than defendant
+4
+1.  Request for statement.  Any person, other than the defendant, with information 
+5
+relevant to the proceeding shall give a statement upon request of the defendant.  The 
+6
+defendant may obtain the statement of the person by serving a written notice of statement 
+7
+upon the person whose statement is sought and upon the prosecution no later than 14 days 
+8
+before the date scheduled for the statement. 
+9
+2.  Notice of statement.  The notice of statement under this section must state the time 
+10
+and place for the taking of the statement along with a description of the information sought 
+11
+in the statement or any materials to be examined.  The defendant issuing the notice shall 
+12
+make reasonable efforts to confer with the person whose statement is requested in good 
+13
+faith regarding scheduling of a statement before serving a notice of statement.  The notice 
+14
+of statement must describe the method by which the statement must be recorded, which 
+15
+may be by audio recording, audiovisual recording or stenographic means.  A statement may 
+16
+be taken in person, by telephone or by remote electronic means. 
+17
+3.  Process.  A notice of statement under this section, and the taking of the statement, 
+18
+are governed by the following procedures: 
+19
+A. A subpoena must be served with the notice of statement to secure the presence of 
+20
+the person and any materials to be examined during the statement.  A copy of the 
+21
+subpoena and the notice of statement must be sent to the prosecution and filed with the 
+22
+court; 
+23
+B. Notwithstanding anything to the contrary in subsection 1 or 2, if a defendant is 
+24
+charged with a crime under Title 17-A, chapter 9 and the victim of that crime is a family 
+25
+or household member as defined by Title 19-A, section 4102, subsection 6 and it is the 
+26
+victim's statement that is sought, then the subpoena and notice of statement must be 
+27
+served upon the District Attorney's office handling that prosecution and not directly 
+28
+upon the victim.  The State shall provide the notice and subpoena to the victim.
+29
+(1) A notice under this paragraph must be served upon the District Attorney's office 
+30
+no later than 45 days before the date scheduled for the statement. 
+31
+(2) The State shall provide certification to the defendant and the court that the 
+32
+notice and subpoena were provided to the victim no later than 14 days before the 
+33
+date scheduled for the statement. 
+34
+(3) Statements taken from victims of crimes of domestic violence must be taken 
+35
+through hybrid means unless the counsel for the defendant can provide a safe and 
+36
+secure location for a statement to be taken in person. 
+37
+(4) If the State cannot locate the named victim to provide notice and subpoena 
+38
+required under this section, the court shall consider that failure as a failure to appear 
+39
+by a witness under paragraph D. 
+40
+For the purposes of this paragraph, "hybrid means" means the use of telephone, Internet 
+41
+or other remote audio and video communication technologies to conduct hearings or 
+
+Page 2 - 132LR0876(01)
+42
+other judicial proceedings at which one or more, but not all, attorneys, parties and 
+43
+witnesses participate without being present in the same physical location as the court; 
+3
+C. After the statement is taken, the defendant shall file a confirmation that the statement 
+4
+was taken; 
+5
+D. If a person who has been served a notice of statement and a subpoena fails to appear 
+6
+or provide the requested information or materials, the defendant may file a motion 
+7
+requesting the court to issue an order barring that person from appearing as a witness 
+8
+in the case on any topic described in the notice of statement; and
+9
+E. At any time during the taking of the statement, a person may terminate the statement 
+10
+if the examination is being conducted in bad faith or in such a manner as to 
+11
+unreasonably annoy, embarrass or oppress the person.  The defendant may file a motion 
+12
+to have the court order a person to resume the statement.  The defendant bears the 
+13
+burden of proving to the court by a preponderance of the evidence that the examination 
+14
+was not being conducted in such a manner as to unreasonably annoy, embarrass or 
+15
+oppress the person.  If the statement has been terminated, the statement may be resumed 
+16
+thereafter only upon an order of the court in which the action is pending. 
+17
+4.  Remedy.  The following remedies are available under this section. 
+18
+A. A court that receives a request under subsection 3, paragraph D for an order barring 
+19
+a person from appearing as a witness shall schedule a hearing to determine: 
+20
+(1) Whether the potential witness was served the notice of statement and subpoena; 
+21
+and
+22
+(2) Whether the potential witness appeared as required by the notice of statement. 
+23
+B. If the court finds by clear and convincing evidence that a properly served person did 
+24
+not appear, the court shall issue an order barring that potential witness from any future 
+25
+testimony in the pending matter. 
+26
+C. If a person terminates a statement under subsection 3, paragraph E, the defendant 
+27
+may move to have the person barred from appearing as a witness.  The court shall 
+28
+schedule a hearing on the motion to determine if the statement was being conducted in 
+29
+bad faith or in such a manner as to unreasonably annoy, embarrass or oppress the 
+30
+person.  If a court finds by clear and convincing evidence that the statement was not 
+31
+being conducted in bad faith or in such a manner as to unreasonably annoy, embarrass 
+32
+or oppress the person, the court shall issue an order barring that person from appearing 
+33
+as a witness in the pending matter. 
+34
+D. Any person who is barred from appearing as a witness under paragraph B or C may 
+35
+not appear as a witness in any future criminal proceedings involving the same alleged 
+36
+conduct. 
+37
+5.  No contact order.  This section and the procedure under this section may not be 
+38
+construed to modify an order of a court prohibiting contact between a defendant and a 
+39
+named person in that order.
+40
+SUMMARY
+41
+This bill allows a defendant to request that any person with information relevant to the 
+42
+proceeding give a statement upon being served a written notice of statement no later than 
+1
+2
+41
+42
+
+Page 3 - 132LR0876(01)
+43
+14 days before the date scheduled for the statement to be taken.  The bill provides a 
+44
+procedure to bar a person who fails to appear for a scheduled statement from appearing as 
+45
+a witness in any case on the topic described in the notice of statement.  The bill also allows 
+46
+a person to terminate a statement if the examination is being conducted in bad faith.
+1
+2
+3
+4

@@ -1,0 +1,84 @@
+{
+  "ld": 1898,
+  "paper": "HP1269",
+  "paper_display": "HP 1269",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099036",
+  "title": "An Act to Correct Outdated References Regarding the Maine Human Rights Act",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 11, 2025",
+  "governor_action": "Signed, Jun 11, 2025",
+  "chaptered_law": "ACTPUB, Chapter 269",
+  "chapter": "269",
+  "became_law": true,
+  "last_house_action": "6/4/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/5/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Matt MOONEN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HUMAN RIGHTS",
+      "minor": "STATUTES",
+      "detail": "CORRECTIONS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-01",
+      "date_raw": "5/1/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on May 1, 2025. The Bill was REFERRED to the Committee on JUDICIARY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED, in concurrence. READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-06-04",
+      "date_raw": "6/4/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1269&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1269&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1269",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1269&SessionID=16",
+  "scraped_at": "2026-06-30T19:57:18Z"
+}

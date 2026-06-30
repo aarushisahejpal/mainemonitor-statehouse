@@ -1,0 +1,14 @@
+{
+  "generator": "maine-monitor",
+  "version": "0.1.0",
+  "snum": 132,
+  "generated_at": "2026-06-30T20:25:19Z",
+  "bill_count": 2245,
+  "enacted_count": 972,
+  "with_roll_calls": 673,
+  "total_actions": 13982,
+  "total_roll_calls": 1542,
+  "ld_min": 1,
+  "ld_max": 2245,
+  "integrity_warnings": 0
+}

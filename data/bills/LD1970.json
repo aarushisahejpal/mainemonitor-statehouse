@@ -1,0 +1,222 @@
+{
+  "ld": 1970,
+  "paper": "HP1314",
+  "paper_display": "HP 1314",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099293",
+  "title": "An Act to Amend the Laws Regarding Consent for HIV Testing and Disclosure of Related Medical Information for Insurance Purposes",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Enacted, Mar 19, 2026",
+  "governor_action": "Signed, Mar 19, 2026",
+  "chaptered_law": "ACTPUB, Chapter 559",
+  "chapter": "559",
+  "became_law": true,
+  "last_house_action": "3/5/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/10/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Laurie OSHER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Orono"
+    },
+    {
+      "name": "Stacy BRENNER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "John EDER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterboro"
+    },
+    {
+      "name": "Ryan FECTEAU",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Speaker",
+      "district": "Biddeford"
+    },
+    {
+      "name": "Paul FLYNN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Albion"
+    },
+    {
+      "name": "Kristi MATHIESON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kittery"
+    },
+    {
+      "name": "Matt MOONEN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Ambureen RANA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Amy ROEDER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Laura SUPICA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "DISEASES",
+      "minor": "AIDS",
+      "detail": "TESTING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "House",
+      "description": "Committee on Health Coverage, Insurance and Financial Services suggested and ordered printed. The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES in concurrence"
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MATHIESON of Kittery, TABLED pending ACCEPTANCE of Either Report. Later today assigned."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-11",
+      "date_raw": "6/11/2025",
+      "chamber": "House",
+      "description": "Speaker laid before the House Subsequently, on motion of Representative MOONEN of Portland the Bill and accompanying papers were COMMITTED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-12",
+      "date_raw": "6/12/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator BAILEY of York Bill and accompanying papers COMMITTED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES in concurrence."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-02-24",
+      "date_raw": "2/24/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MATHIESON of Kittery, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"B\" (H-801) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"B\" (H-801) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-02-26",
+      "date_raw": "2/26/2026",
+      "chamber": "Senate",
+      "description": "Reports READ On motion by Senator BAILEY of York the Majority Ought to Pass as Amended Report ACCEPTED . Bill READ ONCE. Committee Amendment \"B\" (H-801) READ and ADOPTED. ASSIGNED FOR SECOND READING NEXT LEGISLATIVE DAY."
+    },
+    {
+      "date": "2026-03-03",
+      "date_raw": "3/3/2026",
+      "chamber": "Senate",
+      "description": "COMMITTEE ON BILLS IN THE SECOND READING REPORTS NO FURTHER VERBAL AMENDMENTS NECESSARY. REPORT ACCEPTED. READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"B\" (H-801) , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2026-03-05",
+      "date_raw": "3/5/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-10",
+      "date_raw": "3/10/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-541 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    },
+    {
+      "label": "C \"B\" (H-801 )",
+      "new_title": "",
+      "house_action": "Adopted on 2/24/2026",
+      "senate_action": "Adopted on 2/26/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1314&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1314&item=5&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1314&item=6&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1314&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1314",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1314&SessionID=16",
+  "scraped_at": "2026-06-30T20:03:08Z"
+}

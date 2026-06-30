@@ -1,0 +1,129 @@
+{
+  "ld": 1642,
+  "paper": "SP0650",
+  "paper_display": "SP 650",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098458",
+  "title": "An Act to Protect Maine Consumers by Simplifying Subscription and Health Club Membership Cancellations",
+  "committee": "Housing and Economic Development",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 20, 2025",
+  "governor_action": "Signed, Jun 20, 2025",
+  "chaptered_law": "ACTPUB, Chapter 376",
+  "chapter": "376",
+  "became_law": true,
+  "last_house_action": "6/16/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/16/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Timothy NANGLE",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "BUSINESS PRACTICES",
+      "minor": "SALES",
+      "detail": "SUBSCRIPTION CANCELLATION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-11",
+      "date_raw": "4/11/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on April 11, 2025 and REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "Senate",
+      "description": "Reports READ On motion by Senator CURRY of Waldo Tabled until Later in Today's Session, pending ACCEPTANCE OF EITHER REPORT. Unfinished Business"
+    },
+    {
+      "date": "2025-06-11",
+      "date_raw": "6/11/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-13",
+      "date_raw": "6/13/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-13",
+      "date_raw": "6/13/2025",
+      "chamber": "Senate",
+      "description": "TAKEN from the Table by the President. Reports READ On motion by Senator CURRY of Waldo The Majority Ought to Pass As Amended Report ACCEPTED READ ONCE Committee Amendment \"A\" (S-321) READ . On motion by Senator NANGLE of Cumberland Senate Amendment \"A\" (S-391) to Committee Amendment \"A\" (S-321) READ and ADOPTED. Committee Amendment \"A\" (S-321) as Amended by Senate Amendment \"A\" (S-391) thereto ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-321) as Amended by Senate Amendment \"A\" (S-391) thereto Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative GERE of Kennebunkport, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (S-321) was READ . Senate Amendment \"A\" (S-391) to Committee Amendment \"A\" (S-321) was READ and ADOPTED . Committee Amendment \"A\" (S-321) as Amended by Senate Amendment \"A\" (S-391) thereto was ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-321) as Amended by Senate Amendment \"A\" (S-391) thereto. In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-321 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/16/2025",
+      "senate_action": "Adopted on 6/13/2025",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "S \"A\" (S-391 ) to C \"A\" (S-321 )",
+      "new_title": "An Act to Protect Maine Consumers by Simplifying Subscription and Health Club Membership Cancellations",
+      "house_action": "Adopted on 6/16/2025",
+      "senate_action": "Adopted on 6/13/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0650&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0650&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0650&item=4&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0650&item=6&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0650",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0650&SessionID=16",
+  "scraped_at": "2026-06-30T19:36:39Z"
+}

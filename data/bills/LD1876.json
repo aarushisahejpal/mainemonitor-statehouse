@@ -1,0 +1,198 @@
+{
+  "ld": 1876,
+  "paper": "HP1247",
+  "paper_display": "HP 1247",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099021",
+  "title": "An Act to Change the Name and Duties of the Taxpayer Advocate to Increase the Use of State Tax Credits",
+  "committee": "Taxation",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jul 1, 2025",
+  "governor_action": "Signed, Jul 1, 2025",
+  "chaptered_law": "ACTPUB, Chapter 486",
+  "chapter": "486",
+  "became_law": true,
+  "last_house_action": "6/25/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/25/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Flavia DEBRITO",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterville"
+    },
+    {
+      "name": "Joseph BALDACCI",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Bruce BICKFORD",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    },
+    {
+      "name": "Matthea DAUGHTRY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "President",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Gary FRIEDMANN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bar Harbor"
+    },
+    {
+      "name": "Drew GATTINE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    },
+    {
+      "name": "Adam LEE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "Ann MATLACK",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "St. George"
+    },
+    {
+      "name": "Ambureen RANA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Russell WHITE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Ellsworth"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "INCOME TAX",
+      "minor": "CREDITS",
+      "detail": "AWARENESS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-01",
+      "date_raw": "5/1/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on May 1, 2025. The Bill was REFERRED to the Committee on TAXATION pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-760) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-760) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-760), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-06-18",
+      "date_raw": "6/18/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-18",
+      "date_raw": "6/18/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending ENACTMENT in concurrence."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table On motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby the Bill was PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-760) On further motion by Same Senator the Senate SUSPENDED THE RULES to RECONSIDER their actions whereby Committee Amendment \"A\" (H-760) was ADOPTED. On further motion by Same Senator Senate Amendment \"A\" (S-482) to Committee Amendment \"A\" (H-760) READ and ADOPTED. Committee Amendment \"A\" (H-760) as Amended by Senate Amendment \"A\" (S-482) thereto ADOPTED. PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-760) as Amended by Senate Amendment \"A\" (S-482) thereto in NON-CONCURRENCE. Sent down for concurrence."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "The House RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-760) as Amended by Senate Amendment \"A\" (S-482) thereto. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-760 )",
+      "new_title": "An Act to Change the Name and Duties of the Taxpayer Advocate to Increase the Use of State Tax Credits",
+      "house_action": "Adopted on 6/25/2025",
+      "senate_action": "Adopted on 6/25/2025",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "S \"A\" (S-482 ) to C \"A\" (H-760 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/25/2025",
+      "senate_action": "Adopted on 6/25/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1247&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1247&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1247&item=4&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1247&item=6&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1247",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1247&SessionID=16",
+  "scraped_at": "2026-06-30T19:55:24Z"
+}

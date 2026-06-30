@@ -1,0 +1,124 @@
+{
+  "ld": 1882,
+  "paper": "HP1253",
+  "paper_display": "HP 1253",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099030",
+  "title": "Resolve, Directing the Department of Environmental Protection to Conduct Rulemaking Regarding Significant Vernal Pools",
+  "committee": "Environment and Natural Resources",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 27, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/1/2025 - Received by the Clerk of the House on May 1, 2025. The Resolve was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+  "last_senate_action": "5/27/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Sally CLUCHEY",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bowdoinham"
+    },
+    {
+      "name": "Daniel ANKELES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "Arthur BELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Yarmouth"
+    },
+    {
+      "name": "Richard CAMPBELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Orrington"
+    },
+    {
+      "name": "Anne CARNEY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Victoria DOUDERA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Camden"
+    },
+    {
+      "name": "Traci GERE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kennebunkport"
+    },
+    {
+      "name": "Cheryl GOLEK",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Harpswell"
+    },
+    {
+      "name": "Lori GRAMLICH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Orchard Beach"
+    },
+    {
+      "name": "Denise TEPLER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Sagadahoc"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LAND USE",
+      "minor": "SET-BACKS",
+      "detail": "VERNAL POOLS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-01",
+      "date_raw": "5/1/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on May 1, 2025. The Resolve was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1253&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1253",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1253&SessionID=16",
+  "scraped_at": "2026-06-30T19:55:54Z"
+}

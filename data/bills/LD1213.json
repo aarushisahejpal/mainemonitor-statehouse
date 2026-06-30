@@ -1,0 +1,173 @@
+{
+  "ld": 1213,
+  "paper": "SP0502",
+  "paper_display": "SP 502",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097643",
+  "title": "An Act Regarding Apportionment of Stipends to Agricultural Fairs",
+  "committee": "Agriculture, Conservation and Forestry",
+  "status_summary": "",
+  "final_disposition": "Enacted, May 30, 2025",
+  "governor_action": "Signed, May 30, 2025",
+  "chaptered_law": "ACTPUB, Chapter 161",
+  "chapter": "161",
+  "became_law": true,
+  "last_house_action": "5/28/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/28/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Craig HICKMAN",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Kennebec"
+    },
+    {
+      "name": "Richard BENNETT",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Russell BLACK",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Franklin"
+    },
+    {
+      "name": "Mark COOPER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Windham"
+    },
+    {
+      "name": "Dean CRAY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Palmyra"
+    },
+    {
+      "name": "Timothy GUERRETTE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Caribou"
+    },
+    {
+      "name": "Randall HALL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Wilton"
+    },
+    {
+      "name": "Caldwell JACKSON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Oxford"
+    },
+    {
+      "name": "Harold STEWART",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Nathan WADSWORTH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hiram"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "FAIRS",
+      "minor": "AGRICULTURAL",
+      "detail": "FUNDING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Committee on AGRICULTURE, CONSERVATION AND FORESTRY suggested and ordered printed REFERENCE to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE . Committee Amendment \"A\" (S-135) READ and ADOPTED . Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-135) . Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-135) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-135 )",
+      "new_title": "An Act Regarding Apportionment of Stipends to Agricultural Fairs",
+      "house_action": "Adopted on 5/27/2025",
+      "senate_action": "Adopted on 5/22/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0502&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0502&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0502&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0502",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0502&SessionID=16",
+  "scraped_at": "2026-06-30T19:04:45Z"
+}

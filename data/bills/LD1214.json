@@ -1,0 +1,100 @@
+{
+  "ld": 1214,
+  "paper": "SP0503",
+  "paper_display": "SP 503",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097644",
+  "title": "An Act to Designate the Second Congressional District \"Acadia\"",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 28, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/28/2025 - Reports READ . On motion of Representative SALISBURY of Westbrook, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )",
+  "last_senate_action": "5/27/2025 - Reports Read On motion by Senator BALDACCI of Penobscot the Majority Ought Not to Pass Report ACCEPTED. Sent down for concurrence.",
+  "sponsors": [
+    {
+      "name": "Joseph MARTIN",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Donald ARDELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Monticello"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "FEDERAL GOVERNMENT",
+      "minor": "DISTRICTS",
+      "detail": "2ND CONGRESSIONAL"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Committee on STATE AND LOCAL GOVERNMENT suggested and ordered printed REFERENCE to the Committee on STATE AND LOCAL GOVERNMENT Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator BALDACCI of Penobscot the Majority Ought Not to Pass Report ACCEPTED. Sent down for concurrence."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SALISBURY of Westbrook, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-138 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0503&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0503&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0503",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0503&SessionID=16",
+  "scraped_at": "2026-06-30T19:04:50Z"
+}

@@ -1,0 +1,2913 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 288
+H.P. 188
+House of Representatives, February 3, 2025
+An Act to Make Technical Changes to Maine's Tax Laws
+Submitted by the Department of Administrative and Financial Services pursuant to Joint 
+Rule 204.
+Received by the Clerk of the House on January 30, 2025.  Referred to the Committee on 
+Taxation pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative CLOUTIER of Lewiston.
+
+Page 1 - 132LR0154(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+PART A
+3
+Sec. A-1.  36 MRSA §327, sub-§3, as amended by PL 2017, c. 170, Pt. B, §2, is 
+4
+further amended to read:
+5
+3.  Employment of assessor.  Any A municipal assessing unit may employ a part-time, 
+6
+non-certified noncertified assessor or contract with a firm or organization that provides 
+7
+assessing services; when any a municipal assessing unit or primary assessing area employs 
+8
+a full-time, professional assessor, this assessor must be certified by the bureau as a 
+9
+professionally trained assessor having the basic knowledge required to perform the 
+10
+assessing function. The bureau shall publish, for the information of the municipalities, a 
+11
+list of assessing firms or organizations.  The bureau shall provide to a municipality, on 
+12
+request by the municipality, a list of certified assessors.
+13
+Sec. A-2.  36 MRSA §684, sub-§1, as amended by PL 2007, c. 438, §21, is further 
+14
+amended to read:
+15
+1.  Generally.  The bureau shall furnish provide to the assessor of each municipality a 
+16
+sufficient number of printed access to forms to be filed by applicants for an exemption 
+17
+under this subchapter and shall determine the content of the forms.  A municipality shall 
+18
+provide to its inhabitants reasonable notice of the availability of application forms.  An 
+19
+individual claiming an exemption under this subchapter for the first time shall file the 
+20
+application form with the assessor or the assessor's representative.  The application must 
+21
+be filed on or before April 1st of the year on which the taxes are based.
+22
+Sec. A-3.  36 MRSA §6250, sub-§3, as amended by PL 2021, c. 483, Pt. AA, §3, 
+23
+is further amended to read:
+24
+3.  Homestead.  "Homestead" means the owner-occupied principal dwelling owned by 
+25
+the taxpayer and up to 10 contiguous acres upon which it is located.  If the homestead is 
+26
+located in a multi-unit building, the homestead is the portion of the building actually used 
+27
+as the principal dwelling and its percentage of the value of the common elements and of 
+28
+the value of the tax lot upon which it is built.  The percentage is the value of the unit 
+29
+consisting of the homestead principal dwelling compared to the total value of the building 
+30
+exclusive of the common elements, if any. "Homestead" includes the taxpayer-occupied 
+31
+principal dwelling and up to 10 contiguous acres upon which it is located that is held in a 
+32
+revocable living trust for the benefit of the taxpayer.
+33
+Sec. A-4.  36 MRSA §6254, sub-§1, as amended by PL 2021, c. 483, Pt. AA, §11, 
+34
+is further amended to read:
+35
+1.  Lien.  The lien provided in section 552 must continue for purposes of protecting the 
+36
+State's deferred tax interest in tax deferred tax-deferred property.  When it is determined 
+37
+that one of the events set out in section 6259 has occurred and that a property is no longer 
+38
+eligible for property tax deferral under this chapter, the State Tax Assessor shall send notice 
+39
+by certified mail to the taxpayer, or the taxpayer's heirs or devisees, listing the total amount 
+40
+of deferred property taxes, including accrued interest and costs of all the years and 
+41
+demanding payment on or before April 30th of the year following the tax year in which the 
+42
+circumstances causing withdrawal from the provisions of this chapter occur the due date 
+43
+established by section 6260.
+
+Page 2 - 132LR0154(01)
+1
+When the circumstances listed in section 6259, subsection 4 occur, the amount of deferred 
+2
+taxes is due and payable 5 days before the date of removal of the property from the State.
+3
+If the deferred tax liability of a property has not been satisfied by the April 30th demand 
+4
+due date established by section 6260, the State Tax Assessor shall, within 30 days, record 
+5
+in the registry of deeds in the county where the real estate is located a tax lien certificate 
+6
+signed by the State Tax Assessor or bearing the assessor's facsimile signature, setting forth 
+7
+the total amount of deferred tax liability, a description of the real estate on which the tax 
+8
+was deferred and an allegation that a tax lien is claimed on the real estate to secure payment 
+9
+of the tax, that a demand for payment of the tax has been made in accordance with this 
+10
+section and that the tax remains unpaid.
+11
+At the time of the recording of the tax lien certificate in the registry of deeds, the State Tax 
+12
+Assessor shall send by certified mail, return receipt requested, to each record holder of a 
+13
+mortgage on the real estate, to the holder's last known address, a true copy of the tax lien 
+14
+certificate.  The cost to be paid by the taxpayer, or the taxpayer's heirs or devisees, is the 
+15
+sum of the fees for recording and discharging of the lien as established by Title 33, section 
+16
+751, plus $13.  Upon redemption, the State Tax Assessor shall prepare and record a 
+17
+discharge of the tax lien mortgage.  The lien described in section 552 is the basis of this tax 
+18
+lien mortgage procedure.
+19
+The filing of the tax lien certificate, provided for in this section, in the registry of deeds 
+20
+creates a mortgage on the real estate to the State and has priority over all other mortgages, 
+21
+liens, attachments and encumbrances of any nature and gives to the State all rights usually 
+22
+instant to a mortgage, except that the mortgagee does not have any right of possession of 
+23
+the real estate until the right of redemption expires.
+24
+Payments accepted during the redemption period may not interrupt or extend the 
+25
+redemption period or in any way affect the foreclosure procedures.
+26
+PART B
+27
+Sec. B-1.  36 MRSA §1752, sub-§11, ¶B, as amended by PL 2023, c. 643, Pt. H, 
+28
+§§5 to 11 and c. 673, §§5 to 11 and affected by c. 643, Pt. H, §29 and c. 673, §28, is further 
+29
+amended by amending subparagraph (18) to read:
+30
+(18)  The sale or lease or rental to a lessor that has been issued a resale certificate 
+31
+pursuant to section 1754‑B, subsection 2‑B or 2‑C of tangible personal property 
+32
+for lease or rental, except resale as a casual sale.
+33
+Sec. B-2.  36 MRSA §1760, sub-§31, as amended by PL 2007, c. 627, §48, is 
+34
+further amended to read:
+35
+31.  Machinery and equipment.  Sales of machinery and equipment:
+36
+A.  For use by the purchaser directly and primarily in the production of tangible 
+37
+personal property intended to be sold or leased ultimately for final use or consumption 
+38
+or in the production of tangible personal property pursuant to a contract with the 
+39
+Federal Government or any agency thereof, or, in the case of sales occurring after June 
+40
+30, 2007, in the generation of radio and television broadcast signals by broadcast 
+41
+stations regulated under 47 Code of Federal Regulations, Part 73.  This exemption 
+42
+applies even if the purchaser sells the machinery or equipment and leases it back in a 
+43
+sale and leaseback transaction.  This exemption also applies whether the purchaser 
+
+Page 3 - 132LR0154(01)
+44
+agrees before or after the purchase of the machinery or equipment to enter into the sale 
+45
+and leaseback transaction and whether the purchaser's use of the machinery or 
+46
+equipment in production commences before or after the sale and leaseback transaction 
+47
+occurs; and
+5
+B.  To a bank, leasing company or other person as part of a sale and leaseback 
+6
+transaction, by a person that uses the machinery or equipment as described in paragraph 
+7
+A, whether the original purchaser's use of the machinery or equipment in production 
+8
+commences before or after the sale and leaseback transaction occurs.
+9
+Sec. B-3.  36 MRSA §1760, sub-§41-A, as enacted by PL 2017, c. 375, Pt. I, §2, 
+10
+is amended to read:
+11
+41-A.  Certain instrumentalities of interstate or foreign commerce.  The sale of a 
+12
+vehicle, railroad rolling stock, aircraft or watercraft that is placed in use by the purchaser 
+13
+as an instrumentality of interstate or foreign commerce within 30 days after that sale, or, in 
+14
+the case of a lease, the commencement of the lease, and that is used by the purchaser for 
+15
+not less than 80% of the days in use during the next 2 years as an instrumentality of 
+16
+interstate or foreign commerce.  The State Tax Assessor assessor may for good cause 
+17
+extend for not more than 60 days the time for placing the instrumentality in use in interstate 
+18
+or foreign commerce.
+19
+For purposes of this subsection:
+20
+A.  Property is placed in use as an instrumentality of interstate or foreign commerce by 
+21
+its carrying of or providing the motive power for the carrying of a bona fide payload in 
+22
+interstate or foreign commerce or by being dispatched to a specific location at which it 
+23
+will be loaded with, or will be used as motive power for the carrying of, a bona fide 
+24
+payload in interstate or foreign commerce.
+25
+(1)  Property dispatched for the carrying of or providing the motive power for the 
+26
+carrying of a bona fide payload in interstate or foreign commerce is considered in 
+27
+use from the date of dispatch through the date the property arrives back at its 
+28
+principal place of business or is dispatched for the carrying of or providing the 
+29
+motive power for the carrying of a new bona fide payload, whichever occurs first.  
+30
+Any day or portion of a day in which an instrumentality is used in interstate or 
+31
+foreign commerce is computed as a full day of use in interstate or foreign 
+32
+commerce.  Property dispatched for the carrying of or providing the motive power 
+33
+for the carrying of a bona fide payload in intrastate commerce is considered in use 
+34
+from the date of dispatch through the date the property arrives back at its principal 
+35
+place of business or is dispatched for the carrying of or providing the motive power 
+36
+for the carrying of a new bona fide payload, whichever occurs first.  For purposes 
+37
+of this subparagraph, use of a trailer, semitrailer or tow dolly, as defined in Title 
+38
+29‑A, section 101, pursuant to a written interchange agreement as described in 49 
+39
+Code of Federal Regulations, Section 376.31, or successor regulation, between the 
+40
+purchaser and an authorized motor carrier is considered use by the purchaser.
+41
+(2)  Personal property is not in use as an instrumentality of interstate or foreign 
+42
+commerce when carrying a bona fide payload that both originates and terminates 
+43
+within the State, unless the personal property is a bus with a capacity of at least 47 
+44
+passengers that is engaged in transporting within the State a bona fide payload of 
+45
+travelers on an interstate or foreign cruise that originates outside the State and 
+1
+2
+3
+4
+
+Page 4 - 132LR0154(01)
+46
+terminates outside the State and the transportation is provided pursuant to a 
+47
+contract between the interstate or foreign cruise provider and the person providing 
+48
+the transportation.
+4
+(3)  Any day in which an instrumentality is not used in intrastate commerce or 
+5
+interstate or foreign commerce, including while being repaired or maintained, is 
+6
+not counted in the 80% computation; and
+7
+B.  As used in this subsection, unless the context otherwise indicates, the following 
+8
+terms have the following meanings.
+9
+(1)  "Bona fide payload" means a cargo of persons or property transported by a 
+10
+contract carrier or common carrier for compensation that exceeds the direct cost of 
+11
+carrying that cargo or pursuant to a legal obligation to provide service as a public 
+12
+utility or a cargo of property transported in the reasonable conduct of the 
+13
+purchaser's own nontransportation business in interstate or foreign commerce.
+14
+(2)  "Dispatch" means to send to a destination for the purpose of interstate or 
+15
+foreign commerce or for the purpose of intrastate commerce.
+16
+The exemption provided by this subsection is not limited to instrumentalities otherwise 
+17
+required to be exempt under the United States Constitution.
+18
+PART C
+19
+Sec. C-1.  36 MRSA §2523, sub-§2, as enacted by PL 1983, c. 479, §3, is amended 
+20
+to read:
+21
+2.  Returns.  Insurance companies and associations shall file a separate return, as 
+22
+prescribed by the assessor, under section 2521‑A for the tax levied by this section.
+23
+Sec. C-2.  36 MRSA §5122, sub-§1, ¶J, as amended by PL 2003, c. 390, §29, is 
+24
+repealed.
+25
+Sec. C-3.  36 MRSA §5200-A, sub-§1, ¶K, as amended by PL 2003, c. 390, §40, 
+26
+is repealed.
+27
+Sec. C-4.  36 MRSA §5219-M, as amended by PL 2015, c. 267, Pt. DD, §§27 and 
+28
+28, is repealed.
+29
+Sec. C-5.  36 MRSA §5219-RR, sub-§1, ¶I, as enacted by PL 2017, c. 361, §2, is 
+30
+amended to read:
+31
+I.  "Qualified investment" means expenditures incurred on or after January 1, 2018 that 
+32
+total at least $100,000,000 and are related to the construction, improvement, 
+33
+modernization or expansion of a Maine shipbuilding facility, including, without 
+34
+limitation, all expenditures for investigation; planning; design; engineering; 
+35
+permitting; acquisition; financing; construction; demolition; alteration; relocation; 
+36
+remodeling; repair; reconstruction; design, purchase or installation of machinery and 
+37
+equipment; clearing; filling; grading; reclamation of land; activities undertaken to 
+38
+upgrade a waterway serving the facility; training and development of employees; 
+39
+capitalized interest; professional services, including, but not limited to, architectural, 
+40
+engineering, legal, accounting or financial services; administration; environmental and 
+41
+utility costs, including, without limitation, sewage treatment plants, water, air and solid 
+42
+waste equipment and treatment plants, environmental protection devices, electrical 
+1
+2
+3
+
+Page 5 - 132LR0154(01)
+43
+facilities, storm or sanitary sewer lines, water lines or amenities, any other utility 
+44
+services, preparation of environmental impact studies, informing the public about the 
+45
+facility and environmental impact and environmental remediation, mitigation, clean-
+46
+up and protection costs; related offices, support facilities and structures; and any of the 
+47
+foregoing expenditures made or costs incurred prior to or after the effective date of this 
+48
+section or certification of an applicant. "Qualified investment" includes only 
+49
+expenditures that are capitalized for federal income tax purposes. Except for employees 
+50
+who are engaged in the design, engineering and construction of the facility, "qualified 
+51
+investment" does not include the salaries or other compensation paid to the employees 
+52
+of the qualified applicant or of any affiliate of the qualified applicant. "Qualified 
+53
+investment" does not include any expenditure included as a qualified investment by an 
+54
+applicant under former chapter 919 or any amount expended to qualify for Pine Tree 
+55
+Development Zone program benefits under Title 30‑A, chapter 206, subchapter 4.
+14
+Sec. C-6.  36 MRSA §5219-SS, sub-§1, as amended by PL 2023, c. 412, Pt. ZZZ, 
+15
+§6, is further amended to read:
+16
+1.  Resident taxpayer; tax years beginning before 2026.  For tax years beginning on 
+17
+or after January 1, 2018 and before January 1, 2026, a resident individual is allowed a credit 
+18
+against the tax otherwise due under this Part equal to $300 for each qualifying child and 
+19
+dependent of the taxpayer for whom the taxpayer was eligible to claim the federal child tax 
+20
+credit pursuant to the Code, Section 24 for the same taxable year, subject to the phase-out 
+21
+provisions under subsection 4.
+22
+Sec. C-7.  36 MRSA §5219-SS, sub-§1-A, as enacted by PL 2023, c. 412, Pt. ZZZ, 
+23
+§6, is amended to read:
+24
+1-A.  Resident taxpayer; tax years beginning 2026 or after.  For tax years beginning 
+25
+on or after January 1, 2026, a resident individual is allowed a credit against the tax 
+26
+otherwise due under this Part equal to $300 for each dependent of the taxpayer for whom 
+27
+the taxpayer was eligible to claim the federal personal exemption pursuant to the Code, 
+28
+Section 151 in an amount greater than $0 for the same taxable year, subject to the phase-
+29
+out provisions under subsection 4.
+30
+Sec. C-8.  36 MRSA §5219-SS, sub-§2, as amended by PL 2023, c. 412, Pt. ZZZ, 
+31
+§6, is further amended to read:
+32
+2.  Nonresident taxpayer; tax years beginning before 2026.  For tax years beginning 
+33
+on or after January 1, 2018 and before January 1, 2026, a nonresident individual is allowed 
+34
+a credit against the tax otherwise due under this Part equal to $300 for each qualifying child 
+35
+and dependent of the taxpayer for whom the taxpayer was eligible to claim the federal child 
+36
+tax credit pursuant to the Code, Section 24 for the same taxable year, subject to the phase-
+37
+out provisions under subsection 4, multiplied by the ratio of the individual's Maine adjusted 
+38
+gross income, as defined in section 5102, subsection 1‑C, paragraph B, to the individual's 
+39
+entire federal adjusted gross income as modified by section 5122.
+40
+Sec. C-9.  36 MRSA §5219-SS, sub-§2-A, as enacted by PL 2023, c. 412, Pt. ZZZ, 
+41
+§6, is amended to read:
+42
+2-A.  Nonresident taxpayer; tax years beginning 2026 or after.  For tax years 
+43
+beginning on or after January 1, 2026, a nonresident individual is allowed a credit against 
+44
+the tax otherwise due under this Part equal to $300 for each dependent of the taxpayer for 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+Page 6 - 132LR0154(01)
+45
+whom the taxpayer was eligible to claim the federal personal exemption pursuant to the 
+46
+Code, Section 151 in an amount greater than $0 for the same taxable year, subject to the 
+47
+phase-out provisions under subsection 4, multiplied by the ratio of the individual's Maine 
+48
+adjusted gross income, as defined in section 5102, subsection 1‑C, paragraph B, to the 
+49
+individual's entire federal adjusted gross income as modified by section 5122.
+6
+Sec. C-10.  36 MRSA §5219-SS, sub-§3, as amended by PL 2023, c. 412, Pt. ZZZ, 
+7
+§6, is further amended to read:
+8
+3.  Part-year resident taxpayer; tax years beginning before 2026.  For tax years 
+9
+beginning on or after January 1, 2018 and before January 1, 2026, an individual who files 
+10
+a return as a part-year resident in accordance with section 5224‑A is allowed a credit against 
+11
+the tax otherwise due under this Part equal to $300 for each qualifying child and dependent 
+12
+of the taxpayer for whom the taxpayer was eligible to claim the federal child tax credit 
+13
+pursuant to the Code, Section 24 for the same taxable year, subject to the phase-out 
+14
+provisions under subsection 4, multiplied by a fraction, the numerator of which is the 
+15
+individual's Maine adjusted gross income, as defined in, section 5102, subsection 1‑C, 
+16
+paragraph A, for that portion of the taxable year during which the individual was a resident 
+17
+plus the individual's Maine adjusted gross income, as defined in section 5102, subsection 
+18
+1‑C, paragraph B, for that portion of the taxable year during which the individual was a 
+19
+nonresident and the denominator of which is the individual's entire federal adjusted gross 
+20
+income as modified by section 5122.
+21
+Sec. C-11.  36 MRSA §5219-SS, sub-§3-A, as enacted by PL 2023, c. 412, Pt. 
+22
+ZZZ, §6, is amended to read:
+23
+3-A.  Part-year resident taxpayer; tax years beginning 2026 or after.  For tax years 
+24
+beginning on or after January 1, 2026, an individual who files a return as a part-year 
+25
+resident in accordance with section 5224‑A is allowed a credit against the tax otherwise 
+26
+due under this Part equal to $300 for each dependent of the taxpayer for whom the taxpayer 
+27
+was eligible to claim the federal personal exemption pursuant to the Code, Section 151 in 
+28
+an amount greater than $0 for the same taxable year, subject to the phase-out provisions 
+29
+under subsection 4, multiplied by a fraction, the numerator of which is the individual's 
+30
+Maine adjusted gross income, as defined in section 5102, subsection 1‑C, paragraph A, for 
+31
+that portion of the taxable year during which the individual was a resident plus the 
+32
+individual's Maine adjusted gross income, as defined in section 5102, subsection 1‑C, 
+33
+paragraph B, for that portion of the taxable year during which the individual was a 
+34
+nonresident and the denominator of which is the individual's entire federal adjusted gross 
+35
+income as modified by section 5122.
+36
+Sec. C-12.  36 MRSA §5228, sub-§9, as amended by PL 2001, c. 583, §19, is 
+37
+further amended to read:
+38
+9.  Underpayment of 4th installment.  If, on or before January 31st the last day of the 
+39
+first month of the following taxable year, an individual, trust or estate files a return and 
+40
+pays in full the tax liability for the taxable year of the return, no a penalty may not be 
+41
+imposed with respect to any underpayment of the 4th required installment for that year.
+42
+Sec. C-13.  36 MRSA §5294, sub-§3, as enacted by PL 2021, c. 715, §4, is amended 
+43
+to read:
+1
+2
+3
+4
+5
+
+Page 7 - 132LR0154(01)
+1
+3.  Rulemaking.  The assessor shall may adopt rules to implement this section.  Rules 
+2
+adopted pursuant to this subsection are routine technical rules as defined in Title 5, chapter 
+3
+375, subchapter 2‑A.
+4
+Sec. C-14.  36 MRSA §6652, sub-§1, as amended by PL 2009, c. 496, §27, is 
+5
+further amended to read:
+6
+1.  Generally.  A person against whom taxes have been assessed pursuant to Part 2, 
+7
+except for chapters 111 and 112, with respect to eligible property and who has paid those 
+8
+taxes is entitled to reimbursement of a portion of those taxes from the State as provided in 
+9
+this chapter. The reimbursement under this chapter is the percentage of the taxes assessed 
+10
+and paid with respect to eligible property specified in subsection 4. For purposes of this 
+11
+chapter, a tax applied as a credit against a tax assessed pursuant to chapter 111 or 112 is a 
+12
+tax assessed pursuant to chapter 111 or 112. A taxpayer that included eligible property in 
+13
+its investment credit base under section 5219‑M and claimed the credit provided in section 
+14
+5219‑M on its income tax return may not be reimbursed under this chapter for taxes 
+15
+assessed on that same eligible property in a year in which that credit is taken. A successor 
+16
+in interest of a person against whom taxes have been assessed with respect to eligible 
+17
+property is entitled to reimbursement pursuant to this section, whether the tax was paid by 
+18
+the person assessed or by the successor, as long as a transfer of the property in question to 
+19
+the successor has occurred and the successor is the owner of the property as of August 1st 
+20
+of the year in which a claim for reimbursement may be filed pursuant to section 6654. For 
+21
+purposes of this subsection, "successor in interest" includes the initial successor and any 
+22
+subsequent successor. When an eligible successor in interest exists, the successor is the 
+23
+only person to whom reimbursement under this chapter may be made with respect to the 
+24
+transferred property. For an item of eligible property that is first subject to assessment under 
+25
+Part 2 on or after April 1, 2008, and for any item of eligible property for which 
+26
+reimbursement is paid under subsection 4, paragraph B, the reimbursement otherwise 
+27
+payable under this section may not exceed the actual property taxes paid less any tax 
+28
+increment financing refund received with respect to that property.
+29
+Sec. C-15.  36 MRSA c. 919, as amended, is repealed.
+30
+PART D
+31
+Sec. D-1.  36 MRSA §271, sub-§4, as enacted by PL 1985, c. 764, §8 and amended 
+32
+by PL 1997, c. 526, §14, is further amended to read:
+33
+4.  Services.  The board may request the advice and services of any assessor or 
+34
+appraiser holding a valid certificate from the Bureau of Revenue Services and other persons 
+35
+as it deems considers advisable.  No An assessor or appraiser may not sit with the board 
+36
+concerning any property which he that the assessor or appraiser has previously appraised 
+37
+or assessed.
+38
+Sec. D-2.  36 MRSA §303, as amended by PL 1979, c. 666, §8, is further amended 
+39
+to read:
+40
+§303.  Organized territory
+41
+The organized territory of the State shall must be divided into primary assessing areas 
+42
+and municipal assessing units on or before July 1, 1979. The foregoing division shall must 
+43
+be made by the State Tax Assessor utilizing using the following criteria as appropriate.
+
+Page 8 - 132LR0154(01)
+1
+1.  Primary assessing areas.  Primary assessing areas, including both primary 
+2
+assessing units and multi-municipal primary assessing districts, shall must be established 
+3
+by:
+4
+A.  Giving consideration to existing municipal and School Administrative District 
+5
+school administrative district lines without regard to existing county lines;
+6
+B.  Utilizing such Using factors such as geography, distance, number of parcels, urban 
+7
+characteristics, sales activity and other factors the State Tax Assessor believes 
+8
+considers important;
+9
+C.  If the State Tax Assessor wishes, the appointment of an advisory committee to assist 
+10
+him the State Tax Assessor in making the division and in establishing assessing 
+11
+standards; and
+12
+D.  Determining the boundaries of such areas and, after appropriate hearing by 
+13
+interested parties, as conditions and personnel warrant.
+14
+Primary assessing areas, both single units and districts, shall must be reviewed at least 
+15
+every 10 years by the State Tax Assessor. When conditions justify alteration of the 
+16
+boundaries of the primary assessing areas, the State Tax Assessor may so order those 
+17
+alterations after appropriate hearing. Any A municipality may withdraw from designation 
+18
+as a primary assessing area upon proper notice.
+19
+2.  Municipal assessing units.  Any A municipality may decide not to not be 
+20
+designated as a primary assessing area and shall be designated a municipal assessing unit. 
+21
+If the municipal assessing unit hires a professional full-time assessor, he shall be that 
+22
+assessor is subject to the certification requirements of sections 311 and 312.
+23
+Sec. D-3.  36 MRSA §311, first ¶, as repealed and replaced by PL 1975, c. 545, §8, 
+24
+is amended to read:
+25
+The State Tax Assessor shall issue a certificate of eligibility to any applicant who has 
+26
+demonstrated through appropriate examination that he or she the applicant is qualified to 
+27
+perform the assessing function. In addition, the State Tax Assessor shall establish classes 
+28
+of said the certificate of eligibility that recognize the differing assessing skills needed for 
+29
+municipalities that vary in population and types of property.
+30
+Sec. D-4.  36 MRSA §312, as repealed and replaced by PL 1977, c. 696, §265, is 
+31
+amended to read:
+32
+§312.  Violation
+33
+After July 1, 1980, no a person shall be is not eligible to perform the duties of a chief 
+34
+assessor of a primary assessing area or the duties of a professional assessor of any 
+35
+municipality or primary assessing area unless he or she shall have been that person is 
+36
+certified in the manner provided in this subchapter. Violation of this section shall be is a 
+37
+civil violation for which a forfeiture fine of not less than $100 nor more than $250 shall 
+38
+must be adjudged.
+39
+Sec. D-5.  36 MRSA §313, first ¶, as amended by PL 1975, c. 545, §10, is further 
+40
+amended to read:
+
+Page 9 - 132LR0154(01)
+1
+A chief assessor certified as provided shall serve in this subchapter serves a 
+2
+probationary period of 2 years. Thereafter he or she shall have After the probationary 
+3
+period, the assessor has tenure and may only be removed as provided in this subchapter.
+4
+Sec. D-6.  36 MRSA §341 is amended to read:
+5
+§341.  Certification of treasurer and controller
+6
+Before commencing to collect the taxes which that the State Tax Assessor is authorized 
+7
+by law to collect, he the State Tax Assessor shall certify to the Treasurer of State and the 
+8
+State Controller the total amount of each type of tax. Copies of all supplemental 
+9
+assessments and abatements of taxes shall must be sent to the Treasurer of State.
+10
+Sec. D-7.  36 MRSA §472, first ¶, as amended by PL 1975, c. 545, §14, is further 
+11
+amended to read:
+12
+The governing body of a primary assessing district shall must be an executive 
+13
+committee composed of an equal number of municipal officers from each municipality and 
+14
+2 nonvoting members. The nonvoting members shall be are the chief assessor of a primary 
+15
+assessing area and the State Tax Assessor. It is not necessary that the State Tax Assessor 
+16
+attend all meetings of a primary assessing area and; the State Tax Assessor may appoint a 
+17
+substitute to represent him the State Tax Assessor.
+18
+Sec. D-8.  36 MRSA §474, sub-§1, as enacted by PL 1973, c. 620, §10, is amended 
+19
+to read:
+20
+1.  Secretary.  Serve as secretary of the executive committee and keep all committee 
+21
+minutes, except as to any meeting involving his the chief assessor's removal;
+22
+Sec. D-9.  36 MRSA §501, sub-§10 is amended to read:
+23
+10.  Tax collector.  "Tax collector" shall mean any means a person chosen, appointed 
+24
+or designated by a municipality or the municipal officers thereof to collect any tax due a 
+25
+municipality; or his that person's successor in office.
+26
+Sec. D-10.  36 MRSA §504 is amended to read:
+27
+§504.  Illegal assessment; recovery of tax
+28
+If money not raised for a legal object is assessed with other moneys legally raised, the 
+29
+assessment is not void; nor shall does any error, mistake or omission by the assessors, tax 
+30
+collector or treasurer render it void; but any person paying such a tax may bring his that 
+31
+person's action against the municipality in the Superior Court for the same county, and shall 
+32
+recover the sum not raised for a legal object, with 25% interest and costs, and any damages 
+33
+which he that the person has sustained by reason of mistakes, errors or omissions of such 
+34
+officers.
+35
+Sec. D-11.  36 MRSA §559, as amended by PL 1979, c. 540, §§42-A and 42-B, is 
+36
+further amended to read:
+37
+§559.  Deceased persons
+38
+Until notice is given to the assessors of the division of the estate and the name of the 
+39
+several heirs or devisees, the undivided real estate of a deceased person may be taxed to 
+40
+his the deceased person's heirs or devisees, or may be taxed to his the deceased person's 
+41
+personal representative.
+
+Page 10 - 132LR0154(01)
+1
+1.  Heirs or devisees.  A tax to the heirs or devisees may be made without designating 
+2
+any of them by name and each heir or devisee shall be is liable for the whole of such tax. 
+3
+Any heir or devisee so taxed may recover of the other heirs or devisees their portions 
+4
+thereof of the tax when paid by him the heir or devisee so taxed. In an action to recover the 
+5
+tax paid, the undivided shares of such heirs or devisees in the real estate, upon which such 
+6
+tax has been paid, may be attached on mesne process or taken on execution issued on a 
+7
+judgment recovered in such an action therefor.
+8
+2.  Personal representative.  A tax to the personal representative shall must be 
+9
+collected of him the personal representative the same as a tax assessed against him the 
+10
+personal representative in his the personal representative's private capacity. Such tax shall 
+11
+must be a charge against the estate and shall must be allowed by the judge of probate; but 
+12
+when the personal representative notifies the assessors that he the personal representative 
+13
+has no funds of the estate to pay such tax and gives them the names of the heirs or devisees, 
+14
+and the proportions of their interests in the real estate to the best of his the personal 
+15
+representative's knowledge, the real estate shall may no longer be taxed to him the personal 
+16
+representative.
+17
+Sec. D-12.  36 MRSA §564 is amended to read:
+18
+§564.  -- assessment Assessment
+19
+An assessment of forest land for purposes of taxation shall must be held to be in excess 
+20
+of just value by any court of competent jurisdiction, upon proof by the owner that the tax 
+21
+burden imposed by the assessment creates an incentive to abandon the land, or to strip the 
+22
+land, or otherwise to operate contrary to the public policy declared in section 563. In proof 
+23
+of his the owner's contention, the owner shall must show that by reason of the burden of 
+24
+the tax he the owner is unable by efficient operation of the forest land on a sustained yield 
+25
+basis to obtain an adequate annual net return commensurate with the risk involved.
+26
+For the purposes of this section, forest land shall must be held to include any single 
+27
+tract of land exceeding 25 acres in area under one ownership which that is devoted to the 
+28
+growing of trees for the purpose of cutting for commercial use.
+29
+Sec. D-13.  36 MRSA §602 is amended to read:
+30
+§602.  -- where Where taxed
+31
+All personal property within or without the State, except in cases enumerated in section 
+32
+603, shall must be taxed to the owner in the place where he the owner resides.
+33
+Sec. D-14.  36 MRSA §603, as corrected by RR 2021, c. 2, Pt. A, §126, is amended 
+34
+to read:
+35
+§603.  Exceptions
+36
+The excepted cases referred to in section 602 are the following:.
+37
+1.  Personal property employed in trade.  All personal property employed in trade, 
+38
+in the erection of buildings or vessels, or in the mechanic arts shall must be taxed in the 
+39
+place where so employed, except as otherwise provided for in this subsection; provided as 
+40
+long as the owner, his servant or the owner's employee, subcontractor or agent occupies 
+41
+any store, storehouse, shop, mill, wharf, landing place or shipyard therein in that place for 
+42
+the purpose of such employment.
+
+Page 11 - 132LR0154(01)
+1
+A.  For the purposes of this subsection, "personal property employed in trade" shall 
+2
+include includes both liquefied petroleum gas installations, and industrial and medical 
+3
+gas installations, together with tanks or other containers used in connection therewith 
+4
+with those installations.
+5
+1-A.  Cargo trailers.  A cargo trailer must be taxed in the place of its primary location 
+6
+on April 1st, even though the cargo trailer may not be present in that place on April 1st.
+7
+For purposes of this subsection, "primary location" means the place where the cargo trailer 
+8
+is usually based and where it regularly returns for repairs, supplies and activities related to 
+9
+its use.
+10
+2-A.  Enumeration.  The following personal property must be taxed in the place where 
+11
+it is situated:
+12
+A.  Portable mills;
+13
+B.  All store fixtures, office furniture, furnishings, fixtures and equipment;
+14
+C.  Professional libraries, apparatus, implements and supplies;
+15
+D.  Coin-operated vending or amusement devices;
+16
+E.  All camper trailers, as defined in section 1481; and
+17
+F.  Television and radio transmitting equipment.
+18
+3.  Nonresidents.  Personal property which that is within the State and owned by 
+19
+persons residing out of the State shall must be taxed either to the owner, or to the person 
+20
+having the same in possession, possessing the personal property or to the person owning or 
+21
+occupying any store, storehouse, shop, mill, wharf, landing, shipyard or other place therein 
+22
+where such personal property is located.
+23
+A.  A lien is created on said such property for the payment of the tax, which may be 
+24
+enforced by the tax collector to whom the tax is committed, by a sale of the property 
+25
+as provided.
+26
+B.  A lien is created on said such property in on behalf of the person in possession, 
+27
+which he that person may enforce, for the repayment of all sums by him that person 
+28
+lawfully paid in discharge of the tax. If such that person pays more than his that person's 
+29
+proportionate part of such tax, or if his that person's own goods or property are applied 
+30
+to the payment and discharge of the whole tax, he that person may recover of the owner 
+31
+such that owner's proper share thereof of the tax.
+32
+6.  Belonging to minors or wards under guardianship.  Personal property belonging 
+33
+to minors under guardianship shall must be taxed to the guardian in the place where the 
+34
+guardian resides. The personal property of all other persons under guardianship shall must 
+35
+be taxed to the guardian in the place where the ward resides.
+36
+7.  Partners in business.  Personal property of partners in business, when subject to 
+37
+taxation under subsections 1 and 2‑A, may be taxed to the partners jointly under their 
+38
+partnership name; and in such cases they are jointly and severally liable for the tax.
+39
+8.  Owned by persons unknown.  Personal property owned by persons unknown shall 
+40
+must be taxed to the person having the same in possession of the personal property. A lien 
+41
+is created on said that personal property in on behalf of the person in possession, which he 
+
+Page 12 - 132LR0154(01)
+42
+the possessor may enforce for the repayment of all sums by him the possessor lawfully paid 
+43
+in discharge of the tax.
+3
+9.  Certain corporations.  The personal property of manufacturing, mining, smelting, 
+4
+agricultural and stock raising corporations, and of corporations organized for the purpose 
+5
+of buying, selling and leasing real estate shall, must be taxed to the corporation or to the 
+6
+persons having possession of such property in the place where situated, except as provided 
+7
+in subsections 1 and 10.
+8
+10.  Tax situs.  The tax situs of tangible personal property shall be is at the mine site 
+9
+if that property is:
+10
+A.  Owned, leased or otherwise subject to possessory control of a mining company; 
+11
+and
+12
+B.  On route to or from, being transported to or from or destined to or from a mine site.
+13
+Except as otherwise provided in this subsection, the tax situs of tangible personal property 
+14
+leased to a mining company shall be is in the place where the property is situated.
+15
+For the purposes of this subsection, the definitions of section 2855 shall apply.
+16
+Sec. D-15.  36 MRSA §607 is amended to read:
+17
+§607.  Insolvent person's personal property
+18
+If a person assessed for a personal property tax has made an assignment for the benefit 
+19
+of creditors, or has gone into receivership before the payment thereof of that personal 
+20
+property tax, the assignee or receiver shall must, from any money which that has come to 
+21
+his the assignee's or receiver's hands in such capacity, over and above the reasonable 
+22
+expense of administration, pay the personal property tax so assessed to the extent of such 
+23
+money. In default of such payment the assignee or receiver shall be is personally liable for 
+24
+the tax to the extent of the money which that passed through his the assignee's or receiver's 
+25
+hands.
+26
+Sec. D-16.  36 MRSA §653, sub-§1, ¶D, as amended by PL 2007, c. 240, Pt. PPPP, 
+27
+§2, is further amended to read:
+28
+D.  The estates up to the just value of $6,000, having a taxable situs in the place of 
+29
+residence, of the unremarried widow or widower surviving spouse or minor child of 
+30
+any veteran who would be entitled to the exemption if living, or who is in receipt of a 
+31
+pension or compensation from the Federal Government as the widow or widower 
+32
+surviving spouse or minor child of a veteran.
+33
+The estates up to the just value of $6,000, having a taxable situs in the place of 
+34
+residence, of the parent of a deceased veteran who is 62 years of age or older and is an 
+35
+unremarried widow or widower surviving spouse who is in receipt of a pension or 
+36
+compensation from the Federal Government based upon the service-connected death 
+37
+of that parent's child.
+38
+The exemptions provided in this paragraph apply to the property of an unremarried 
+39
+widow or widower surviving spouse or minor child or parent of a deceased veteran, 
+40
+including property held in a revocable living trust for the benefit of that unremarried 
+41
+widow or widower surviving spouse or minor child or parent of a deceased veteran.
+1
+2
+
+Page 13 - 132LR0154(01)
+1
+Sec. D-17.  36 MRSA §653, sub-§1, ¶D-1, as amended by PL 2023, c. 441, Pt. B, 
+2
+§2 and affected by §7, is further amended to read:
+3
+D-1.  The estates up to the just value of $50,000, having a taxable situs in the place of 
+4
+residence, for specially adapted housing units, of veterans who served in the Armed 
+5
+Forces of the United States during any federally recognized war period, including the 
+6
+Korean Conflict, the Vietnam War, the Persian Gulf War, the periods from August 24, 
+7
+1982 to July 31, 1984 and December 20, 1989 to January 31, 1990, Operation Enduring 
+8
+Freedom, Operation Iraqi Freedom and Operation New Dawn, or during the period 
+9
+from February 1, 1955 to February 27, 1961, or who were awarded an expeditionary 
+10
+medal for service in the Armed Forces of the United States, and who are veterans as 
+11
+described in 38 United States Code, Section 2101, and who received a grant from the 
+12
+United States Government for any such housing, or of the unremarried widows or 
+13
+widowers surviving spouses of those veterans.  A veteran of the Vietnam War must 
+14
+have served on active duty after February 27, 1961 and before May 8, 1975.  "Persian 
+15
+Gulf War" means service on active duty on or after August 2, 1990 and before or on 
+16
+the date that the United States Government recognizes as the end of that war period.  
+17
+The exemption provided in this paragraph applies to the property of the veteran 
+18
+including property held in joint tenancy with a spouse or held in a revocable living trust 
+19
+for the benefit of that veteran.
+20
+Sec. D-18.  36 MRSA §653, sub-§1, ¶D-2, as amended by PL 2003, c. 702, §3, is 
+21
+further amended to read:
+22
+D-2.  The estates up to the just value of $7,000, having a taxable situs in the place of 
+23
+residence of the unremarried widow or widower surviving spouse or minor child of any 
+24
+veteran who would be entitled to an exemption under paragraph C‑1, if living, or who 
+25
+is in receipt of a pension or compensation from the Federal Government as the widow 
+26
+or widower surviving spouse or minor child of a veteran, and who is the unremarried 
+27
+widow or widower surviving spouse or minor child of a veteran who served during any 
+28
+federally recognized war period during or before World War I.
+29
+The exemption provided in this paragraph is in lieu of any exemption under paragraph 
+30
+D to which the person may be eligible and applies to the property of that person, 
+31
+including property held in a revocable living trust for the benefit of that person.
+32
+Sec. D-19.  36 MRSA §653, sub-§1, ¶D-3, as amended by PL 2003, c. 702, §4, is 
+33
+further amended to read:
+34
+D-3.  The estates up to the just value of $7,000, having a taxable situs in the place of 
+35
+residence of the parent of a deceased veteran who is 62 years of age or older and is an 
+36
+unremarried widow or widower surviving spouse who is in receipt of a pension or 
+37
+compensation from the Federal Government based upon the service-connected death 
+38
+of that parent's child and who is receiving the pension or compensation from the 
+39
+Federal Government based upon the service-connected death of the parent's child 
+40
+during any federally recognized war period during or before World War I.
+41
+The exemption provided in this paragraph is in lieu of any exemption under paragraph 
+42
+D to which the person may be eligible and applies to the property of that person, 
+43
+including property held in a revocable living trust for the benefit of that person.
+
+Page 14 - 132LR0154(01)
+1
+Sec. D-20.  36 MRSA §655, sub-§1, ¶E, as repealed and replaced by PL 1973, c. 
+2
+592, §13, is amended to read:
+3
+E.  The household furniture, including television sets and musical instruments of each 
+4
+person in any one household; and his each person's wearing apparel, farming utensils 
+5
+and mechanical tools necessary for his that person's business;
+6
+Sec. D-21.  36 MRSA §704, as repealed and replaced by PL 1977, c. 696, §267, is 
+7
+amended to read:
+8
+§704.  Delinquent assessors; violation
+9
+Any assessor who refuses to assess a state, county or municipal tax as required by law, 
+10
+or shall who knowingly omit omits or fail fails to perform any duty imposed upon him the 
+11
+assessor by law, commits a civil violation for which a forfeiture fine not to exceed $100 
+12
+may be adjudged.
+13
+Sec. D-22.  36 MRSA §707, sub-§2, as amended by PL 2005, c. 218, §9, is further 
+14
+amended to read:
+15
+2.  Property of veterans.  The value of the real property of veterans, and their widows, 
+16
+widowers surviving spouses and minor children not taxed;
+17
+Sec. D-23.  36 MRSA §709, as amended by PL 1975, c. 651, §7, is further amended 
+18
+to read:
+19
+§709.  Assessment and commitment
+20
+The assessors shall assess upon the estates in their municipality all municipal taxes and 
+21
+their due proportion of any state or county tax payable during the municipal year for which 
+22
+municipal taxes are being raised, make perfect lists thereof of those estates and commit the 
+23
+same, when completed and signed by a majority of them, to the tax collector of their 
+24
+municipality, if any, otherwise to the sheriff of the county or his the sheriff's deputy, with 
+25
+a warrant under their hands, in the form prescribed by section 753.
+26
+Sec. D-24.  36 MRSA §709-A, first ¶, as amended by PL 1973, c. 788, §184, is 
+27
+further amended to read:
+28
+The municipal officers after receipt of the valuation lists from the primary assessing 
+29
+areas shall assess upon the estates in their municipality all municipal taxes and their due 
+30
+proportion of any state or county tax, make perfect lists thereof of those estates and commit 
+31
+the same, when completed and signed by a majority of them, to the tax collector of their 
+32
+municipality, if any, otherwise to the sheriff of the county or his the sheriff's deputy, with 
+33
+a warrant under their hands in the form prescribed by section 753.
+34
+Sec. D-25.  36 MRSA §752 is amended to read:
+35
+§752.  -- payment Payment
+36
+On or before the first day of September in each year, the Treasurer of State shall issue 
+37
+his a warrant to the treasurer of each municipality requiring him the municipal treasurer to 
+38
+transmit and pay to the Treasurer of State, on or before the time fixed by law, that 
+39
+municipality's proportion of the state tax for the current year. Warrants for county taxes 
+40
+shall must be issued by the county treasurers in the same manner with proper changes.
+
+Page 15 - 132LR0154(01)
+1
+Sec. D-26.  36 MRSA §755, as amended by PL 1973, c. 620, §25 and repealed and 
+2
+replaced by c. 695, §18, is further amended to read:
+3
+§755.  Bond
+4
+The municipal officers shall require each tax collector to give a corporate surety bond 
+5
+for the faithful discharge of his the tax collector's duty, to the inhabitants of the 
+6
+municipality, in the sum, and with such sureties as the municipal officers approve. The tax 
+7
+collector may furnish a bond signed by individuals if such individuals submit to the 
+8
+municipal officers a detailed sworn statement as to their personal financial ability, which 
+9
+shall must be found acceptable by the municipal officers.
+10
+Such bond shall, after its approval and acceptance, must be recorded by the clerk in the 
+11
+municipal records, and such record shall be is prima facie evidence of the contents of such 
+12
+bond, but a failure to so record shall be no is not a defense in any action upon such bond.
+13
+Sec. D-27.  36 MRSA §756 is amended to read:
+14
+§756.  Compensation
+15
+When municipalities choose a municipality chooses a tax collectors collector, they the 
+16
+municipality and the tax collector may agree what sum shall be is allowed for performance 
+17
+of their the tax collector's duties. If the basis of compensation agreed upon is a percentage 
+18
+of tax collections, such percentage shall must be computed only upon the cash collections 
+19
+of taxes committed to him the tax collector. Tax liens filed but not discharged prior to the 
+20
+time that the tax collector is to perfect his the tax collector's collections and the amounts 
+21
+paid by the municipality to the tax collector upon the sale of tax deeds shall may not be 
+22
+included in computing such percentage. Nothing in this This section shall may not be 
+23
+construed as relieving the tax collector from the duty of perfecting liens for the benefit of 
+24
+the municipality by one of the methods prescribed by law in all cases where in which taxes 
+25
+on real estate remain unpaid.
+26
+Sec. D-28.  36 MRSA §757 is amended to read:
+27
+§757.  Receipts for taxes
+28
+When a tax is paid to a tax collector, he the tax collector shall prepare a receipt for each 
+29
+payment; and upon reasonable request therefor, shall furnish a copy of such the receipt to 
+30
+the taxpayer.
+31
+Sec. D-29.  36 MRSA §759 is amended to read:
+32
+§759.  Accounting; penalties
+33
+Every Each tax collector shall, on the last day of each month, pay to the municipal 
+34
+treasurer all moneys collected by him the tax collector, and once in 2 months at least shall 
+35
+exhibit to the municipal officers a just and true account of all moneys received on taxes 
+36
+committed to him, and excise taxes collected by him, the tax collector and produce the 
+37
+treasurer's receipt for money by him paid by the tax collector. For each neglect, he the tax 
+38
+collector forfeits to the municipality $100 to be recovered by the municipal officers thereof 
+39
+of that municipality in a civil action.
+40
+Sec. D-30.  36 MRSA §760, as amended by PL 1973, c. 620, §27 and c. 695, §19, 
+41
+is further amended to read:
+42
+§760.  Perfection of collections
+
+Page 16 - 132LR0154(01)
+1
+Municipal assessors, or municipal officers in the case of primary assessing areas, shall 
+2
+specify in the tax collector's warrant the date on or before which the tax collector shall must 
+3
+perfect his collections. Such date shall may not be less than one year from the date of the 
+4
+commitment of taxes. In the event that no a time is not specified in the tax collector's 
+5
+warrant, tax collectors shall perfect their collections within 2 years after the date of the 
+6
+commitment of taxes.
+7
+Sec. D-31.  36 MRSA §761 is amended to read:
+8
+§761.  -- failure Failure; action
+9
+An action against a tax collector for failure to perfect his tax collections shall must be 
+10
+commenced within 6 years after the date of such the tax collector's warrant.
+11
+Sec. D-32.  36 MRSA §763, as amended by PL 1973, c. 620, §28 and c. 695, §20, 
+12
+is further amended to read:
+13
+§763.  Settlement procedure; removal from municipality; resignation
+14
+When a tax collector asks the municipal officers to resign the position of tax collector, 
+15
+or when a tax collector has removed, or in the judgment of the municipal officers is about 
+16
+to remove, from the municipality before the time set for perfecting his collections, said 
+17
+those officers may settle with him the tax collector for the money that he the tax collector 
+18
+has received on his the tax collector's tax lists, demand and receive of him the tax collector 
+19
+such lists, and discharge him therefrom the tax collector from the tax collector's duties. 
+20
+Said The officers may appoint another tax collector, and the assessors or, in the case of 
+21
+primary assessing areas, the municipal officers shall make a new warrant and deliver it to 
+22
+him the new tax collector with said those lists, to collect the sums due thereon, and he shall 
+23
+have the new tax collector has the same power in their collection as the original tax 
+24
+collector.
+25
+If such a tax collector refuses to deliver the tax lists and to pay all moneys in his hands 
+26
+collected by him, that tax collector when duly demanded, he shall be the tax collector is 
+27
+subject to section 894, and is liable to pay what remains due on the tax lists, said that sum 
+28
+to be recovered by the municipal officers in a civil action.
+29
+Sec. D-33.  36 MRSA §764 is amended to read:
+30
+§764.  -- incapacity Incapacity
+31
+When a tax collector becomes mentally ill, has a guardian or by mental illness or bodily 
+32
+infirmities is incapable of performing the duties of his the office before completing the 
+33
+collection, the municipal officers may demand and receive the tax lists from any person in 
+34
+possession thereof of those lists, settle for the money received thereon collected and 
+35
+discharge said that tax collector from further liability. The tax lists may be committed to a 
+36
+new tax collector.
+37
+Sec. D-34.  36 MRSA §765 is amended to read:
+38
+§765.  -- death Death
+39
+If a tax collector dies without perfecting the collection of taxes committed to him, his 
+40
+that tax collector, the tax collector's executor or administrator, within 2 months after his 
+41
+acceptance of the trust, shall settle with the municipal officers for what was received by the 
+42
+deceased in his lifetime person while alive. For the amount so received, such executor or 
+
+Page 17 - 132LR0154(01)
+43
+administrator is chargeable as the deceased person would be if living. If he the executor or 
+44
+administrator fails to so settle when he the executor or administrator has sufficient assets 
+45
+in his hands, he shall be the executor or administrator is chargeable with the whole sum 
+46
+committed to the deceased person for collection.
+5
+Sec. D-35.  36 MRSA §802 is amended to read:
+6
+§802.  Proceedings by sheriff
+7
+The sheriff or his the sheriff's deputy, on receiving the assessment and warrant for 
+8
+collection provided for in section 801, shall forthwith post in some public place in the 
+9
+municipality assessed, an attested copy of such assessment and warrant, and shall may not 
+10
+make no distress for any of such taxes until after 30 days therefrom of that posting. Any 
+11
+person paying his tax to such sheriff or sheriff's deputy within that time the 30 days shall 
+12
+pay 5% over and above his the tax for sheriff's fees, but those who do not pay within that 
+13
+time shall must be distrained or arrested by such officer, as by tax collectors the sheriff or 
+14
+the sheriff's deputy. The same fees shall must be paid for travel and service of the sheriff, 
+15
+as in other cases of distress.
+16
+Sec. D-36.  36 MRSA §803, first ¶ is amended to read:
+17
+On each execution or warrant of distress issued in accordance with sections 891 and 
+18
+895, and delivered to a sheriff or his the sheriff's deputy, he the sheriff shall make return of 
+19
+his the sheriff's doings to such the treasurer who issued the execution or warrant, with such 
+20
+money, if any, that he the sheriff has received by virtue thereof of the execution or warrant. 
+21
+If he the sheriff neglects to comply with any direction of such warrant or execution, he the 
+22
+sheriff shall pay the whole sum mentioned therein in the warrant or execution. When If it 
+23
+is returned unsatisfied, or satisfied in part only, such the treasurer may issue an alias for the 
+24
+sum remaining due on the return of the first; and so on, as often as occasion occurs.
+25
+Sec. D-37.  36 MRSA §841, sub-§3, as repealed and replaced by PL 1979, c. 73, is 
+26
+amended to read:
+27
+3.  Inability to pay after 2 years.  If after 2 years from the date of assessment a tax 
+28
+collector is satisfied that a tax upon real or personal property committed to him the tax 
+29
+collector for collection cannot be collected by reason of the death, absence, poverty, 
+30
+insolvency, bankruptcy or other inability of the person assessed to pay, he the tax collector 
+31
+shall notify the municipal officers thereof in writing, under oath, stating the reason why 
+32
+that tax cannot be collected. The municipal officers, after due inquiry, may abate that tax 
+33
+or any part thereof of the tax.
+34
+Sec. D-38.  36 MRSA §841, sub-§4, as amended by PL 2017, c. 367, §8, is further 
+35
+amended to read:
+36
+4.  Veteran's widow or widower surviving spouse or minor child.  Notwithstanding 
+37
+failure to comply with section 706‑A, the assessors, on written application within one year 
+38
+from the date of commitment, may make such abatement as they think proper in the case 
+39
+of the unremarried widow or widower surviving spouse or the minor child of a veteran, if 
+40
+the widow, widower surviving spouse or child would be entitled to an exemption under 
+41
+section 653, subsection 1, paragraph D, except for the failure of the widow, widower 
+42
+surviving spouse or child to make application and file proof within the time set by section 
+43
+653, subsection 1, paragraph G, if the veteran died during the 12-month period preceding 
+44
+the April 1st for which the tax was committed.
+1
+2
+3
+4
+
+Page 18 - 132LR0154(01)
+1
+Sec. D-39.  36 MRSA §841, sub-§5, as repealed and replaced by PL 1987, c. 772, 
+2
+§16, is amended to read:
+3
+5.  Certification; record.  Whenever an abatement is made, other than by the State 
+4
+Tax Assessor, the abating authority shall certify it in writing to the collector, and that 
+5
+certificate shall must discharge the collector from further obligation to collect the tax so 
+6
+abated.  When the abatement is made, other than an abatement made under subsection 2, a 
+7
+record setting forth the name of the party or parties benefited, the amount of the abatement 
+8
+and the reasons for the abatement shall must, within 30 days, be made and kept in suitable 
+9
+book form open to the public at reasonable times.  A report of the abatement shall must be 
+10
+made to the municipality at its annual meeting or to the mayor and aldermen municipal 
+11
+officers of cities by the first Monday in each March.
+12
+Sec. D-40.  36 MRSA §893 is amended to read:
+13
+§893.  Collector Tax collector liable to inhabitants
+14
+A delinquent tax collector shall is at all times be answerable to the inhabitants of his 
+15
+the tax collector's municipality for all sums which that they have been obliged to pay by 
+16
+means of his the tax collector's deficiency and for all consequent damages.
+17
+Sec. D-41.  36 MRSA §894, as repealed and replaced by PL 1977, c. 696, §268, is 
+18
+amended to read:
+19
+§894.  Delinquent tax collectors; forfeiture fine
+20
+Any A tax collector who refuses to collect a state, county or municipal tax as required 
+21
+by law, or who shall knowingly omit omits or fail fails to perform any duty imposed upon 
+22
+him the tax collector by law, commits a civil violation for which a forfeiture fine not to 
+23
+exceed $100 may be adjudged.
+24
+Sec. D-42.  36 MRSA §898, as amended by PL 1987, c. 736, §56, is further amended 
+25
+to read:
+26
+§898.  Collector Tax collector to account when taken on execution
+27
+When any tax collector is taken on execution under section 895, the municipal officers 
+28
+may demand of him the tax collector a true copy of the tax lists, with the evidence of all 
+29
+payments made thereon on those tax lists.  If he the tax collector complies with this demand, 
+30
+he shall the tax collector must receive such credit as the municipal officers, on inspection 
+31
+of the tax lists, adjudge him the tax collector entitled to, and the tax collector shall account 
+32
+for the balance; but if he the tax collector refuses, he shall the tax collector must forthwith 
+33
+be committed to jail by the law enforcement officer who so took him the tax collector or 
+34
+by a warrant from a justice of the peace, there to remain until he the tax collector complies.
+35
+Sec. D-43.  36 MRSA §899, as amended by PL 1973, c. 620, §34 and c. 695, §24, 
+36
+is further amended to read:
+37
+§899.  Municipalities may choose another tax collector
+38
+The same A municipality may, at any time, proceed to the choice of another tax 
+39
+collector, to complete the collection of taxes, who shall must be sworn and give the security 
+40
+required of the first tax collector. The assessors or, in the case of primary assessing areas, 
+41
+the municipal officers shall deliver to him the tax collector the uncollected assessments, 
+
+Page 19 - 132LR0154(01)
+42
+with a proper warrant for their collection, and he the tax collector shall proceed as 
+43
+prescribed in this subchapter.
+3
+Sec. D-44.  36 MRSA §900 is amended to read:
+4
+§900.  Payments to former tax collector in dispute; procedure
+5
+When the tax of any person named in said the tax lists does not thereby appear to have 
+6
+been paid, but such that person declares that it was paid to the former tax collector, the new 
+7
+tax collector shall may not distrain that person's property or commit him that person without 
+8
+a vote of the municipal officers.
+9
+Sec. D-45.  36 MRSA §901 is amended to read:
+10
+§901.  Remedy of owners of property taken for default of others
+11
+When the estate of an inhabitant of a municipality, who is not a tax collector thereof 
+12
+for that municipality, is levied upon and taken as mentioned in section 891, he the 
+13
+inhabitant may maintain an action against such that municipality, and recover the full value 
+14
+of the estate so levied on, with interest at the rate of 20% from the time it was taken, with 
+15
+costs. Such The value may be proved by any other legal evidence, as well as by the result 
+16
+of the sale under such the levy.
+17
+Sec. D-46.  36 MRSA §902 is amended to read:
+18
+§902.  Amendments permitted in actions to collect taxes
+19
+At the trial of any action for the collection of taxes, or of any civil action involving the 
+20
+validity of any sale of real estate for nonpayment of taxes, or involving any tax lien 
+21
+certificate under sections 942 and 943 and the title to real estate acquired upon foreclosure 
+22
+of the tax lien mortgage, if it shall appear appears that the tax in question was lawfully 
+23
+assessed, the court may permit the tax collector or other municipal officer to amend his the 
+24
+tax collector's record, return, deed or certificate in accordance with the fact, when 
+25
+circumstantial errors or defects appear therein in that record, return, deed or certificate, 
+26
+provided as long as the rights of 3rd parties are not injuriously affected thereby by that 
+27
+amendment. If a deed be so is amended, and the amended deed be thereupon is recorded, it 
+28
+shall have has the same effect as if it had been originally made in its amended form.
+29
+Sec. D-47.  36 MRSA §903 is amended to read:
+30
+§903.  Defendant estopped to deny title; exceptions
+31
+In all civil actions to enforce the collection of a tax on real estate, if it appears that on 
+32
+April 1st of the year for which such tax was assessed, the record title to the real estate listed 
+33
+was in the name of the defendant, he shall the tax collector may not deny his the defendant's 
+34
+title thereto to that real estate. If any owner of real estate who has conveyed the same shall 
+35
+real estate forthwith file files a copy of the description as given in his the defendant's deed 
+36
+with the date thereof of the conveyance and the name and last known address of his the 
+37
+defendant's grantee, in the registry of deeds where such deed should be recorded, he shall 
+38
+be the defendant is free from any liability under this section.
+39
+Sec. D-48.  36 MRSA §945, sub-§4 is amended to read:
+40
+4.  No personal judgment.  In such an action brought under this section, no a personal 
+41
+judgment against a defendant shall may not be entered. Each person answering the 
+1
+2
+
+Page 20 - 132LR0154(01)
+42
+complaint shall have has the right to the severance of the action as to the parcel of real 
+43
+estate in which he that person is interested.
+3
+Sec. D-49.  36 MRSA §946, as amended by PL 2023, c. 523, Pt. A, §9, is further 
+4
+amended to read:
+5
+§946.  Action for equitable relief after period of redemption; procedure
+6
+A municipality which that has become the purchaser at a sale of real estate for 
+7
+nonpayment of taxes or which that as to any real estate has pursued the alternative method 
+8
+for the enforcement of liens for taxes provided in sections 942 and 943, whether in 
+9
+possession of such real estate or not, after the period of redemption from such sale or lien 
+10
+has expired, may maintain an action for equitable relief against any and all persons person 
+11
+who claim claims or may claim some right, title or interest in the premises adverse to the 
+12
+estate of such municipality.
+13
+Any purchaser or his successors successor of a purchaser in interest from a municipality 
+14
+of real estate or lien thereon on real estate acquired by a municipality as a purchaser at a 
+15
+sale thereof of that real estate for nonpayment of taxes, or acquired under the alternative 
+16
+method for the enforcement of liens for taxes provided in sections 942 and 943, whether in 
+17
+possession of such real estate or not, after the period of redemption from such sale or lien 
+18
+has expired, may maintain an action for equitable relief against any and all persons person 
+19
+who claim claims or may claim some right, title or interest in the premises adverse to the 
+20
+estate of such municipality or purchaser.
+21
+A municipal officer may not, while holding municipal office, acquire from that 
+22
+municipality any interest in real estate acquired by that municipality on account of 
+23
+nonpayment of taxes, unless such sale occurs by sealed bid after duly advertising the same 
+24
+at least twice during a 7-day period prior to the acceptance of bids.  A municipal officer 
+25
+who submits a sealed bid may not take part in the bid acceptance process except that a 
+26
+municipal officer may purchase tax acquired tax-acquired property if the property was 
+27
+owned by the municipal officer's child, spouse or parent immediately prior to its acquisition 
+28
+by the municipality and if the purchase is authorized by the municipality.
+29
+1.  Service.  Service shall must be made as in other actions on all defendants who can 
+30
+with due diligence be personally served within the State. If any defendants defendant 
+31
+cannot be so served or are is described in the complaint as being unascertained, service 
+32
+shall must be made by publication as in other actions in which publication is required. A 
+33
+copy of the published notice shall must be mailed to all known defendants at their last 
+34
+known addresses if they have not been personally served.
+35
+If, after notice has been given or served as ordered by the court and the time limited in such 
+36
+notice for the appearance of the defendants has expired, the court finds that there are is or 
+37
+may be defendants a defendant who have has not been actually served with process and 
+38
+who have has not appeared in the action, it the court may of its own motion, or on the 
+39
+representation of any party, appoint an agent, guardian ad litem or next friend for any such 
+40
+defendant, and if any such defendants have or may have conflicting interests, it the court 
+41
+may appoint different agents, guardians ad litem or next friends to represent them. The cost 
+42
+of appearance of any such agent, guardian ad litem or next friend, including the cost of 
+43
+compensation of his that appointee's counsel, shall must be determined by the court and 
+44
+paid by the plaintiff, against whom execution may issue therefor in the name of the agent, 
+45
+guardian ad litem or next friend.
+1
+2
+
+Page 21 - 132LR0154(01)
+1
+2.  Decree; effect.  The plaintiff in such an action under this section shall pray the court 
+2
+to establish and confirm its title to the premises described in the complaint as against all 
+3
+the defendants named or described therein in the action, and, if upon hearing the court shall 
+4
+find finds the plaintiff's title so to be good it, the court shall make and enter its decree 
+5
+accordingly, which; the decree when recorded in the registry of deeds for the county or 
+6
+district where the real estate lies shall have has the effect of a deed of quitclaim of the 
+7
+premises involved in the action from all the defendants named or described therein in the 
+8
+action to the plaintiff.
+9
+3.  Jury.  If the cause an action under this section is tried in the Superior Court, issues 
+10
+of fact may be framed upon application of any party to be tried by a jury whose verdict 
+11
+shall have has the same effect as the verdict of a jury in other civil actions.
+12
+Sec. D-50.  36 MRSA §947 is amended to read:
+13
+§947.  Presumption of validity
+14
+In an action to foreclose a tax lien mortgage under sections section 944, 945, or 946, 
+15
+the proceedings from and including the assessment of the tax upon which such tax lien 
+16
+mortgage is based to and including the time of filing the complaint in such action need not 
+17
+be set forth in the complaint, pleaded or proved and shall be are presumed to be valid. A 
+18
+defendant alleging any invalidity or defect in such proceedings must shall specify in his the 
+19
+defendant's answer such invalidity or defect and must establish such defense the invalidity 
+20
+or defect.
+21
+Sec. D-51.  36 MRSA §991, as amended by PL 1975, c. 623, §55, is further amended 
+22
+to read:
+23
+§991.  Distraint for taxes; procedure; sale
+24
+If any resident or nonresident taxpayer after a reasonable demand refuses or neglects 
+25
+to pay any part of the tax assessed against him that taxpayer in accordance with this chapter, 
+26
+the tax collector may distrain him that taxpayer in any part of the State by any of his the 
+27
+taxpayer's goods and chattels not exempt from attachment for debt, for the whole or any 
+28
+part of his the taxpayer's tax, and may keep such distress for not less than 4 days nor more 
+29
+than 7 days at the expense of the owner, and if he. If the taxpayer does not pay his the tax 
+30
+due within that time, the distress shall must be openly sold at vendue public auction by the 
+31
+tax collector after the 4th day but on or before the 7th day. The place of sale may be other 
+32
+than where the tax was assessed or where the property was seized. Notice of such sale shall 
+33
+must be posted in some public place in the municipality where the tax was assessed and in 
+34
+the place where the sale is to be held at least 48 hours before the time set for sale.
+35
+Sec. D-52.  36 MRSA §992 is amended to read:
+36
+§992.  Disposition of surplus
+37
+The officer tax collector, after deducting the tax and expense of sale conducted 
+38
+pursuant to section 991, shall restore the balance to the former owner, with a written 
+39
+account of the sale and charges. For distress for nonpayment of taxes, the officer shall have 
+40
+tax collector is entitled to the same fees as for levying executions, but his the tax collector's 
+41
+travel shall must be computed only from his the tax collector's dwelling house to the place 
+42
+where it is made.
+
+Page 22 - 132LR0154(01)
+1
+Sec. D-53.  36 MRSA §993, as amended by PL 1975, c. 623, §56, is further amended 
+2
+to read:
+3
+§993.  Arrest; notice; procedure; fees
+4
+If any resident or nonresident taxpayer assessed in accordance with this chapter, for 12 
+5
+days after demand, refuses or neglects to pay his the tax due and to show the tax collector 
+6
+sufficient goods and chattels to pay it, such officer the tax collector may arrest him the 
+7
+taxpayer in the county where found and commit him the taxpayer there to jail, until he the 
+8
+taxpayer pays it or is discharged by law.
+9
+If the tax collector thinks that there are just grounds to fear that such person may 
+10
+abscond before the end of said the 12 days, the tax collector may demand immediate 
+11
+payment and, on failure to pay, he the tax collector may commit such person as provided.
+12
+For commitment for nonpayment of taxes, the tax collector shall have is entitled to the 
+13
+same fees as sheriffs have for levying executions, but his the tax collector's travel shall 
+14
+must be computed only from his the tax collector's dwelling house to the place of 
+15
+commitment.
+16
+Sec. D-54.  36 MRSA §994, as amended by PL 1973, c. 620, §35, is further amended 
+17
+to read:
+18
+§994.  Collector Tax collector may issue warrant of distress to sheriff, deputy sheriff 
+19
+or constable
+20
+Any A tax collector after 3 months from the date of commitment may issue his a 
+21
+warrant to the sheriff of any county, or his the sheriff's deputy, or to a constable of his the 
+22
+tax collector's municipality, directing him the sheriff, deputy or constable to distrain the 
+23
+person or property of arrest any taxpayer not paying his taxes, which due or distrain the 
+24
+property of such taxpayer; the warrant shall must be of the same tenor as that prescribed to 
+25
+be issued to tax collectors with the appropriate changes returnable to the tax collector 
+26
+issuing the same in 30, 60 or 90 days.
+27
+Sec. D-55.  36 MRSA §995 is amended to read:
+28
+§995.  Warrant of distress; service,; notice,; fees
+29
+Before the officer sheriff, deputy sheriff or constable serves any such a warrant 
+30
+pursuant to section 994, he that law enforcement officer shall deliver to the taxpayer or 
+31
+leave at his the taxpayer's last and usual place of abode a summons from said the tax 
+32
+collector stating the amount of tax due, and that it must be paid within 10 days from the 
+33
+time of leaving such the summons. If not so paid, the law enforcement officer shall serve 
+34
+such warrant the same as tax collectors may do and shall receive is entitled to the same fees 
+35
+as for levying executions in personal actions.
+36
+For the service of such warrant, the law enforcement officer shall have is entitled to the 
+37
+same fees as sheriffs have for serving warrants, but his the officer's travel shall must be 
+38
+computed only from his the officer's place of abode to place of service.
+39
+Sec. D-56.  36 MRSA §996 is amended to read:
+40
+§996.  Distraint before tax due to prevent loss
+41
+When a tax collector has reason to believe that there is danger of losing, by delay, a tax 
+42
+assessed upon any taxpayer, at any time after commitment:
+
+Page 23 - 132LR0154(01)
+1
+1.  Warrant issued.  He The tax collector may issue the warrant provided for in section 
+2
+994 prior to the expiration of the 3-month period; or
+3
+2.  When served.  He The tax collector may in the warrant authorized by section 994, 
+4
+or in subsection 1, direct the law enforcement officer to demand immediate payment, and, 
+5
+if not so paid, the officer shall serve such warrant without further notice; or
+6
+3.  When notice period unexpired.  He The tax collector may, after the issuance of 
+7
+such the warrant pursuant to subsection 1, in writing direct the law enforcement officer to 
+8
+whom the warrant has been issued to demand immediate payment, and, if not so paid, to 
+9
+serve such warrant without further notice notwithstanding any unexpired portion of the 10-
+10
+day notice period required by section 995; or
+11
+4.  Distrain or arrest.  He The tax collector may himself personally demand immediate 
+12
+payment and upon failure he may distrain the property or arrest the person of such taxpayer.
+13
+Sec. D-57.  36 MRSA §997 is amended to read:
+14
+§997.  Arrest and commitment; procedure
+15
+When a tax collector or any law enforcement officer by virtue of a warrant, for want of 
+16
+property, arrests any person and commits him that person to jail, he the tax collector shall 
+17
+give an attested copy of his the tax collector's warrant to the jailer and certify, under his the 
+18
+tax collector's hand, the sum that such the person is to pay as his tax and the costs of 
+19
+arresting and committing, and that for want of goods and chattels whereon on which to 
+20
+make distress, he the person has been arrested. Such The copy and certificate are a 
+21
+sufficient warrant to require the jailer to receive and keep such the person in custody until 
+22
+he the person pays his the tax due, charges and 33¢ for the copy of the warrant. Such The 
+23
+person shall have has the same rights and privileges as a debtor arrested or committed on 
+24
+execution in favor of a private creditor.
+25
+Sec. D-58.  36 MRSA §998 is amended to read:
+26
+§998.  Collector Tax collector liable unless he commits taxpayer imprisoned within 
+27
+one year
+28
+When a person imprisoned for not paying his that person's tax is discharged, the tax 
+29
+collector committing him shall the person may not be discharged from such tax without a 
+30
+vote of the municipality, unless the taxpayer was imprisoned within one year after the date 
+31
+of commitment of such tax.
+32
+Sec. D-59.  36 MRSA §1031 is amended to read:
+33
+§1031.  Collector Tax collector may bring action in own name
+34
+Any A tax collector or his a tax collector's executor or administrator may bring a civil 
+35
+action in his the tax collector's own name for any tax, and no a Judge of any District Court 
+36
+before whom such action is brought is not incompetent to try the same civil action by reason 
+37
+of his the judge's residence in the municipality assessing said the tax. No A defendant is 
+38
+not liable for any costs of the action, unless it appears by the complaint and by proof that 
+39
+payment of said the tax had been duly demanded before the action.
+40
+Sec. D-60.  36 MRSA §1071 is amended to read:
+41
+§1071.  Collector's Tax collector's tax auction sale; notice; procedure
+
+Page 24 - 132LR0154(01)
+1
+If any tax on real estate remains unpaid on the first Monday in February next after said 
+2
+that tax was assessed, the tax collector shall sell at public auction so as much of such real 
+3
+estate as is necessary for the payment of said that tax, interest and all the charges, at 9 
+4
+o'clock in the forenoon of said a.m. on the first Monday in February at the office of the tax 
+5
+collector or at the place where the last preceding annual municipal meeting was held. In 
+6
+case of the absence or disability of the tax collector, the sale shall must be made by some a 
+7
+constable of the municipality, who shall have has the same powers as the tax collector.
+8
+In the case of the real estate of resident owners, the tax collector may give notice of the 
+9
+sale and of his the tax collector's intention to sell so as much of said that real estate as is 
+10
+necessary for the payment of delinquent taxes and all charges by posting notices thereof of 
+11
+the sale in the same manner and at the same places that warrants for municipal meetings 
+12
+are therein required to be posted, at least 6 weeks and not more than 7 weeks before such 
+13
+first Monday in February, designating the name of the owner if known, the right, lot and 
+14
+range, the number of acres as nearly as may be determined, the amount of tax due and such 
+15
+other short description as is necessary to render its identification certain and plain.
+16
+In the case of taxes assessed on the real estate of nonresident owners, he the tax 
+17
+collector shall cause said notices to be published in some a newspaper, if any, published in 
+18
+the county where said that real estate lies, 3 weeks successively, such publication to begin 
+19
+at least 6 weeks before said such first Monday in February. If no a newspaper is not 
+20
+published in said that county, said the notices shall must be published in like manner in the 
+21
+state paper. He The tax collector shall, in the advertisements so published notices, state the 
+22
+name of the municipality and, if within 3 years it has been changed for the whole or a part 
+23
+of the territory, both the present and former name shall names must be stated; and that, if 
+24
+the taxes, interest and charges are not paid on or before such first Monday in February, so 
+25
+as much of the estate as is sufficient to pay the amount due therefor for taxes with interest 
+26
+and charges will be sold without further notice, at public auction, on said such first Monday 
+27
+in February at 9 o'clock in the forenoon a.m. at the office of the tax collector or at the place 
+28
+where the last preceding annual municipal meeting was held. The date of the commitment 
+29
+shall must be stated in the advertisement notice.
+30
+In all cases said the tax collector shall lodge with the municipal clerk a copy of each 
+31
+such notice, with his the tax collector's certificate thereon that he the tax collector has given 
+32
+notice of the intended sale as required by law. Such The copy and certificate shall must be 
+33
+recorded by said the clerk and the that record so made shall must be open to the inspection 
+34
+of all persons interested. The clerk shall furnish to any person desiring it an attested copy 
+35
+of such record, on receiving payment or tender of payment of a reasonable sum therefor for 
+36
+the record; but notice of sales the sale of real estate within any a village corporation for 
+37
+unpaid taxes of said that corporation may be given by notices thereof notice, posted in the 
+38
+same manner, and at the same places as warrants for corporation meetings, and by 
+39
+publication, as provided in this section.
+40
+No An irregularity, informality or omission in giving the notices of sale required by 
+41
+this section, or in lodging a copy of any of the same with the municipal clerk, as required, 
+42
+shall does not render such sale invalid, but; such sale shall be is deemed to be legal and 
+43
+valid, if made at the time and place provided, and in other respects according to law, except 
+44
+as to the matter of notice. For any irregularity, informality or omission in giving notice as 
+45
+required by this section, and in lodging a copy of the same that notice with the municipal 
+
+Page 25 - 132LR0154(01)
+46
+clerk, the tax collector shall be is liable to any person injured thereby by the irregularity, 
+47
+informality or omission in giving or lodging that notice.
+3
+Sec. D-61.  36 MRSA §1073 is amended to read:
+4
+§1073.  Notice to owners or occupants of time and place of sale
+5
+After the real estate is so advertised, and at least 10 days before the day of sale, the tax 
+6
+collector shall notify the owner, if a resident, or the occupant thereof of the real estate, if 
+7
+any, of the time and place of sale by delivering to him the resident or occupant in person, 
+8
+or by registered mail with receipt demanded, or by leaving at his the resident's or occupant's 
+9
+last and usual place of abode, a written notice signed by him the tax collector stating the 
+10
+time and place of sale and the amount of taxes due. In case of a nonresident owners owner 
+11
+of real estate, such notice shall must be sent by mail to the last and usual address, if known 
+12
+to the tax collector, of the nonresident at least 10 days before the day of sale. If such the 
+13
+tax is paid before the time of sale, the amount to be paid for such the advertisement and 
+14
+notice shall may not exceed $1, in addition to the sum paid to the printer, if any.
+15
+Sec. D-62.  36 MRSA §1075 is amended to read:
+16
+§1075.  Collector's Tax collector's return of sale; form
+17
+The tax collector making any sale of real estate for nonpayment of taxes shall, within 
+18
+30 days after such sale, make a return, with a particular statement of his the tax collector's 
+19
+doings in making such that sale, to the municipal clerk, who shall receive and file it. Said 
+20
+That return shall be is evidence of the facts therein set forth in the return in all cases where 
+21
+such when that tax collector is not personally interested. The tax collector's return to the 
+22
+municipal clerk shall must be in substance as follows: 
+23
+Pursuant to law, I caused the taxes assessed on the real estate of nonresident owners 
+24
+described herein in this notice, situated in the municipality of ..... for the year ....., to be 
+25
+advertised according to law by advertising in the ..... three weeks successively, the first 
+26
+publication being on the ..... day of ....., and at least six weeks before the day of sale; and 
+27
+caused the taxes assessed on the real estate of resident owners described herein in this 
+28
+notice, situated in the municipality of ..... for the year ....., to be advertised according to law 
+29
+by posting notice as required by law, at the following places, six weeks before the day of 
+30
+sale, being public and conspicuous places in said that municipality. I also, at least ten days 
+31
+before the day of sale, gave to each resident owner of said that real estate, or the occupant 
+32
+thereof of that real estate, if any, in hand, or forwarded to him the resident by registered 
+33
+mail with receipt demanded, or left at his the resident's last and usual place of abode, and 
+34
+sent by mail to the last and usual address of each nonresident owner of said that real estate, 
+35
+whose address was known to me, written notice of the time and place of said the sale, in 
+36
+the manner provided by law; and afterwards on the first Monday of February, 19 20.., at 
+37
+nine o'clock a.m., being the time and place of sale, I proceeded to sell, according to the 
+38
+tenor of the advertisement, the estates upon which the assessed taxes so assessed remained 
+39
+unpaid; and in the schedules following is set forth each parcel of the estate so offered for 
+40
+sale, the amount of taxes and the name of the purchaser; and I have made and executed 
+41
+deeds of the several parcels to the several persons entitled thereto to those parcels, and 
+42
+placed them the deeds on file in the municipal treasurer's office, to be disposed of as the 
+43
+law requires. 
+44
+SCHEDULE NO. 1 
+1
+2
+
+Page 26 - 132LR0154(01)
+1
+Nonresident Owners 
+Name 
+of 
+owner
+Description 
+of property
+Amount 
+of tax, 
+interest 
+and 
+charges
+Quantity 
+sold
+Name of 
+purchaser
+2
+SCHEDULE NO. 2 
+8
+Resident Owners 
+Name 
+of 
+owner
+Description 
+of property
+Amount 
+of tax, 
+interest 
+and 
+charges
+Quantity 
+sold
+Name of 
+purchaser
+9
+In witness whereof I have hereunto subscribed my name, this ..... day of ....., 19 20... 
+15
+C.D., Tax Collector of the municipality of .....
+16
+Sec. D-63.  36 MRSA §1076 is amended to read:
+17
+§1076.  Purchaser to notify mortgagee of sale; right of redemption
+18
+When real estate is so sold for nonpayment of taxes, the tax collector shall, within 30 
+19
+days after the day of sale, lodge with the municipal treasurer a certificate under oath, 
+20
+designating the quantity of real estate sold, the names of the owners of each parcel and the 
+21
+names of the purchasers; what part of the amount of each was tax and what was cost and 
+22
+charges; and also a deed of each parcel sold, running to the purchasers. The treasurer shall 
+23
+may not at that time deliver the deeds to the grantees, but shall put them on file in his the 
+24
+treasurer's office, to be delivered at the expiration of 2 years from the day of sale, and the. 
+25
+The treasurer shall after the expiration of 2 years deliver said any such deed to the grantee 
+26
+or his the grantee's heirs, provided as long as the owner, the mortgagee or any person in 
+27
+possession or other person legally taxable therefor for that real estate does not within such 
+28
+time redeem the real estate from such sale, by payment or tender of the taxes, all the charges 
+29
+and interest on the whole at the rate of 8% a year from the date of sale to the time of 
+30
+redemption, and costs as provided, with 67¢ for the deed and certificate of 
+31
+acknowledgment.
+32
+If there is an undischarged mortgage duly recorded on the real estate sold for 
+33
+nonpayment of taxes, the purchaser at such sale shall notify the holder of record of each 
+34
+such mortgage within 60 days from the date of said that sale, by sending a notice in writing 
+35
+by registered letter addressed to the record holder of such mortgage at the residence of such 
+36
+holder as given in the registry of deeds in the county where said that real estate is situated, 
+37
+stating that he the purchaser has purchased the estate at a tax sale on such date and request 
+38
+requesting the mortgagee to redeem the same. If such notice is not given, the holder of 
+39
+record of any mortgage, which mortgage was on record in the registry of deeds at the time 
+40
+of said that sale, may redeem the real estate sold at any time within 3 months after receiving 
+41
+actual notice of such sale, by the payment or tender of the amounts, interest and costs as 
+42
+specified, and the registry fee for recording and discharging the deed, if the deed has been 
+43
+recorded, and the deed shall must be discharged by the grantee therein of that deed, or the 
+2
+3
+4
+5
+6
+7
+9
+10
+11
+12
+13
+14
+
+Page 27 - 132LR0154(01)
+44
+owner under the tax deed at the time of redemption, in the manner provided for the 
+45
+discharge of mortgages of real estate.
+3
+If any an owner of real estate which that is assessed to any former owner who was not 
+4
+the owner on April 1st of the taxable year as assessed, or to owners unknown, does not 
+5
+have actual notice of the sale of his the owner's real estate for taxes within said those 2 
+6
+years, he the owner may, at any time within 3 months after he the owner has had actual 
+7
+notice, redeem the real estate sold from such sale although the deed may have been 
+8
+recorded, by payment or tender of the amounts, interest and costs as specified and the 
+9
+registry fee for recording and discharging the deed, in case the deed has been recorded, and 
+10
+the deed shall must be discharged by the grantee therein of that deed, or the owner under 
+11
+the tax deed at the time of redemption, in the manner provided for the discharge of 
+12
+mortgages on real estate.
+13
+If the real estate is redeemed before the deed is delivered, the municipal treasurer shall 
+14
+give the owner, mortgagee or party to whom the real estate is assessed or other person 
+15
+legally taxable therefor for that real estate a certificate thereof of redemption, cancel the 
+16
+deed and pay to the grantee on demand the amount so received from him the grantee. If the 
+17
+amounts, interest and costs specified are not paid to the treasurer within the time as 
+18
+specified, he the treasurer shall deliver to the grantee his the treasurer's deed upon the 
+19
+payment of the fees for the deed and acknowledgment and 30¢ more for receiving and 
+20
+paying out the proceeds of the sale, but all tax deeds of real estate upon which there is an 
+21
+undischarged mortgage duly recorded shall may not carry no a title except subject to such 
+22
+mortgage, unless the purchaser at such tax sale gives to the record holder of the mortgage, 
+23
+notice as provided. For the fidelity of the treasurer in discharging his the treasurer's duties 
+24
+required, the municipality is responsible, and has a remedy on his the treasurer's bond in 
+25
+case of default.
+26
+Sec. D-64.  36 MRSA §1077 is amended to read:
+27
+§1077.  Purchaser's failure to pay in 20 days voids sale
+28
+If the purchaser of real estate sold for taxes under section 1074 fails to pay the tax 
+29
+collector within 20 days after the sale of the amount bid by him the purchaser, the sale shall 
+30
+be is void, and the municipality in which such sale was made shall be is deemed to be the 
+31
+purchaser of the real estate so sold, the same as if purchased by some one someone in behalf 
+32
+of the municipality under section 1082. If a municipality becomes a purchaser of real estate 
+33
+under this section, the deed to it shall must set forth the fact that a sale was duly made, the 
+34
+amount bid for the real estate included in said the deed, and that the purchaser failed to pay 
+35
+the amount bid within 20 days after the sale. The said deed shall must confer upon said that 
+36
+municipality the same rights and duties as if it had been the purchaser under section 1082.
+37
+Sec. D-65.  36 MRSA §1078 is amended to read:
+38
+§1078.  Owner's right to redeem
+39
+Any person to whom the right by law belongs may, at any time within 2 years from the 
+40
+day of sale, redeem any real estate sold for taxes on paying into the municipal treasury for 
+41
+the purchaser the full amount certified to be due, including taxes, costs and charges, with 
+42
+interest on the whole at the rate of 8% a year from the date of the sale, which shall must be 
+43
+received and held by said the treasurer as the property of the such purchaser aforesaid. The 
+44
+treasurer shall pay it to said that purchaser, his or the purchaser's heirs or assigns, on 
+1
+2
+
+Page 28 - 132LR0154(01)
+45
+demand. If not paid when demanded, the purchaser may recover it in any court of 
+46
+competent jurisdiction, with costs and interest at the rate of 8%, after such demand. The 
+47
+sureties of the treasurer shall pay the same on failure of said that treasurer. In default of 
+48
+payment by either, the municipality shall pay the same with costs and interest as provided.
+5
+Sec. D-66.  36 MRSA §1080 is amended to read:
+6
+§1080.  Delivery of deed to purchaser after 2 years
+7
+If the real estate is not redeemed within the time specified by payment of the full 
+8
+amount required by this chapter, the municipal treasurer shall deliver to the purchaser the 
+9
+deeds deed lodged with him the treasurer by the tax collector. If he the treasurer willfully 
+10
+refuses to deliver such deed to said the purchaser, on demand, after said 2 years after the 
+11
+sale and forfeiture of the land real estate, he the treasurer forfeits to said the purchaser the 
+12
+full value of the property so real estate to be conveyed, to be recovered in a civil action, 
+13
+with costs and interest as in other cases. The sureties of said the treasurer shall make good 
+14
+the payment required in default of payment by the principal. On the failure of both, the 
+15
+municipality is liable.
+16
+Sec. D-67.  36 MRSA §1081 is amended to read:
+17
+§1081.  Nonresident owner's action; time limit
+18
+Any A nonresident owner of real estate sold under section 1074, having paid the taxes, 
+19
+costs, charges and interest as provided, may, at any time within one year after making such 
+20
+payment, commence a civil action against the municipality to recover the amount paid, and 
+21
+if on trial it appears that the money raised was for an unlawful purpose, he shall have 
+22
+judgment must be in favor of the nonresident owner for the amount so paid by the 
+23
+nonresident owner. If not commenced within the year, the claim shall be is forever barred. 
+24
+The action may be in the Superior Court and the plaintiff recovering judgment therein shall 
+25
+must have full costs, although even when the amount of damages is less than $20.
+26
+Sec. D-68.  36 MRSA §1084 is amended to read:
+27
+§1084.  Posting notices; evidence of
+28
+The affidavit of any disinterested person as to posting notifications required for the sale 
+29
+of any real estate to be sold by the sheriff or his the sheriff's deputy, or a constable or tax 
+30
+collector, in the execution of his the sheriff's office, may be used in evidence in any trial to 
+31
+prove the fact of notice, if such affidavit, made on one of the original advertisements, or on 
+32
+a copy of it, is filed in the registry of the county where the real estate lies, within 6 months.
+33
+Sec. D-69.  36 MRSA §1109, sub-§6, as amended by PL 1977, c. 467, §11, is 
+34
+further amended to read:
+35
+6.  Recertification.  The assessor shall determine annually whether any classified land 
+36
+continues to meet the requirements of this subchapter. Each year the assessor shall recertify 
+37
+any classifications made under this subchapter. If any classified land no longer meets the 
+38
+requirements of this subchapter, the assessor shall either remove the classification or, if he 
+39
+deems the assessor considers it appropriate, allow the land to have a provisional 
+40
+classification as detailed in subsection 2.
+41
+Sec. D-70.  36 MRSA §1181, first ¶, as repealed and replaced by PL 1977, c. 509, 
+42
+§30 and amended by PL 2011, c. 657, Pt. W, §6, is further amended to read:
+1
+2
+3
+4
+
+Page 29 - 132LR0154(01)
+1
+The Commissioner of Agriculture, Conservation and Forestry shall provide to the State 
+2
+Tax Assessor at his the State Tax Assessor's request all information in his the 
+3
+commissioner's possession touching the value and description of lands in the unorganized 
+4
+territory; and a statement of all lands on which timber has been sold or a permit to cut 
+5
+timber has been granted by lease or otherwise. All other state officers, when requested, 
+6
+shall in like manner provide all information in their possession touching said valuation to 
+7
+the State Tax Assessor.
+8
+Sec. D-71.  36 MRSA §1233 is amended to read:
+9
+§1233.  Failure to make return; penalty
+10
+Should any owner or person having in his charge responsible for or in control of 
+11
+personal property taxable by said the State Tax Assessor, as provided in section 1231, 
+12
+neglect or refuse to comply with the requirements of this subchapter, the State Tax Assessor 
+13
+may secure the necessary information by such methods as he deems the State Tax Assessor 
+14
+considers advisable, and the necessary expense incurred in securing such information shall 
+15
+must be added to the tax assessed against the property of such owner or person and paid to 
+16
+the State Tax Assessor with the tax.
+17
+Sec. D-72.  36 MRSA §1286, as amended by PL 1981, c. 706, §16, is further 
+18
+amended to read:
+19
+§1286.  Limitation on recovery of tax sold real estate sold for taxes in unorganized 
+20
+places territory
+21
+When the State has taxed real estate in the unorganized territory, and the State Tax 
+22
+Assessor has conveyed it, or part of it, for nonpayment of tax, by deed purporting to convey 
+23
+the interest of the State by forfeiture for such nonpayment, or it or a part of it has been 
+24
+conveyed under authority given by the Legislature by a deed purporting to convey the 
+25
+interest of the State acquired under sections 1281 to 1283, and the pertinent records of the  
+26
+State Tax Assessor show that the grantee, his or the grantee's heirs or assigns, has paid the 
+27
+state and county taxes thereon on that real estate, or on his the grantee's acres or interest 
+28
+therein, as stated in the deed, continuously for the 20 years subsequent to such deed; and 
+29
+when a person claims under a recorded deed describing real estate in the unorganized 
+30
+territory taxed by the State, and the pertinent records of the State Tax Assessor show that 
+31
+he has, by himself or by his the grantee or that grantee's predecessors under that deed, have 
+32
+paid the state and county taxes thereon on that real estate, or on his that person's acres or 
+33
+interest therein in those acres as stated in the deed, continuously for 20 years subsequent to 
+34
+recording that deed; and whenever, in either case, it appears that the person claiming under 
+35
+such a deed, and those under whom he that person claims, have, during that period, held 
+36
+such exclusive, peaceable, continuous and adverse possession thereof of that real estate, 
+37
+acres or interest in those acres as comports with the ordinary management of real estate in 
+38
+the unorganized territory in this State, and it further appears that during such period no a 
+39
+former owner, or person claiming under him that former owner, has not paid any such tax, 
+40
+or any assessment by the county commissioners, or done any other act indicative of 
+41
+ownership, no an action may not be maintained by a former owner, or those claiming under 
+42
+him that former owner, to recover such real estate or to avoid such deed, unless commenced 
+43
+within those 20 years. That payment shall give gives the grantee or the grantee's heirs or 
+44
+assigns or the person claiming, his heirs or assigns, a right of entry and seizin in the whole, 
+
+Page 30 - 132LR0154(01)
+45
+or such part, in common and undivided, of the whole tract as the deed states, or as the 
+46
+number of acres in the deed is to the number of acres assessed.
+3
+This section shall apply applies to rights and interests acquired under tax sales made 
+4
+by the State Tax Assessor for the nonpayment of taxes.
+5
+Sec. D-73.  36 MRSA §1287 is amended to read:
+6
+§1287.  Action may be commenced in 10 years after disability
+7
+If any such former owner, or person claiming under him that former owner, during said 
+8
+the period of 20 years, or any portion thereof of that period, is a minor, mentally ill is 
+9
+suffering from a mental illness, is imprisoned or is absent from the United States he, that 
+10
+person may, if otherwise entitled, bring such action at any time within 10 years after such 
+11
+disability is removed, notwithstanding said that the period of 20 years has expired, and if 
+12
+such person dies during the continuance of the disability, and no a determination or 
+13
+judgment has not been had on his that person's title or right of action, such action may be 
+14
+brought by his that person's heirs, or other person claiming under him, that person at any 
+15
+time within 10 years after his that person's death, notwithstanding that the 20 years have 
+16
+elapsed.
+17
+Sec. D-74.  36 MRSA §1485 is amended to read:
+18
+§1485.  Exemption from personal property taxation
+19
+Any A vehicle owner who has paid the excise tax on his that owner's vehicle in 
+20
+accordance with sections 1482 and 1484 shall be is exempt from personal property taxation 
+21
+of such that vehicle for that year.
+22
+Sec. D-75.  36 MRSA §1487, sub-§1, as amended by PL 1967, c. 23, is further 
+23
+amended to read:
+24
+1.  Municipal tax collector.  In the case of municipalities, or a municipally owned 
+25
+airport or seaplane base, the municipal tax collector or such other person as the municipality 
+26
+may designate shall collect such excise tax and shall deposit the money received with the 
+27
+municipal treasurer monthly.
+28
+A.  Such The collector shall report to the municipal officers at the end of the municipal 
+29
+year, showing the total amount of excise tax collected by him the collector and the 
+30
+amounts applying to each year.
+31
+Sec. D-76.  36 MRSA §1487, sub-§1-A, ¶A, as enacted by PL 1965, c. 195, §2, is 
+32
+amended to read:
+33
+A.  Such The collector shall report to the county commissioners at the end of the county 
+34
+year, showing the total amount of excise tax collected by him the collector and the 
+35
+amounts applying to each year.
+36
+Sec. D-77.  36 MRSA §1504, sub-§5-A, as enacted by PL 1987, c. 196, §8, is 
+37
+amended to read:
+38
+5-A.  Credit for transfer.  Any An owner who has paid the excise tax for a watercraft 
+39
+which that is transferred in the same tax year is entitled to a credit to the maximum amount 
+40
+of the tax previously paid in that year for any number of watercraft, regardless of the 
+41
+number of transfers which that may be required of him the owner in the same tax year.  The 
+42
+credit shall must be allowed in any place in which the excise tax is payable.
+1
+2
+
+Page 31 - 132LR0154(01)
+1
+Sec. D-78.  36 MRSA §1504, sub-§8, as enacted by PL 1983, c. 92, Pt. B, §9, is 
+2
+amended to read:
+3
+8.  Lien.  If the tax imposed by this chapter is not paid when due, the tax collector may 
+4
+file in the office of the registry of deeds of the county where the owner of the watercraft 
+5
+resides or in the case of a nonresident owner or partnership or corporation, either domestic 
+6
+or foreign, where the watercraft is principally moored, docked or located or has its 
+7
+established base of operations, or in the office in which a security or financial statement or 
+8
+notice with respect to personal property would be filed, a notice of lien specifying the 
+9
+amount of the tax, addition to tax, penalty and interest due, the name and last known address 
+10
+of the taxpayer liable for the amount and the fact that the tax collector has complied with 
+11
+this chapter in the assessment of the tax.  From the time of the filing, the amount set forth 
+12
+in the certificate constitutes a lien upon all property of the taxpayer, in the county then 
+13
+owned by him the taxpayer or thereafter acquired by him the taxpayer in the period before 
+14
+the expiration of the lien.  In the case of any prior mortgage on any real or personal property 
+15
+so written as to secure a present debt and also future advances by the mortgagee to the 
+16
+mortgagor, the lien, as provided in this subsection, when notice thereof of the lien has been 
+17
+filed in the proper office, shall be is subject to the prior mortgage, unless the assessor also 
+18
+notifies the mortgagee of the recording of the lien in writing, in which case any 
+19
+indebtedness thereafter created from the mortgagor to the mortgagee shall be is junior to 
+20
+the lien provided in this subsection.  The lien, provided in this subsection, has the same 
+21
+force, effect and priority as a judgment lien and shall continue continues for 5 years from 
+22
+the date of recording, unless sooner released or otherwise discharged. The lien may, within 
+23
+the 5-year period or within 5 years from the date of the last extension of the lien in the 
+24
+manner provided in this section, be extended by filing for record in the appropriate office, 
+25
+a copy of the notice and from the time of that filing the lien shall be is extended for 5 years, 
+26
+unless sooner released or otherwise discharged.
+27
+Sec. D-79.  36 MRSA §1542 is amended to read:
+28
+§1542.  Payment of owner's interest; discharge
+29
+Each owner of timber and grass so assessed may pay the part of the tax so assessed 
+30
+proportioned to his that owner's interest in any tract, whether in common or not; and shall 
+31
+must receive from the State Tax Assessor a certificate, discharging the tax upon the interest 
+32
+upon which such payment is made.
+33
+Sec. D-80.  36 MRSA §1543, as amended by PL 1977, c. 679, §6, is further amended 
+34
+to read:
+35
+§1543.  Each acreage interest forfeited if tax unpaid
+36
+Each fractional part, or interest represented by acreage, in all such public reserved lots, 
+37
+upon which the state taxes and interest are not paid by the 30th day of March of the year 
+38
+following the assessment shall be are forfeited to the State, and whenever such taxes are 
+39
+assessed on a biennial basis, such forfeiture shall occur occurs on the 30th day of March 
+40
+following the 2nd year of the biennium. Any An owner may redeem his that owner's interest 
+41
+in such public reserved lots by tendering to the State Tax Assessor, within one year after 
+42
+the date of the forfeiture, his that owner's proportional part of all the sums due on such lots, 
+43
+and $1 for a release.
+
+Page 32 - 132LR0154(01)
+1
+Sec. D-81.  36 MRSA §1545, as amended by PL 1995, c. 502, Pt. E, §30; PL 2011, 
+2
+c. 657, Pt. W, §7; and PL 2013, c. 405, Pt. A, §24, is further amended to read:
+3
+§1545.  Timber and grass acreage forfeited held for benefit of towns
+4
+All timber and grass acreage forfeited under section 1544 shall must be held in trust by 
+5
+the State for the benefit of the people of Maine and shall must be held by the Director of 
+6
+the Bureau of Parks and Lands subject to the same powers and responsibilities as apply to 
+7
+other lands in his the director's custody.
+8
+Sec. D-82.  36 MRSA §1604, sub-§3, as enacted by PL 1985, c. 459, Pt. C, §14, is 
+9
+amended to read:
+10
+3.  Contracts.  Each county or agency which that contracts with another entity to 
+11
+provide services funded under this chapter shall enter into a written contract with the 
+12
+providing agency.  A copy of each contract shall must be maintained in the office of the 
+13
+county or agency entering into the contract. A copy of each contract shall must be provided 
+14
+to the fiscal administrator of the unorganized territory, who shall maintain copies in his that 
+15
+fiscal administrator's office.
+16
+Sec. D-83.  36 MRSA §1605, sub-§1, as amended by PL 1987, c. 737, Pt. C, §§81 
+17
+and 106 and PL 1989, c. 6; c. 9, §2; and c. 104, Pt. C, §§8 and 10, is further amended to 
+18
+read:
+19
+1.  Fund established.  The Legislature hereby creates the Unorganized Territory 
+20
+Education and Services Fund. The State Tax Assessor shall deposit in the fund all 
+21
+Unorganized Territory Educational and Services Tax money and county tax money, 
+22
+assessed pursuant to Title 30‑A, section 706, which he that the assessor collects.
+23
+SUMMARY
+24
+Part A:
+25
+1. Changes the certification requirements for full-time, professional property assessors 
+26
+to require that they must be certified by Maine Revenue Services as having the basic 
+27
+knowledge required to perform the assessing function instead of being certified as 
+28
+professionally trained assessors;
+29
+2. Removes the requirement that Maine Revenue Services send municipalities printed 
+30
+applications for the Maine Resident Homestead Property Tax Exemption;
+31
+3. Clarifies the definition of "homestead" in the laws governing homestead property 
+32
+tax deferrals for senior citizens and persons with disabilities by correcting the calculation 
+33
+of the value of the common areas and tax lot included in a homestead in a multi-unit 
+34
+building; and
+35
+4. Corrects a conflict in the payment due date for the homestead property tax deferral 
+36
+program for senior citizens and persons with disabilities by changing the due date from 
+37
+April 30th of the calendar year following the year in which the property exited the program 
+38
+to within 12 months after the property exited the program to conform to changes made to 
+39
+the Maine Revised Statutes, Title 36, section 6260, subsection 2 by Public Law 2023, 
+40
+chapter 441, Part B, section 5.
+41
+Part B:
+24
+
+Page 33 - 132LR0154(01)
+1
+1. Clarifies that the retail sale exclusion for the sale or lease or rental of tangible 
+2
+personal property for further lease or rental does not include the further casual sale or rental 
+3
+of the tangible personal property;
+4
+2. Removes unnecessary references to sale and leaseback transactions from the sales 
+5
+tax exemption for machinery and equipment because, after January 1, 2025, leased 
+6
+machinery and equipment is eligible for the sales tax exemption; and
+7
+3. Clarifies the timing of the testing period for the sales tax exemption for leases for 
+8
+certain instrumentalities of interstate or foreign commerce.
+9
+Part C:
+10
+1. Clarifies that the income-based phase-out of the dependent exemption tax credit for 
+11
+nonresident and part-year resident taxpayers applies before the proration of the credit for 
+12
+those taxpayers;
+13
+2. Eliminates the expired high-technology investment income tax credit;
+14
+3. Eliminates the requirement that a separate return must be filed for the insurance 
+15
+premiums tax on workers' compensation insurance;
+16
+4. Updates a calendar year reference in the section of law governing estimated income 
+17
+tax payments to a fiscal year to address a provision that was missed when Public Law 2023, 
+18
+chapter 360 updated the other calendar year references in that section;
+19
+5. Makes rulemaking regarding the easy enrollment health insurance program 
+20
+discretionary; and
+21
+6. Eliminates the expired shipbuilding facility credit.
+22
+Part D removes and replaces gendered language in laws governing property taxes and 
+23
+certain other provisions and makes other changes to conform with current drafting 
+24
+standards.

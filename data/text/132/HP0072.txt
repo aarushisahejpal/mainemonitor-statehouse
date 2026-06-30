@@ -1,0 +1,469 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 107
+H.P. 72
+House of Representatives, January 8, 2025
+An Act to Require Health Insurance Coverage for Biomarker 
+Testing
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ZAGER of Portland.
+Cosponsored by Senator BENNETT of Oxford and
+Representatives: ARATA of New Gloucester, CLUCHEY of Bowdoinham, JAVNER of 
+Chester, MATHIESON of Kittery, Senators: BAILEY of York, CYRWAY of Kennebec.
+
+Page 1 - 132LR0062(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  22 MRSA §3174-PPP is enacted to read:
+3
+§3174-PPP.  Biomarker testing coverage
+4
+1. Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings.
+6
+A. "Biomarker" means a characteristic that is objectively measured and evaluated as 
+7
+an indicator of a normal biological process, pathogenic process or pharmacologic 
+8
+response to a specific therapeutic intervention, including a known gene-drug 
+9
+interaction for a medication being considered for use or already being administered. 
+10
+"Biomarker" includes but is not limited to a gene mutation, characteristic of a gene or 
+11
+protein expression.
+12
+B. "Biomarker testing" means the analysis of a patient's tissue, blood or other biological 
+13
+specimen for the presence of a biomarker.  "Biomarker testing" includes but is not 
+14
+limited to a single analyte test, multiplex panel test, protein expression and whole 
+15
+exome, whole genome and whole transcriptome sequencing.
+16
+C. "Consensus statement" means a statement:
+17
+(1) Developed by an independent, multidisciplinary panel of experts using a 
+18
+transparent methodology and reporting structure and with a conflict of interest 
+19
+policy;
+20
+(2) Aimed at specific clinical circumstances; and
+21
+(3) Based on the best available evidence for the purpose of optimizing the 
+22
+outcomes of clinical care.
+23
+D. "Nationally recognized clinical practice guideline" means an evidence-based 
+24
+clinical practice guideline: 
+25
+(1)  Developed by an independent organization or medical professional society 
+26
+using a transparent methodology and reporting structure and with a conflict of 
+27
+interest policy;
+28
+(2)  That establishes a standard of care informed by a systematic review of evidence 
+29
+and an assessment of the benefits and risks of alternative care options; and 
+30
+(3)  That includes recommendations intended to optimize patient care. 
+31
+2. Required coverage.  The department shall provide coverage for biomarker testing 
+32
+for the purposes of diagnosis, treatment, appropriate management or ongoing monitoring 
+33
+of a disease or condition of a MaineCare member when the test is supported by medical 
+34
+and scientific evidence, including, but not limited to:
+35
+A.  A labeled indication for a test approved or cleared by the federal Food and Drug 
+36
+Administration; 
+37
+B.  An indicated test for a drug approved by the federal Food and Drug Administration; 
+38
+C.  A warning or precaution on a label of a drug approved by the federal Food and 
+39
+Drug Administration;
+
+Page 2 - 132LR0062(01)
+1
+D.  A federal Department of Health and Human Services, Centers for Medicare and 
+2
+Medicaid Services national coverage determination or Medicare administrative 
+3
+contractor local coverage determination; or
+4
+E.  A nationally recognized clinical practice guideline or consensus statement.
+5
+Coverage described in this subsection must provide for the delivery of biomarker testing 
+6
+services in a manner that limits disruptions in care, including the need for multiple biopsies 
+7
+or biological specimen samples.
+8
+Sec. 2.  24 MRSA §2317-B, sub-§9-A is enacted to read:
+9
+9-A.  Title 24-A, sections 2745-H, 2837-I and 4237-B.  Biomarker testing coverage, 
+10
+Title 24‑A, sections 2745-H, 2837-I and 4237-B;
+11
+Sec. 3.  24-A MRSA §2745-H is enacted to read:
+12
+§2745-H.  Biomarker testing insurance coverage
+13
+1. Definitions.  As used in this section, unless the context otherwise indicates, the 
+14
+following terms have the following meanings.
+15
+A.  "Biomarker" means a characteristic that is objectively measured and evaluated as 
+16
+an indicator of a normal biological process, pathogenic process or pharmacologic 
+17
+response to a specific therapeutic intervention, including a known gene-drug 
+18
+interaction for a medication being considered for use or already being administered. 
+19
+"Biomarker" includes but is not limited to a gene mutation, characteristic of a gene or 
+20
+protein expression.
+21
+B.  "Biomarker testing" means the analysis of a patient's tissue, blood or other 
+22
+biological specimen for the presence of a biomarker.  "Biomarker testing" includes but 
+23
+is not limited to a single analyte test, multiplex panel test, protein expression and whole 
+24
+exome, whole genome and whole transcriptome sequencing.
+25
+C. "Consensus statement" means a statement:
+26
+(1) Developed by an independent, multidisciplinary panel of experts using a 
+27
+transparent methodology and reporting structure and with a conflict of interest 
+28
+policy;
+29
+(2) Aimed at specific clinical circumstances; and
+30
+(3) Based on the best available evidence for the purpose of optimizing the 
+31
+outcomes of clinical care.
+32
+D. "Nationally recognized clinical practice guideline" means an evidence-based 
+33
+clinical practice guideline: 
+34
+(1)  Developed by an independent organization or medical professional society 
+35
+using a transparent methodology and reporting structure and with a conflict of 
+36
+interest policy; 
+37
+(2)  That establishes a standard of care informed by a systematic review of evidence 
+38
+and an assessment of the benefits and risks of alternative care options; and 
+39
+(3)  That includes recommendations intended to optimize patient care. 
+
+Page 3 - 132LR0062(01)
+1
+2. Required coverage.  An individual health insurance policy must provide coverage 
+2
+for biomarker testing for the purposes of diagnosis, treatment, appropriate management or 
+3
+ongoing monitoring of a disease or condition of a person covered by the policy when the 
+4
+test is supported by medical and scientific evidence, including, but not limited to:
+5
+A.  A labeled indication for a test approved or cleared by the federal Food and Drug 
+6
+Administration; 
+7
+B.  An indicated test for a drug approved by the federal Food and Drug Administration; 
+8
+C.  A warning or precaution on a label of a drug approved by the federal Food and 
+9
+Drug Administration;
+10
+D.  A federal Department of Health and Human Services, Centers for Medicare and 
+11
+Medicaid Services national coverage determination or Medicare administrative 
+12
+contractor local coverage determination; or
+13
+E.  A nationally recognized clinical practice guideline or consensus statement.
+14
+A policy described in this subsection must provide for coverage in a manner that limits 
+15
+disruptions in care, including the need for multiple biopsies or biological specimen 
+16
+samples.
+17
+3. Utilization review.  If an individual insurance policy contains a provision whereby 
+18
+in nonemergency cases the insured is required to be prospectively evaluated through a 
+19
+prehospital admission certification, a preinpatient service eligibility program or any similar 
+20
+preutilization review or screening procedure prior to biomarker testing, the utilization 
+21
+review entity or any 3rd party acting on behalf of an organization or entity subject to this 
+22
+section must approve or deny a prior authorization request and notify the person covered 
+23
+by the policy, the person's health care provider and any entity requesting authorization of 
+24
+the service within 72 hours for nonurgent requests or within 24 hours for urgent requests.
+25
+Sec. 4.  24-A MRSA §2837-I is enacted to read:
+26
+§2837-I.  Biomarker testing insurance coverage
+27
+1. Definitions.  As used in this section, unless the context otherwise indicates, the 
+28
+following terms have the following meanings.
+29
+A. "Biomarker" means a characteristic that is objectively measured and evaluated as 
+30
+an indicator of a normal biological process, pathogenic process or pharmacologic 
+31
+response to a specific therapeutic intervention, including a known gene-drug 
+32
+interaction for a medication being considered for use or already being administered. 
+33
+"Biomarker" includes but is not limited to a gene mutation, characteristic of a gene or 
+34
+protein expression.
+35
+B. "Biomarker testing" means the analysis of a patient's tissue, blood or other biological 
+36
+specimen for the presence of a biomarker.  "Biomarker testing" includes but is not 
+37
+limited to a single analyte test, multiplex panel test, protein expression and whole 
+38
+exome, whole genome and whole transcriptome sequencing.
+39
+C. "Consensus statement" means a statement:
+40
+(1) Developed by an independent, multidisciplinary panel of experts using a 
+41
+transparent methodology and reporting structure and with a conflict of interest 
+42
+policy;
+
+Page 4 - 132LR0062(01)
+1
+(2) Aimed at specific clinical circumstances; and
+2
+(3) Based on the best available evidence for the purpose of optimizing the 
+3
+outcomes of clinical care.
+4
+D. "Nationally recognized clinical practice guideline" means an evidence-based 
+5
+clinical practice guideline: 
+6
+(1)  Developed by an independent organization or medical professional society 
+7
+using a transparent methodology and reporting structure and with a conflict of 
+8
+interest policy; 
+9
+(2)  That establishes a standard of care informed by a systematic review of evidence 
+10
+and an assessment of the benefits and risks of alternative care options; and 
+11
+(3)  That includes recommendations intended to optimize patient care. 
+12
+2. Required coverage.  A group health insurance policy must provide coverage for 
+13
+biomarker testing for the purposes of diagnosis, treatment, appropriate management or 
+14
+ongoing monitoring of a disease or condition of an insured person or subscriber covered by 
+15
+that policy when the test is supported by medical and scientific evidence, including, but not 
+16
+limited to:
+17
+A.  A labeled indication for a test approved or cleared by the federal Food and Drug 
+18
+Administration; 
+19
+B.  An indicated test for a drug approved by the federal Food and Drug Administration; 
+20
+C.  A warning or precaution on a label of a drug approved by the federal Food and 
+21
+Drug Administration;
+22
+D.  A federal Department of Health and Human Services, Centers for Medicare and 
+23
+Medicaid Services national coverage determination or Medicare administrative 
+24
+contractor local coverage determination; or
+25
+E.  A nationally recognized clinical practice guideline or consensus statement.
+26
+A policy described in this subsection must provide for coverage in a manner that limits 
+27
+disruptions in care, including the need for multiple biopsies or biological specimen 
+28
+samples.
+29
+3. Utilization review.  If a group insurance policy contains a provision whereby in 
+30
+nonemergency cases the insured is required to be prospectively evaluated through a 
+31
+prehospital admission certification, a preinpatient service eligibility program or any similar 
+32
+preutilization review or screening procedure prior to biomarker testing, the utilization 
+33
+review entity or any 3rd party acting on behalf of an organization or entity subject to this 
+34
+section must approve or deny a prior authorization request and notify the insured person or 
+35
+subscriber covered by that policy, the insured person's or subscriber's health care provider 
+36
+and any entity requesting authorization of the service within 72 hours for nonurgent 
+37
+requests or within 24 hours for urgent requests.
+38
+Sec. 5.  24-A MRSA §4237-B is enacted to read:
+39
+§4237-B.  Biomarker testing insurance coverage
+40
+1. Definitions.  As used in this section, unless the context otherwise indicates, the 
+41
+following terms have the following meanings.
+
+Page 5 - 132LR0062(01)
+1
+A. "Biomarker" means a characteristic that is objectively measured and evaluated as 
+2
+an indicator of a normal biological process, pathogenic process or pharmacologic 
+3
+response to a specific therapeutic intervention, including a known gene-drug 
+4
+interaction for a medication being considered for use or already being administered. 
+5
+"Biomarker" includes but is not limited to a gene mutation, characteristic of a gene or 
+6
+protein expression.
+7
+B. "Biomarker testing" means the analysis of a patient's tissue, blood or other biological 
+8
+specimen for the presence of a biomarker.  "Biomarker testing" includes but is not 
+9
+limited to a single analyte test, multiplex panel test, protein expression and whole 
+10
+exome, whole genome and whole transcriptome sequencing.
+11
+C. "Consensus statement" means a statement:
+12
+(1) Developed by an independent, multidisciplinary panel of experts using a 
+13
+transparent methodology and reporting structure and with a conflict of interest 
+14
+policy;
+15
+(2) Aimed at specific clinical circumstances; and
+16
+(3) Based on the best available evidence for the purpose of optimizing the 
+17
+outcomes of clinical care.
+18
+D. "Nationally recognized clinical practice guideline" means an evidence-based 
+19
+clinical practice guideline: 
+20
+(1)  Developed by an independent organization or medical professional society 
+21
+using a transparent methodology and reporting structure and with a conflict of 
+22
+interest policy; 
+23
+(2)  That establishes a standard of care informed by a systematic review of evidence 
+24
+and an assessment of the benefits and risks of alternative care options; and 
+25
+(3)  That includes recommendations intended to optimize patient care.
+26
+2. Required coverage.  Individual or group coverage subject to this chapter must 
+27
+provide coverage for biomarker testing for the purposes of diagnosis, treatment, appropriate 
+28
+management or ongoing monitoring of a disease or condition of an insured person, member 
+29
+or subscriber covered by that policy when the test is supported by medical and scientific 
+30
+evidence, including, but not limited to:
+31
+A.  A labeled indication for a test approved or cleared by the federal Food and Drug 
+32
+Administration; 
+33
+B.  An indicated test for a drug approved by the federal Food and Drug Administration; 
+34
+C.  A warning or precaution on a label of a drug approved by the federal Food and 
+35
+Drug Administration;
+36
+D.  A federal Department of Health and Human Services, Centers for Medicare and 
+37
+Medicaid Services national coverage determination or Medicare administrative 
+38
+contractor local coverage determination; or
+39
+E.  A nationally recognized clinical practice guideline or consensus statement.
+
+Page 6 - 132LR0062(01)
+1
+A policy described in this subsection must provide for coverage in a manner that limits 
+2
+disruptions in care, including the need for multiple biopsies or biological specimen 
+3
+samples.
+4
+3. Utilization review.  If a group insurance policy contains a provision whereby in 
+5
+nonemergency cases the insured is required to be prospectively evaluated through a 
+6
+prehospital admission certification, a preinpatient service eligibility program or any similar 
+7
+preutilization review or screening procedure prior to biomarker testing, the utilization 
+8
+review entity or any 3rd party acting on behalf of an organization or entity subject to this 
+9
+section must approve or deny a prior authorization request and notify the insured person or 
+10
+subscriber covered by that policy, the insured person's or subscriber's health care provider 
+11
+and any entity requesting authorization of the service within 72 hours for nonurgent 
+12
+requests or within 24 hours for urgent requests.
+13
+Sec. 6.  Application.  The requirements of the Maine Revised Statutes, Title 22, 
+14
+section 3174-PPP and Title 24-A, sections 2745-H, 2837-I and 4237-B apply to a policy, 
+15
+contract, certificate or other instrument of insurance coverage that takes effect or is renewed 
+16
+on or after January 1, 2026.
+17
+SUMMARY
+18
+This bill requires insurance coverage, including coverage in the MaineCare program, 
+19
+for biomarker testing.
+18
+19

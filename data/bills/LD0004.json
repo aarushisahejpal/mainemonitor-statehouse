@@ -1,0 +1,162 @@
+{
+  "ld": 4,
+  "paper": "SP0013",
+  "paper_display": "SP 13",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095521",
+  "title": "An Act to Adopt Eastern Standard Time Year-round",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Indefinitely Postponed, Jun 10, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/10/2025 - Reports READ . On motion of Representative SALISBURY of Westbrook the Bill was INDEFINITELY POSTPONED. In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )",
+  "last_senate_action": "6/10/2025 - Taken from the table by the President Senator STEWART of Aroostook asked and received leave of the Senate to Withdraw their Rollcall. Subsequently, the Bill and accompanying papers were INDEFINITELY POSTPONED . Sent down for concurrence",
+  "sponsors": [
+    {
+      "name": "Richard BENNETT",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Joseph BALDACCI",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Christopher KESSLER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE GOVERNMENT",
+      "minor": "PLANNING",
+      "detail": "YEAR-ROUND EASTERN STANDARD TIME"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "date_raw": "1/8/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on January 6, 2025 and REFERRED to the Committee on STATE AND LOCAL GOVERNMENT pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "Reports READ On motion by Senator BALDACCI of Penobscot Tabled until Later in Today's Session, pending ACCEPTANCE OF EITHER REPORT. Unfinished Business"
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President Senator BALDACCI of Penobscot moved the Bill and accompanying papers be INDEFINITELY POSTPONED. On motion by Senator LAWRENCE of York Tabled until Later in Today's Session, pending Motion by Senator BALDACCI of Penobscot to INDEFINITELY POSTPONE Bill and accompanying papers. Roll Call Ordered Unfinished Business"
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-04",
+      "date_raw": "6/4/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President Senator STEWART of Aroostook asked and received leave of the Senate to Withdraw their Rollcall. Subsequently, the Bill and accompanying papers were INDEFINITELY POSTPONED . Sent down for concurrence"
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SALISBURY of Westbrook the Bill was INDEFINITELY POSTPONED. In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-139 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    },
+    {
+      "label": "S \"A\" (S-337 ) to C \"A\" (S-139 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0013&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0013&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0013&item=4&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0013",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0013&SessionID=16",
+  "scraped_at": "2026-06-30T17:29:43Z"
+}

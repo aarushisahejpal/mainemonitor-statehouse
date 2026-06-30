@@ -1,0 +1,138 @@
+{
+  "ld": 138,
+  "paper": "SP0074",
+  "paper_display": "SP 74",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095642",
+  "title": "An Act Regarding the Permitting of Projects Affecting Public-use Airports Under the Natural Resources Protection Act and the Site Location of Development Laws",
+  "committee": "Environment and Natural Resources",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 17, 2025",
+  "governor_action": "Unsigned, Jun 17, 2025",
+  "chaptered_law": "ACTPUB, Chapter 329",
+  "chapter": "329",
+  "became_law": true,
+  "last_house_action": "6/3/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/3/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Richard BENNETT",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Ann FREDERICKS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Sanford"
+    },
+    {
+      "name": "Anne-Marie MASTRACCIO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Sanford"
+    },
+    {
+      "name": "Tiffany ROBERTS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Berwick"
+    },
+    {
+      "name": "Jeffrey TIMBERLAKE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ENVIRONMENTAL AWARENESS",
+      "minor": "PLANNING",
+      "detail": "AIRPORTS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "date_raw": "1/8/2025",
+      "chamber": "Senate",
+      "description": "Committee on ENVIRONMENT AND NATURAL RESOURCES suggested and ordered printed REFERENCE to the Committee on ENVIRONMENT AND NATURAL RESOURCES Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-01-08",
+      "date_raw": "1/8/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE . Committee Amendment \"A\" (S-210) READ and ADOPTED . Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-210) . Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-210) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-210 )",
+      "new_title": "An Act Regarding the Permitting of Projects Affecting Public-use Airports Under the Natural Resources Protection Act and the Site Location of Development Laws",
+      "house_action": "Adopted on 6/2/2025",
+      "senate_action": "Adopted on 6/2/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0074&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0074&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0074&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0074",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0074&SessionID=16",
+  "scraped_at": "2026-06-30T17:40:04Z"
+}

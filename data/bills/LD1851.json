@@ -1,0 +1,100 @@
+{
+  "ld": 1851,
+  "paper": "HP1235",
+  "paper_display": "HP 1235",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098953",
+  "title": "An Act to Bring Parity Among the Wabanaki Nations Regarding the Generation of Revenues from Gaming",
+  "committee": "Veterans and Legal Affairs",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Mar 25, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/24/2026 - Reports READ . On motion of Representative SUPICA of Bangor, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/25/2026 - Reports READ. On motion by Senator HICKMAN of Kennebec The Majority Ought Not To Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Marc MALON",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Biddeford"
+    },
+    {
+      "name": "Rachel TALBOT ROSS",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "GAMBLING",
+      "minor": "BINGO",
+      "detail": "GAMING REVENUES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "House",
+      "description": "Committee on Veterans and Legal Affairs suggested and ordered printed. The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS in concurrence"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-03-24",
+      "date_raw": "3/24/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SUPICA of Bangor, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-25",
+      "date_raw": "3/25/2026",
+      "chamber": "Senate",
+      "description": "Reports READ. On motion by Senator HICKMAN of Kennebec The Majority Ought Not To Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-875 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1235&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1235&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1235",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1235&SessionID=16",
+  "scraped_at": "2026-06-30T19:53:26Z"
+}

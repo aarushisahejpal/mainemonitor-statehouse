@@ -1,0 +1,167 @@
+{
+  "ld": 1430,
+  "paper": "HP0939",
+  "paper_display": "HP 939",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098128",
+  "title": "An Act Regarding the Transfer of Moose Permits to Disabled Veterans",
+  "committee": "Inland Fisheries and Wildlife",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 12, 2025",
+  "governor_action": "Signed, Jun 12, 2025",
+  "chaptered_law": "ACTPUB, Chapter 289",
+  "chapter": "289",
+  "became_law": true,
+  "last_house_action": "6/9/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/9/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Chad PERKINS",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dover-Foxcroft"
+    },
+    {
+      "name": "Quentin CHAPMAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "James DILL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Town"
+    },
+    {
+      "name": "Kenneth FREDETTE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Newport"
+    },
+    {
+      "name": "Mathew MCINTYRE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lowell"
+    },
+    {
+      "name": "Michael SOBOLESKI",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Phillips"
+    },
+    {
+      "name": "Harold STEWART",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "James THORNE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Carmel"
+    },
+    {
+      "name": "James WHITE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Guilford"
+    },
+    {
+      "name": "Russell WHITE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Ellsworth"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HUNTING",
+      "minor": "MOOSE",
+      "detail": "PERMIT TRANSFERS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-03",
+      "date_raw": "4/3/2025",
+      "chamber": "House",
+      "description": "Committee on Inland Fisheries and Wildlife suggested and ordered printed. The Bill was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE in concurrence"
+    },
+    {
+      "date": "2025-06-04",
+      "date_raw": "6/4/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-481) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-481) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-481), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-481 )",
+      "new_title": "An Act Regarding the Transfer of Moose Permits to Disabled Veterans",
+      "house_action": "Adopted on 6/4/2025",
+      "senate_action": "Adopted on 6/5/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0939&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0939&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0939&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0939",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0939&SessionID=16",
+  "scraped_at": "2026-06-30T19:21:04Z"
+}

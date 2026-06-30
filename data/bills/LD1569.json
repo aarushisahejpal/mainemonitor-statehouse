@@ -1,0 +1,67 @@
+{
+  "ld": 1569,
+  "paper": "HP1027",
+  "paper_display": "HP 1027",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098389",
+  "title": "Resolve, to Direct the Department of Economic and Community Development to Form a Stakeholder Group to Analyze and Improve Home Repair Funding Programs in the State",
+  "committee": "Housing and Economic Development",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Apr 30, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/10/2025 - Committee on Housing and Economic Development suggested and ordered printed. The Resolve was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/30/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Christopher KESSLER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ECONOMIC DEVELOPMENT",
+      "minor": "PLANNING",
+      "detail": "HOME REPAIR FUNDING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "House",
+      "description": "Committee on Housing and Economic Development suggested and ordered printed. The Resolve was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT in concurrence"
+    },
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1027&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1027",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1027&SessionID=16",
+  "scraped_at": "2026-06-30T19:31:16Z"
+}

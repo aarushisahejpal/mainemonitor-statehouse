@@ -1,0 +1,82 @@
+{
+  "ld": 1345,
+  "paper": "SP0561",
+  "paper_display": "SP 561",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097922",
+  "title": "Resolve, Directing the Department of Health and Human Services to Timely Provide Interim Settlement Payments to Long-term Care Facilities",
+  "committee": "Health and Human Services",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 6, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "None",
+  "last_senate_action": "5/6/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Harold STEWART",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Nicole GROHOSKI",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Hancock"
+    },
+    {
+      "name": "Kathy JAVNER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Chester"
+    },
+    {
+      "name": "Marianne MOORE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Washington"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ELDERLY",
+      "minor": "LONG-TERM CARE",
+      "detail": "SETTLEMENT PAYMENTS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-28",
+      "date_raw": "3/28/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on March 28, 2025 and REFERRED to the Committee on HEALTH AND HUMAN SERVICES pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0561&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0561",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0561&SessionID=16",
+  "scraped_at": "2026-06-30T19:14:48Z"
+}

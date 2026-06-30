@@ -1,0 +1,167 @@
+{
+  "ld": 1877,
+  "paper": "HP1248",
+  "paper_display": "HP 1248",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099016",
+  "title": "An Act to Increase Penalties for Human Trafficking Offenses",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 20, 2025",
+  "governor_action": "Signed, Jun 20, 2025",
+  "chaptered_law": "ACTPUB, Chapter 387",
+  "chapter": "387",
+  "became_law": true,
+  "last_house_action": "6/17/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/17/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Reagan PAUL",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Winterport"
+    },
+    {
+      "name": "Steven BISHOP",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bucksport"
+    },
+    {
+      "name": "Alicia COLLINS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Sidney"
+    },
+    {
+      "name": "Scott CYRWAY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Kennebec"
+    },
+    {
+      "name": "David HAGGAN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Matthew HARRINGTON",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Tracy QUINT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hodgdon"
+    },
+    {
+      "name": "Katrina SMITH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Palermo"
+    },
+    {
+      "name": "Russell WHITE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Ellsworth"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CRIMES",
+      "minor": "SEX OFFENSES",
+      "detail": "HUMAN TRAFFICKING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-01",
+      "date_raw": "5/1/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on May 1, 2025. The Bill was REFERRED to the Committee on JUDICIARY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative KUHN of Falmouth, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-723) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-723) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator CARNEY of Cumberland the Majority Ought to Pass as Amended by Committee Amendment \"A\" (H-723) Report ACCEPTED READ ONCE Committee Amendment \"A\" (H-723) READ and ADOPTED Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-723) in concurrence"
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-723 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/16/2025",
+      "senate_action": "Adopted on 6/16/2025",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "C \"B\" (H-724 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1248&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1248&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1248&item=4&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1248&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1248",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1248&SessionID=16",
+  "scraped_at": "2026-06-30T19:55:29Z"
+}

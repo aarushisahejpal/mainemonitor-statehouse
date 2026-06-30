@@ -1,0 +1,189 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1283
+S.P. 511
+In Senate, March 25, 2025
+An Act to Allow Employees Covered Under the Maine Retirement 
+Savings Program to Elect to Enroll and Unenroll in a Payroll 
+Deduction for an Individual Retirement Account
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator STEWART of Aroostook.  (BY REQUEST)
+
+Page 1 - 132LR1102(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA §173, sub-§2, ¶B, as enacted by PL 2021, c. 356, §1, is amended 
+3
+to read:
+4
+B.  Notwithstanding any provision of state law related to payroll deduction to the 
+5
+contrary, require each covered employer to offer its covered employees the choice 
+6
+whether or not to contribute to a payroll deduction IRA by automatically enrolling them 
+7
+by allowing covered employees to elect to enroll in the payroll deduction IRA with the 
+8
+opportunity to opt out unenroll.  A covered employee who is not a participant because 
+9
+that employee has opted out elected not to enroll will be automatically reenrolled 
+10
+offered the opportunity to contribute to a payroll deduction IRA with the opportunity 
+11
+to opt out again unenroll at regular or ad hoc intervals determined by the board in its 
+12
+discretion, but not more frequently than annually;
+13
+Sec. 2.  5 MRSA §173, sub-§2, ¶D, as enacted by PL 2021, c. 356, §1, is amended 
+14
+to read:
+15
+D.  Provide that, unless otherwise specified by the covered employee, a covered 
+16
+employee who elects to enroll in the program must automatically initially contribute 
+17
+5% of the covered employee's salary or wages to the program and may elect to opt out 
+18
+of unenroll from the program at any time or contribute at any higher or lower rate, 
+19
+expressed as a percentage of salary or wages, or, if the board in its discretion permits, 
+20
+expressed as a flat dollar amount, subject in all cases to the IRA contribution and 
+21
+income eligibility limits applicable under the Internal Revenue Code at no additional 
+22
+charge. The board is authorized to change, from time to time, the 5% automatic initial 
+23
+default contribution rate for all covered employees in its discretion;
+24
+Sec. 3.  5 MRSA §173, sub-§2, ¶K, as enacted by PL 2021, c. 356, §1, is amended 
+25
+to read:
+26
+K.  Provide for reports on the status of each participant's account to be provided to each 
+27
+participant at least annually and make best efforts to provide each participant frequent 
+28
+or continual online access to information on the status of that participant's account.  It 
+29
+is the responsibility of each participant to ensure that all account information is accurate 
+30
+and up to date;
+31
+Sec. 4.  5 MRSA §173, sub-§2, ¶S, as amended by PL 2023, c. 167, §5, is further 
+32
+amended to read:
+33
+S.  Establish penalties in accordance with subsection 4 for a covered employer that fails 
+34
+without reasonable cause to enroll a covered employee in the program as required who 
+35
+elects to enroll or that fails to transmit a payroll deduction IRA contribution to the 
+36
+program as required. A lack of reasonable cause is established by the failure to enroll 
+37
+after the program communicates with the employer 3 times;
+38
+Sec. 5.  5 MRSA §173, sub-§4, ¶A, as amended by PL 2023, c. 167, §7, is further 
+39
+amended to read:
+40
+A.  If a covered employer fails to enroll a covered employee without reasonable cause, 
+41
+the covered employer is subject to a penalty for each covered employee for each 
+42
+calendar year or portion of a calendar year during which the covered employee was not 
+43
+enrolled in the program or had not opted out of unenrolled from participation in the 
+
+Page 2 - 132LR1102(01)
+44
+program and, for each calendar year beginning after the date on which a penalty has 
+45
+been assessed with respect to a covered employee, is subject to a penalty for any portion 
+46
+of that calendar year during which the covered employee continues to be unenrolled 
+47
+without opting out of unenrolling from participation in the program. The amount of 
+48
+any penalty imposed on a covered employer for the failure to enroll a covered employee 
+49
+without reasonable cause is determined as follows:
+7
+(1)  From July 1, 2025 to June 30, 2026, the maximum penalty per covered 
+8
+employee is $20;
+9
+(2)  From July 1, 2026 to June 30, 2027, the maximum penalty per covered 
+10
+employee is $50; and
+11
+(4)  On or after July 1, 2027, the maximum penalty per covered employee is $100.
+12
+Sec. 6.  5 MRSA §174, sub-§2, ¶A, as enacted by PL 2021, c. 356, §1, is amended 
+13
+to read:
+14
+A.  Establish the processes for enrollment and contributions to an IRA under the 
+15
+program, notwithstanding any provision of state law related to payroll deductions to 
+16
+the contrary, including withholding by covered employers of employee payroll 
+17
+deduction contributions from wages and remittance for deposit to an IRA, automatic 
+18
+enrollment in a payroll deduction IRA and opt-outs by covered employees, voluntary 
+19
+contributions by others, including self-employed individuals and independent 
+20
+contractors, through payroll deduction or otherwise, the making of default 
+21
+contributions using default investments and participant selection of alternative 
+22
+contribution rates or amounts and alternative investments from among the options 
+23
+offered under the program;
+24
+Sec. 7.  5 MRSA §174, sub-§2, ¶G, as enacted by PL 2021, c. 356, §1, is amended 
+25
+by amending subparagraph (6) to read:
+26
+(6)  Instructions for enrolling, opting out of participation, making contributions and 
+27
+making withdrawals, including the possibility of contributing to an IRA, whether 
+28
+offered under the program or not, by means other than automatic enrollment in a 
+29
+payroll deduction IRA;
+30
+Sec. 8.  5 MRSA §175, sub-§1, ¶A, as enacted by PL 2021, c. 356, §1, is amended 
+31
+to read:
+32
+A.  An employee's decision whether or not to participate in or opt out of the program;
+33
+SUMMARY
+34
+This bill amends provisions regarding the Maine Retirement Savings Board by 
+35
+providing that covered employees must enroll in the payroll deduction IRA, instead of 
+36
+being automatically enrolled with the ability to opt out.  The bill also requires program 
+37
+participants to ensure their account information is up to date.
+1
+2
+3
+4
+5
+6
+34
+35
+36
+37

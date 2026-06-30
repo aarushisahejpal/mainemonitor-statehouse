@@ -1,0 +1,185 @@
+{
+  "ld": 2119,
+  "paper": "HP1434",
+  "paper_display": "HP 1434",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101165",
+  "title": "Resolve, to Review Reimbursement for Certain Emergency Medical Services",
+  "committee": "Health and Human Services",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Apr 29, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/6/2026 - FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/29/2026 - Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)",
+  "sponsors": [
+    {
+      "name": "Flavia DEBRITO",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterville"
+    },
+    {
+      "name": "Amy ARATA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "New Gloucester"
+    },
+    {
+      "name": "Glenn CURRY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Waldo"
+    },
+    {
+      "name": "John DUCHARME",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Madison"
+    },
+    {
+      "name": "Ryan FECTEAU",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Speaker",
+      "district": "Biddeford"
+    },
+    {
+      "name": "Marianne MOORE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Washington"
+    },
+    {
+      "name": "Amy ROEDER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Suzanne SALISBURY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MEDICAID",
+      "minor": "MAINECARE",
+      "detail": "EMERGENCY MEDICAL SERVICES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "date_raw": "1/7/2026",
+      "chamber": "House",
+      "description": "Committee on Health and Human Services suggested and ordered printed. The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-01-07",
+      "date_raw": "1/7/2026",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES in concurrence"
+    },
+    {
+      "date": "2026-03-30",
+      "date_raw": "3/30/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-908) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-908) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-908), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "House",
+      "description": "On motion of Representative MOONEN of Portland, TABLED pending FINAL PASSAGE . Later today assigned."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "House",
+      "description": "Speaker laid before the House Subsequently, on motion of Representative MEYER of Eliot, under SUSPENSION of the rules, the House RECONSIDERED its action whereby the Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-908) . On further motion of the same Representative, under further SUSPENSION of the rules, the House RECONSIDERED ADOPTION of Committee Amendment \"A\" (H-908) . On further motion of same Representative House Amendment \"A\" (H-970) to Committee Amendment \"A\" (H-908) was READ and ADOPTED . Committee Amendment \"A\" (H-908) as Amended by House Amendment \"A\" (H-970) thereto was ADOPTED . Subsequently, the Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-908) as Amended by House Amendment \"A\" (H-970) thereto. In NON-CONCURRENCE and sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland the Senate RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-908) as Amended by House Amendment \"A\" (H-970) thereto. Ordered sent forthwith."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "House",
+      "description": "FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending FINAL PASSAGE , in concurrence."
+    },
+    {
+      "date": "2026-04-29",
+      "date_raw": "4/29/2026",
+      "chamber": "Senate",
+      "description": "Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-908 )",
+      "new_title": "Resolve, to Review Reimbursement for Certain Emergency Medical Services",
+      "house_action": "Adopted on 3/30/2026",
+      "senate_action": "Adopted on 4/2/2026",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "H \"A\" (H-970 ) to C \"A\" (H-908 )",
+      "new_title": "",
+      "house_action": "Adopted on 4/2/2026",
+      "senate_action": "Adopted on 4/6/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1434&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1434&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1434&item=4&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1434",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1434&SessionID=16",
+  "scraped_at": "2026-06-30T20:14:48Z"
+}

@@ -1,0 +1,162 @@
+{
+  "ld": 1646,
+  "paper": "SP0643",
+  "paper_display": "SP 643",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098437",
+  "title": "An Act to Amend Maine's Good Samaritan Laws Regarding Suspected Drug-related Overdoses",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Mar 19, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/19/2026 - Reports READ . On motion of Representative HASENFUS of Readfield, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )",
+  "last_senate_action": "3/18/2026 - Taken from the table by the President On motion by Senator CURRY of Waldo The Majority OUGHT NOT TO PASS Report ACCEPTED. Sent down for concurrence.",
+  "sponsors": [
+    {
+      "name": "Rachel TALBOT ROSS",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Anne BEEBE-CENTER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Knox"
+    },
+    {
+      "name": "Richard BENNETT",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Mark BLIER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Buxton"
+    },
+    {
+      "name": "Nathan CARLOW",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Buxton"
+    },
+    {
+      "name": "Lydia CRAFTS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Newcastle"
+    },
+    {
+      "name": "Glenn CURRY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Waldo"
+    },
+    {
+      "name": "Tavis HASENFUS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Readfield"
+    },
+    {
+      "name": "Michel LAJOIE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lewiston"
+    },
+    {
+      "name": "Marianne MOORE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Washington"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CRIMES",
+      "minor": "DRUG RELATED",
+      "detail": "GOOD SAMARITAN LAWS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-15",
+      "date_raw": "4/15/2025",
+      "chamber": "Senate",
+      "description": "Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY suggested and ordered printed REFERENCE to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-04-15",
+      "date_raw": "4/15/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "Senate",
+      "description": "Reports READ On motion by Senator PIERCE of Cumberland Tabled until Later in Today's Session, pending ACCEPTANCE OF EITHER REPORT. Unfinished Business"
+    },
+    {
+      "date": "2026-03-18",
+      "date_raw": "3/18/2026",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President On motion by Senator CURRY of Waldo The Majority OUGHT NOT TO PASS Report ACCEPTED. Sent down for concurrence."
+    },
+    {
+      "date": "2026-03-19",
+      "date_raw": "3/19/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative HASENFUS of Readfield, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-541 )",
+      "new_title": "An Act to Require the Maine Criminal Justice Academy to Establish Training Requirements for Law Enforcement Officers Regarding the State's Good Samaritan Laws",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0643&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0643&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0643",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0643&SessionID=16",
+  "scraped_at": "2026-06-30T19:36:58Z"
+}

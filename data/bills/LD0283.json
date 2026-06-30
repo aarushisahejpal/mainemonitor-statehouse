@@ -1,0 +1,81 @@
+{
+  "ld": 283,
+  "paper": "HP0183",
+  "paper_display": "HP 183",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096006",
+  "title": "An Act to Expand Local Revenues by Including Meals and Lodging Sales Tax Revenue Under the State-Municipal Revenue Sharing Program",
+  "committee": "Taxation",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "1/28/2025 - Committee on Taxation suggested and ordered printed. The Bill was REFERRED to the Committee on TAXATION . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Allison HEPLER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Woolwich"
+    },
+    {
+      "name": "Stephan BUNKER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Farmington"
+    },
+    {
+      "name": "Denise TEPLER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Sagadahoc"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "REVENUE SHARING",
+      "minor": "DISTRIBUTION",
+      "detail": "MUNICIPAL SHARE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "date_raw": "1/28/2025",
+      "chamber": "House",
+      "description": "Committee on Taxation suggested and ordered printed. The Bill was REFERRED to the Committee on TAXATION . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-01-28",
+      "date_raw": "1/28/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on TAXATION in concurrence"
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0183&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0183",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0183&SessionID=16",
+  "scraped_at": "2026-06-30T17:51:55Z"
+}

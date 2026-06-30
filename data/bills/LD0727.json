@@ -1,0 +1,136 @@
+{
+  "ld": 727,
+  "paper": "HP0466",
+  "paper_display": "HP 466",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096782",
+  "title": "An Act to Repeal Certain Immunization Requirements for Schools",
+  "committee": "Education and Cultural Affairs",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 7, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/6/2025 - Reports READ . On motion of Representative MURPHY of Scarborough, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/7/2025 - Reports Read On motion by Senator RAFFERTY of York the Majority Ought Not to Pass Report ACCEPTED . in concurrence Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Tracy QUINT",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hodgdon"
+    },
+    {
+      "name": "David BOYER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Poland"
+    },
+    {
+      "name": "Elizabeth CARUSO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Caratunk"
+    },
+    {
+      "name": "Robert FOLEY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Wells"
+    },
+    {
+      "name": "David HAGGAN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Benjamin HYMES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waldo"
+    },
+    {
+      "name": "Kathy JAVNER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Chester"
+    },
+    {
+      "name": "Reagan PAUL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Winterport"
+    },
+    {
+      "name": "Katrina SMITH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Palermo"
+    },
+    {
+      "name": "Gregory SWALLOW",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Houlton"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "SCHOOL POLICIES",
+      "minor": "ENTRANCE REQUIREMENTS",
+      "detail": "IMMUNIZATION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "date_raw": "2/20/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on February 20, 2025. The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative MURPHY of Scarborough, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator RAFFERTY of York the Majority Ought Not to Pass Report ACCEPTED . in concurrence Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0466&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0466",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0466&SessionID=16",
+  "scraped_at": "2026-06-30T18:27:30Z"
+}

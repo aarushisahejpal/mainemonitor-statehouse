@@ -1,0 +1,297 @@
+{
+  "ld": 1684,
+  "paper": "HP1119",
+  "paper_display": "HP 1119",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098599",
+  "title": "An Act to Implement Additional Criteria and Processes for the Supervised Community Confinement Program",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 18, 2025",
+  "governor_action": "Signed, Jun 18, 2025",
+  "chaptered_law": "ACTPUB, Chapter 360",
+  "chapter": "360",
+  "became_law": true,
+  "last_house_action": "6/13/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/13/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Victoria DOUDERA",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Camden"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "COMMUNITY BASED CORRECTIONS",
+      "minor": "COMMUNITY CONFINEMENT",
+      "detail": "SUPERVISION PROGRAM"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "House",
+      "description": "Committee on Criminal Justice and Public Safety suggested and ordered printed. The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY in concurrence"
+    },
+    {
+      "date": "2025-06-12",
+      "date_raw": "6/12/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative HASENFUS of Readfield, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-665) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-665) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-13",
+      "date_raw": "6/13/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator BEEBE-CENTER of Knox the Majority Ought to Pass as Amended Report ACCEPTED . PREVAILED Roll Call Ordered Roll Call Number 522 Yeas 18 - Nays 17 - Excused 0 - Absent 0 READ ONCE Committee Amendment \"A\" (H-665) READ and ADOPTED Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-665) in concurrence."
+    },
+    {
+      "date": "2025-06-13",
+      "date_raw": "6/13/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    },
+    {
+      "date": "2025-06-13",
+      "date_raw": "6/13/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "522",
+      "date": "2025-06-12",
+      "date_raw": "June 12, 2025",
+      "motion": "ACCEPT MAJORITY OUGHT TO PASS AS AMENDED REPORT",
+      "outcome": "PREVAILS",
+      "yeas": 18,
+      "nays": 17,
+      "absent": 0,
+      "excused": 0,
+      "vacant": 0,
+      "yeas_required": 18,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "N"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280098599&chamber=Senate&serialnumber=522"
+    }
+  ],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-665 )",
+      "new_title": "An Act to Implement Additional Criteria and Processes for the Supervised Community Confinement Program",
+      "house_action": "Adopted on 6/12/2025",
+      "senate_action": "Adopted on 6/13/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1119&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1119&item=3&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1119&item=4&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1119",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1119&SessionID=16",
+  "scraped_at": "2026-06-30T19:40:01Z"
+}

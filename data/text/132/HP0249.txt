@@ -1,0 +1,157 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 349
+H.P. 249
+House of Representatives, February 3, 2025
+An Act to Repeal the Laws That Allow Same-day Voter Registration
+Received by the Clerk of the House on January 30, 2025.  Referred to the Committee on 
+Veterans and Legal Affairs pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint 
+Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative BAGSHAW of Windham.
+Cosponsored by Senator BRADSTREET of Kennebec and
+Representatives: HAGGAN of Hampden, JAVNER of Chester, LIBBY of Auburn, LYMAN of 
+Livermore Falls, RUDNICKI of Fairfield, SCHMERSAL-BURGESS of Mexico, Senators: 
+LIBBY of Cumberland, MOORE of Washington.
+
+Page 1 - 132LR0449(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  21-A MRSA §121-A, as amended by PL 2023, c. 291, §2 and affected by 
+3
+§4, is further amended to read:
+4
+§121-A.  Deadline for registration
+5
+The deadline for receipt of voter registration applications submitted by mail or by a 3rd 
+6
+person is the close of business on the 21st day before election day.  The deadline for receipt 
+7
+of voter registration applications submitted online is midnight on the 21st day before 
+8
+election day.  The deadline for receipt of voter registration applications transmitted by the 
+9
+Department of the Secretary of State, Bureau of Motor Vehicles pursuant to section 232 or 
+10
+by a source agency other than the Bureau of Motor Vehicles pursuant to section 233 is 
+11
+midnight on the 7th day before election day.  The deadline for in-person registration is the 
+12
+close of the polls on business on the last Thursday before election day.
+13
+Sec. 2.  21-A MRSA §122, sub-§4, as amended by PL 2005, c. 453, §16, is repealed.
+14
+Sec. 3.  21-A MRSA §122, sub-§5, as amended by PL 2013, c. 131, §7, is further 
+15
+amended to read:
+16
+5.  Alternative registration schedule for absentee voters.  If the clerk receives a 
+17
+properly completed absentee ballot application that is signed by a person who is not a 
+18
+registered voter in the municipality, a presumption of the person's qualification as a voter 
+19
+is established.  The clerk shall send an absentee ballot to the voter at the address indicated, 
+20
+along with a voter registration application under section 152.  The completed registration 
+21
+application must be returned to the clerk by the close of the polls on business on the last 
+22
+Thursday before election day in order for the ballot to be counted and may not be sealed 
+23
+with the voted absentee ballot.  If the application is received during the closed period and 
+24
+the registrar is not satisfied as to the person's qualification as a voter, the registrar shall 
+25
+follow the requirements of section 121, subsection 1‑A to place the person's name on the 
+26
+incoming voting list and challenge the absentee ballot.  An application by telephone under 
+27
+section 753‑A, subsection 4 or an application by electronic means under section 753‑A, 
+28
+subsection 6 does not establish a presumption of qualification under this section and the 
+29
+requestor must submit a properly completed voter registration application before the clerk 
+30
+may issue an absentee ballot.
+31
+Sec. 4.  21-A MRSA §122, sub-§6, ¶A, as amended by PL 2005, c. 453, §18, is 
+32
+further amended by amending subparagraph (1) to read:
+33
+(1)  In a municipality with a population of 2,500 or fewer, on the last business day 
+34
+Thursday that the clerk's office is open before election day during the hours that 
+35
+the clerk's office is open;
+36
+Sec. 5.  21-A MRSA §122, sub-§6, ¶A, as amended by PL 2005, c. 453, §18, is 
+37
+further amended by amending subparagraph (2) to read:
+38
+(2)  In a municipality with a population of more than 2,500, on the last 5 business 
+39
+days Thursday that the clerk's office is open before election day, and for the 4 
+40
+business days prior to the last Thursday before election day, during the hours that 
+41
+the clerk's office is open and for 2 hours in the evening between 5 p.m. and 9 p.m. 
+42
+on at least one of these days; and
+
+Page 2 - 132LR0449(01)
+1
+Sec. 6.  21-A MRSA §122, sub-§9, as amended by PL 2003, c. 395, §1, is further 
+2
+amended to read:
+3
+9.  Regulation of registration monitors.  Anyone who wishes to monitor the names 
+4
+and addresses of persons who are registering at the registrar's office or the clerk's office 
+5
+shall inform the registrar or clerk of that intent.  Anyone who wishes to monitor the names 
+6
+and addresses of persons who are registering at the polling place shall inform the registrar 
+7
+or clerk of that intent by submitting a written, signed statement containing the proposed 
+8
+monitor's name, address and intent.  The registrar or clerk may designate a place where a 
+9
+person monitoring registrations may stand.  The registrar or clerk shall then announce the 
+10
+name and address of individuals registering to vote in a loud and clear voice.  A person 
+11
+monitoring registrations shall direct any questions the person has to the registrar or clerk.  
+12
+These questions must be limited to information pertinent to the qualifications of an 
+13
+individual to register.  A person monitoring registrations may not ask questions of 
+14
+individuals waiting to register concerning their eligibility to vote.  A polling place 
+15
+registration monitor may not handle or inspect registration cards, files or other materials 
+16
+used by the registrar or clerk except as provided in section 22.  A monitor may not inhibit 
+17
+the work of the registrar or clerk.  If the work of a registrar or clerk appears to be inhibited, 
+18
+the warden may request a reduction in the number of monitors present in the polling place.  
+19
+A registrar or clerk may require a person monitoring registrations who violates the 
+20
+provisions of this subsection to leave the building.
+21
+SUMMARY
+22
+This bill makes changes to the deadline for in-person voter registration.  Current law 
+23
+permits in-person voter registration up to the close of business on election day.  The bill 
+24
+changes the deadline to the close of business on the Thursday before election day.
+22
+23
+24

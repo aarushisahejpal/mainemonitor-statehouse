@@ -1,0 +1,136 @@
+{
+  "ld": 502,
+  "paper": "HP0331",
+  "paper_display": "HP 331",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096399",
+  "title": "An Act to Promote Clean and Affordable Maine-sourced Bioenergy by Amending the Law Regarding Outdoor Wood Boilers and Outdoor Pellet Boilers",
+  "committee": "Environment and Natural Resources",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Apr 29, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/24/2025 - Reports READ . On motion of Representative DOUDERA of Camden, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/29/2025 - Reports Read On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED . Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Donald ARDELL",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Monticello"
+    },
+    {
+      "name": "Roger ALBERT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Madawaska"
+    },
+    {
+      "name": "Susan BERNARD",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Mark BLIER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Buxton"
+    },
+    {
+      "name": "Lucien DAIGLE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Fort Kent"
+    },
+    {
+      "name": "Matthew HARRINGTON",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Reagan PAUL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Winterport"
+    },
+    {
+      "name": "Chad PERKINS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dover-Foxcroft"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "AIR QUALITY",
+      "minor": "OPEN BURNING",
+      "detail": "WOOD AND PELLET BOILERS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "date_raw": "2/6/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on February 6, 2025. The Bill was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative DOUDERA of Camden, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-29",
+      "date_raw": "4/29/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED . Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-68 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0331&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0331&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0331",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0331&SessionID=16",
+  "scraped_at": "2026-06-30T18:09:59Z"
+}

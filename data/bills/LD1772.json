@@ -1,0 +1,137 @@
+{
+  "ld": 1772,
+  "paper": "SP0690",
+  "paper_display": "SP 690",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098775",
+  "title": "An Act to Establish the Fund for a Healthy Maine Stabilization Fund",
+  "committee": "Health and Human Services",
+  "status_summary": "",
+  "final_disposition": "Emergency Enacted, Apr 6, 2026",
+  "governor_action": "Emergency Signed, Apr 6, 2026",
+  "chaptered_law": "ACTPUB, Chapter 641",
+  "chapter": "641",
+  "became_law": true,
+  "last_house_action": "3/24/2026 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/25/2026 - PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence.",
+  "sponsors": [
+    {
+      "name": "Richard BENNETT",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "John DUCHARME",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Madison"
+    },
+    {
+      "name": "Anne GRAHAM",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "North Yarmouth"
+    },
+    {
+      "name": "Margaret ROTUNDO",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "PUBLIC HEALTH",
+      "minor": "DISEASE CONTROL",
+      "detail": "BLUE RIBBON COMMISSION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "Senate",
+      "description": "Committee on HEALTH AND HUMAN SERVICES suggested and ordered printed REFERENCE to the Committee on HEALTH AND HUMAN SERVICES Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . Bill READ ONCE. Committee Amendment \"A\" (S-548) READ and ADOPTED. ASSIGNED FOR SECOND READING NEXT LEGISLATIVE DAY."
+    },
+    {
+      "date": "2026-03-18",
+      "date_raw": "3/18/2026",
+      "chamber": "Senate",
+      "description": "COMMITTEE ON BILLS IN THE SECOND READING REPORTS NO FURTHER VERBAL AMENDMENTS NECESSARY. REPORT ACCEPTED. READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-548) Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2026-03-19",
+      "date_raw": "3/19/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-548) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-24",
+      "date_raw": "3/24/2026",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-25",
+      "date_raw": "3/25/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-548 )",
+      "new_title": "An Act to Establish the Fund for a Healthy Maine Stabilization Fund",
+      "house_action": "Adopted on 3/19/2026",
+      "senate_action": "Adopted on 3/17/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0690&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0690&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0690&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0690",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0690&SessionID=16",
+  "scraped_at": "2026-06-30T19:46:59Z"
+}

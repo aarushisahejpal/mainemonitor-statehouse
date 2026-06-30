@@ -1,0 +1,103 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 313
+H.P. 213
+House of Representatives, February 3, 2025
+An Act to Improve Voter Confidence in Electronic Ballot Counting 
+by Requiring Ballots to Contain Unique Identifiers
+Received by the Clerk of the House on January 30, 2025.  Referred to the Committee on 
+Veterans and Legal Affairs pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint 
+Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative FOSTER of Dexter.
+Cosponsored by Senator HAGGAN of Penobscot and
+Representatives: BABIN of Fort Fairfield, FLYNN of Albion, GUERRETTE of Caribou, 
+MCINTYRE of Lowell, PAUL of Winterport.
+
+Page 1 - 132LR0784(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  21-A MRSA §601, sub-§2, ¶K is enacted to read:
+3
+K.  Each ballot must include a unique identifier.
+4
+Sec. 2.  21-A MRSA §603, sub-§1, ¶A, as amended by PL 2007, c. 455, §20, is 
+5
+further amended to read:
+6
+A.  The words "SAMPLE BALLOT" in bold type, the title and date of the election, and 
+7
+the name of the voting district must be printed at the top of the ballot.  The facsimile 
+8
+of the state seal may not be printed on it.  A unique identifier may not be printed on it.  
+9
+It must be printed flat.  Otherwise, it must be printed substantially the same as a regular 
+10
+ballot.
+11
+Sec. 3.  21-A MRSA §607, sub-§3, as enacted by PL 1985, c. 161, §6, is amended 
+12
+to read:
+13
+3.  Municipality may provide.  A municipality may provide ballot boxes at its own 
+14
+expense.  Each box may contain a mechanical device for counting and endorsing the ballots 
+15
+deposited in it but it may not be equipped to record any distinguishing mark or number on 
+16
+a ballot, except for the unique identifier printed on each ballot.  Each box must meet the 
+17
+requirements of this section.  Once approved by the Secretary of State, each box becomes 
+18
+an official ballot box.
+19
+Sec. 4.  21-A MRSA §809-B is enacted to read:
+20
+§809-B.  Voting device to record votes by unique identifier
+21
+1.  Record votes by unique identifier.  A voting device used in the conduct of state 
+22
+elections must be able to record the unique identifier assigned to each ballot and any votes 
+23
+cast for any person, or on any question, on that ballot. It must record this information in a 
+24
+way that prevents any association between the identity of the voter and the ballot.
+25
+2.  Public list.  As soon as practicable after an election return is prepared under section 
+26
+711, the clerk shall make public on the municipality's publicly accessible website a list of 
+27
+votes for each ballot cast using a voting device in that municipality, organized by unique 
+28
+identifier. This subsection does not apply to paper ballots counted using other methods. 
+29
+Nothing in this section authorizes public disclosure of an official ballot, which is not a 
+30
+public record pursuant to section 22.
+31
+SUMMARY
+32
+This bill requires each ballot prepared by the Secretary of State to contain a unique 
+33
+identifier, except for sample ballots. Voting devices used in the conduct of state elections 
+34
+must be able to record the unique identifier assigned to each ballot and any votes cast for 
+35
+any person, or any question, on that ballot. The clerk of a municipality is required to post 
+36
+on the municipality's publicly accessible website, as soon as practicable after the election 
+37
+return is prepared, a list of votes cast, organized by unique identifier. This provision does 
+38
+not apply to paper ballots counted using other methods.
+32
+33
+34
+35
+36
+37
+38

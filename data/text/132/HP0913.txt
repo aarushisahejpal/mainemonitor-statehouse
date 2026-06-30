@@ -1,0 +1,138 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1391
+H.P. 913
+House of Representatives, April 1, 2025
+An Act to Update the Maine Self-service Storage Act
+Reference to the Committee on Housing and Economic Development suggested and 
+ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative DUCHARME of Madison.
+Cosponsored by Senator BALDACCI of Penobscot and
+Representatives: ARATA of New Gloucester, COLLAMORE of Pittsfield, FOSTER of 
+Dexter, MALON of Biddeford, MINGO of Calais, PARRY of Arundel, ROBERTS of South 
+Berwick.
+
+Page 1 - 132LR1688(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  10 MRSA §1372, sub-§1-A, as enacted by PL 2011, c. 376, §1, is repealed 
+3
+and the following enacted in its place:
+4
+1-A.  Abandoned leased space.  "Abandoned leased space" means a leased space that:
+5
+A.  The operator finds unlocked and empty;
+6
+B.  The operator finds unlocked and containing personal property with a value less than 
+7
+$750;
+8
+C.  The possession of and all rights to which and any personal property within which 
+9
+have been surrendered to the operator by the occupant; or
+10
+D.  Contains personal property more than 15 days after the termination or nonrenewal 
+11
+of the rental agreement subsequent to written notice of termination or nonrenewal of 
+12
+the rental agreement.
+13
+Sec. 2.  10 MRSA §1372, sub-§7, as enacted by PL 1989, c. 62, is amended to read:
+14
+7.  Rental agreement.  "Rental agreement" means any written agreement, which may 
+15
+be delivered and accepted electronically, that establishes or modifies the terms, conditions 
+16
+or rules concerning the use and occupancy of a self-service storage facility.
+17
+Sec. 3.  10 MRSA §1373, sub-§3, ¶B, as enacted by PL 1989, c. 62, is amended by 
+18
+amending subparagraph (1) to read:
+19
+(1)  Notify the occupant of the condition by e-mail or by regular mail at the 
+20
+occupant's last known address or other address set forth by the occupant in the 
+21
+rental agreement;
+22
+Sec. 4.  10 MRSA §1373-A is enacted to read:
+23
+§1373-A.  Constructive acceptance of rental agreement
+24
+An operator shall provide an occupant with a rental agreement. If, within 30 days of 
+25
+the delivery of the rental agreement from the operator to the occupant by hand delivery, 
+26
+first-class mail or e-mail, the occupant fails to sign the rental agreement, the occupant's 
+27
+payment of rent or continued use of the leased space is deemed an acceptance of the rental 
+28
+agreement, which is enforceable against the occupant as if the rental agreement had been 
+29
+signed by the occupant.
+30
+Sec. 5.  10 MRSA §1374, sub-§2, ¶C, as enacted by PL 1989, c. 62, is amended to 
+31
+read:
+32
+C.  That a sale shall will be held at the self-service storage facility where the personal 
+33
+property is stored or at the nearest suitable location or online.
+34
+Sec. 6.  10 MRSA §1375, sub-§4, as enacted by PL 1989, c. 62, is amended to read:
+35
+4.  Location of sale.  A sale under this section shall may be held at the self-service 
+36
+storage facility or at the nearest suitable place to where the personal property is stored or 
+37
+online.
+38
+Sec. 7.  10 MRSA §1375, sub-§10, ¶A, as amended by PL 2011, c. 376, §10, is 
+39
+further amended to read:
+
+Page 2 - 132LR1688(01)
+1
+A.  Notices sent to the operator must be sent to the self-service storage facility where 
+2
+the occupant's property is stored unless another address to send notices to the operator 
+3
+is specified in the rental agreement.  Notices to the occupant must be sent to the 
+4
+occupant at the occupant's last known address.  Notices are deemed delivered when 
+5
+deposited with the United States Postal Service, properly addressed as provided in 
+6
+subsection 2, with postage paid.
+7
+SUMMARY
+8
+This bill updates the Maine Self-service Storage Act by:
+9
+1. Amending the definition of abandoned leased space to include space containing 
+10
+personal property more than 15 days after the date given in a notice to terminate or not 
+11
+renew the rental agreement;
+12
+2. Permitting the electronic delivery and acceptance of rental agreements;
+13
+3. Allowing notices to be sent electronically;
+14
+4. Deeming accepted rental agreements that have been sent to but not signed by the 
+15
+occupant if the occupant continues to pay rent or occupy the space;
+16
+5. Permitting online sales of personal property that has had a lien placed on it by the 
+17
+operator; and
+18
+6. Allowing notices to be sent to the operator at an address specified in the rental 
+19
+agreement.
+8

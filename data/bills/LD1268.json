@@ -1,0 +1,122 @@
+{
+  "ld": 1268,
+  "paper": "HP0843",
+  "paper_display": "HP 843",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097798",
+  "title": "An Act to Address Employee Recruitment and Retention Issues Within the Maine State Ferry Service by Providing a Yearly Stipend",
+  "committee": "Transportation",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Jun 9, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/9/2025 - Reports READ . On motion of Representative CRAFTS of Newcastle, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/9/2025 - Reports Read On motion by Senator NANGLE of Cumberland the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "D. RAY",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lincolnville"
+    },
+    {
+      "name": "Matthew BECK",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    },
+    {
+      "name": "Holly EATON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Deer Isle"
+    },
+    {
+      "name": "Sean FAIRCLOTH",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Rafael MACIAS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Topsham"
+    },
+    {
+      "name": "Kilton WEBB",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Durham"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "NAVIGATION",
+      "minor": "FERRIES",
+      "detail": "RECRUITMENT AND RETENTION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "date_raw": "3/25/2025",
+      "chamber": "House",
+      "description": "Committee on Transportation suggested and ordered printed. The Bill was REFERRED to the Committee on TRANSPORTATION . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-25",
+      "date_raw": "3/25/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on TRANSPORTATION in concurrence"
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative CRAFTS of Newcastle, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator NANGLE of Cumberland the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-539 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0843&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0843&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0843",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0843&SessionID=16",
+  "scraped_at": "2026-06-30T19:08:53Z"
+}

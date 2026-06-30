@@ -1,0 +1,64 @@
+{
+  "ld": 1378,
+  "paper": "IB0002",
+  "paper_display": "IB 2",
+  "origin_chamber": "Initiative",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098086",
+  "title": "An Act to Protect Maine Communities by Enacting the Extreme Risk Protection Order Act",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Nov 3, 2025",
+  "governor_action": "",
+  "chaptered_law": "IB, Chapter 1",
+  "chapter": "1",
+  "became_law": true,
+  "last_house_action": "11/4/2025 - The Bill was in the possession of the Committee on JUDICIARY when it was approved by Referendum Vote on November 4, 2025.",
+  "last_senate_action": "4/8/2025 - On motion by Senator CARNEY of Cumberland REFERRED to the Committee on JUDICIARY in concurrence Chapter 1 Final Law Type Initiated Bill",
+  "sponsors": [],
+  "subjects": [],
+  "actions": [
+    {
+      "date": "2025-04-01",
+      "date_raw": "4/1/2025",
+      "chamber": "House",
+      "description": "Transmitted to the Clerk of the 132nd Maine Legislature by the Secretary of State on March 27, 2025 and ordered printed. On motion of Representative Kuhn of Falmouth, the Bill was REFERRED to the Committee on JUDICIARY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator CARNEY of Cumberland REFERRED to the Committee on JUDICIARY in concurrence"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2025-11-04",
+      "date_raw": "11/4/2025",
+      "chamber": "House",
+      "description": "The Bill was in the possession of the Committee on JUDICIARY when it was approved by Referendum Vote on November 4, 2025."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=IB0002&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=IB0002&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=IB0002",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=IB0002&SessionID=16",
+  "scraped_at": "2026-06-30T19:17:11Z"
+}

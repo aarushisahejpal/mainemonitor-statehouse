@@ -1,0 +1,61 @@
+{
+  "ld": 2014,
+  "paper": "HP1344",
+  "paper_display": "HP 1344",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100881",
+  "title": "An Act to Update the Funding Method for Career and Technical Education Programs",
+  "committee": "Education and Cultural Affairs",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Feb 3, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "12/3/2025 - Received by the Clerk of the House on December 3, 2025. The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+  "last_senate_action": "2/3/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Kelly MURPHY",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Scarborough"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "SCHOOL FUNDING FORMULA",
+      "minor": "ESSENTIAL PROGRAMS & SERVICES",
+      "detail": "CTE PROGRAMS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-03",
+      "date_raw": "12/3/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on December 3, 2025. The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2026-02-03",
+      "date_raw": "2/3/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1344&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1344",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1344&SessionID=16",
+  "scraped_at": "2026-06-30T20:06:26Z"
+}

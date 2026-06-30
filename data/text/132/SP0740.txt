@@ -1,0 +1,633 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1870
+S.P. 740
+In Senate, May 5, 2025
+An Act to Establish a Climate Superfund Cost Recovery Program to 
+Impose Penalties on Climate Polluters
+Received by the Secretary of the Senate on May 1, 2025.  Referred to the Committee on 
+Environment and Natural Resources pursuant to Joint Rule 308.2 and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BRENNER of Cumberland.
+Cosponsored by Representative DOUDERA of Camden and
+Senators: BENNETT of Oxford, CARNEY of Cumberland, TALBOT ROSS of Cumberland, 
+Representatives: KUHN of Falmouth, SATO of Gorham.
+
+Page 1 - 132LR2359(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  38 MRSA c. 3-C is enacted to read:
+3
+CHAPTER 3-C
+4
+MAINE CLIMATE SUPERFUND
+5
+§580-G.  Short title
+6
+This Act may be known and cited as "the Maine Climate Superfund Act."
+7
+§580-H.  Definitions
+8
+As used in this chapter, unless the context otherwise indicates, the following terms 
+9
+have the following meanings. 
+10
+1.  Climate change adaptation project.   "Climate change adaptation project" means 
+11
+a project designed to respond to, avoid, moderate, repair or adapt to negative impacts 
+12
+caused by climate change and to assist human and natural communities, households and 
+13
+businesses in preparing for future disruptions driven by climate change.  "Climate change 
+14
+adaptation project" includes implementing nature-based solutions and flood protections; 
+15
+upgrading storm water drainage systems; making defensive upgrades to roads, bridges, 
+16
+railroads and transportation systems; preparing for and recovering from extreme weather 
+17
+events; undertaking preventive health care programs and providing medical care to treat 
+18
+illness or injury caused by the effects of climate change; relocating, elevating or retrofitting 
+19
+sewage treatment plants and other infrastructure vulnerable to flooding; installing energy 
+20
+efficient cooling systems and other weatherization and energy efficiency upgrades and 
+21
+retrofits in public and private buildings, including schools and public housing, designed to 
+22
+reduce the public health effects of more frequent heat waves and forest fire smoke; 
+23
+upgrading parts of the electrical grid to increase stability and resilience, including 
+24
+supporting the creation of microgrids as defined in Title 35-A, section 10129, subsection 
+25
+1, paragraph H; and responding to toxic algae blooms, loss of agricultural topsoil, crop loss 
+26
+and other climate-driven ecosystem threats to forests, farms, fisheries and food systems.
+27
+2.  Climate Superfund Cost Recovery Program.  "Climate Superfund Cost Recovery 
+28
+Program" or "program" means the program established under section 580-I.
+29
+3.  Coal.  "Coal" means bituminous coal, anthracite coal and lignite coal.
+30
+4.  Controlled group.  "Controlled group" means 2 or more entities treated as a single 
+31
+employer:
+32
+A.  Under 26 United States Code, Section 52(a) or (b), without regard to 26 United 
+33
+States Code, Section 1563(b)(2)(C); or
+34
+B.  Under 26 United States Code, Section 414(m) or (o).
+35
+For purposes of this chapter, entities in a controlled group are treated as a single entity for 
+36
+purposes of subsection 20 and are jointly and severally liable for payment of any cost 
+37
+recovery demand owed by any entity in the controlled group.
+38
+5.  Cost recovery demand.  "Cost recovery demand" means a charge asserted against 
+39
+a responsible party for cost recovery payments under the program for payment to the fund.
+
+Page 2 - 132LR2359(01)
+1
+6.  Covered greenhouse gas emissions.  "Covered greenhouse gas emissions" means 
+2
+the total quantity of greenhouse gases released into the atmosphere during the covered 
+3
+period, expressed in metric tons of carbon dioxide equivalent, resulting from the use of 
+4
+fossil fuels extracted, produced or refined by an entity.
+5
+7.  Covered period.  "Covered period" means the period that began January 1, 1995 
+6
+and ended December 31, 2024.
+7
+8.  Crude oil.  "Crude oil" means oil or petroleum of any kind and in any form, 
+8
+including bitumen, oil sands, heavy oil, conventional and unconventional oil, shale oil, 
+9
+natural gas liquids, condensates and related fossil fuels.
+10
+9.  Entity.  "Entity" means any individual, trustee, agent, partnership, association, 
+11
+corporation, company, municipality, political subdivision or other legal organization, 
+12
+including a foreign nation, that holds or held an ownership interest in a fossil fuel business 
+13
+during the covered period.
+14
+10.  Environmental justice.  "Environmental justice" means the fair treatment and 
+15
+meaningful involvement of all people regardless of race, color, national origin or income 
+16
+with respect to the development, implementation and enforcement of environmental laws, 
+17
+rules and policies. 
+18
+11.  Fossil fuel.  "Fossil fuel" means coal, petroleum products and fuel gases.
+19
+12.  Fossil fuel business.  "Fossil fuel business" means a business engaging in the 
+20
+extraction of fossil fuels or the refining of petroleum products.
+21
+13.  Fuel gases.  "Fuel gases" means methane, natural gas, liquified natural gas and 
+22
+manufactured fuel gases. 
+23
+14.  Fund.  "Fund" means the Climate Superfund Cost Recovery Program Fund 
+24
+established pursuant to section 580-K.
+25
+15.  Greenhouse gas.  "Greenhouse gas" has the same meaning as in section 574, 
+26
+subsection 1.
+27
+16.  Nature-based solution.  "Nature-based solution" means a project that uses or 
+28
+mimics nature or a natural process and function and that may also offer environmental, 
+29
+economic and social benefits while increasing resilience.  "Nature-based solution" includes 
+30
+green infrastructure projects that use storm water management practices to preserve, restore 
+31
+or mimic natural hydrology and natural infrastructure projects that use existing or rebuilt 
+32
+natural landscapes to increase resilience. 
+33
+17.  Notice of cost recovery demand.  "Notice of cost recovery demand" means a 
+34
+written communication from the department informing a responsible party of the amount 
+35
+of the cost recovery demand.
+36
+18.  Petroleum product.  "Petroleum product" means any product refined or re-refined 
+37
+from:
+38
+A.  Synthetic or crude oil; or
+39
+B.  Crude oil extracted from natural gas liquids or other sources.
+40
+19.  Qualifying expenditure.  "Qualifying expenditure" means an authorized payment 
+41
+from the fund to pay reasonable expenses associated with the administration of the fund 
+
+Page 3 - 132LR2359(01)
+42
+and the program and to pay for a climate change adaptation project, including its operation, 
+43
+monitoring and maintenance.
+3
+20.  Responsible party.  "Responsible party" means an entity or a successor in interest 
+4
+to an entity that during any part of the covered period was engaged in the trade or business 
+5
+of extracting fossil fuel or refining crude oil and is determined by the department 
+6
+attributable for more than 1,000,000,000 metric tons of covered greenhouse gas emissions 
+7
+during the covered period.  "Responsible party" does not include a person who lacks 
+8
+sufficient connection with the State to satisfy the nexus requirements of the United States 
+9
+Constitution.
+10
+21.  Strategy.  "Strategy" means the resilience implementation strategy adopted by the 
+11
+department under section 580-L, subsection 3.
+12
+§580-I.  Climate Superfund Cost Recovery Program
+13
+The Climate Superfund Cost Recovery Program is established within and administered 
+14
+by the department.  The purposes of the program are: 
+15
+1.  Compensatory payments.  To secure compensatory payments from responsible 
+16
+parties based on a standard of strict liability to provide a source of revenue for climate 
+17
+change adaptation projects within the State; 
+18
+2.  Proportional liabilities.  To determine proportional liability of responsible parties; 
+19
+3.  Cost recovery demands.  To impose cost recovery demands on responsible parties 
+20
+and issue notices of cost recovery demands; 
+21
+4.  Responsible party payments.  To accept and collect payment from responsible 
+22
+parties; 
+23
+5.  Strategy.  To develop, adopt, implement and update the strategy in order to identify 
+24
+and prioritize climate change adaptation projects; and
+25
+6.  Funds dispersal.  To disperse funds to climate change adaptation projects identified 
+26
+in the strategy. 
+27
+§580-J.  Liability of responsible parties
+28
+1.  Responsible party liability.  A responsible party is strictly liable for a share of the 
+29
+costs of climate change adaptation projects and all qualifying expenditures from the fund.  
+30
+For purposes of this section, entities in a controlled group: 
+31
+A.  Must be treated by the department as a single entity for the purposes of identifying 
+32
+responsible parties; and
+33
+B.  Are jointly and severally liable for payment of any cost recovery demand owed by 
+34
+any entity in the controlled group. 
+35
+2.  Cost recovery demand.  With respect to each responsible party, the cost recovery 
+36
+demand is equal to an amount that bears the same ratio to the cost to the State and its 
+37
+residents, as calculated by the Treasurer of State, from the emission of covered greenhouse 
+38
+gases during the covered period as the responsible party's applicable share of covered 
+39
+greenhouse gas emissions bears to the aggregate applicable shares of covered greenhouse 
+40
+gas emissions resulting from the use of fossil fuels extracted or refined during the covered 
+41
+period. 
+1
+2
+
+Page 4 - 132LR2359(01)
+1
+3.  Minority interest.  If a responsible party owns a minority interest of 10% or more 
+2
+in another entity, the responsible party's applicable share of covered greenhouse gas 
+3
+emissions is increased by the applicable share of covered greenhouse gas emissions for the 
+4
+entity in which the responsible party holds a minority interest multiplied by the percentage 
+5
+of the minority interest held by the responsible party. 
+6
+4.  Greenhouse gas emissions.  The department shall use the best available 
+7
+information, including but not limited to the United States Environmental Protection 
+8
+Agency's emissions factors for greenhouse gas inventories as applied to the fossil fuel 
+9
+volume data, for the purpose of determining the amount of covered greenhouse gas 
+10
+emissions attributable to any entity from the fossil fuels attributable to the entity. 
+11
+5.  Adjustments.  The department may adjust the cost recovery demand amount of a 
+12
+responsible party who refined petroleum products or who is a successor in interest to an 
+13
+entity that refines petroleum products if the responsible party establishes to the satisfaction 
+14
+of the department that: 
+15
+A.  A portion of the cost recovery demand amount was attributable to the refining of 
+16
+crude oil extracted by another responsible party; and
+17
+B.  The crude oil extracted by the other entity was accounted for when the department 
+18
+determined the cost recovery demand amount for the other entity or a successor in 
+19
+interest to the other entity. 
+20
+6.  Payments; installments.  A responsible party shall pay the cost recovery demand 
+21
+amount in full not later than 6 months following the department's issuance of the cost 
+22
+recovery demand, except that a responsible party may elect to pay the cost recovery demand 
+23
+amount in 9 annual installments in accordance with this subsection. 
+24
+The first installment must be paid not later than 6 months following the department's 
+25
+issuance of the cost recovery demand and is equal to 20% of the total cost recovery demand 
+26
+amount.  Each subsequent installment must be paid not later than one year from the initial 
+27
+payment and each subsequent year and must be equal to 10% of the total cost recovery 
+28
+demand amount.  The commissioner may charge reasonable interest on each installment 
+29
+payment or a delayed payment and, at the commissioner's discretion, may adjust the amount 
+30
+of a subsequent installment payment or a delayed payment to reflect increases or decreases 
+31
+in the Consumer Price Index.  The unpaid balance of all remaining installments becomes 
+32
+due immediately if: 
+33
+A.  The responsible party fails to pay any installment in a timely manner, as specified 
+34
+in department rules; 
+35
+B.  There is a liquidation or sale of substantially all the assets of the responsible party, 
+36
+except that, in the case of a sale of substantially all the assets of a responsible party, 
+37
+the remaining installments do not become due immediately if the buyer enters into an 
+38
+agreement with the department under which the buyer assumes liability for the 
+39
+remaining installments due under this subsection in the same manner as if the buyer 
+40
+were the responsible party; or
+41
+C.  The responsible party ceases to do business. 
+42
+7.  Fund deposits.  The department shall deposit cost recovery payments collected 
+43
+under this chapter into the fund. 
+
+Page 5 - 132LR2359(01)
+1
+8.  Reconsideration.  A responsible party aggrieved by the issuance of a notice of cost 
+2
+recovery demand may file a request for reconsideration with the department within 30 days 
+3
+following issuance of the notice of cost recovery demand.  A request for reconsideration 
+4
+must state the grounds for the request and include supporting documentation.  The 
+5
+department shall notify the responsible party of the final decision by issuing a subsequent 
+6
+notice of cost recovery demand.  A responsible party aggrieved by the issuance of a final 
+7
+notice of cost recovery demand under this subsection may bring an action in the Superior 
+8
+Court of Kennebec County seeking an order annulling, altering or modifying the notice of 
+9
+cost recovery demand. 
+10
+9.  Construction.  This Act may not be construed to relieve any person from liability 
+11
+at common law or under any state law.  This Act may not be construed to preempt, displace, 
+12
+restrict or limit in any way any other claim or remedy available to a person. 
+13
+§580-K.  Climate Superfund Cost Recovery Program Fund
+14
+1.  Fund established.  The Climate Superfund Cost Recovery Program Fund is 
+15
+established and is administered by the commissioner to provide funding for climate change 
+16
+adaptation projects in the State.  The fund consists of: 
+17
+A.  Cost recovery payments deposited into the fund under section 580-J; 
+18
+B.  Funds from time to time appropriated to the fund by the Legislature; and
+19
+C.  Gifts, donations or other funds received from any source, public or private, 
+20
+dedicated for deposit into the fund and approved by the commissioner. 
+21
+2.  Use of fund.  The fund may be used only: 
+22
+A.  To pay qualified expenditures for climate change adaptation projects identified by 
+23
+the department in the strategy; 
+24
+B.  To pay reasonable administrative costs of the program, including the cost to the 
+25
+State Auditor associated with hiring technical expertise necessary to complete the 
+26
+audits required under section 580-M; 
+27
+C.  To implement components of the state climate action plan required under section 
+28
+577 that are related to climate change adaptation projects; and
+29
+D.  To reimburse the General Fund for any costs to establish and implement the 
+30
+program and the fund incurred by the department, the Treasurer of State and the Office 
+31
+of the Attorney General.
+32
+At least 35% of funds expended from the fund must be used for climate change adaptation 
+33
+projects that benefit persons with median household income and employment below the 
+34
+statewide median household income and employment rate who have environmental justice 
+35
+concerns. 
+36
+3.  Unexpended balances and interest.  Unexpended balances and interest earned by 
+37
+the fund must be retained in the fund from year to year. 
+38
+§580-L.  Rulemaking
+39
+The department shall adopt rules necessary to implement the requirements of this 
+40
+chapter, including: 
+
+Page 6 - 132LR2359(01)
+1
+1.  Identification.  Adopting methodologies using the best available science and 
+2
+publicly available data to identify a responsible party and determine a responsible party's 
+3
+applicable share of covered greenhouse gas emissions; 
+4
+2.  Registration requirements.  Requirements for registering an entity that is a 
+5
+responsible party and issuing a notice of cost recovery demand under the program; and
+6
+3.  Resilience implementation strategy.  Requirements for the adoption of the strategy 
+7
+under section 580-N, which must include: 
+8
+A.  Practices using nature-based solutions intended to stabilize flood plains, riparian 
+9
+zones, lake shoreland, wetlands and similar lands; 
+10
+B.  Practices to adapt infrastructure to the effects of climate change; 
+11
+C.  Practices needed to build early warning mechanisms and to support fast, effective 
+12
+response to climate-related threats; 
+13
+D.  Practices that support economic and environmental sustainability in the face of 
+14
+changing climate conditions; and
+15
+E.  Criteria and procedures for prioritizing climate change adaptation projects eligible 
+16
+to receive funds under the program. 
+17
+Rules adopted pursuant to this section are routine technical rules as defined in Title 5, 
+18
+chapter 375, subchapter 2-A. 
+19
+§580-M.  Program audit
+20
+Beginning January 1, 2031 and every 5 years thereafter, the State Auditor shall evaluate 
+21
+the operation and effectiveness of the program.  The State Auditor shall make 
+22
+recommendations to the department on ways to increase program efficacy and cost-
+23
+effectiveness.  The State Auditor shall submit the results of the audit to the joint standing 
+24
+committees of the Legislature having jurisdiction over agriculture, conservation and 
+25
+forestry matters, environment and natural resources matters and energy, utilities and 
+26
+technology matters.  The State Auditor must be reimbursed from the fund for any costs 
+27
+associated with hiring technical expertise necessary to complete the audits required under 
+28
+this section. 
+29
+§580-N.  Resilience implementation strategy
+30
+In adopting the strategy, the department shall: 
+31
+1.  Maine Climate Council.  Consult with the cochairs of the Maine Climate Council 
+32
+established in section 577-A and within the Governor's Office of Policy Innovation and the 
+33
+Future, as well as any relevant working groups; 
+34
+2.  Adaptation needs and vulnerabilities.  In consultation with other state agencies, 
+35
+including the Department of Defense, Veterans and Emergency Management, Maine 
+36
+Emergency Management Agency, assess the adaptation needs and vulnerabilities of various 
+37
+areas vital to the State's economy and normal functioning and the health and well-being of 
+38
+residents of the State; 
+39
+3.  Climate change adaptation projects.  Identify major potential, proposed and 
+40
+ongoing climate change adaptation projects throughout the State; 
+
+Page 7 - 132LR2359(01)
+1
+4.  Funding streams.  Identify opportunities for alignment with existing federal, state 
+2
+and local funding streams; 
+3
+5.  Consultation.  Consult with stakeholders, including local governments, businesses, 
+4
+environmental advocates, relevant subject area experts and representatives of low-income 
+5
+communities or communities with environmental justice concerns pursuant to section 
+6
+580-K; 
+7
+6.  State climate action plan.  Consider components of the state climate action plan 
+8
+under section 577 that are related to adaptation or resilience; and 
+9
+7.  Public engagement.  Conduct public engagement in areas and communities that 
+10
+have the most significant exposure to the effects of climate change, including 
+11
+disadvantaged, low-income and rural communities and areas.
+12
+This section may not be construed to limit the existing authority of a state agency to 
+13
+regulate greenhouse gas emissions or establish strategies or adopt rules to mitigate climate 
+14
+risk and build resilience to climate change.
+15
+Sec. 2.  Treasurer of State report on cost to State of greenhouse gas 
+16
+emissions.  On or before December 31, 2026, the Treasurer of State shall submit to the 
+17
+joint standing committees of the Legislature having jurisdiction over environment and 
+18
+natural resources matters, energy, utilities and technology matters and judiciary matters an 
+19
+assessment of the costs to the State of the emission of greenhouse gases for the period that 
+20
+began on January 1, 1995 and ended on December 31, 2024.  The assessment must include:
+21
+1.  A summary of the various cost-driving effects of greenhouse gas emissions on the 
+22
+State, including effects on public health, natural resources, biodiversity, agriculture, 
+23
+economic development, flood preparedness and safety, and any other effect that the 
+24
+Treasurer of State determines is relevant;
+25
+2.  A categorized calculation of the costs that have been incurred and are projected to 
+26
+be incurred by the State of each of the effects identified under subsection 1; and
+27
+3.  A categorized calculation of the costs that have been incurred and are projected to 
+28
+be incurred by the State to abate the effects of greenhouse gas emissions from between 
+29
+January 1, 1995 and December 31, 2024 on the State and residents of the State.
+30
+Sec. 3.  Cost recovery demands issued.  The Department of Environmental 
+31
+Protection shall issue the cost recovery demands pursuant to the Maine Revised Statutes, 
+32
+Title 38, chapter 3-C not later than 6 months following the adoption of rules pursuant to 
+33
+Title 38, section 580-L. 
+34
+SUMMARY
+35
+This bill establishes the Climate Superfund Cost Recovery Program within the 
+36
+Department of Environmental Protection.  Under the program, an entity or a successor in 
+37
+interest to an entity that was engaged in the trade or business of extracting fossil fuel or 
+38
+refining crude oil between January 1, 1995 and December 31, 2024 is assessed a cost 
+39
+recovery demand for the entity's share of fossil fuel extraction or refinement contributing 
+40
+to greenhouse gas-related costs in the State.  An entity is assessed a cost recovery demand 
+41
+only if the department determines that the entity's products were responsible for more than 
+42
+one billion metric tons of greenhouse gas emissions.  Cost recovery payments received by 
+35
+36
+37
+38
+39
+40
+41
+42
+
+Page 8 - 132LR2359(01)
+43
+the department are deposited into the Climate Superfund Cost Recovery Program Fund to 
+44
+provide funding for recovery of the costs to develop and implement the program and fund 
+45
+and for climate change adaptation projects in the State, which the department is directed to 
+46
+prioritize through the adoption of a resilience implementation strategy and to ensure that at 
+47
+least 35% of the funds are used for climate change adaptation projects that benefit 
+48
+low-income persons with environmental justice concerns.
+1
+2
+3
+4
+5
+6

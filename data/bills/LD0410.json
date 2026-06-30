@@ -1,0 +1,102 @@
+{
+  "ld": 410,
+  "paper": "HP0264",
+  "paper_display": "HP 264",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096258",
+  "title": "An Act to Require Parental Consent to Withhold Life-sustaining Measures for a Minor or to Comply with a Do-not-resuscitate Order for a Minor",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "2/4/2025 - Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES suggested and ordered printed. On motion of Representative MATHIESON of Kittery, the Bill was REFERRED to the Committee on JUDICIARY . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Reagan PAUL",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Winterport"
+    },
+    {
+      "name": "Abigail GRIFFIN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Levant"
+    },
+    {
+      "name": "David HAGGAN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Kimberly HAGGAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hampden"
+    },
+    {
+      "name": "Kathy JAVNER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Chester"
+    },
+    {
+      "name": "Tracy QUINT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hodgdon"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MEDICAL RIGHTS",
+      "minor": "PATIENTS RIGHTS",
+      "detail": "PARENTAL CONSENT"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "House",
+      "description": "Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES suggested and ordered printed. On motion of Representative MATHIESON of Kittery, the Bill was REFERRED to the Committee on JUDICIARY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on JUDICIARY . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0264&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0264",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0264&SessionID=16",
+  "scraped_at": "2026-06-30T18:03:06Z"
+}

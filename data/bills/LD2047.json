@@ -1,0 +1,61 @@
+{
+  "ld": 2047,
+  "paper": "SP0840",
+  "paper_display": "SP 840",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100929",
+  "title": "Resolve, Regarding Online Driver Education",
+  "committee": "Transportation",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Jan 27, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "None",
+  "last_senate_action": "1/27/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Harold STEWART",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MOTOR VEHICLES",
+      "minor": "DRIVERS EDUCATION",
+      "detail": "ONLINE COURSEWORK"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-09",
+      "date_raw": "12/9/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on December 9, 2025 and REFERRED to the Committee on TRANSPORTATION pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2026-01-27",
+      "date_raw": "1/27/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0840&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0840",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0840&SessionID=16",
+  "scraped_at": "2026-06-30T20:09:10Z"
+}

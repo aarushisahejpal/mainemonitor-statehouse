@@ -1,0 +1,86 @@
+{
+  "ld": 394,
+  "paper": "SP0180",
+  "paper_display": "SP 180",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096199",
+  "title": "An Act to Improve Transportation Infrastructure in Maine",
+  "committee": "Transportation",
+  "status_summary": "",
+  "final_disposition": "Leave to Withdraw, Mar 19, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "2/4/2025 - The Bill was REFERRED to the Committee on TRANSPORTATION . In concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/19/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Timothy NANGLE",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Joseph RAFFERTY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "TRANSPORTATION DEPARTMENT",
+      "minor": "PLANNING",
+      "detail": "INFRASTRUCTURE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "Senate",
+      "description": "Committee on TRANSPORTATION suggested and ordered printed REFERENCE to the Committee on TRANSPORTATION Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on TRANSPORTATION . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-03-19",
+      "date_raw": "3/19/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0180&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0180",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0180&SessionID=16",
+  "scraped_at": "2026-06-30T18:01:54Z"
+}

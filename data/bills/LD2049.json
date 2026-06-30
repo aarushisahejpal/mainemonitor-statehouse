@@ -1,0 +1,103 @@
+{
+  "ld": 2049,
+  "paper": "HP1373",
+  "paper_display": "HP 1373",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100942",
+  "title": "An Act to Clarify Indemnification When Seeking Remedy for Labor Law Violations",
+  "committee": "Labor",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Feb 26, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "12/9/2025 - Received by the Clerk of the House on December 9, 2025. The Bill was REFERRED to the Committee on LABOR pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+  "last_senate_action": "2/26/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Matthew BECK",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    },
+    {
+      "name": "Matthea DAUGHTRY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "President",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Ryan FECTEAU",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Speaker",
+      "district": "Biddeford"
+    },
+    {
+      "name": "Valli GEIGER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Rockland"
+    },
+    {
+      "name": "Rafael MACIAS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Topsham"
+    },
+    {
+      "name": "Rachel TALBOT ROSS",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Michael TIPPING",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "WORKERS COMPENSATION",
+      "minor": "LIABILITY",
+      "detail": "CONTRACTORS AND SUBCONTRACTORS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-09",
+      "date_raw": "12/9/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on December 9, 2025. The Bill was REFERRED to the Committee on LABOR pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2026-02-26",
+      "date_raw": "2/26/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1373&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1373",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1373&SessionID=16",
+  "scraped_at": "2026-06-30T20:09:18Z"
+}

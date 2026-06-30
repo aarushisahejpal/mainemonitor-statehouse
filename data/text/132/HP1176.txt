@@ -1,0 +1,167 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1758
+H.P. 1176
+House of Representatives, April 22, 2025
+An Act to Expedite Provider Enrollment in MaineCare
+Reference to the Committee on Health and Human Services suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ARFORD of Brunswick.
+Cosponsored by Senator TALBOT ROSS of Cumberland and
+Representatives: BELL of Yarmouth, DAIGLE of Fort Kent, GRAHAM of North Yarmouth, 
+JAVNER of Chester, SHAGOURY of Hallowell, ZAGER of Portland, Senators: BALDACCI 
+of Penobscot, MOORE of Washington.
+
+Page 1 - 132LR0823(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  22 MRSA §3173-L is enacted to read:
+3
+§3173-L.  Provider enrollment; expedited provisional approval
+4
+The process for expedited provisional approval of provider enrollment in the 
+5
+MaineCare program is governed by the following provisions. 
+6
+1.  Definitions.  For the purposes of this section, unless the context otherwise indicates, 
+7
+the following terms have the following meanings. 
+8
+A. "National provider identifier" means a unique, 10-digit, intelligence-free, 
+9
+identification number issued by the federal Centers for Medicare and Medicaid 
+10
+Services to a provider of medical or health services and any other person or 
+11
+organization that furnishes, bills or is paid for health care in the normal course of 
+12
+business.  "Intelligence-free" means that the numbers do not carry other information 
+13
+about a healthcare provider such as the state in which the provider lives or operates or 
+14
+the provider's medical specialty. 
+15
+B. "Provider" means an individual, a facility or an organization that provides services 
+16
+under the MaineCare program. 
+17
+2.  Expedited provisional approval.  The department shall provisionally approve the 
+18
+enrollment application of a provider in good standing, as defined by rule pursuant to 
+19
+subsection 6, paragraph C, subparagraph (1), that has a national provider identifier within 
+20
+48 hours of receipt of a complete application if the provider is employed by a health care 
+21
+entity that has an enrollment application approval rate of greater than 90% in the previous 
+22
+5 years.  
+23
+3.  Authority to review; final approval.  The department may conduct a complete 
+24
+review of an applicant granted expedited provisional approval pursuant to this section.  For 
+25
+a provider that has received expedited provisional approval pursuant to subsection 2, the 
+26
+provider's enrollment is considered finally approved 60 days following the receipt of the 
+27
+provider's application for expedited provisional approval unless the department 
+28
+affirmatively revoked the provisional approval during the 60-day period. 
+29
+4.  Approval suspended or revoked.  Nothing in this section may prevent the 
+30
+department from suspending or revoking the approval of an applicant that has been granted 
+31
+expedited provisional approval following complete review if a material deficiency is 
+32
+determined to exist.  If the provider's approval is revoked, the provider is not eligible for 
+33
+expedited provisional approval under subsection 2 and must go through the regular 
+34
+enrollment process as provided by rule to regain enrollment.
+35
+5.  Approval revoked; reimbursements for payments during period of provisional 
+36
+approval.  The Office of MaineCare Services may seek reimbursement for any payments 
+37
+made by the MaineCare program for services provided by a provider if its expedited 
+38
+provisional approval was revoked in the 60-day expedited provisional approval period 
+39
+pursuant to subsection 3.
+40
+6.  Rulemaking.  The department shall adopt rules to implement this section.  The rules 
+41
+must, at a minimum:
+
+Page 2 - 132LR0823(01)
+1
+A. Prescribe a method to determine the enrollment application approval rate of the 
+2
+provider's employer under subsection 2;
+3
+B. Develop a process for suspending an individual provider's expedited provisional 
+4
+approval status; and
+5
+C. Define the following: 
+6
+(1) The elements of "good standing," under subsection 2; and 
+7
+(2) "Material deficiency" under subsection 4.
+8
+Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+9
+chapter 375, subchapter 2-A.
+10
+SUMMARY
+11
+This bill establishes an expedited process for providers to enroll in the MaineCare 
+12
+program.  Under the bill, the Department of Health and Human Services must provisionally 
+13
+approve the enrollment application of a provider in good standing that has a national 
+14
+provider identifier within 48 hours of receipt of a complete application if the provider is 
+15
+employed by a health care entity that has an enrollment application approval rate of greater 
+16
+than 90% in the previous 5 years.  The department may conduct a complete review during 
+17
+a 60-day expedited provisional approval period, but the provider is considered approved 
+18
+after 60 days if the department does not affirmatively deny approval during that period.  
+19
+However, the bill does not prevent the department from suspending or revoking approval 
+20
+after the 60-day period if a material deficiency exists.  If the provider's approval is revoked, 
+21
+the provider is not eligible for expedited reenrollment but must go through the regular 
+22
+enrollment process as established by rule.  The Office of MaineCare Services may seek 
+23
+reimbursements for any payment made to a provider during the provisional period if the 
+24
+provider's provisional approval is revoked.  The department must adopt rules to implement 
+25
+these provisions.
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25

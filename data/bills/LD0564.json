@@ -1,0 +1,73 @@
+{
+  "ld": 564,
+  "paper": "SP0243",
+  "paper_display": "SP 243",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096567",
+  "title": "An Act to Improve the Operations of State Government",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Leave to Withdraw, Mar 25, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "None",
+  "last_senate_action": "3/25/2026 - Pursuant to Joint Rule 310.5, Placed in Legislative Files ( DEAD ).",
+  "sponsors": [
+    {
+      "name": "Joseph BALDACCI",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE GOVERNMENT",
+      "minor": "AGENCY REGULATION",
+      "detail": "PROVISIONS REVISED"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-19",
+      "date_raw": "2/19/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on February 19, 2025 and REFERRED to the Committee on STATE AND LOCAL GOVERNMENT pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-03-25",
+      "date_raw": "3/25/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.5, Placed in Legislative Files ( DEAD )."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0243&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0243",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0243&SessionID=16",
+  "scraped_at": "2026-06-30T18:14:58Z"
+}

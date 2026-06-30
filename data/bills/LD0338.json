@@ -1,0 +1,445 @@
+{
+  "ld": 338,
+  "paper": "HP0238",
+  "paper_display": "HP 238",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096156",
+  "title": "An Act to Increase the Size and Balance of Jury Pools",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 15, 2026",
+  "governor_action": "Signed, Apr 15, 2026",
+  "chaptered_law": "ACTPUB, Chapter 708",
+  "chapter": "708",
+  "became_law": true,
+  "last_house_action": "2/24/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/13/2026 - On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table. Subsequently, PASSED TO BE ENACTED in concurrence.",
+  "sponsors": [
+    {
+      "name": "Adam LEE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "Mana ABDI",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lewiston"
+    },
+    {
+      "name": "Donna BAILEY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Sally CLUCHEY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bowdoinham"
+    },
+    {
+      "name": "Deqa DHALAC",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    },
+    {
+      "name": "Rachel HENDERSON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Rumford"
+    },
+    {
+      "name": "Nina MILLIKEN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Blue Hill"
+    },
+    {
+      "name": "Jennifer POIRIER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Skowhegan"
+    },
+    {
+      "name": "Eleanor SATO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Gorham"
+    },
+    {
+      "name": "David SINCLAIR",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bath"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "COURTS",
+      "minor": "JURORS",
+      "detail": "JURY POOLS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "date_raw": "1/30/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on January 30, 2025. The Bill was REFERRED to the Committee on JUDICIARY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-159) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-159) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-159), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending ENACTMENT in concurrence."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table PASSED TO BE ENACTED in concurrence."
+    },
+    {
+      "date": "2025-07-08",
+      "date_raw": "7/8/2025",
+      "chamber": "Senate",
+      "description": "HELD BY THE GOVERNOR."
+    },
+    {
+      "date": "2026-01-13",
+      "date_raw": "1/13/2026",
+      "chamber": "House",
+      "description": "Bill RECALLED From Governor (Pursuant to Joint Order - House Paper 1391) On motion of Representative MOONEN of Portland, TABLED pending FURTHER ACTION . Later today assigned."
+    },
+    {
+      "date": "2026-01-13",
+      "date_raw": "1/13/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-01-20",
+      "date_raw": "1/20/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-01-27",
+      "date_raw": "1/27/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-02-03",
+      "date_raw": "2/3/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-02-10",
+      "date_raw": "2/10/2026",
+      "chamber": "House",
+      "description": "Speaker laid before the House Subsequently, on motion of Representative LEE of Auburn, under SUSPENSION of the rules, the House RECONSIDERED its action whereby the Bill was PASSED TO BE ENACTED . On further motion of the same Representative, under further SUSPENSION of the rules, the House RECONSIDERED its action whereby the Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-159) . On further motion of the same Representative, under further SUSPENSION of the rules, the House RECONSIDERED ADOPTION of Committee Amendment \"A\" (H-159) . On motion of Representative LEE of Auburn, House Amendment \"A\" (H-798) to Committee Amendment \"A\" (H-159) was READ and ADOPTED . Committee Amendment \"A\" (H-159) as Amended by House Amendment \"A\" (H-798) thereto was ADOPTED . Subsequently, the Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-159) as Amended by House Amendment \"A\" (H-798) thereto. In NON-CONCURRENCE and sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-02-12",
+      "date_raw": "2/12/2026",
+      "chamber": "Senate",
+      "description": "Senator PIERCE of Cumberland moved to RECEDE and CONCUR to PASSAGE TO BE ENGROSSED AS AMENDED. Motion by Senator STEWART of Aroostook to COMMIT Bill and accompanying papers to the Committee on Judiciary FAILED Roll Call Ordered Roll Call Number 713 Yeas 13 - Nays 19 - Excused 3 - Absent 0 Subsequently, the Senate RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-159) as Amended by House Amendment \"A\" (H-798) thereto. Ordered sent down forthwith."
+    },
+    {
+      "date": "2026-02-24",
+      "date_raw": "2/24/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-02-26",
+      "date_raw": "2/26/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending ENACTMENT in concurrence."
+    },
+    {
+      "date": "2026-04-13",
+      "date_raw": "4/13/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin taken from the Special Appropriations Table. Subsequently, PASSED TO BE ENACTED in concurrence."
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "713",
+      "date": "2026-02-12",
+      "date_raw": "Feb. 12, 2026",
+      "motion": "COMMIT",
+      "outcome": "FAILS",
+      "yeas": 13,
+      "nays": 19,
+      "absent": 0,
+      "excused": 3,
+      "vacant": 0,
+      "yeas_required": 17,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "E"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "N"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "E"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "E"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "N"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "N"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280096156&chamber=Senate&serialnumber=713"
+    }
+  ],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-159 )",
+      "new_title": "",
+      "house_action": "Adopted on 5/20/2025",
+      "senate_action": "Adopted on 5/21/2025",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "H \"A\" (H-798 ) to C \"A\" (H-159 )",
+      "new_title": "",
+      "house_action": "Adopted on 2/10/2026",
+      "senate_action": "Adopted on 12:00:00 AM",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0238&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0238&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0238&item=4&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0238&item=5&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0238",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0238&SessionID=16",
+  "scraped_at": "2026-06-30T17:57:39Z"
+}

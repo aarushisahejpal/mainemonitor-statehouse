@@ -1,0 +1,115 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2157
+H.P. 1446
+House of Representatives, January 7, 2026
+An Act to Prohibit the Unauthorized Use of Drones on or over the 
+Premises of Correctional Facilities and Jails
+Submitted by the Department of Corrections pursuant to Joint Rule 203.
+Reference to the Committee on Criminal Justice and Public Safety suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative PERKINS of Dover-Foxcroft.
+
+Page 1 - 132LR2663(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  17-A MRSA §761 is enacted to read:
+3
+§761.  Unauthorized use of drone on or over premises of correctional facility or jail
+4
+1.  A person is guilty of unauthorized use of a drone on or over the premises of a 
+5
+correctional facility or jail if the person uses a drone to convey or attempt to convey prison 
+6
+contraband in violation of section 757.
+7
+2.  A person is guilty of unauthorized use of a drone on or over the premises of a 
+8
+correctional facility or jail if the person in fact flies a drone over the premises of a 
+9
+correctional facility or jail at or below a height of 400 feet above the ground, lands a drone 
+10
+on the premises or flies a drone from the premises. 
+11
+3.  This section does not apply to:
+12
+A.  A law enforcement officer, a corrections officer or a corrections supervisor engaged 
+13
+in the performance of the law enforcement officer's, corrections officer's or corrections 
+14
+supervisor's public duty; or
+15
+B.  Another person acting in the course and scope of employment, as approved by the 
+16
+chief administrative officer of the correctional facility or the jail administrator.
+17
+4.  It is not a defense to a prosecution under this section that the person holds a valid 
+18
+license to operate a drone issued by the United States Department of Transportation, 
+19
+Federal Aviation Administration or is otherwise permitted to operate a drone pursuant to 
+20
+regulations of the Federal Aviation Administration. 
+21
+5.  Unauthorized use of a drone on or over the premises of a correctional facility or jail 
+22
+is a Class C crime.
+23
+6.  As used in this section, the following terms have the following meanings.
+24
+A.  "Correctional facility" has the same meaning as in Title 34-A, section 1001, 
+25
+subsection 6.
+26
+B.  "Drone" means an aircraft or aircraft system operated without a physical human 
+27
+presence within or on the aircraft and includes, but is not limited to, an unmanned 
+28
+aircraft system, unmanned aerial vehicle, remotely piloted aircraft system or micro air 
+29
+vehicle. 
+30
+C.  "Jail" means a county or regional jail.
+31
+D.  "Micro air vehicle" means a drone that weighs less than one kilogram.
+32
+E.  "Premises" includes, but is not limited to, lands, ways and any buildings or 
+33
+structures on those lands or ways.
+34
+F.  "Remote pilot station" means equipment such as controls, displays or a cockpit 
+35
+located separately from a drone and used by an operator to fly a drone.
+36
+G.  "Remotely piloted aircraft system" means a system that includes a drone, a remote 
+37
+pilot station and equipment for communication between the remote pilot station and 
+38
+the drone.
+
+Page 2 - 132LR2663(01)
+1
+H.  "Unmanned aerial vehicle" means a powered aircraft that flies without a human 
+2
+pilot on board that is controlled either remotely from the ground or autonomously 
+3
+through a preprogrammed flight plan.
+4
+I.  "Unmanned aircraft system" means a system that includes a drone, a remote control 
+5
+station and equipment for communication between the remote control station and the 
+6
+drone.
+7
+SUMMARY
+8
+This bill establishes the Class C crime of unauthorized use of a drone on or over the 
+9
+premises of a correctional facility or jail, with certain exceptions.
+8
+9

@@ -1,0 +1,118 @@
+{
+  "ld": 3,
+  "paper": "SP0012",
+  "paper_display": "SP 12",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095520",
+  "title": "An Act to Adopt Eastern Daylight Time Year-round Contingent on Federal Approval",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 9, 2025",
+  "governor_action": "Signed, Jun 9, 2025",
+  "chaptered_law": "ACTPUB, Chapter 191",
+  "chapter": "191",
+  "became_law": true,
+  "last_house_action": "6/2/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/2/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Richard BENNETT",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Joseph BALDACCI",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Christopher KESSLER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE GOVERNMENT",
+      "minor": "PLANNING",
+      "detail": "YEAR-ROUND EASTERN DAYLIGHT TIME"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "date_raw": "1/8/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on January 6, 2025 and REFERRED to the Committee on STATE AND LOCAL GOVERNMENT pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "Senate",
+      "description": "Reports READ On motion by Senator BALDACCI of Penobscot The Majority Ought to Pass As Amended Report ACCEPTED. Bill READ ONCE. Committee Amendment \"A\" (S-180) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-180) Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SALISBURY of Westbrook, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (S-180) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-180) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-180 )",
+      "new_title": "",
+      "house_action": "Adopted on 6/2/2025",
+      "senate_action": "Adopted on 5/9/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0012&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0012&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0012&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0012",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0012&SessionID=16",
+  "scraped_at": "2026-06-30T17:29:38Z"
+}

@@ -1,0 +1,112 @@
+{
+  "ld": 1441,
+  "paper": "SP0582",
+  "paper_display": "SP 582",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098099",
+  "title": "Resolve, to Establish the Commission to Study the Future of Recreational Access in Maine",
+  "committee": "Inland Fisheries and Wildlife",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 27, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/23/2025 - The Resolve was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE . In concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/27/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Russell BLACK",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Franklin"
+    },
+    {
+      "name": "Joseph BALDACCI",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Stacey GUERIN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Jeffrey TIMBERLAKE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "RECREATION",
+      "minor": "PROPERTY ACCESS",
+      "detail": "STUDY COMMISSION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "Committee on AGRICULTURE, CONSERVATION AND FORESTRY suggested and ordered printed On motion by Senator TALBOT ROSS of Cumberland Tabled until Later in Today's Session, pending REFERENCE Unfinished Business"
+    },
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-15",
+      "date_raw": "4/15/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-22",
+      "date_raw": "4/22/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President On motion by Senator TALBOT ROSS of Cumberland The Bill was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-04-23",
+      "date_raw": "4/23/2025",
+      "chamber": "House",
+      "description": "The Resolve was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0582&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0582",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0582&SessionID=16",
+  "scraped_at": "2026-06-30T19:21:56Z"
+}

@@ -1,0 +1,104 @@
+{
+  "ld": 2223,
+  "paper": "HP1498",
+  "paper_display": "HP 1498",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101695",
+  "title": "An Act to Increase Funding for Construction Plan Reviews and Clarify Rule-making Authority for Municipal Reviews of Development",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 13, 2026",
+  "governor_action": "Signed, Apr 13, 2026",
+  "chaptered_law": "ACTPUB, Chapter 658",
+  "chapter": "658",
+  "became_law": true,
+  "last_house_action": "4/2/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/6/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Tavis HASENFUS",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Readfield"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "FIRE SAFETY",
+      "minor": "FIRE MARSHAL",
+      "detail": "CONSTRUCTION PLAN REVIEWS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "date_raw": "2/24/2026",
+      "chamber": "House",
+      "description": "Representative HASENFUS for the Joint Standing Committee on Criminal Justice and Public Safety pursuant to Resolve 2025, chapter 103, section 4 reports that the Bill be REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY and printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-02-24",
+      "date_raw": "2/24/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. On motion by Senator Beebe-Center of Knox REFERRED to Committee on Criminal Justice and Public Safety, in concurrence."
+    },
+    {
+      "date": "2026-03-31",
+      "date_raw": "3/31/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-925) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-925) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-925), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-925 )",
+      "new_title": "",
+      "house_action": "Adopted on 3/31/2026",
+      "senate_action": "Adopted on 4/2/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1498&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1498&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1498&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1498",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1498&SessionID=16",
+  "scraped_at": "2026-06-30T20:23:32Z"
+}

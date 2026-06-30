@@ -1,0 +1,639 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1223
+H.P. 798
+House of Representatives, March 25, 2025
+An Act to Lower Electric Rates for Maine Ratepayers by Requiring 
+the Payment of Certain Costs from the General Fund
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative FOSTER of Dexter.
+Cosponsored by Representatives: FAULKINGHAM of Winter Harbor, PAUL of Winterport, 
+WADSWORTH of Hiram, Senator: GROHOSKI of Hancock.
+
+Page 1 - 132LR1905(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  35-A MRSA §3149 is enacted to read:
+3
+§3149.  Procurement and arrearage management program funding
+4
+1.  Procurement costs to be paid from General Fund.  Notwithstanding any 
+5
+provision of this Title to the contrary, if the commission requires a transmission and 
+6
+distribution utility to purchase or otherwise contract for energy, renewable energy credits, 
+7
+energy storage systems or transmission infrastructure pursuant to applicable law, costs 
+8
+incurred by a transmission and distribution utility for the purchase or contract may not be 
+9
+incorporated into rates, and costs associated with the purchase or procurement must be paid 
+10
+from the General Fund. The commission may not require a transmission and distribution 
+11
+utility to purchase or otherwise contract for energy, renewable energy credits, energy 
+12
+storage systems or transmission infrastructure unless the commission has submitted 
+13
+legislation to request funding to be paid into the Energy Procurement and Arrearage 
+14
+Management Program Cost Fund established in subsection 2 and adequate funding is 
+15
+available within the fund.
+16
+2.  Energy Procurement and Arrearage Management Program Cost Fund.  The 
+17
+Energy Procurement and Arrearage Management Program Cost Fund is established within 
+18
+the commission as a nonlapsing fund for the purposes of paying costs incurred by a 
+19
+transmission and distribution utility to purchase or otherwise contract for energy, 
+20
+renewable energy credits, energy storage systems or transmission infrastructure pursuant 
+21
+to applicable law as described in subsection 1 and costs incurred by a transmission and 
+22
+distribution utility associated with an arrearage management program pursuant to section 
+23
+3214, subsection 2-A. The commission may receive and deposit in the fund funds from the 
+24
+General Fund.
+25
+Sec. 2.  35-A MRSA §3209-A, sub-§1, ¶B-1 is enacted to read:
+26
+B-1.  "Kilowatt-hour credit program cost" means:
+27
+(1)  Transmission and distribution costs that would otherwise be paid by a customer 
+28
+through the volumetric charge on the customer's electricity bill that are not received 
+29
+by a transmission and distribution utility due to application of kilowatt-hour credits 
+30
+to the customer's electricity bill; and
+31
+(2)  Costs incurred by a transmission and distribution utility for the administration 
+32
+of net energy billing arrangements.
+33
+Sec. 3.  35-A MRSA §3209-A, sub-§10 is enacted to read:
+34
+10.  Kilowatt-hour credit program costs.  After January 1, 2027, kilowatt-hour credit 
+35
+program costs may not be included or incorporated in the operating expenses of a 
+36
+transmission and distribution utility to be recovered in rates and must be paid from the 
+37
+General Fund. The commission shall submit legislation to request funding to be paid into 
+38
+the Net Energy Billing Cost Stabilization Fund established in section 3209-B, subsection 
+39
+10 to ensure that adequate funding is available to pay kilowatt-hour credit program costs.
+40
+The commission shall adopt rules to establish a process by which kilowatt-hour credit 
+41
+program costs are distributed to transmission and distribution utilities using funds from the 
+42
+Net Energy Billing Cost Stabilization Fund. The rules must require a transmission and 
+43
+distribution utility to provide to the commission, at least biennially, an estimate of kilowatt-
+
+Page 2 - 132LR1905(01)
+44
+hour credit program costs for the following year. The commission rules must establish a 
+45
+schedule for the commission's payment of kilowatt-hour program costs and a reconciliation 
+46
+process by which any overpayments are returned by a transmission and distribution utility 
+47
+to the Net Energy Billing Cost Stabilization Fund. Notwithstanding any provision of this 
+48
+section to the contrary, rules adopted by the commission pursuant to this subsection are 
+49
+routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+7
+Sec. 4.  35-A MRSA §3209-B, sub-§1, ¶B-1 is enacted to read:
+8
+B-1.  "Commercial and institutional program cost" means:
+9
+(1)  The dollar amount of bill credits paid to a customer based on the tariff rates 
+10
+established under subsection 5; and
+11
+(2)  Costs incurred by a transmission and distribution utility for the administration 
+12
+of the program.
+13
+Sec. 5.  35-A MRSA §3209-B, sub-§1, ¶C-1 is enacted to read:
+14
+C-1.  "Monetized benefit" means revenue received by a transmission and distribution 
+15
+utility that is generated by the sale of:
+16
+(1)  Electricity produced by a distributed generation resource participating in the 
+17
+program; and
+18
+(2)  Capacity rights associated with a distributed generation resource participating 
+19
+in the program.
+20
+Sec. 6.  35-A MRSA §3209-B, sub-§9 is enacted to read:
+21
+9.  Commercial and institutional program costs.  After January 1, 2027, commercial 
+22
+and institutional program costs may not be included or incorporated in the operating 
+23
+expenses of a transmission and distribution utility to be recovered in rates and must be paid 
+24
+from the General Fund. The commission shall submit legislation to request funding to be 
+25
+paid into the Net Energy Billing Cost Stabilization Fund established in subsection 10 to 
+26
+ensure that adequate funding is available to pay commercial and institutional program 
+27
+costs.
+28
+The commission shall adopt rules to establish a process by which commercial and 
+29
+institutional program costs, less monetized benefits, are distributed to transmission and 
+30
+distribution utilities and distributed generation resources, as applicable, using funds from 
+31
+the Net Energy Billing Cost Stabilization Fund. The rules must require a transmission and 
+32
+distribution utility to provide, at least biennially, to the commission an estimate of 
+33
+commercial and institutional program costs for the following year, as well as an estimate 
+34
+of monetized benefits. The commission rules must establish a schedule for the 
+35
+commission's payment of commercial and institutional program costs and a reconciliation 
+36
+process by which any overpayments are returned by a transmission and distribution utility 
+37
+to the Net Energy Billing Cost Stabilization Fund. Rules adopted by the commission 
+38
+pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, 
+39
+subchapter 2‑A.
+40
+Sec. 7.  35-A MRSA §3209-B, sub-§10 is enacted to read:
+41
+10.  Net Energy Billing Cost Stabilization Fund.  The Net Energy Billing Cost 
+42
+Stabilization Fund is established within the commission as a nonlapsing fund for the 
+1
+2
+3
+4
+5
+6
+
+Page 3 - 132LR1905(01)
+43
+purposes of paying kilowatt-hour credit program costs in accordance with section 3209-A, 
+44
+subsection 10 and commercial and institutional program costs, less monetized benefits, as 
+45
+described in subsection 9. The commission may receive and deposit in the fund funds from 
+46
+the General Fund and any overpayments returned by transmission and distribution utilities 
+47
+in accordance with rules adopted by the commission.
+6
+Sec. 8.  35-A MRSA §3212, sub-§1, ¶C-1 is enacted to read:
+7
+C-1.  Implementation of time-of-use rates for residential and small commercial 
+8
+customers located in the service area of a transmission and distribution utility with the 
+9
+necessary electric billing and metering services to accommodate time-of-use rates;
+10
+Sec. 9.  35-A MRSA §3212, sub-§7 is enacted to read:
+11
+7.  Time-of-use rates; electric billing and metering service necessary.  The 
+12
+commission shall require a transmission and distribution utility, other than a consumer-
+13
+owned transmission and distribution utility that does not choose one or more standard-offer 
+14
+service providers for its territory, to establish electric billing and metering services 
+15
+necessary to accommodate time-of-use rates for standard-offer service for residential and 
+16
+small commercial customers.
+17
+Sec. 10.  35-A MRSA §3212, sub-§8 is enacted to read:
+18
+8.  Assistance program participants; standard-offer service required.  
+19
+Notwithstanding any provision of law to the contrary, an electricity customer enrolled in 
+20
+an assistance program may not purchase generation service from a competitive electricity 
+21
+provider and must be enrolled in standard-offer service. For the purposes of this subsection, 
+22
+"assistance program" means:
+23
+A. Low-income assistance provided by the commission in accordance with section 
+24
+3214, subsection 2;
+25
+B. An arrearage management program established pursuant to section 3214, subsection 
+26
+2-A;
+27
+C. Assistance provided from the Electric Assistance Program Fund established under 
+28
+Title 30-A, section 4962, subsection 1;
+29
+D. The statewide Supplemental Nutrition Assistance Program administered by the 
+30
+Department of Health and Human Services in accordance with Title 22, section 3104, 
+31
+subsection 1, paragraph A;
+32
+E. The Women, Infants and Children Special Supplemental Food Program of the 
+33
+federal Child Nutrition Act of 1966 administered by the Department of Health and 
+34
+Human Services in accordance with Title 22, section 3107;
+35
+F. The Temporary Assistance for Needy Families program administered by the 
+36
+Department of Health and Human Services in accordance with Title 22, section 3762, 
+37
+subsection 3;
+38
+G. The Additional Support for People in Retraining and Employment - Temporary 
+39
+Assistance for Needy Families program administered by the Department of Health and 
+40
+Human Services in accordance with Title 22, section 3781-A, subsection 2; or 
+41
+H. A general assistance program administered by a municipality pursuant to Title 22, 
+42
+section 4301, subsection 5.
+1
+2
+3
+4
+5
+
+Page 4 - 132LR1905(01)
+1
+Sec. 11.  35-A MRSA §3214, sub-§2, as amended by PL 2023, c. 201, §1; c. 230, 
+2
+§2; c. 306, §§2 and 3; and c. 361, §§3 to 5, is further amended to read:
+3
+2.  Low-income assistance.  In order to continue existing levels of financial assistance 
+4
+for low-income households and to meet future increases in need caused by economic 
+5
+exigencies, the commission shall:
+6
+A.  Receive funds collected by all transmission and distribution utilities in the State at 
+7
+a rate set by the commission in periodic rate cases;
+8
+A-1.  Receive funds collected by the commission for alternative compliance payments 
+9
+in accordance with section 3210, subsection 9, paragraph B; and
+10
+A-2.  Receive funds appropriated from the General Fund;
+11
+B.  Set initial funding for programs based on an assessment of aggregate customer need 
+12
+in periodic rate cases.  The funding formula may not result in assistance being counted 
+13
+as income or as a resource in other means-tested assistance programs for low-income 
+14
+households.  To the extent possible, assistance must be provided in a manner most 
+15
+likely to prevent the loss of other federal assistance; and
+16
+C.  Receive funds remitted by transmission and distribution utilities with net energy 
+17
+billing arrangements for expired kilowatt‑hour credits in accordance with section 
+18
+3209‑A, subsection 8.
+19
+The commission may use funds available under this subsection to provide financial 
+20
+assistance to low-income households in emergency situations as determined by the 
+21
+commission in a proceeding or by rule. Except as provided in paragraphs A-1 and C, the 
+22
+commission may not provide financial assistance to low-income households pursuant to 
+23
+this subsection unless the funds for that assistance are appropriated from the General Fund 
+24
+for the purpose of providing that assistance.
+25
+The commission may adopt rules to implement this subsection. Rules adopted under this 
+26
+subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+27
+Sec. 12.  35-A MRSA §3214, sub-§2-A, as amended by PL 2023, c. 534, §§1 to 3, 
+28
+is further amended to read:
+29
+2-A.  Arrearage management program.  Each investor-owned transmission and 
+30
+distribution utility shall implement pursuant to this subsection an arrearage management 
+31
+program to assist eligible low-income residential customers who are in arrears on their 
+32
+electricity bills.  An arrearage management program implemented pursuant to this 
+33
+subsection is a plan under which a transmission and distribution utility works with an 
+34
+eligible low-income residential customer to establish an affordable payment plan and 
+35
+provide credit to that customer toward the customer's accumulated arrears as long as that 
+36
+customer remains in compliance with the terms of the program.  If a consumer-owned 
+37
+transmission and distribution utility elects to implement an arrearage management 
+38
+program, it must do so in accordance with this subsection and rules adopted pursuant to 
+39
+this subsection.  All reasonable costs incurred by a transmission and distribution utility, 
+40
+including, but not limited to, incremental costs, reconnection fees, administrative costs, 
+41
+marketing costs, costs for any 3rd-party assistance received by the transmission and 
+42
+distribution utility in administering its arrearage management program and costs for 
+43
+providing financial and budgetary guidance to participants whether provided directly or 
+
+Page 5 - 132LR1905(01)
+44
+through a 3rd party contracted by the transmission and distribution utility to provide that 
+45
+guidance, must be paid from the Energy Procurement and Arrearage Management Program 
+46
+Cost Fund established in section 3149, subsection 2. The commission shall submit 
+47
+legislation to request funding to be paid into the Energy Procurement and Arrearage 
+48
+Management Program Cost Fund to ensure that adequate funding is available to pay 
+49
+reasonable costs incurred by a transmission and distribution utility in administering its 
+50
+arrearage management program. The amount of any arrearage forgiven that is treated as 
+51
+bad debt for purposes of cost recovery by the transmission and distribution utility may not 
+52
+be included as a reasonable cost.  The commission shall establish requirements relating to 
+53
+the arrearage management programs by rule.  Rules adopted pursuant to this subsection are 
+54
+routine technical rules pursuant to Title 5, chapter 375, subchapter 2‑A.
+12
+In adopting rules regarding arrearage management programs, the commission shall:
+13
+A.  Consider best practices as developed and implemented in other states or regions;
+14
+B.  Require that an arrearage management program include an electricity usage 
+15
+assessment at no cost to the participant;
+16
+D.  Ensure that a transmission and distribution utility develops terms and conditions 
+17
+for its arrearage management program in a manner that is consistent with the program's 
+18
+objectives and is in the best interests of all ratepayers; and
+19
+D-1.  Ensure that if a transmission and distribution utility produces any materials, either 
+20
+written or electronic, regarding the arrearage management program offered by the 
+21
+utility, those materials must state in plainly worded language and in a type size that is 
+22
+no less than 12 points that state law requires the utility to offer an arrearage 
+23
+management program to its customers and that costs described in paragraph E are not 
+24
+paid for by the utility; and.
+25
+E.  Ensure that a transmission and distribution utility recovers in rates all reasonable 
+26
+costs of arrearage management programs, including:
+27
+(1)  Incremental costs;
+28
+(2)  Reconnection fees;
+29
+(3)  Administrative costs;
+30
+(4)  Marketing costs;
+31
+(5)  Costs for any 3rd-party assistance it receives in administering its arrearage 
+32
+management program; and
+33
+(6)  Costs for providing financial and budgetary guidance to participants whether 
+34
+provided directly or through a 3rd party contracted by the transmission and 
+35
+distribution utility to provide that guidance.
+36
+The amount of any arrearage forgiven that is treated as bad debt for purposes of cost 
+37
+recovery by the transmission and distribution utility may not be included as a 
+38
+reasonable cost under this paragraph.
+39
+The Efficiency Maine Trust shall work with investor-owned transmission and distribution 
+40
+utilities, consumer-owned transmission and distribution utilities that elect to participate in 
+41
+an arrearage management program and other stakeholders to provide access to a 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+Page 6 - 132LR1905(01)
+42
+complementary low-income energy efficiency program for participants in arrearage 
+43
+management programs in order to help reduce participants' energy consumption.
+3
+No later than January 28, 2028, the commission shall prepare a report assessing the 
+4
+effectiveness of arrearage management programs from October 1, 2024 through September 
+5
+30, 2027, including the number of participants enrolled in the programs, the number of 
+6
+participants completing the programs, the number of participants who have failed to 
+7
+complete the programs, the dollar amount of arrears forgiven, the impact on any 
+8
+participating transmission and distribution utility's bad debt as a result of the programs, the 
+9
+costs and benefits to all ratepayers associated with the programs and recommendations for 
+10
+ways in which the programs might be improved or continued for the benefit of all 
+11
+ratepayers.  In preparing its report, the commission shall hold at least one formal 
+12
+stakeholder meeting involving affected parties, including the Office of the Public Advocate 
+13
+and the participating transmission and distribution utilities.  Parties must also be provided 
+14
+an opportunity to submit written comments to the commission regarding the performance 
+15
+of the programs.
+16
+The joint standing committee of the Legislature having jurisdiction over utilities matters 
+17
+may report out a bill relating to the commission report to the Second Regular Session of 
+18
+the 133rd Legislature.
+19
+This subsection is repealed September 30, 2028.
+20
+Sec. 13.  36 MRSA §656, sub-§1, ¶L, as enacted by PL 2023, c. 682, §5, is 
+21
+amended to read:
+22
+L.  For property tax years beginning on or after April 1, 2025, solar energy equipment 
+23
+that generates heat or electricity if the municipality in which the solar energy equipment 
+24
+is located approves the exemption and:
+25
+(1)  All of the energy is used on the site where the property is located;
+26
+(2)  The equipment is collocated with a net energy billing customer that is or net 
+27
+energy billing customers that are subscribed to at least 50% of the facility's output; 
+28
+or
+29
+(3)  All of the energy is transmitted through the facilities of a transmission and 
+30
+distribution utility and a utility customer or customers receive a utility bill credit 
+31
+for the energy generated by the equipment pursuant to Title 35‑A, section 3209‑A 
+32
+or 3209‑B and the generator of electricity entered into a fully executed 
+33
+interconnection agreement with a transmission and distribution utility prior to June 
+34
+1, 2024.
+35
+On or before April 1st of the first property tax year for which a taxpayer claims an 
+36
+exemption under this paragraph, the taxpayer claiming the exemption shall file a report 
+37
+with the assessor.  The report must identify the property for which the exemption is 
+38
+claimed and must be made on a form prescribed by the State Tax Assessor or a 
+39
+substitute form approved by the State Tax Assessor.  The State Tax Assessor shall 
+40
+furnish copies of the form to each municipality in the State and make the forms 
+41
+available to taxpayers.
+42
+Sec. 14.  36 MRSA §1752, sub-§17, as amended by PL 2013, c. 546, §9, is further 
+43
+amended to read:
+1
+2
+
+Page 7 - 132LR1905(01)
+1
+17.  Tangible personal property.  "Tangible personal property" means personal 
+2
+property that may be seen, weighed, measured, felt, touched or in any other manner 
+3
+perceived by the senses, but does not include rights and credits, insurance policies, bills of 
+4
+exchange, stocks and bonds and similar evidences of indebtedness or ownership.  "Tangible 
+5
+personal property" includes electricity other than electricity consumed by residential 
+6
+customers and small commercial customers as defined in Title 35-A, section 3106, 
+7
+subsection 1, paragraphs C and D, respectively.  "Tangible personal property" includes any 
+8
+computer software that is not a custom computer software program.  "Tangible personal 
+9
+property" includes any product transferred electronically.
+10
+SUMMARY
+11
+This bill does the following.
+12
+1. It prohibits the recovery in rates of costs incurred by a transmission and distribution 
+13
+utility that are attributable to net energy billing and provides that such costs must be paid 
+14
+from the General Fund. The bill directs the Public Utilities Commission to adopt routine 
+15
+technical rules to identify the types of costs that are attributable to net energy billing.
+16
+2. It provides that costs incurred by a transmission and distribution utility for the 
+17
+purchase or contracting required by the commission for energy, renewable energy credits, 
+18
+energy storage systems and transmission infrastructure must be paid from the General 
+19
+Fund. 
+20
+3. It prohibits an electricity customer in the State who is a participant in an assistance 
+21
+program from purchasing generation service from a competitive electricity provider and 
+22
+requires that the customer be enrolled in standard-offer service. 
+23
+4. It requires the commission to require a standard-offer service provider to implement 
+24
+time-of-use rates for residential and small commercial customers in the service area of a 
+25
+transmission and distribution utility if the utility has the necessary electric billing and 
+26
+metering services to accommodate time-of-use rates. It also requires the commission to 
+27
+require a transmission and distribution utility that has selected one or more standard-offer 
+28
+service providers to establish electric billing and metering services necessary to 
+29
+accommodate time-of-use rates.
+30
+5. It provides that certain costs associated with low-income assistance provided by the 
+31
+commission and an arrearage management program established by a transmission and 
+32
+distribution utility may not be paid by an assessment on the utilities or by electricity 
+33
+customers and instead must be paid from the General Fund.  
+34
+6. It excepts electricity consumed by residential and small commercial customers from 
+35
+the definition of "tangible personal property" that is subject to sales tax.  
+36
+7. It limits the applicability of a property tax exemption for solar energy equipment to 
+37
+those that have been approved by the municipality in which the solar energy equipment is 
+38
+located.
+11

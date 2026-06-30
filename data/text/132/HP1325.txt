@@ -1,0 +1,87 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1982
+H.P. 1325
+House of Representatives, May 20, 2025
+An Act to Ensure Uniformity in the Regulation of PFAS
+(AFTER DEADLINE)
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+205.
+Received by the Clerk of the House on May 15, 2025.  Referred to the Committee on 
+Environment and Natural Resources pursuant to Joint Rule 308.2 and ordered printed pursuant 
+to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ARATA of New Gloucester.
+Cosponsored by Senator BERNARD of Aroostook and
+Representatives: BRIDGEO of Augusta, CRAY of Palmyra, DILL of Old Town, 
+GUERRETTE of Caribou, HEPLER of Woolwich, JACKSON of Oxford.
+
+Page 1 - 132LR2535(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  32 MRSA §1732, sub-§5-A, as enacted by PL 2019, c. 277, §2, is amended 
+3
+to read:
+4
+5-A.  Perfluoroalkyl and polyfluoroalkyl substances; PFAS.  "Perfluoroalkyl and 
+5
+polyfluoroalkyl substances" or "PFAS" means any member of the class of fluorinated 
+6
+organic chemicals containing at least one fully fluorinated carbon atom. any chemical 
+7
+substance or mixture containing a chemical substance that structurally contains at least one 
+8
+of the following 3 substructures:
+9
+A.  R-(CF2)-CF(R')R", where both the CF2 and CF moieties are saturated carbons;
+10
+B.  R-CF2OCF2-R', where R and R' can either be F, O or saturated carbons; or
+11
+C.  CF3C(CF3)R'R", where R' and R" can either be F or saturated carbons.
+12
+Sec. 2.  38 MRSA §1614, sub-§1, ¶F, as enacted by PL 2021, c. 477, §1 and 
+13
+reallocated by RR 2021, c. 1, Pt. A, §54, is amended to read:
+14
+F.  "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" means substances that 
+15
+include any member of the class of fluorinated organic chemicals containing at least 
+16
+one fully fluorinated carbon atom. any chemical substance or mixture containing a 
+17
+chemical substance that structurally contains at least one of the following 3 
+18
+substructures:
+19
+(1)  R-(CF2)-CF(R')R", where both the CF2 and CF moieties are saturated carbons;
+20
+(2)  R-CF2OCF2-R', where R and R' can either be F, O or saturated carbons; or
+21
+(3)  CF3C(CF3)R'R", where R' and R" can either be F or saturated carbons.
+22
+SUMMARY
+23
+This bill changes the definition of "perfluoroalkyl and polyfluoroalkyl substances" or 
+24
+"PFAS" in the laws governing reduction of toxics in packaging, the sale of products 
+25
+containing intentionally added PFAS, the Fund to Address PFAS Contamination, 
+26
+pesticides, renewable energy procurement in contaminated land, firefighting or fire-
+27
+suppressing foam, waste discharge licenses, licenses to spread septage and the Land 
+28
+Application Containment Monitoring Fund to align with the United States Environmental 
+29
+Protection Agency's definition of "PFAS."
+23
+24
+25
+26
+27
+28
+29

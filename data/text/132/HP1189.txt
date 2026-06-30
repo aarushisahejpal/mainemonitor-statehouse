@@ -1,0 +1,823 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1778
+H.P. 1189
+House of Representatives, April 24, 2025
+An Act to Update Provisions of the Maine Administrative Procedure 
+Act
+Reference to the Committee on State and Local Government suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative KUHN of Falmouth.
+Cosponsored by Representatives: LEE of Auburn, SINCLAIR of Bath, Senator: BAILEY of 
+York.
+
+Page 1 - 132LR1692(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA §8052, sub-§2, as amended by PL 1993, c. 362, §2, is further 
+3
+amended to read:
+4
+2.  Requirements.  Any A public hearing shall must comply with any requirements 
+5
+imposed by statute, but shall is not be subject to subchapter IV 4. Any public hearing shall 
+6
+be held and conducted as follows. In the case of a rule authorized to be adopted by a board 
+7
+or commission consisting of 3 or more members, at least 1/3 of the board members must 
+8
+be present during any hearing on the rule.
+9
+A.  In the case of a rule authorized to be adopted by more than one agency member, at 
+10
+least 1/3 of the agency members shall be present.
+11
+B.  In the case of a rule authorized to be adopted by a single agency member, either the 
+12
+agency member, a person in a major policy-influencing position, as listed in chapter 
+13
+71, or a designee who has responsibility over the subject matter to be discussed at the 
+14
+hearing shall hold and conduct the hearing.
+15
+Sec. 2.  5 MRSA §8052, sub-§5, ¶B, as amended by PL 2011, c. 380, Pt. NNN, §1, 
+16
+is further amended to read:
+17
+B.  A rule may not be adopted unless the adopted rule is substantively consistent with 
+18
+the terms of the proposed rule, except to the extent that the agency determines that it is 
+19
+necessary to address concerns raised in comments about the proposed rule, or specific 
+20
+findings are made supporting changes to the proposed rule.  The agency shall maintain 
+21
+a file for each rule adopted that must include, in addition to other documents required 
+22
+by this Act, testimony, comments, the names of persons who commented and the 
+23
+organizations they represent and information relevant to the rule and considered by the 
+24
+agency in connection with the formulation, proposal or adoption of a rule.  If an agency 
+25
+determines that a rule that the agency intends to adopt is substantially substantively 
+26
+different from the proposed rule, the agency shall request comments from the public 
+27
+concerning the changes from the proposed rule.  The agency may not adopt the rule for 
+28
+a period of 30 days from the date comments are requested pursuant to this paragraph.  
+29
+Notice of the request for comments must be published by the Secretary of State in the 
+30
+same manner as notice for proposed rules.
+31
+Sec. 3.  5 MRSA §8053, sub-§1, as amended by PL 2011, c. 479, §§1 to 3, is 
+32
+repealed.
+33
+Sec. 4.  5 MRSA §8053, sub-§2, as repealed and replaced by PL 1979, c. 425, §5, 
+34
+is amended to read:
+35
+2.  Notice of rulemaking rule-making hearing.  When an agency holds a public 
+36
+hearing prior to adoption of a rule, notice of the hearing shall must be given in the manner 
+37
+described in subsections 1 and subsection 5, using the date of the hearing to calculate the 
+38
+time periods involved;.
+39
+Sec. 5.  5 MRSA §8053, sub-§3, as amended by PL 2019, c. 146, §§1 to 3, is further 
+40
+amended to read:
+41
+3.  Contents of notice.  Except for notices governed by subsections 5 and 7, a A notice 
+42
+under this section must:
+
+Page 2 - 132LR1692(01)
+1
+A.  Refer to the statutory authority under which the adoption of the rule is proposed;
+2
+A-1.  Identify the agency proposing the rule;
+3
+A-2.  Provide the chapter number and title of the proposed rule;
+4
+A-3.  Cite the statutory authority pursuant to which the rule is being proposed;
+5
+B.  State the date, time and place of any scheduled public hearing or state the manner 
+6
+in which a hearing may be requested;
+7
+C.  State the manner and time within which data, views or arguments may deadline by 
+8
+which comments on the proposed rule must be submitted to the agency for 
+9
+consideration, whether or not a hearing is held;
+10
+C-1.  State the name, address and phone, telephone number and e-mail address of the 
+11
+a staff person responsible for providing additional information or a printed version of 
+12
+the proposed rule of the agency proposing the rule to whom inquiries about the rule, 
+13
+and requests for copies of the rule, may be sent;
+14
+D.  If possible, contain the express terms of the proposed rule or otherwise describe the 
+15
+substance of the proposed rule, stating the subjects and issues involved and indicate 
+16
+where a copy of the proposed rule may be obtained;
+17
+D-1.  Provide a summary of the proposed rule;
+18
+E.  Refer to the substantive state or federal law to that would be implemented by the 
+19
+rules proposed rule;
+20
+F.  Indicate where a copy of the statement of impact on small business information may 
+21
+be obtained about any adverse economic impact on small businesses that were 
+22
+documented by the agency proposing the rule pursuant to section 8052, subsection 5‑A 
+23
+may be obtained; and
+24
+G.  Indicate whether the rule is routine technical or major substantive as those terms 
+25
+are defined described in section 8071.
+26
+Sec. 6.  5 MRSA §8053, sub-§3-A, as amended by PL 2003, c. 207, §2, is further 
+27
+amended to read:
+28
+3-A.  Copies of proposed rules available upon request.  At least 20 days prior to a 
+29
+public hearing on any proposed rule and at least 20 days prior to the comment deadline of 
+30
+any rule without for which a public hearing will not be held, the agency shall make copies 
+31
+available on its publicly accessible website a copy of the proposed rule available in writing 
+32
+or, with agreement of the requestor, electronically, as well as provide a paper copy of the 
+33
+rule to persons any person upon request.
+34
+Sec. 7.  5 MRSA §8053, sub-§4, as amended by PL 2003, c. 207, §3, is repealed.
+35
+Sec. 8.  5 MRSA §8053, sub-§5, as amended by PL 2009, c. 256, §2, is further 
+36
+amended to read:
+37
+5.  Publication Newspaper publication and online posting of agency rule-making 
+38
+proposal notices.  Using the format of notice pursuant to information listed in subsection 
+39
+7 3, the Secretary of State shall:
+40
+A.  Arrange Shall arrange for the weekly newspaper publication of a and post, or cause 
+41
+to be posted, on the Secretary of State's publicly accessible website consolidated notice 
+
+Page 3 - 132LR1692(01)
+42
+notices of rule making of all state agencies, which shall also include a brief explanation 
+43
+to assist the public in participating in the rule-making process agency rule-making 
+44
+proposals.  Notice Notices of each rule-making proceeding shall proposal must be 
+45
+published and posted once 17 to 24 days prior to the public hearing on the proposed 
+46
+rule or, if no public hearing is scheduled, at least 30 days prior to the last date on which 
+47
+views and arguments comments on the rule may be submitted to the agency for 
+48
+consideration if no public hearing is scheduled;
+8
+B.  Designate Shall designate certain newspapers, which together have general 
+9
+circulation throughout the State, as papers of record for the purpose of publishing 
+10
+notice under paragraph A. Notice of proposed rules affecting only a particular locality 
+11
+or region need only be published in the designated newspapers having general 
+12
+circulation in the area affected;
+13
+C.  Designate Shall designate one day as rules day for publication of notices on 
+14
+rulemaking as set forth agency rule-making proposal notices described in this 
+15
+subsection are to be published and posted; and
+16
+D.  Be Must be reimbursed for the cost of publication of rule-making notice by the 
+17
+agencies proposing the rulemaking rules. The total costs of each consolidated 
+18
+publication will notice must be prorated by the Secretary of State among all agencies 
+19
+submitting notice for a particular week.
+20
+Sec. 9.  5 MRSA §8053, sub-§5-A is enacted to read:
+21
+5-A.  Agency posting of proposed and adopted rules.  An agency shall post its 
+22
+proposed rules on its publicly accessible website.  An agency also shall post on its publicly 
+23
+accessible website its adopted rules or provide a link to the adopted rules posted on a 
+24
+website maintained by the Secretary of State.
+25
+Sec. 10.  5 MRSA §8053, sub-§6, as amended by PL 2011, c. 326, §1, is further 
+26
+amended to read:
+27
+6.  Electronic publication Online posting of agency rule-making adoption notices.  
+28
+In addition to the printed publication online posting of agency rule-making proposal notices 
+29
+required in subsection 5, the Secretary of State shall maintain a publicly accessible website 
+30
+for posting the notices of all proposed and adopted rules.  The contents of the notice for 
+31
+electronic publication are pursuant to subsection 3.  An agency, on its publicly accessible 
+32
+website, shall either post its proposed and adopted rules or provide a link to the proposed 
+33
+or adopted rules posted on the Secretary of State's website.  Notice of each rule-making 
+34
+proceeding must be published on the Secretary of State's website 17 to 24 days prior to the 
+35
+public hearing on the proposed rule or at least 30 days prior to the last date on which views 
+36
+and arguments may be submitted to the agency for consideration if no public hearing was 
+37
+scheduled post, or cause to be posted, on the Secretary of State's publicly accessible website 
+38
+the weekly notices of agency rule-making adoptions, provisional adoptions and final 
+39
+adoptions.  The adoption and final adoption notices must state the effective date of the 
+40
+adopted or finally adopted rules, as well as provide the information specified in section 
+41
+8053, subsection 3, paragraphs A-1, A-2, A-3, C-1, D-1 and G.
+42
+Sec. 11.  5 MRSA §8053, sub-§6-A is enacted to read:
+43
+6-A.  Explanation of rule-making process.  The Secretary of State shall post on the 
+44
+Secretary of State's publicly accessible website a brief explanation to assist the public in 
+1
+2
+3
+4
+5
+6
+7
+
+Page 4 - 132LR1692(01)
+45
+participating in the rule-making process.  The explanation must include information 
+46
+regarding the manner in which a hearing on a proposed rule may be requested by a member 
+47
+of the public if the agency proposing the rule did not schedule one.
+4
+Sec. 12.  5 MRSA §8053, sub-§7, ¶F, as amended by PL 2019, c. 146, §4, is further 
+5
+amended to read:
+6
+F.  Indicate where a copy of the statement of impact on small business pursuant to 
+7
+section 8052, subsection 5‑A may be obtained; and
+8
+Sec. 13.  5 MRSA §8053, sub-§7, ¶G, as amended by PL 2019, c. 146, §4, is 
+9
+repealed.
+10
+Sec. 14.  5 MRSA §8056, as amended by PL 2011, c. 380, Pt. NNN, §2, is further 
+11
+amended to read:
+12
+§8056.  Filing and publication of adopted and provisionally adopted rules; online 
+13
+posting of adopted rules
+14
+1.  Requirements.  With respect to every rule adopted, the or, in the case of a major 
+15
+substantive rule, finally adopted, an agency shall:
+16
+A.  Submit the rule to the Attorney General for approval as to form and legality;
+17
+B.  File the original rule as signed by the Attorney General or an assistant attorney 
+18
+general and the authorized representative of the agency, and the statement required by 
+19
+section 8052, subsection 5, After the rule is approved by the Attorney General as to 
+20
+form and legality pursuant to paragraph A, file with the Secretary of State in, using a 
+21
+form or forms or an electronic filing platform prescribed by the Secretary of State, 
+22
+which form is susceptible to frequent and easy revision. the adopted rule and any such 
+23
+other filing documentation as is required by the Secretary of State.  The adopted rule 
+24
+and all other filing documentation must be in a format approved by the Secretary of 
+25
+State; and
+26
+(1)  Through rulemaking, an agency may incorporate by reference all or any part 
+27
+of a code, standard, rule or regulation that has been adopted by an agency of the 
+28
+United States or of this State or by a nationally recognized organization or 
+29
+association.
+30
+(2)  The reference in the agency rules must fully identify the incorporated matter 
+31
+by exact title, edition or version and date of publication.
+32
+(3)  The rules must state where copies of the incorporated matter are available at 
+33
+cost from the agency issuing the rule or where copies are available from the agency 
+34
+of the United States, this State or an organization or association originally issuing 
+35
+that matter.
+36
+(4)  An agency incorporating a matter by reference shall submit a copy of the 
+37
+incorporated matter to the Secretary of State;
+38
+C.  Supply Provide, without cost or at actual cost, copies a paper copy of each such rule 
+39
+to any person who has filed with the agency within the past year a written request to 
+40
+be supplied with all copies of the agency's rules; and requests a paper copy.
+41
+D.  Publish, pursuant to the procedures set forth in section 8053, subsection 6, a notice 
+42
+containing the following information: A statement that the rule has been adopted, its 
+1
+2
+3
+
+Page 5 - 132LR1692(01)
+43
+effective date, a brief description of the substance of the rule, and the address where a 
+44
+copy may be obtained.
+3
+2.  Form.  With respect to every rule adopted by the agency and in effect, the agency 
+4
+shall print and compile and make available to any person, at each of its offices, for 
+5
+inspection at no charge and for copying with or without cost, as the agency shall determine, 
+6
+and for distribution free or at actual cost, complete sets of such rules currently in effect.
+7
+2-A.  Incorporation by reference.  Through rulemaking, an agency may incorporate 
+8
+by reference into a rule all or any part of a code, standard, rule or regulation that has been 
+9
+adopted by an agency of the United States or of this State or by a nationally recognized 
+10
+organization or association.
+11
+A.  The reference in the agency rule must fully identify the incorporated matter by 
+12
+exact title, edition or version and date of publication.
+13
+B.  The rule must state where copies of the incorporated matter are available at cost 
+14
+from the agency issuing the rule or where copies are available from the agency of the 
+15
+United States, this State or the organization or association that originally produced the 
+16
+incorporated matter.
+17
+C.  An agency incorporating a matter by reference into a rule shall maintain a copy of 
+18
+the incorporated matter at its principal office.
+19
+3.  Secretary of State.  The Secretary of State shall: maintain, and make available 
+20
+through the the Secretary of State's publicly accessible website, current electronic copies 
+21
+of the rules of each agency that are in effect.
+22
+A.  Maintain and make available at the Secretary of State's office, for inspection at no 
+23
+charge and for copying or purchase, current copies of complete rules for all agencies 
+24
+filed in accordance with subsection 1, paragraph B;
+25
+A-1.  Compile, edit, index and arrange for publication and distribution all current rules 
+26
+of state agencies as available resources permit.  Compilations must be supplemented 
+27
+or revised at least annually;
+28
+A-2.  Publish an annual list of current rules of state agencies;
+29
+B.  Supply, at actual cost, annually updated copies of complete sets of rules of an 
+30
+agency to any person who has filed with the Secretary of State within the past year a 
+31
+written request for such sets of rules; and
+32
+C.  Codify all current state agency rules in an electronic text file data base, in 
+33
+consultation with affected state agencies and in accordance with subsections 7 and 8, 
+34
+as available resources permit.
+35
+4.  Additional requirements.  The requirements of subsection 2 shall additionally be 
+36
+applicable to the agency's forms, instructions, explanatory statements and other items 
+37
+defined in section 8002, subsection 9, paragraph B, subparagraph (4).
+38
+5.  Record of vote.  In addition to the foregoing, each agency shall keep maintain, at 
+39
+its principal office, and make available for inspection to any person a record of the vote of 
+40
+each member of the agency taken in rule-making proceedings.
+41
+6.  Attorney General review and approval.  The review required in subsection 1, 
+42
+paragraph A may not be performed by any person involved in the formulation or drafting 
+1
+2
+
+Page 6 - 132LR1692(01)
+43
+of the proposed rule.  The Attorney General may not approve a rule if it is reasonably 
+44
+expected to result in a taking of private property under the Constitution of Maine unless 
+45
+such a result is directed by law or sufficient procedures exist in law or in the proposed rule 
+46
+to allow for a variance designed to avoid such a taking.
+5
+7.  Codification of rules.  The Secretary of State, in consultation with affected state 
+6
+agencies, shall develop a plan to codify all current rules of state agencies within its available 
+7
+resources.  The codified rules must be maintained on an electronic text file data base.  To 
+8
+develop the electronic text file data base, agencies may refile an existing rule or parts of an 
+9
+existing rule.  If an agency refiles a rule or portion of a rule:
+10
+A.  The agency may not make at the time of refiling any substantive changes in that 
+11
+rule or portion of that rule; and
+12
+B.  The refiled rule or portion of the rule must be adopted in accordance with the Maine 
+13
+Administrative Procedure Act except that public comment on the refiling under section 
+14
+8057‑A, subsection 3 is limited to documenting where the refiled rule or portion of the 
+15
+rule is substantively different from the existing rule.
+16
+8.  Electronic text file procedures.  Under subsection 1, the Secretary of State may 
+17
+establish by rule in accordance with the Maine Administrative Procedure Act procedures 
+18
+and criteria for the filing of rules in electronic text file format.
+19
+8-A.  Electronic filing procedures.  In accordance with subsection 1, the Secretary of 
+20
+State may establish, including by rule, procedures for the electronic filing of rules and rule-
+21
+making documentation.  If the Secretary of State implements an electronic filing platform 
+22
+through which rules and rule-making documentation and information specified in this Act 
+23
+are to be filed, that platform is the exclusive means through which rules and rule-making 
+24
+documentation may be filed, except as otherwise determined by the Secretary of State.  An 
+25
+adopted rule that is filed by an agency through an electronic filing platform and accepted 
+26
+for filing by the Secretary of State is an official copy of the rule.
+27
+9.  Certification of published adopted rules.  The Secretary of State may certify that 
+28
+a publication of the codified rules and any supplements or replacement volumes to that 
+29
+publication are a correct transcript of the text of the original rules a paper copy of an 
+30
+adopted rule accepted for filing and maintained by the Secretary of State is a true copy of 
+31
+the rule.  A certified paper copy of an adopted rule must be attached to a printed certificate 
+32
+of the Secretary of State stating that the rule is an official copy.
+33
+A.  Certified publications paper copies of rules must contain be accompanied by a 
+34
+printed certificate of the Secretary of State stating that the publication is the an official 
+35
+copy.  A facsimile of the signature of the Secretary of State imprinted by or at the 
+36
+direction of the Secretary of State has the same validity as a written signature of the 
+37
+Secretary of State.
+38
+B.  A publication of the rules paper copy of an adopted rule that has been certified by 
+39
+the Secretary of State constitutes prima facie evidence of the rules rule.
+40
+C.  Any publication or copy of a an adopted rule or rules that is not certified by the 
+41
+Secretary of State:
+42
+(1)  May neither state nor imply that the publication or copy of the rule is an official 
+43
+copy of the rules; and
+1
+2
+3
+4
+
+Page 7 - 132LR1692(01)
+1
+(2)  Must state in a conspicuous location information about from where the 
+2
+Secretary of State's a certified copy is located of the rule may be obtained.
+3
+10.  Minor errors.  The Secretary of State may correct minor, nonsubstantive errors 
+4
+in spelling and format in proposed or adopted rules if the agency is notified.
+5
+10-A.  Minor errors; updating words or terms.  Without having to initiate 
+6
+rulemaking pursuant to this Act:
+7
+A.  At the request of or in consultation with an agency, the Secretary of State may 
+8
+correct minor, nonsubstantive errors in spelling and format in a proposed or adopted 
+9
+rule; and
+10
+B.  At the request of an agency, the Secretary of State may update words or terms used 
+11
+in an existing rule for which new or more contemporary words or terms are used, 
+12
+including, for example, words or terms that are more respectful than those used in an 
+13
+existing rule.
+14
+Sec. 15.  5 MRSA §8063, as enacted by PL 1991, c. 233, is repealed.
+15
+Sec. 16.  5 MRSA §8063-A, first ¶, as enacted by PL 2011, c. 304, Pt. B, §1, is 
+16
+amended to read:
+17
+In addition to the economic impact statement required under section 8052, subsection 
+18
+5‑A and the fiscal impact note required under section 8063, an agency may, within existing 
+19
+budgeted resources and in instances in which the consideration of costs is permitted, 
+20
+conduct an analysis of the benefits and costs of a proposed rule to evaluate the effects of 
+21
+the rule on the distribution of benefits and costs for specific groups and on the overall 
+22
+economic welfare of the State.
+23
+Sec. 17.  5 MRSA §8072, sub-§8, as amended by PL 2011, c. 244, §8, is further 
+24
+amended to read:
+25
+8.  Final adoption; effective date.  Unless otherwise provided by law, final adoption 
+26
+of a rule or part of a rule by an agency must occur within 60 days of the effective date of 
+27
+the legislation approving that rule or part of that rule or of the adjournment of the session 
+28
+in which the Legislature failed to act on the rule or part of the rule as specified in subsection 
+29
+11.  Finally adopted rules must be filed with the Secretary of State as provided in section 
+30
+8056, subsection 1, paragraph B and notice must be published posted as provided in section 
+31
+8056, subsection 1, paragraph D 3.  Except as otherwise specified by law, the rules become 
+32
+effective 30 days after filing with the Secretary of State or at a later date specified by the 
+33
+agency.
+34
+Sec. 18.  12 MRSA §685-A, sub-§7-A, ¶B, as enacted by PL 1999, c. 333, §8, is 
+35
+amended to read:
+36
+B.  Adoption and amendment of land use district standards, district boundaries and land 
+37
+use maps are rule-making procedures subject to the requirements of Title 5, chapter 
+38
+375, subchapter II 2, except that the requirements of Title 5, section 8052, subsections 
+39
+5, 5‑A and 7; section 8053‑A; section 8056, subsections 1, 3 and 4 3; section 8056‑A; 
+40
+section 8057, subsection 2; section 8057‑A; section 8060; section 8062; and section 
+41
+8064 do not apply.  The requirements of Title 5, chapter 375, subchapter II 2 are further 
+42
+modified by the following provisions.
+
+Page 8 - 132LR1692(01)
+1
+(1)  Public notice of proposals to adopt or amend land use district standards, district 
+2
+boundaries or land use maps must state the time and the place where copies of the 
+3
+proposal may be inspected prior to the hearing.
+4
+(2)  The commission shall give notice of hearings to amend district boundaries, by 
+5
+mail, to appropriate state and federal agencies and the owners of directly affected 
+6
+and abutting properties, according to their names and addresses as shown on the 
+7
+records of Maine Revenue Services or plantation or town tax assessors.  If the 
+8
+number of owners of directly affected and abutting properties is more than 50, 
+9
+notice may instead be by publication conforming to the requirements for 
+10
+newspaper publication of hearings under Title 5, chapter 375, subchapter IV 4.
+11
+(3)  At any time prior to the date of adoption of proposed land use district standards, 
+12
+land use boundaries or land use maps, the commission may elect to reopen the 
+13
+public hearing record and extend the time period for public comment to such date 
+14
+as it may designate.
+15
+(4)  The commission must act to adopt or not to adopt proposed land use district 
+16
+standards, land use boundaries or land use maps within 90 days after the date of 
+17
+final closure of the public hearing.
+18
+(5)  Land use district boundaries and land use maps become effective 15 days after 
+19
+adoption or amendment by the commission, as long as the boundaries and maps 
+20
+are available in the appropriate registry of deeds for each county.  Notice of 
+21
+adoption or amendment of land use district boundaries and land use maps must be 
+22
+given by publication one time in a newspaper of general circulation published in 
+23
+the area affected.
+24
+(6)  Permanent land use standards adopted by the commission are effective 
+25
+immediately, but must be submitted to the next regular or special session of the 
+26
+Legislature for approval or modification.  If the Legislature fails to act, those 
+27
+standards continue in full force and effect.
+28
+Sec. 19.  25 MRSA §2103-A, sub-§2, ¶D, as enacted by PL 1989, c. 754, Pt. C, 
+29
+§1, is amended to read:
+30
+D.  The Secretary of State shall maintain and make available at the Secretary of State's 
+31
+office, for inspection at no charge and for copying or purchase at actual cost, current 
+32
+copies of those state rules as filed in accordance with paragraph A and include them 
+33
+within the compilations subject to Title 5, section 8056, subsection 3, paragraphs A‑1 
+34
+and B.  The Secretary of State shall also make available at the Secretary of State's 
+35
+office, for inspection at no charge, and for copying at actual cost, a current published 
+36
+copy of the referenced federal regulations and amendments, but requests for purchase 
+37
+of copies or certified copies of the federal regulations or amendments may be directed 
+38
+to the appropriate federal agency.
+39
+Sec. 20.  29-A MRSA §555, sub-§2, ¶E, as amended by PL 2013, c. 50, §1, is 
+40
+further amended to read:
+41
+E.  The Secretary of State shall maintain and make available at the Secretary of State's 
+42
+office for inspection at no charge, and for copying or purchase at actual cost, current 
+43
+copies of the rule and include it within the compilations subject to Title 5, section 8056, 
+44
+subsection 3, paragraphs A‑1 and B.  The Secretary of State shall also make available 
+
+Page 9 - 132LR1692(01)
+45
+for inspection at no charge and for copying at actual cost a current published copy of 
+46
+the referenced federal regulations and amendments.
+3
+SUMMARY
+4
+This bill updates certain provisions of the Maine Administrative Procedure Act and 
+5
+related provisions.  More specifically, the bill:
+6
+1.  Clarifies provisions relating to rule-making public hearings conducted by boards;
+7
+2.  Replaces in a provision the use of the term "substantially" with the more accurate 
+8
+term "substantively";
+9
+3.  Repeals a provision that requires agencies to notify specific parties or persons about 
+10
+proposed rules, as notices of proposed rules are now widely accessible to the public because 
+11
+of their online publication by the Secretary of State;
+12
+4.  Updates the provision that lists the information that must be included in rule-making 
+13
+proposal public notices to ensure consistency with current practices;
+14
+5.  Updates the provision pertaining to agencies' obligation to make copies of proposed 
+15
+rules available to the public;
+16
+6.  Repeals the provision regarding fees that agencies may charge to provide notices of 
+17
+rule-making proposals and copies of proposed rules, as such information is now readily 
+18
+available online at no cost;
+19
+7.  Updates the provision that requires the Secretary of State to arrange for weekly 
+20
+newspaper publication of agency rule-making proposal notices and requires online posting 
+21
+of the notices; 
+22
+8.  Requires agencies to post their proposed rules on their publicly accessible websites, 
+23
+as well as to post their adopted rules on those websites or provide a link to their rules that 
+24
+are posted on a website maintained by the Secretary of State;
+25
+9.  Updates and clarifies the provision that requires the Secretary of State to post agency 
+26
+rule-making adoption notices online;
+27
+10.  Requires the Secretary of State to post online a brief explanation of the rule-making 
+28
+process, including an explanation of how a public hearing on a proposed rule may be 
+29
+requested if such a hearing has not been scheduled;
+30
+11.  Revises the provision regarding agencies' filing of adopted rules:
+31
+A.  To account for technological updates, including the availability of rules and 
+32
+rulemaking-related information and notifications online; 
+33
+B.  To account for the fact that the Secretary of State does not compile and publish a 
+34
+formal code or registry of state agency rules;
+35
+C.  To relocate and revise the provision regarding the incorporation of materials by 
+36
+reference by agencies into their rules; 
+37
+D.  To update and clarify the provision regarding certification of adopted rules by the 
+38
+Secretary of State; and
+39
+E.  To strengthen the provision that authorizes minor errors in rules to be corrected by 
+40
+the Secretary of State without agency rulemaking having to occur;
+1
+2
+4
+5
+
+Page 10 - 132LR1692(01)
+1
+12.  Repeals the provision that requires agencies to include a fiscal impact note at the 
+2
+end of each rule, as such information is now collected in other documents that accompany 
+3
+proposed and adopted rule filings with the Secretary of State; and
+4
+13.  Makes various technical corrections.

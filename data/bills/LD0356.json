@@ -1,0 +1,146 @@
+{
+  "ld": 356,
+  "paper": "SP0142",
+  "paper_display": "SP 142",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096048",
+  "title": "Resolve, Directing the Board of Pesticides Control to Prohibit the Use of Rodenticides in Outdoor Residential Settings",
+  "committee": "Agriculture, Conservation and Forestry",
+  "status_summary": "",
+  "final_disposition": "Finally Passed, Jun 8, 2025",
+  "governor_action": "Unsigned, Jun 8, 2025",
+  "chaptered_law": "RESLV, Chapter 47",
+  "chapter": "47",
+  "became_law": true,
+  "last_house_action": "5/27/2025 - FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/27/2025 - FINALLY PASSED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Richard BENNETT",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Arthur BELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Yarmouth"
+    },
+    {
+      "name": "Marygrace CIMINO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bridgton"
+    },
+    {
+      "name": "Victoria DOUDERA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Camden"
+    },
+    {
+      "name": "John EDER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Waterboro"
+    },
+    {
+      "name": "Nicole GROHOSKI",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Hancock"
+    },
+    {
+      "name": "Nina MILLIKEN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Blue Hill"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "PESTICIDES",
+      "minor": "APPLICATION PROCESS",
+      "detail": "LANDOWNER NEIGHBORS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "date_raw": "1/30/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on January 30, 2025 and REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE . Committee Amendment \"A\" (S-88) READ and ADOPTED . Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-88) . Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-88) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-88 )",
+      "new_title": "Resolve, Directing the Board of Pesticides Control to Prohibit the Use of Rodenticides in Outdoor Residential Settings",
+      "house_action": "Adopted on 5/22/2025",
+      "senate_action": "Adopted on 5/20/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0142&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0142&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0142&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0142",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0142&SessionID=16",
+  "scraped_at": "2026-06-30T17:59:04Z"
+}

@@ -1,0 +1,180 @@
+{
+  "ld": 1297,
+  "paper": "SP0527",
+  "paper_display": "SP 527",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097738",
+  "title": "Resolve, to Establish the Committee to Study the Use of Sunflower Crops to Produce Biofuels and Other Products",
+  "committee": "Agriculture, Conservation and Forestry",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Apr 29, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/13/2025 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FAILED FINAL PASSAGE . On motion of Representative FAULKINGHAM of Winter Harbor, the House RECONSIDERED its action whereby the Resolve FAILED FINAL PASSAGE . Subsequently, the Resolve FAILED FINAL PASSAGE . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/29/2026 - Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)",
+  "sponsors": [
+    {
+      "name": "Harold STEWART",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Roger ALBERT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Madawaska"
+    },
+    {
+      "name": "Donald ARDELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Monticello"
+    },
+    {
+      "name": "Mark BABIN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Fort Fairfield"
+    },
+    {
+      "name": "Susan BERNARD",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Lucien DAIGLE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Fort Kent"
+    },
+    {
+      "name": "Timothy GUERRETTE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Caribou"
+    },
+    {
+      "name": "Tracy QUINT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hodgdon"
+    },
+    {
+      "name": "Gregory SWALLOW",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Houlton"
+    },
+    {
+      "name": "Joseph UNDERWOOD",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Presque Isle"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ALTERNATIVE ENERGY",
+      "minor": "RENEWABLE RESOURCES",
+      "detail": "BIOFUELS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "date_raw": "3/25/2025",
+      "chamber": "Senate",
+      "description": "Committee on ENERGY, UTILITIES AND TECHNOLOGY suggested and ordered printed On motion by Senator LAWRENCE of York Tabled until Later in Today's Session, pending REFERENCE Unfinished Business"
+    },
+    {
+      "date": "2025-03-27",
+      "date_raw": "3/27/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President On motion by Senator LAWRENCE of York The Bill was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-04-01",
+      "date_raw": "4/1/2025",
+      "chamber": "House",
+      "description": "The Resolve was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE . Committee Amendment \"A\" (S-42) READ and ADOPTED . Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-42) . Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Resolve was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-42) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FAILED FINAL PASSAGE . On motion of Representative FAULKINGHAM of Winter Harbor, the House RECONSIDERED its action whereby the Resolve FAILED FINAL PASSAGE . Subsequently, the Resolve FAILED FINAL PASSAGE . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-14",
+      "date_raw": "5/14/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator DUSON of Cumberland placed on the SPECIAL STUDY TABLE pending FINAL PASSAGE In NON-CONCURRENCE"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-04-29",
+      "date_raw": "4/29/2026",
+      "chamber": "Senate",
+      "description": "Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-42 )",
+      "new_title": "Resolve, to Establish the Committee to Study the Use of Sunflower Crops to Produce Biofuels and Other Products",
+      "house_action": "Adopted on 5/7/2025",
+      "senate_action": "Adopted on 5/6/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0527&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0527&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0527",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0527&SessionID=16",
+  "scraped_at": "2026-06-30T19:11:11Z"
+}

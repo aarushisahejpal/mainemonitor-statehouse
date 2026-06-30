@@ -1,0 +1,264 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1812
+H.P. 1213
+House of Representatives, April 29, 2025
+An Act to Provide Low-interest Loans for Accredited College 
+Graduates Entering Trade Professions and an Employer Tax Credit 
+for Trade Tool Reimbursements
+Received by the Clerk of the House on April 25, 2025.  Referred to the Committee on 
+Housing and Economic Development pursuant to Joint Rule 308.2 and ordered printed 
+pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative WHITE of Ellsworth.
+Cosponsored by Senator STEWART of Aroostook and
+Representatives: BABIN of Fort Fairfield, DAIGLE of Fort Kent, FAULKINGHAM of Winter 
+Harbor, GUERRETTE of Caribou, MCINTYRE of Lowell, THORNE of Carmel, WHITE of 
+Guilford.
+
+Page 1 - 132LR1301(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  10 MRSA c. 110, sub-c. 15 is enacted to read:
+3
+SUBCHAPTER 15
+4
+LOANS FOR TRADE TOOLS PROGRAM
+5
+§1100-HH.  Loans for Trade Tools Program
+6
+1.  Definitions.  As used in this subchapter, unless the context otherwise indicates, the 
+7
+following terms have the following meanings.
+8
+A.  "Accredited college" means an institution of higher education that is accredited by 
+9
+a regional accrediting association or by one of the specialized accrediting agencies 
+10
+recognized by the United States Secretary of Education.
+11
+B. "Eligible borrower" means a graduate of an accredited college who has completed 
+12
+a degree or certificate program in a trade profession.
+13
+C.  "Fund" means the Loans for Trade Tools Fund established in subsection 5.
+14
+D.  "Program" means the Loans for Trade Tools Program established in subsection 2.
+15
+E. "Regional accrediting association" means a regional accrediting association that is 
+16
+either:
+17
+(1) One of the United States accrediting associations or commissions that comprise 
+18
+the Council of Regional Accrediting Commissions or successor organization; or
+19
+(2) An accrediting association, commission or government entity not in the United 
+20
+States that is equivalent to an association or commission referred to in 
+21
+subparagraph (1) that is a reliable authority on the quality of the education or 
+22
+training provided by the institutions of higher education it accredits or charters and 
+23
+that applies standards substantially equivalent to those used by one of the United 
+24
+States accrediting associations or commissions that compose the Council of 
+25
+Regional Accrediting Commissions or successor organization.
+26
+F.  "Trade tools" means the tools and equipment needed for employment in a trade.
+27
+2.  Loans for Trade Tools Program established.  The Loans for Trade Tools Program 
+28
+is established within the authority for the purpose of making low-interest loans to a graduate 
+29
+of an accredited college for the purchase of tools and equipment necessary for the graduate's 
+30
+employment in a trade.
+31
+3.  Loans.  The authority shall provide low-interest loans to eligible borrowers pursuant 
+32
+to this subsection.
+33
+A.  The interest rate may not exceed 2.0% per year.
+34
+B.  The repayment period my not exceed 10 years.
+35
+C.  The maximum loan amount is $20,000 per eligible borrower.
+36
+D.  The maximum aggregate of loans made pursuant to this subsection may not exceed 
+37
+$1,000,000 per year or the funds available in the fund, whichever is lower.
+
+Page 2 - 132LR1301(01)
+1
+The authority shall administer the disbursement of loans in a manner consistent with the 
+2
+disbursement of other student loan repayment programs administered by the authority.
+3
+4.  Loan forgiveness.  An eligible borrower who obtains a loan pursuant to subsection 
+4
+3 and who maintains full-time employment in that eligible borrower's trade for at least 5 
+5
+years may have the outstanding balance of the loan forgiven upon application to the 
+6
+authority for loan forgiveness.  As used in this subsection, "full-time employment" means 
+7
+employment with a normal workweek of 32 hours or more.
+8
+5.  Loans for Trade Tools Fund.  The Loans for Trade Tools Fund is established as a 
+9
+nonlapsing fund administered by the authority. The fund receives any funds appropriated 
+10
+or allocated to the fund. The authority may accept and deposit into the fund monetary gifts, 
+11
+donations or other contributions from public or private sources for the purposes specified 
+12
+in this section. The fund must be held separate and apart from all other money, funds and 
+13
+accounts.  Any repayment of loans made pursuant to subsection 3 must be deposited into 
+14
+the fund.
+15
+6.  Certification for employer tax credit.  The authority shall establish an application, 
+16
+review and approval process for the certification of an employer seeking the tax credit 
+17
+provided in Title 36, section 5217-G.
+18
+7.  Outreach and education. The authority shall conduct outreach and education to 
+19
+ensure that students and their families and colleges are aware of the program.
+20
+8.  Rules.  The authority shall adopt rules to implement the program, including the 
+21
+application process, eligibility standards, trade tools that qualify for a loan and the method 
+22
+of disbursing loans and collecting repayments.  Rules adopted pursuant to this subsection 
+23
+are routine technical rules pursuant to Title 5, chapter 375, subchapter 2-A.
+24
+Sec. 2.  36 MRSA §5217-G is enacted to read:
+25
+§5217-G.  Employer tax credit for trade tool expense reimbursement
+26
+1. Definitions.  As used in this section, unless the context otherwise indicates, the 
+27
+following terms have the following meanings.
+28
+A.  "Accredited college" has the same meaning as in Title 10, section 1100-HH, 
+29
+subsection 1, paragraph A.
+30
+B.  "Eligible employee" means a graduate of an accredited college who has completed 
+31
+a degree or certificate program in a trade profession. 
+32
+C. "Employer" has the same meaning as in Title 26, section 1043, subsection 9.
+33
+D.  "Qualified employer" means an employer that receives a certificate from the 
+34
+Finance Authority of Maine pursuant to Title 10, section 1100-HH, subsection 6 
+35
+certifying that employer's qualified reimbursement amount.
+36
+E. "Qualified reimbursement" means an amount paid by an employer to an eligible 
+37
+employee or directly to a vendor for the purchase of trade tools for an eligible employee 
+38
+within the first year of employment with that employer.
+39
+F.  "Trade tools" means the tools and equipment needed for employment in a trade.
+40
+2.  Credit allowed.  For taxable years beginning on or after January 1, 2026, a qualified 
+41
+employer is allowed a nonrefundable credit against the tax imposed by this Part equal to 
+42
+25% of the qualified reimbursements made by the qualified employer.  The maximum 
+
+Page 3 - 132LR1301(01)
+43
+credit allowed under this subsection is $5,000 per eligible employee. Unused credit may 
+44
+not be carried over from year to year.
+3
+3.  Credit not allowed.  The tax credit provided under this section is not allowed for 
+4
+trade tools for which the eligible employee received a loan or forgiveness of a loan pursuant 
+5
+to the Loans for Trade Tools Program under Title 10, chapter 110, subchapter 15.
+6
+4.  Application for credit.  Prior to claiming the credit under this section, an employer 
+7
+shall apply for and obtain certification of the employer's qualified reimbursements for the 
+8
+tax year for which the credit is claimed.
+9
+Sec. 3.  Appropriations and allocations.  The following appropriations and 
+10
+allocations are made.
+11
+FINANCE AUTHORITY OF MAINE
+12
+Loans for Trade Tools Program Fund N526
+13
+Initiative: Provides funds for low-interest loans to graduates of accredited colleges for tools 
+14
+and equipment needed by those graduates for their employment.
+GENERAL FUND
+2025-26
+2026-27
+All Other
+$1,000,000
+$1,000,000
+ 
+__________
+__________
+GENERAL FUND TOTAL
+$1,000,000
+$1,000,000
+15
+SUMMARY
+16
+This bill, to encourage participation in the trades, does the following.
+21
+1.  It establishes the Loans for Trade Tools Program, which is a program administered 
+22
+by the Finance Authority of Maine to provide low-interest loans to graduates of a trade 
+23
+program for the purchase of tools and equipment necessary for employment in a trade.  
+24
+Loans are limited to $20,000 and must be repaid within 10 years.  If an employee maintains 
+25
+full-time employment, meaning at least 32 hours per week, in the trade, that employee's 
+26
+loan may be forgiven.
+27
+2.  It establishes a tax credit for employers of employees engaged in a trade for the 
+28
+purchase of tools or equipment needed by that employee within the first year of 
+29
+employment with that employer.  The credit is limited to 25% of the amount of the cost of 
+30
+the trade tools and $5,000 per employee, is nonrefundable and may not be carried forward 
+31
+from year to year.
+32
+3.  It provides an appropriation of $1,000,000 for each year of the 2026-2027 biennium 
+33
+to the Finance Authority of Maine for the Loans for Trade Tools Program.
+1
+2
+15
+16
+17
+18
+19
+20
+32
+33

@@ -1,0 +1,98 @@
+{
+  "ld": 516,
+  "paper": "HP0334",
+  "paper_display": "HP 334",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096435",
+  "title": "Resolve, to Name the Bridge Between Milford and Old Town the Alton L. Drinkwater Memorial Bridge",
+  "committee": "Transportation",
+  "status_summary": "",
+  "final_disposition": "Finally Passed, Mar 25, 2025",
+  "governor_action": "Signed, Mar 25, 2025",
+  "chaptered_law": "RESLV, Chapter 3",
+  "chapter": "3",
+  "became_law": true,
+  "last_house_action": "3/20/2025 - FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/20/2025 - FINALLY PASSED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Gary DRINKWATER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Milford"
+    },
+    {
+      "name": "Joseph RAFFERTY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Michael TIPPING",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ROADS",
+      "minor": "BRIDGES",
+      "detail": "ALTON DRINKWATER MEMORIAL BRIDGE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-07",
+      "date_raw": "2/7/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on February 7, 2025. The Resolve was REFERRED to the Committee on TRANSPORTATION pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-11",
+      "date_raw": "3/11/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Resolve was PASSED TO BE ENGROSSED. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED, in concurrence. READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0334&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0334&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0334",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0334&SessionID=16",
+  "scraped_at": "2026-06-30T18:11:03Z"
+}

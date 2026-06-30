@@ -1,0 +1,183 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1507
+H.P. 991
+House of Representatives, April 8, 2025
+An Act to Require General Public Notification of Oil Terminal 
+Facility Transfer Activities
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative BECK of South Portland.
+Cosponsored by Senator CARNEY of Cumberland and
+Representative: DHALAC of South Portland.
+
+Page 1 - 132LR2055(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  38 MRSA §542, sub-§9-E is enacted to read:
+3
+9-E.  Short message service or SMS.  "Short message service" or "SMS" means a text 
+4
+messaging service component of most mobile telephones and mobile device systems that 
+5
+uses standardized communication protocols and that allows the exchange of short text 
+6
+messages, typically transmitted over cellular networks.
+7
+Sec. 2.  38 MRSA §542, sub-§10, as enacted by PL 1969, c. 572, §1, is repealed 
+8
+and the following enacted in its place:
+9
+10.  Transfer or transferred.  "Transfer" or "transferred" means both onloading and 
+10
+offloading of oil between an oil terminal facility and a vessel; a vessel and another vessel; 
+11
+or an oil terminal facility and a vehicle.
+12
+Sec. 3.  38 MRSA §542, sub-§10-B is enacted to read:
+13
+10-B.  Vehicle.  "Vehicle" has the same meaning as in Title 29-A, section 101, 
+14
+subsection 91.
+15
+Sec. 4.  38 MRSA §546-D is enacted to read:
+16
+§546-D.  Community notification
+17
+1.  Community notification plan.  An owner or operator of an oil terminal facility 
+18
+shall develop and implement a plan for electronic notification to the community of the 
+19
+transfer of oil. For purposes of this section, "community" means the general public of the 
+20
+municipality where the oil terminal facility is located and other members of the general 
+21
+public who reside or work in adjacent municipalities or have an interest in receiving 
+22
+notifications under this section. The plan must include:
+23
+A.  An electronic notification system using SMS or similar technology to provide 
+24
+notice of a transfer to a member of the public who requests the notice;
+25
+B.  A provision for notice to be given once per day of every transfer anticipated in the 
+26
+24-hour period following the notice;
+27
+C.  For each notice, the following information regarding each transfer:
+28
+(1)  The name and location of the terminal or, if the transfer is being conducted 
+29
+offshore, the name and location of the anchorage;
+30
+(2)  The approximate amount of oil to be transferred;
+31
+(3)  The type of oil to be transferred;
+32
+(4)  If the transfer involves a vessel, the name of the vessel or other identifier;
+33
+(5)  The expected time and date of the transfer; and
+34
+(6)  A description of any hazardous vapors that may be released during the transfer;
+35
+D.  An agreement with an entity providing SMS or similar technology as required by 
+36
+paragraph A; 
+37
+E.  The process that allows a member of the public to request and receive the notice; 
+38
+and
+
+Page 2 - 132LR2055(01)
+1
+F.  A description, including time frame, for implementation of the plan. 
+2
+The owner or operator shall annually update the community notification plan by July 1st.
+3
+2.  Review of community notification plan.  An owner or operator of an oil terminal 
+4
+facility shall provide a copy of the community notification plan under subsection 1 to the 
+5
+department and the municipality in which the oil terminal facility is located. The 
+6
+department or the municipality may make comments and recommended changes to the plan 
+7
+prior to implementation of the plan, which must be approved by the department and the 
+8
+municipality.  
+9
+3.  Public access to plan; periodic changes.  The owner or operator of an oil terminal 
+10
+facility shall post the approved community notification plan under subsection 2 on a 
+11
+publicly accessible website. The owner or operator may make periodic changes to the plan, 
+12
+subject to review by the department and the municipality under subsection 2. By July 1st 
+13
+of each year, the owner or operator shall provide a copy of the current plan to the 
+14
+department and the municipality and post the current plan on a publicly accessible website.
+15
+4.  Enforcement.  In addition to any other penalties provided by law, an owner or 
+16
+operator of an oil terminal facility who violates this section is subject to enforcement action 
+17
+by the department including the revocation of a license under sections 544 and 545.
+18
+Sec. 5.  Timeline for existing oil terminal facilities.  By January 1, 2026, an 
+19
+owner or operator of an oil terminal facility that exists and is licensed under the Maine 
+20
+Revised Statutes, Title 38, sections 544 and 545 on the effective date of this Act shall 
+21
+submit a community notification plan under Title 38, section 546-D for review by the 
+22
+Department of Environmental Protection and the municipality in which the oil terminal 
+23
+facility is located pursuant to Title 38, section 546-D, subsection 2. By July 1, 2026, the 
+24
+owner or operator shall implement the plan reviewed and approved by the department and 
+25
+the municipality under this section and the owner or operator shall post the approved plan 
+26
+on a publicly accessible website.
+27
+SUMMARY
+28
+This bill requires owners and operators of oil terminal facilities to develop and 
+29
+implement community notification plans in which members of the public upon request are 
+30
+notified electronically within 24-hours of the transfer of oil between the facility and a 
+31
+vessel, between a vessel and another vessel or between the facility and a vehicle.  The 
+32
+community notification plan is subject to review and approval by the Department of 
+33
+Environmental Protection and the municipality in which the facility is located and must be 
+34
+posted on a publicly accessible website.  Owners and operators of existing oil terminal 
+35
+facilities are required to submit a community notification plan for review by the department 
+36
+and the municipality by January 1, 2026 and implement and publicly post the plan by July 
+37
+1, 2026. The owners and operators must provide an update of the plan on July 1st annually 
+38
+thereafter.
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38

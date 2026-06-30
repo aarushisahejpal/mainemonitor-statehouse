@@ -1,0 +1,87 @@
+{
+  "ld": 1935,
+  "paper": "HP1296",
+  "paper_display": "HP 1296",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099102",
+  "title": "An Act to Increase Penalties for Violations Related to Water Well Drilling",
+  "committee": "Labor",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Jun 5, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/4/2025 - Reports READ . On motion of Representative ROEDER of Bangor, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/5/2025 - Reports Read On motion by Senator TIPPING of Penobscot the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Kenneth FREDETTE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Newport"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "GROUNDWATER",
+      "minor": "WELLS",
+      "detail": "DRILLING AND LICENSING REQUIREMENT"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "Committee on HOUSING AND ECONOMIC DEVELOPMENT suggested and ordered printed. On motion of Representative GERE of Kennebunkport, the Bill was REFERRED to the Committee on LABOR . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on LABOR . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-04",
+      "date_raw": "6/4/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative ROEDER of Bangor, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator TIPPING of Penobscot the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-464 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1296&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1296&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1296",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1296&SessionID=16",
+  "scraped_at": "2026-06-30T20:00:15Z"
+}

@@ -1,0 +1,118 @@
+{
+  "ld": 1568,
+  "paper": "HP1026",
+  "paper_display": "HP 1026",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098388",
+  "title": "An Act to Allow the Use of a Siren in a Vehicle Used by a Harbor Master or Deputy Harbor Master",
+  "committee": "Transportation",
+  "status_summary": "",
+  "final_disposition": "Emergency Enacted, Jun 9, 2025",
+  "governor_action": "Emergency Signed, Jun 9, 2025",
+  "chaptered_law": "ACTPUB, Chapter 190",
+  "chapter": "190",
+  "became_law": true,
+  "last_house_action": "5/29/2025 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/2/2025 - PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence.",
+  "sponsors": [
+    {
+      "name": "Daniel ANKELES",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "Morgan RIELLY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    },
+    {
+      "name": "Denise TEPLER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Sagadahoc"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HARBORS",
+      "minor": "HARBORMASTERS",
+      "detail": "SIRENS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "House",
+      "description": "Committee on Transportation suggested and ordered printed. The Bill was REFERRED to the Committee on TRANSPORTATION . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on TRANSPORTATION in concurrence"
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-303) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-303) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-303), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-303 )",
+      "new_title": "",
+      "house_action": "Adopted on 5/28/2025",
+      "senate_action": "Adopted on 5/28/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1026&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1026&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1026&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1026",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1026&SessionID=16",
+  "scraped_at": "2026-06-30T19:31:11Z"
+}

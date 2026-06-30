@@ -1,0 +1,88 @@
+{
+  "ld": 1602,
+  "paper": "SP0639",
+  "paper_display": "SP 639",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098433",
+  "title": "An Act to Remove the Exemption from Sales and Use Tax for Automobiles Purchased for Use as Rentals",
+  "committee": "Taxation",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 6, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/10/2025 - The Bill was REFERRED to the Committee on TAXATION . In concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/6/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Michael TIPPING",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Ann MATLACK",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "St. George"
+    },
+    {
+      "name": "Ambureen RANA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Rachel TALBOT ROSS",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "SALES AND USE TAX",
+      "minor": "EXEMPT ITEMS",
+      "detail": "RENTAL CARS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "Senate",
+      "description": "Committee on TAXATION suggested and ordered printed REFERENCE to the Committee on TAXATION Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on TAXATION . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0639&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0639",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0639&SessionID=16",
+  "scraped_at": "2026-06-30T19:33:47Z"
+}

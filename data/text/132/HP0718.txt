@@ -1,0 +1,105 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 1096
+H.P. 718
+House of Representatives, March 18, 2025
+An Act to Allow Municipalities That Have Financed Fiber-optic 
+Broadband Infrastructure to Use Loans or Grants to Repay 
+Associated Debt
+Received by the Clerk of the House on March 14, 2025.  Referred to the Committee on 
+Energy, Utilities and Technology pursuant to Joint Rule 308.2 and ordered printed pursuant to 
+Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MINGO of Calais.
+Cosponsored by Senator MOORE of Washington and
+Representatives: EDER of Waterboro, MALON of Biddeford, PERKINS of Dover-Foxcroft, 
+QUINT of Hodgdon, RUDNICKI of Fairfield, TUELL of East Machias, YUSUF of Portland, 
+Senator: CYRWAY of Kennebec.
+
+Page 1 - 132LR1387(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  35-A MRSA §9211-A, sub-§3-B is enacted to read:
+3
+3-B.  Purpose of the fund; repayment of existing debt.  In addition to grants and 
+4
+grant match funding provided in accordance with subsections 3 and 3-A, the fund may be 
+5
+used to provide funding to a municipal entity applying for project grants to repay debt that 
+6
+was incurred by the municipal entity for the construction of a gigabit fiber-optic broadband 
+7
+network owned by the municipal entity. For purposes of this subsection, "municipal entity" 
+8
+means a municipality or a group of municipalities working together to support a gigabit 
+9
+fiber-optic broadband network project.
+10
+Sec. 2.  35-A MRSA §9402, sub-§4-A is enacted to read:
+11
+4-A.  Municipal entity.  "Municipal entity" means a municipality or a group of 
+12
+municipalities working together to support a broadband network project.
+13
+Sec. 3.  35-A MRSA §9405, sub-§11-A is enacted to read:
+14
+11-A.  Loans or grants to repay debt.  To make alone or in participation or 
+15
+cooperation with others direct loans or grants, as allowed by law, to a municipal entity for 
+16
+the repayment of debt incurred by the municipal entity for the construction of broadband 
+17
+infrastructure owned by the municipal entity;
+18
+Sec. 4.  35-A MRSA §9405-A is enacted to read:
+19
+§9405-A.  Municipally owned broadband infrastructure; duty of authority
+20
+In administering a grant or award for the development or construction of broadband 
+21
+infrastructure owned by a municipal entity, the authority shall permit the use of such funds 
+22
+for the repayment of debt incurred by the municipal entity related to the development or 
+23
+construction of the broadband infrastructure unless such use is prohibited by the federal 
+24
+agency or other source providing the grant or award.
+25
+SUMMARY
+26
+This bill authorizes the Municipal Gigabit Broadband Network Access Fund to provide 
+27
+funding to municipal entities applying for project grants to repay debt that was incurred by 
+28
+a municipal entity for the construction of a municipally owned gigabit fiber-optic 
+29
+broadband network project. It specifies that the Maine Connectivity Authority may make 
+30
+direct loans or grants to municipal entities for the repayment of debt incurred by a 
+31
+municipal entity for the construction of municipally owned broadband infrastructure. The 
+32
+bill also requires the authority, in administering a grant or award for the development or 
+33
+construction of municipally owned broadband infrastructure, to permit the use of grant or 
+34
+award funds for the repayment of debt incurred by a municipal entity related to the 
+35
+development or construction of the broadband infrastructure unless such use is prohibited 
+36
+by the source of the grant or award.
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36

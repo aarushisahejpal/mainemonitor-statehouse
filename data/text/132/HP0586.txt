@@ -1,0 +1,232 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 921
+H.P. 586
+House of Representatives, March 11, 2025
+An Act to Expand Use of Electronic Proceedings in the Judicial 
+Branch
+Received by the Clerk of the House on March 5, 2025.  Referred to the Committee on 
+Judiciary pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative FREDETTE of Newport.
+Cosponsored by Senator STEWART of Aroostook and
+Representatives: BLIER of Buxton, WADSWORTH of Hiram, Senators: FARRIN of 
+Somerset, MARTIN of Oxford.
+
+Page 1 - 132LR1882(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  4 MRSA c. 41 is enacted to read:
+3
+CHAPTER 41
+4
+CONDUCTING JUCICIAL PROCEEDINGS BY ELECTRONIC MEANS
+5
+§2001. Definitions
+6
+As used in this chapter, unless the context otherwise indicates, the following terms 
+7
+have the following meanings.
+8
+1.  Electronic means.  "Electronic means" means the use of telephone, Internet or other 
+9
+remote audio and video communication technologies to conduct hearings or other judicial 
+10
+proceedings at which attorneys, parties and witnesses participate without being present in 
+11
+the same physical location as the court.
+12
+2. Hearings and other judicial proceedings.  "Hearings and other judicial 
+13
+proceedings" includes all hearings and other court proceedings conducted by the District 
+14
+Court, Superior Court and Supreme Judicial Court.
+15
+3. Hybrid means.  "Hybrid means" means the use of telephone, Internet or other 
+16
+remote audio and video communication technologies to conduct hearings or other judicial 
+17
+proceedings at which one or more, but not all, attorneys, parties and witnesses participate 
+18
+without being present in the same physical location as the court.
+19
+§2002. Use of electronic means
+20
+1. Required use of electronic means.  Except as provided in subsections 2 and 3, the 
+21
+following hearings and other judicial proceedings must be conducted by electronic means:
+22
+A.  Pretrial conferences;
+23
+B. Motion hearings and status hearings;
+24
+C. Mediations and judicial settlement conferences; and
+25
+D. Any other hearing or judicial proceeding in which in-person attendance is not 
+26
+required to provide due process in a fair and just manner. 
+27
+2. Exceptions. Criminal trials and civil jury trials requiring the presentation of physical 
+28
+evidence may not be conducted by electronic means without the consent of each party to 
+29
+the proceeding and the approval of the court.
+30
+3. Judicial determination electronic means inappropriate. A court may order that a 
+31
+specific hearing or other judicial proceeding identified in subsection 1 be conducted in 
+32
+person or through hybrid means if the complexity of the matter, the need for in-person 
+33
+testimony or other relevant factors support a finding that conducting the hearing or other 
+34
+judicial proceeding by electronic means is inappropriate because it would result in a 
+35
+deprivation of due process, fairness or justice.
+36
+4. Accommodations.  A court shall provide reasonable accommodations to an 
+37
+individual with limited access to the technology required to participate by electronic means 
+38
+as well as an individual with a disability that limits the individual's ability to fully 
+
+Page 2 - 132LR1882(01)
+39
+participate by electronic means.  Accommodations under this subsection may include a 
+40
+court order that a specific hearing or other judicial proceeding be conducted by hybrid 
+41
+means during which the affected individual, the affected individual's attorney and other 
+42
+specified attorneys, parties or witnesses are permitted or required to appear in person.
+5
+5. Technology and training.  The judicial branch shall ensure that the technology 
+6
+necessary to conduct hearings and other judicial proceedings by electronic means is 
+7
+available in each District Court, Superior Court and Supreme Judicial Court courthouse in 
+8
+the State.  The judicial branch shall provide training and technical assistance to allow 
+9
+judges and justices, court staff, attorneys, parties and witnesses to effectively use the 
+10
+technology selected for conducting hearings and other judicial proceedings by electronic 
+11
+means.
+12
+§2003. Report; rulemaking
+13
+1.  Annual report.  The Supreme Judicial Court shall, by January 15, 2026 and 
+14
+annually thereafter, submit a report to the joint standing committee of the Legislature 
+15
+having jurisdiction over judiciary matters on the use of electronic means to conduct 
+16
+hearings and other judicial proceedings.  The report must include, at a minimum, the 
+17
+following:
+18
+A. Statistics on the number and types of hearings and other judicial proceedings 
+19
+conducted by electronic means in the preceding calendar year;
+20
+B. An estimate of the cost savings achieved by the judicial branch and the cost savings 
+21
+for attorneys, parties and witnesses as a result of conducting hearings and other judicial 
+22
+proceedings by electronic means in the preceding calendar year; 
+23
+C. Information collected from surveys and other means providing feedback from 
+24
+judges and justices, court staff, attorneys, parties and witnesses on the conduct of 
+25
+hearings and other judicial proceedings by electronic means; and
+26
+D. Any recommendations for improving or adjusting the use of electronic means to 
+27
+conduct hearings and other judicial proceedings.
+28
+The joint standing committee of the Legislature having jurisdiction over judiciary matters 
+29
+may report out legislation in response to the report to any regular or special session of the 
+30
+Legislature.
+31
+2. Rules.  Notwithstanding any provision of law to the contrary, the Supreme Judicial 
+32
+Court may adopt rules and issue orders to implement this chapter.  After the effective date 
+33
+of the rules as adopted or amended, all laws in conflict with the rules are of no further 
+34
+effect.
+35
+§2004.  Construction
+36
+The provisions of this chapter must be liberally construed to accomplish the purposes 
+37
+of this chapter.
+38
+Sec. 2.  Report regarding laws no longer in effect.  The Supreme Judicial Court, 
+39
+by December 3, 2025, shall submit a report to the Joint Standing Committee on Judiciary 
+40
+detailing those provisions of the Maine Revised Statutes that are rendered of no effect due 
+41
+to the actions taken by the Supreme Judicial Court pursuant to the Maine Revised Statutes, 
+42
+Title 4, chapter 41. The joint standing committee may report out a bill based on the report 
+43
+to the Second Regular Session of the 132nd Legislature.
+1
+2
+3
+4
+
+Page 3 - 132LR1882(01)
+1
+SUMMARY
+2
+This bill requires that certain categories of hearings and other judicial proceedings in 
+3
+the District Court, Superior Court and Supreme Judicial Court be conducted by electronic 
+4
+means absent a finding that conducting the proceeding by electronic means is inappropriate 
+5
+because it would result in a deprivation of due process, fairness or justice.  This requirement 
+6
+does not apply to criminal trials or to civil jury trials requiring the presentation of evidence 
+7
+absent the approval of the court and consent of each party to the proceeding.  The bill also 
+8
+requires the court to provide reasonable accommodations to individuals with limited access 
+9
+to the technology required to participate by electronic means as well as individuals with 
+10
+disabilities that limit the individuals' ability to fully participate by electronic means.
+11
+The bill recognizes the authority of the Supreme Judicial Court to adopt rules and issue 
+12
+orders to implement the provisions of this legislation.  It further directs the Supreme 
+13
+Judicial Court to submit an annual report to the joint standing committee of the Legislature 
+14
+having jurisdiction over judiciary matters regarding the conduct of hearings and other 
+15
+judicial proceedings by electronic means in state courts.  The bill also requires the Supreme 
+16
+Judicial Court to submit a report by December 3, 2025 to the Joint Standing Committee on 
+17
+Judiciary detailing the provisions rendered of no effect due to the bill's provisions.
+2
+3
+4
+5
+6
+7
+8
+9
+10

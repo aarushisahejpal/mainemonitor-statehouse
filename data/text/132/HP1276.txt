@@ -1,0 +1,666 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1915
+H.P. 1276
+House of Representatives, May 6, 2025
+An Act to Regulate Earned Wage Access Services Providers
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SKOLD of Portland.
+Cosponsored by Senator BRADSTREET of Kennebec and
+Representatives: ARCHER of Saco, CROCKETT of Portland, ROEDER of Bangor, Senators: 
+DUSON of Cumberland, TIPPING of Penobscot.
+
+Page 1 - 132LR1145(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  32 MRSA c. 80-C is enacted to read:
+3
+CHAPTER 80-C
+4
+EARNED WAGE ACCESS SERVICES ACT
+5
+§6200-D.  Short title
+6
+This chapter may be known and cited as the "Earned Wage Access Services Act."
+7
+§6200-E.  Definitions
+8
+As used in this chapter, unless the context otherwise indicates, the following terms 
+9
+have the following meanings.
+10
+1. Administrator.  "Administrator" means the Superintendent of Consumer Credit 
+11
+Protection within the Department of Professional and Financial Regulation.
+12
+2. Consumer.  "Consumer" means an individual who resides in the State.
+13
+3. Consumer-directed wage access services.  "Consumer-directed wage access 
+14
+services" means delivering to a consumer access to earned but unpaid income that is based 
+15
+on the consumer's representations and the provider's reasonable determination of the 
+16
+consumer's earned but unpaid income.
+17
+4. Earned but unpaid income. "Earned but unpaid income" means salary, wages, 
+18
+compensation or other income that a consumer or an employer has represented, and that a 
+19
+provider has reasonably determined, has been earned or accrued to the benefit of the 
+20
+consumer in exchange for the consumer's provision of services to the employer or on behalf 
+21
+of the employer, including on an hourly, project-based, piece-work or other basis and 
+22
+including circumstances in which the consumer is acting as an independent contractor of 
+23
+the employer but has not, at the time of the payment of proceeds, been paid by the employer.
+24
+5. Earned wage access services. "Earned wage access services" means providing 
+25
+consumer-directed wage access services or employer-integrated wage access services or 
+26
+both.
+27
+6. Earned wage access services provider; provider. "Earned wage access services 
+28
+provider" or "provider" means a person that is in the business of providing earned wage 
+29
+access services to consumers.
+30
+"Earned wage access services provider" or "provider" does not include:
+31
+A. A supervised financial organization;
+32
+B. A service provider, such as a payroll service provider, whose role may include 
+33
+verifying the available earnings but who is not contractually obligated to fund any 
+34
+proceeds delivered as part of earned wage access services; or
+35
+C. An employer that offers a portion of salary, wages or compensation directly to its 
+36
+employees or independent contractors before the normally scheduled pay date.
+37
+7. Employer.  "Employer" means a person who employs a consumer or any other 
+38
+person who is contractually obligated to pay a consumer earned but unpaid income in 
+
+Page 2 - 132LR1145(01)
+39
+exchange for the consumer's provision of services to the employer or on behalf of the 
+40
+employer including on an hourly, project-based, piece-work or other basis and including 
+41
+circumstances in which the consumer is acting as an independent contractor with respect 
+42
+to the employer.
+5
+"Employer" does not mean a customer of an employer or any other person whose obligation 
+6
+to make a payment of salary, wages, compensation or other income to a consumer is not 
+7
+based on the provision of services by that consumer for or on behalf of the person.
+8
+8. Employer-integrated wage access services. "Employer-integrated wage access 
+9
+services" means delivering to a consumer access to earned but unpaid income that is based 
+10
+on employment, income or attendance data, in any combination, obtained directly or 
+11
+indirectly from an employer or an employer's payroll service provider. 
+12
+9. Fee.  "Fee" means: 
+13
+A. A fee imposed by a provider for delivery or expedited delivery of proceeds to a 
+14
+consumer; or
+15
+B. A subscription or membership fee imposed by a provider for a bona fide group of 
+16
+services that include earned wage access services.
+17
+"Fee" does not mean a voluntary tip, gratuity or other donation.
+18
+10.  Outstanding proceeds. "Outstanding proceeds" means proceeds remitted to a 
+19
+consumer by a provider that have not yet been repaid to the provider.
+20
+11. Proceeds.  "Proceeds" means a payment to a consumer by a provider that is based 
+21
+on earned but unpaid income.
+22
+12.  Supervised financial organization. "Supervised financial organization" has the 
+23
+same meaning as in Title 9-A, section 1-301, subsection 38-A.
+24
+§6200-F. Registration and annual reregistration
+25
+1. Registration and reregistration. An organization desiring to act, or continue to act, 
+26
+as an earned wage access services provider shall apply to the administrator for registration 
+27
+or reregistration in accordance with this chapter. The application must be in a form 
+28
+prescribed by the administrator.  The administrator may refuse the application if it contains 
+29
+erroneous or incomplete information.  A registration or reregistration may not be issued 
+30
+unless the administrator, upon investigation, finds that the financial soundness and 
+31
+responsibility, character and fitness of the applicant and, when applicable, its partners, 
+32
+officers or directors, warrant belief that the business will be operated honestly and fairly 
+33
+within the purposes of this chapter.
+34
+2. Separate registration or reregistration required. A single registration or 
+35
+reregistration is required if a provider operates entirely in this State without a physical place 
+36
+of business.  A provider that operates out of a physical place or places of business in this 
+37
+State shall have a separate registration or reregistration for each place of business.
+38
+3. Registration or reregistration requirements; fees. The administrator may require 
+39
+registration or reregistration under this section through the nationwide mortgage licensing 
+40
+system and registry as defined in Title 9-A, section 13-102, subsection 8. The administrator 
+41
+is authorized to participate in the nationwide mortgage licensing system and registry.
+1
+2
+3
+4
+
+Page 3 - 132LR1145(01)
+1
+In all cases, whether registration or reregistration is through the nationwide mortgage 
+2
+licensing system and registry or otherwise, the administrator may establish, by rule, 
+3
+requirements for registration or reregistration, including but not limited to:
+4
+A. Background checks for:
+5
+(1) Criminal history through fingerprint or other databases;
+6
+(2) Civil or administrative records;
+7
+(3) Credit history; or
+8
+(4) Any other information determined necessary by the nationwide mortgage 
+9
+licensing system and registry;
+10
+B. The payment of fees to apply for registrations or reregistrations, except that the fee 
+11
+for an initial application may not exceed $800 and for a reregistration may not exceed 
+12
+$600. If registration is through the nationwide mortgage licensing system and registry, 
+13
+an applicant must also pay a nationwide mortgage licensing system and registry 
+14
+processing fee in an amount to be determined by the administrators of the nationwide 
+15
+mortgage licensing system and registry. Reregistration applications received after the 
+16
+due date are subject to an additional fee of $100; 
+17
+C. The setting or resetting as necessary of reregistration or reporting dates; and 
+18
+D. Other requirements for application for, amendment of or revocation of a registration 
+19
+or reregistration or any other such activities as the administrator considers necessary.
+20
+4. Action on registration or reregistration application. The administrator shall take 
+21
+action on an application within 30 days after the administrator has accepted the application 
+22
+as complete. Upon written request, the applicant is entitled to a hearing on the question of 
+23
+the applicant's qualifications for registration or reregistration if the administrator has 
+24
+notified the applicant in writing that the application has been denied or the administrator 
+25
+has not issued a registration or reregistration within 30 days after the application for the 
+26
+registration or reregistration was accepted as complete by the administrator. A request for 
+27
+a hearing may not be made more than 60 days after the application was accepted as 
+28
+complete or the administrator has mailed a written notice to the applicant stating that the 
+29
+application has been denied and stating the reasons for the denial of the application.
+30
+Rules adopted pursuant to this section are routine technical rules as defined in Title 5, 
+31
+chapter 375, subchapter 2-A.
+32
+§6200-G.  Bond required
+33
+Each application for a registration or reregistration under this chapter must be 
+34
+accompanied by evidence of a surety bond in a form approved by the administrator in the 
+35
+aggregate amount of $50,000 and designate the administrator as payee for use by the 
+36
+administrator and any person or persons who may have a cause of action against an earned 
+37
+wage access services provider. The terms of the bond must run concurrently with the period 
+38
+of time during which the registration or reregistration is in effect.
+39
+§6200-H.  Operating requirements
+40
+An earned wage access services provider shall:
+
+Page 4 - 132LR1145(01)
+1
+1. Policies and procedures. Develop and implement policies and procedures to 
+2
+respond to questions raised by consumers and address complaints from consumers in an 
+3
+expedient manner;
+4
+2.  No-cost option.  Whenever it offers a consumer the option to receive proceeds for 
+5
+a fee or solicits an optional tip, gratuity or other donation, offer to the consumer at least 
+6
+one reasonable option to obtain proceeds at no cost to the consumer and clearly explain 
+7
+how to elect that no-cost option;
+8
+3. Disclosures prior to consummating agreement. Before entering into an agreement 
+9
+with a consumer for the provision of earned wage access services:
+10
+A. Inform the consumer of their rights under the agreement; and
+11
+B. Fully and clearly disclose all fees associated with the earned wage access services;
+12
+4. Disclosures after consummating agreement.  Inform the consumer of any material 
+13
+changes to the terms and conditions of the earned wage access services before 
+14
+implementing those changes for that consumer;
+15
+5.  Cancellation. Allow the consumer to cancel use of the provider's earned wage 
+16
+access services at any time without incurring a cancellation fee imposed by the provider;
+17
+6.  Privacy and information security.  Comply with all applicable local, state and 
+18
+federal privacy and information security laws;
+19
+7.  Tips, gratuities and other donations. If a provider solicits, charges or receives a 
+20
+tip, gratuity or other donation from a consumer:
+21
+A. Clearly and conspicuously disclose to the consumer immediately prior to each 
+22
+transaction that a tip, gratuity or other donation amount may be zero and is voluntary; 
+23
+and
+24
+B. Clearly and conspicuously disclose in its service contract with the consumer and 
+25
+elsewhere that tips, gratuities or donations are voluntary and that the offering of earned 
+26
+wage access services, including the amount of proceeds a consumer is eligible to 
+27
+request and the frequency with which proceeds are provided to a consumer, is not 
+28
+contingent on whether the consumer pays any tip, gratuity or other donation or on the 
+29
+size of the tip, gratuity or other donation;
+30
+8.  Provision of proceeds.  Provide proceeds to a consumer by any means mutually 
+31
+agreed upon by the consumer and the provider; and
+32
+9.  Electronic fund transfers.  If the provider will seek repayment of outstanding 
+33
+proceeds or payment of fees or other amounts owed, including voluntary tips, gratuities or 
+34
+other donations, in connection with the activities covered by this Act, from a consumer's 
+35
+account at a depository institution, including by means of electronic fund transfer:
+36
+A. Comply with applicable provisions of the federal Electronic Fund Transfer Act, 15 
+37
+United States Code, Chapter 41, Subchapter VI, and regulations adopted pursuant to 
+38
+that subchapter; and
+39
+B. Reimburse the consumer for the full amount of any overdraft or insufficient-funds 
+40
+fees imposed on a consumer by the consumer's depository institution that were caused 
+41
+by the provider's attempting to seek payment of any outstanding proceeds, fees or other 
+42
+payments in connection with the activities covered by this chapter, including voluntary 
+
+Page 5 - 132LR1145(01)
+43
+tips, gratuities or other donations, on a date before, or in an incorrect amount from, the 
+44
+date or amount disclosed to the consumer. The provider is not subject to the 
+45
+requirements of this paragraph with respect to payment of outstanding proceeds or fees 
+46
+incurred by a consumer through fraudulent or other unlawful means.
+5
+A provider may use the mailing address or state of residence provided to it by an 
+6
+individual or that individual's employer to determine the individual's state of residence for 
+7
+purposes of this chapter.
+8
+§6200-I.  Prohibited acts
+9
+An earned wage access services provider may not:
+10
+1. Delivery or expedited delivery fee cap.  Impose a fee in excess of $7.00 in 
+11
+connection with a fee described in section 6200-E, subsection 9, paragraph A;
+12
+2. Revenue sharing with employer. Share with an employer a portion of any fees, 
+13
+voluntary tips, gratuities or other donations that were received from or charged to a 
+14
+consumer for earned wage access services;
+15
+3. Credit reports and credit scores. Require a consumer to provide the consumer's 
+16
+credit report or credit score issued by a consumer reporting agency to determine a 
+17
+consumer's eligibility for earned wage access services;
+18
+4. Credit cards and charge cards. Accept payment of outstanding proceeds, fees or 
+19
+voluntary tips, gratuities or other donations from a consumer by means of a credit card or 
+20
+charge card;
+21
+5.  Limitations on types of fees.  Charge a consumer a late fee, deferral fee, interest 
+22
+or any other penalty or charge for failure to pay outstanding proceeds, fees or voluntary 
+23
+tips, gratuities or other donations;
+24
+6.  Credit reporting and debt collection.  Report to a consumer reporting agency or 
+25
+debt collector any information about the consumer regarding the inability of the provider 
+26
+to collect outstanding proceeds, fees or voluntary tips, gratuities or other donations;
+27
+7.  Nonrecourse payment obligation. Compel or attempt to compel payment by a 
+28
+consumer of outstanding proceeds, fees or voluntary tips, gratuities or other donations to 
+29
+the provider through any of the following means:
+30
+A. A suit against the consumer in a court of competent jurisdiction;
+31
+B. Use of a 3rd party to pursue collection from the consumer on the provider's behalf; 
+32
+or
+33
+C. Sale of outstanding proceeds, fees or voluntary tips, gratuities or other donations to 
+34
+a 3rd-party collector or debt buyer for collection from a consumer; or
+35
+8. Tips and other optional payments. If the provider solicits, charges or receives tips, 
+36
+gratuities or other donations from a consumer, mislead or deceive a consumer about the 
+37
+voluntary nature of the tips, gratuities or donations or represent that the tips, gratuities or 
+38
+donations will benefit any specific individuals or group of individuals.
+39
+The limitations set forth in subsection 7 do not preclude the use by a provider of any 
+40
+of the methods specified in that subsection to compel payment of outstanding proceeds or 
+41
+fees incurred by a consumer through fraudulent or other unlawful means, nor do they 
+1
+2
+3
+4
+
+Page 6 - 132LR1145(01)
+42
+preclude a provider from pursuing an employer for breach of its contractual obligations to 
+43
+the provider.
+3
+§6200-J.  Maintenance of books and records
+4
+An earned wage access services provider shall maintain books and records for each 
+5
+consumer for whom the provider provides earned wage access services for 4 years 
+6
+following the final transaction with the consumer.
+7
+§6200-K.  Powers of administrator
+8
+The administrator may exercise the following powers. 
+9
+1. Complaint investigation. The administrator may receive and act on complaints, 
+10
+take action to obtain voluntary compliance with this chapter and refer cases to the Attorney 
+11
+General, who shall appear for and represent the administrator in court.
+12
+2. Rules. The administrator may adopt rules to carry out the requirements of this 
+13
+chapter in accordance with Title 5, chapter 375. Rules adopted pursuant to this chapter are 
+14
+routine technical rules pursuant to Title 5, chapter 375, subchapter 2-A.
+15
+3. Examinations. The administrator may examine the earned wage access services-
+16
+related books, accounts and records of any earned wage access services provider, make an 
+17
+investigation to determine compliance with this chapter and charge the reasonable expenses 
+18
+necessarily incurred to conduct the examinations to the earned wage access services 
+19
+provider.
+20
+4. Appropriation of funds. The administrator may appropriate for the use of the 
+21
+administrator the aggregate of fees, examination expense reimbursement or other payments 
+22
+made to the administrator pursuant to this chapter and carry forward any balance of funds 
+23
+from a fiscal year to be expended for the same purpose in the following fiscal year.
+24
+§6200-L. Advertising
+25
+1. False advertising.  An earned wage access services provider may not engage in this 
+26
+State in false or misleading advertising concerning the terms and conditions of any services 
+27
+or products offered.
+28
+2. Dissemination; no liability. This section does not impose liability on the owner or 
+29
+personnel of any medium in which an advertisement appears or through which an 
+30
+advertisement is disseminated.
+31
+§6200-M.  Effects of violations on rights of parties
+32
+1. Violations; unfair, unconscionable or deceptive practices. An earned wage access 
+33
+services provider that violates any provision of this chapter or any rule adopted by the 
+34
+administrator or that through any unfair, unconscionable or deceptive practice causes actual 
+35
+damage to a consumer is subject to enforcement action pursuant to subsection 2.
+36
+2. Enforcement actions. The following enforcement actions may be taken by the 
+37
+administrator or an aggrieved consumer against an earned wage access services provider 
+38
+for violations of any provision of this chapter or any rule adopted pursuant to this chapter 
+39
+or for unfair, unconscionable or deceptive practices that cause actual damage to a 
+40
+consumer:
+41
+A. After notice and hearing, a cease and desist order from the administrator;
+1
+2
+
+Page 7 - 132LR1145(01)
+1
+B. When in the opinion of the administrator immediate action is required to protect the 
+2
+public interest, a cease and desist order without prior notice and hearing, after which 
+3
+the administrator shall afford an opportunity for a hearing, the results of which are 
+4
+subject to review under Title 5, chapter 375, subchapter 7;
+5
+C. After notice and hearing, forfeiture of such portion of the bond required under 
+6
+section 6200-G as proportionately may make aggrieved parties whole;
+7
+D. A civil action by the administrator through the Attorney General, after which a court 
+8
+may assess a civil penalty payable to the State of not more than $5,000;
+9
+E. A civil action by an aggrieved consumer in which that consumer has the right to 
+10
+recover actual damages from the earned wage access services provider in an amount 
+11
+determined by the court plus costs of the action together with reasonable attorney's 
+12
+fees; or
+13
+F. Revocation, suspension or nonrenewal of the earned wage access services provider's 
+14
+registration or reregistration pursuant to section 6200-N.
+15
+§6200-N.  Suspension or revocation of registration or reregistration
+16
+1. Suspension or revocation. After notice and hearing, the administrator may suspend 
+17
+or revoke an earned wage access services provider's registration or reregistration if the 
+18
+administrator finds that one of the conditions of subsection 2 is met.
+19
+2. Conditions for suspension or revocation. The following conditions are grounds 
+20
+for suspension or revocation of a registration or reregistration:
+21
+A. A fact or condition exists that, if it had existed or if it was known at the time the 
+22
+registrant applied for registration or reregistration, would have been grounds for 
+23
+denying the application;
+24
+B. The registrant knowingly violates a material provision of this chapter or rule or order 
+25
+adopted by the administrator under authority of this chapter;
+26
+C. The registrant is insolvent;
+27
+D. The registrant refuses to permit the administrator to make an examination authorized 
+28
+by this chapter; or
+29
+E. The registrant fails to respond within a reasonable time and in an appropriate manner 
+30
+to communications from the administrator.
+31
+§6200-O.  Applicability of other state laws
+32
+1. Lending, money transmission and labor laws.  Notwithstanding any provision of 
+33
+law to the contrary, earned wage access services offered and provided by an earned wage 
+34
+access services provider in accordance with this chapter may not be considered:
+35
+A. In violation of or noncompliance with any law governing deductions from payroll, 
+36
+salary, wages, compensation or other income or the purchase, sale or assignment of or 
+37
+an order for earned but unpaid income; 
+38
+B. A loan or other form of credit or debt, nor may the provider be considered a creditor, 
+39
+debt collector or lender with respect thereto; or
+40
+C. Money transmission, nor may the provider be considered a money transmitter with 
+41
+respect thereto.
+
+Page 8 - 132LR1145(01)
+1
+2.  Fees; tips and other optional payments. Notwithstanding any provision of law to 
+2
+the contrary, fees, outstanding proceeds or voluntary tips, gratuities or other donations paid 
+3
+in accordance with this chapter to an earned wage access services provider may not be 
+4
+considered interest or finance charges.
+5
+3.  Conflicts.  If there is a conflict between the provisions of this Act and any other 
+6
+provision of law, the provisions of this Act prevail.
+7
+SUMMARY
+8
+This bill enacts the Maine Earned Wage Access Services Act, which does the 
+9
+following:
+10
+1. It establishes requirements and fees for the registration and reregistration of earned 
+11
+wage access services providers, which are businesses, unregulated under current law, that 
+12
+advance earned by unpaid income to consumers;
+13
+2. It establishes bond requirements for earned wage access services providers;
+14
+3. It establishes certain operating requirements for earned wage access services 
+15
+providers, including requirements regarding consumer disclosures, cancellation, privacy 
+16
+and information security and reimbursements to consumers;
+17
+4. It establishes prohibitions on certain actions by earned wage access services 
+18
+providers, including prohibitions regarding delivery fees, revenue sharing, requesting 
+19
+credit reports or scores, credit reporting and debt collection and payments by credit cards;
+20
+5. It requires an earned wage access services provider to maintain books and records 
+21
+for each consumer for whom the provider provides earned wage access services;
+22
+6. It provides the Superintendent of Consumer Credit Protection within the Department 
+23
+of Professional and Financial Regulation with certain authority to investigate complaints, 
+24
+adopt rules, appropriate funds and examine certain books and records of earned wage 
+25
+access services providers;
+26
+7. It establishes certain requirements related to advertising; and
+27
+8. It establishes enforcement mechanisms for the provisions of the Act.
+8
+9

@@ -1,0 +1,249 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1323
+H.P. 858
+House of Representatives, March 27, 2025
+An Act to Prohibit the Use of Neonicotinoid Pesticides and the Use 
+and Sale of Neonicotinoid-treated Seeds
+Reference to the Committee on Agriculture, Conservation and Forestry suggested and 
+ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative DOUDERA of Camden.
+Cosponsored by Senator INGWERSEN of York and
+Representatives: CLUCHEY of Bowdoinham, FROST of Belgrade, GRAMLICH of Old 
+Orchard Beach, HEPLER of Woolwich, PLUECKER of Warren, SINCLAIR of Bath, 
+Senators: TALBOT ROSS of Cumberland, TEPLER of Sagadahoc.
+
+Page 1 - 132LR2167(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  7 MRSA c. 103, sub-c. 11-B is enacted to read:
+3
+SUBCHAPTER 11-B
+4
+NEONICOTINOID PESTICIDES
+5
+§1061. Definitions
+6
+As used in this subchapter, unless the context otherwise indicates, the following terms 
+7
+have the following meanings.
+8
+1.  Agricultural emergency.  "Agricultural emergency" means an occurrence of any 
+9
+pest that presents an imminent risk of significant harm or injury to or loss of agricultural 
+10
+crops.
+11
+2.  Bloom.  "Bloom" means the period from the onset of flowering for a plant or the 
+12
+process of flowering of a plant until petal fall is complete.
+13
+3.  Crop group.  "Crop group" means the groupings of agricultural commodities 
+14
+specified in 40 Code of Federal Regulations, Section 180.41 (2023).
+15
+4.  Environmental emergency.  "Environmental emergency" means an occurrence of 
+16
+any pest that presents a significant risk of harm or injury to the environment or significant 
+17
+harm or injury to or loss of agricultural crops, including any exotic or foreign pest that may 
+18
+need preventive quarantine measures to avert or prevent that risk, as determined by the 
+19
+commissioner.
+20
+5.  Neonicotinoid pesticide.  "Neonicotinoid pesticide" means any pesticide containing 
+21
+a chemical belonging to the neonicotinoid class of chemicals, including imidacloprid, 
+22
+nithiazine, acetamiprid, clothianidin, dinotefuran, thiacloprid, thiamethoxam and any other 
+23
+chemical designated by the commissioner by rule as belonging to the neonicotinoid class 
+24
+of chemicals.
+25
+6.  Neonicotinoid-treated seed.  "Neonicotinoid-treated seed" means a treated seed 
+26
+that is treated or coated with a neonicotinoid pesticide.
+27
+7.  Ornamental plants.  "Ornamental plants" means perennial, annual, biennial and 
+28
+ground cover plants purposefully planted for aesthetic reasons.
+29
+§1062.  Prohibited; application of neonicotinoid pesticides
+30
+1.  Prohibited application.  The following uses of neonicotinoid pesticides are 
+31
+prohibited:
+32
+A.  Outdoor application to any crop during bloom;
+33
+B.  Outdoor application to soybeans or any crop in the cereal grains crop group;
+34
+C.  Outdoor application of neonicotinoid pesticides to crops harvested after bloom in 
+35
+the leafy vegetables; brassica; bulb vegetables; herbs and spices; and stalk, stem and 
+36
+leaf petiole vegetable crop groups; and
+37
+D.  Application to ornamental plants.
+
+Page 2 - 132LR2167(01)
+1
+2.  Exemptions.  The commissioner, after consultation with the Commissioner of 
+2
+Environmental Protection, may waive the requirements of this section and issue a written 
+3
+exemption order if the commissioner determines that:
+4
+A. A valid environmental emergency or agricultural emergency exists;
+5
+B.  The neonicotinoid pesticide would be effective in addressing the environmental 
+6
+emergency or the agricultural emergency under paragraph A; and
+7
+C.  A less harmful pesticide that is not a neonicotinoid pesticide or pest management 
+8
+practice would not be as effective in addressing the environmental emergency or the 
+9
+agricultural emergency under paragraph A.
+10
+3.  Written exemption order contents.  A written exemption order issued under 
+11
+subsection 2:
+12
+A.  May not be valid for a period of more than one year;
+13
+B.  Must specify the neonicotinoid pesticides, uses and crops or plants to which the 
+14
+exemption order applies; the date on which the exemption order takes effect; the 
+15
+exemption order's duration; and the exemption order's geographic scope, which may 
+16
+include specific farms, fields or properties; and
+17
+C.  Must provide a detailed evaluation supporting a determination that an 
+18
+environmental emergency or agricultural emergency exists.
+19
+4.  Written exemption order restrictions.  A written exemption order issued under 
+20
+subsection 2 may establish restrictions on the use of neonicotinoid pesticides to which the 
+21
+exemption order applies to minimize harm to pollinator populations, bird populations, 
+22
+ecosystem health and public health or that the commissioner considers necessary.
+23
+5.  Rescission.  The commissioner, after consultation with the Commissioner of 
+24
+Environmental Protection, may rescind a written exemption order issued under subsection 
+25
+2 at any time.  A rescission may not go into effect until at least 15 days after the issuance 
+26
+of the written exemption order.
+27
+§1063.  Prohibition on the use and sale of neonicotinoid-treated seeds
+28
+1.  Prohibition. A person may not sell, offer for sale or use, distribute or use any 
+29
+neonicotinoid-treated seed for soybeans or for any crop in the cereal grains crop group.
+30
+2.  Exemptions.  The commissioner, after consultation with the Commissioner of 
+31
+Environmental Protection, may waive the requirements of this section and issue a written 
+32
+exemption order only if:
+33
+A.  The person seeking the exemption order:
+34
+(1) Completes integrated pest management training, provided by the commissioner 
+35
+or an approved 3rd party;
+36
+(2) Completes a pest risk assessment and submits a pest risk assessment report to 
+37
+the commissioner; and
+38
+(3) Maintains current records of the pest risk assessment report under subparagraph 
+39
+(2) and records of when neonicotinoid-treated seeds are planted, both of which are 
+40
+subject to review upon request by the commissioner; and
+
+Page 3 - 132LR2167(01)
+1
+B.  Any neonicotinoid-treated seeds authorized for use under the exemption order are 
+2
+planted only on the property or properties identified in the pest risk assessment report 
+3
+under paragraph A, subparagraph (2).
+4
+3.  Written exemption order contents.  A written exemption order issued under 
+5
+subsection 2:
+6
+A.  May not be valid for a period of more than one year; and
+7
+B.  Must specify the types of neonicotinoid-treated seeds to which the exemption order 
+8
+applies, the date on which the exemption order takes effect and the exemption order's 
+9
+duration.
+10
+4.  Written exemption order restrictions.  A written exemption order issued under 
+11
+subsection 2 may establish restrictions to the use of neonicotinoid-treated seeds to which 
+12
+the exemption order applies to minimize harm to pollinator populations, bird populations, 
+13
+ecosystem health and public health or that the commissioner considers necessary.
+14
+5.  Rescission.  The commissioner, after consultation with the Commissioner of 
+15
+Environmental Protection, may rescind a written exemption order issued under subsection 
+16
+2 at any time.  A rescission may not go into effect until at least 30 days after the issuance 
+17
+of the written exemption order and may not apply to neonicotinoid-treated seeds planted or 
+18
+sown prior to the effective date of the rescission.
+19
+§1064.  Report
+20
+Upon issuing a written exemption order under section 1062 or 1063, the commissioner 
+21
+shall submit a copy of the exemption order to the joint standing committee of the 
+22
+Legislature having jurisdiction over agriculture, conservation and forestry matters.
+23
+§1065.  Rulemaking
+24
+The department may adopt rules as necessary for the purposes of implementing and 
+25
+enforcing this subchapter.  Rules adopted pursuant to this section are routine technical rules 
+26
+as defined in Title 5, chapter 375, subchapter 2-A.
+27
+Sec. 2.  Effective date. This Act takes effect January 1, 2026.
+28
+SUMMARY
+29
+This bill prohibits certain applications of neonicotinoid pesticides and prohibits the use 
+30
+and sale of neonicotinoid-treated seeds for certain crops.  The bill authorizes the 
+31
+Commissioner of Agriculture, Conservation and Forestry, after consultation with the 
+32
+Commissioner of Environmental Protection, to waive these prohibitions and issue a written 
+33
+exemption order if certain conditions are met.
+29
+30
+31
+32
+33

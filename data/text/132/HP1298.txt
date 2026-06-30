@@ -1,0 +1,783 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1939
+H.P. 1298
+House of Representatives, May 6, 2025
+An Act to Close Maine's Tax Loophole for Offshore Profit Shifting
+Reference to the Committee on Taxation suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MATLACK of St. George.
+Cosponsored by Senator TIPPING of Penobscot and
+Representative: SAYRE of Kennebunk.
+
+Page 1 - 132LR1463(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  36 MRSA c. 354 is enacted to read:
+3
+CHAPTER 354
+4
+WORLDWIDE COMBINED INCOME REPORTING REQUIREMENT
+5
+§2411. Definitions
+6
+As used in this chapter, unless the context otherwise indicates, the following terms 
+7
+have the following meanings.
+8
+1.  Combined group.  "Combined group" means the group of all persons required to 
+9
+file a combined return pursuant to section 2413 or 2414.
+10
+2.  Combined return.  "Combined return" means a tax return required to be filed for 
+11
+a combined group containing information as required by this chapter.
+12
+3.  Corporation.  "Corporation" means a business entity of any kind, wherever located, 
+13
+that is treated as a corporation for tax purposes under the laws of this State and that if it 
+14
+were doing business in this State would be a taxpayer.
+15
+4.  Partnership.  "Partnership" means a business entity of any kind that is treated as a 
+16
+partnership for tax purposes under the laws of this State.
+17
+5.  Person.  "Person" means an individual; firm; partnership; general partner of a 
+18
+partnership; limited liability company; registered limited liability partnership; foreign 
+19
+limited liability partnership; association; corporation, whether or not the corporation is, or 
+20
+would be if it were doing business in this State, subject to chapter 817; company; syndicate; 
+21
+estate; trust; business trust; trustee; trustee in bankruptcy; receiver; executor; administrator; 
+22
+assignee; or business entity or organization of any kind. For purposes of being subject to 
+23
+chapter 817, "person" also means a combined group.
+24
+6.  Taxable income.  "Taxable income" does not include any deductions permitted by 
+25
+the Code, Section 250 addressing foreign-derived intangible income and global intangible 
+26
+low-taxed income.
+27
+7.  Taxpayer.  "Taxpayer" means a person, a combined group or the corporate 
+28
+members of a combined group subject to the tax imposed by chapter 817.
+29
+8.  Unitary business.  "Unitary business" means a single economic enterprise made up 
+30
+either of separate parts of a single business entity or of a commonly controlled group of 
+31
+business entities that are sufficiently interdependent, integrated and interrelated through 
+32
+their activities so as to provide a synergy and mutual benefit that produces a sharing or 
+33
+exchange of value among them and a significant flow of value to the separate parts. 
+34
+"Unitary business" includes a part of a unitary business that is conducted by a person 
+35
+through the taxpayer's interest in a partnership, whether the interest in that partnership is 
+36
+held directly or indirectly through a series of partnerships or other pass-through entities.
+37
+A determination of whether a business entity is a unitary business is governed by the unitary 
+38
+business principle as applied to the most broadly encompassing extent allowed by the 
+39
+United States Constitution.
+
+Page 2 - 132LR1463(01)
+1
+9.  United States.  "United States" means the 50 states of the United States, the District 
+2
+of Columbia and territories and possessions of the United States.
+3
+§2412.  Generally
+4
+The following provisions apply generally to the application of this chapter.
+5
+1.  Persons subject.  The worldwide combined reporting method described in this 
+6
+chapter is required for any unitary business with a member that:
+7
+A.  In its securities law filings with government regulators, reports more than 
+8
+$1,000,000,000 in gross revenues for the consolidated group;
+9
+B.  Is subject to the federal corporate alternative minimum tax imposed by the Code, 
+10
+Section 55, as amended by United States Public Law 117-169; or
+11
+C.  Is in scope under Article 1.1 of the Tax Challenges Arising from the Digitalisation 
+12
+of the Economy - Global Anti-Base Erosion Model Rules (Pillar Two): Inclusive 
+13
+Framework on Base Erosion and Profit Shifting (BEPS) adopted in 2021 by the 
+14
+Organisation for Economic Co-operation and Development.
+15
+2.  Person electing to be subject.  A taxpayer not subject to the worldwide combined 
+16
+reporting method under subsection 1 may elect to become subject to this method for a 
+17
+minimum of 10 consecutive tax years as determined under rules adopted by the assessor.
+18
+3.  Treatment of all others.  For a taxpayer not subject to the worldwide combined 
+19
+reporting method under subsection 1 or not electing to be subject pursuant to subsection 2, 
+20
+50% of that taxpayer's income described in the Code, Section 951A must be apportioned 
+21
+to the United States as income of the water's edge group.  The apportionment factors of the 
+22
+controlled foreign corporations nominally earning such income may not be included in the 
+23
+apportionment formula.
+24
+§2413.  Filing requirement
+25
+1.  Filing member; information required.  All members of a unitary business shall 
+26
+file a combined return as a combined group. The return must include the income and 
+27
+apportionment factors, as determined pursuant to section 2414, and any other information 
+28
+required by the assessor for all members of the combined group, wherever those members 
+29
+are located or doing business. The combined return must be filed under the name and 
+30
+federal employer identification number of the parent corporation if the parent corporation 
+31
+is a member of the combined group. If there is not a parent corporation or the parent 
+32
+corporation is not a group member, the members of the combined group shall choose a 
+33
+member to file the return. The filing member must remain the same in subsequent tax years 
+34
+unless the filing member is no longer the parent corporation or is no longer a member of 
+35
+the combined group. The return must be signed by a responsible officer of the filing 
+36
+member on behalf of the combined group members. 
+37
+2.  Liability for tax.  Members of a combined group are jointly and severally liable for 
+38
+the tax liability of the combined group included in the combined return.
+39
+3.  Captive insurers.  Notwithstanding any provision of law to the contrary, a 
+40
+combined return must include the income and apportionment factors of any captive insurers 
+41
+that are part of the unitary business. For purposes of this subsection, "captive insurer" 
+42
+means an insurance company that is:
+
+Page 3 - 132LR1463(01)
+1
+A. Owned or controlled by another member of the unitary business; and
+2
+B.  Used for purposes that include the insurance of risks of the parent organization or 
+3
+affiliated companies.
+4
+4.  Additional requirements.  The assessor, by rule, may require:
+5
+A. A combined return to include the income and associated apportionment factors of 
+6
+persons that are not included pursuant to subsection 1 but that are members of a unitary 
+7
+business in order to reflect proper apportionment of income of the entire unitary 
+8
+business;
+9
+B.  Combination of the income and associated apportionment factors of persons that 
+10
+are not subject to chapter 817 or would not be subject to chapter 817 if they were doing 
+11
+business in this State; and
+12
+C.  If the assessor determines that the reported income or loss of a taxpayer engaged in 
+13
+a unitary business with a person that is not subject to this chapter represents an 
+14
+avoidance or evasion of tax or an unfair representation of business activity in the State 
+15
+by that taxpayer, on a case-by-case basis, all or part of the income and associated 
+16
+apportionment factors of that taxpayer be included in the taxpayer's combined return.
+17
+With respect to the inclusion of associated apportionment factors pursuant to paragraph A, 
+18
+the assessor may require the exclusion of one or more of the factors, the inclusion of one 
+19
+or more additional factors that will fairly represent the taxpayer's business activity in this 
+20
+State or the employment of any other method to effectuate a proper reflection of the total 
+21
+amount of income subject to apportionment and an equitable allocation and apportionment 
+22
+of the taxpayer's income.
+23
+§2414.  Determination of combined group income subject to tax
+24
+A combined group's net taxable income is determined pursuant to this section.
+25
+1. Total combined group income or loss.  Each member of the combined group shall 
+26
+determine that member's separate income or loss, before any net operating loss deduction, 
+27
+as follows.
+28
+A.  For a member incorporated in the United States or included in a consolidated federal 
+29
+corporate income tax return, the member's income or loss is the taxable income for the 
+30
+member under the Code, on a separate entity basis, after making appropriate 
+31
+adjustments to taxable income pursuant to section 5200-A.
+32
+B.  All income of the unitary business must be combined even if, considered separately, 
+33
+some of the income of the unitary business is subject to another tax.  If any member of 
+34
+the unitary business is subject to a net income tax or a tax measured by net income 
+35
+under another provision of the laws of this State, such tax liability applies as a credit 
+36
+against any tax liability as a result of this chapter.
+37
+C.  A member not included in paragraph A is subject to this paragraph.
+38
+(1)  The member's income or loss is determined from a profit and loss statement 
+39
+prepared for that member on a separate entity basis in the currency in which the 
+40
+member's books of account are regularly maintained, as long as the profit and loss 
+41
+statement is:
+42
+(a) Subject to an independent audit;
+
+Page 4 - 132LR1463(01)
+1
+(b) Adjusted to conform the profit and loss statement to the accounting 
+2
+principles generally accepted in the United States for the preparation of such 
+3
+statements; and
+4
+(c)  Further modified to take into account any book-tax adjustments necessary 
+5
+to reflect federal tax law and the tax law of this State.
+6
+(2)  Income or loss computed pursuant to subparagraph (1) includes all income, 
+7
+wherever derived, and is not limited to items of United States source income or 
+8
+effectively connected income within the meaning of the Code. Items of income, 
+9
+expense, gain or loss and related apportionment factors that are denominated in a 
+10
+foreign currency must be translated into United States dollars on a reasonable basis 
+11
+consistently applied year to year and entity by entity. Unrealized foreign currency 
+12
+gains and losses are not recognized.  Income apportioned to this State must be 
+13
+expressed in United States dollars.
+14
+D.  Notwithstanding paragraph C, in lieu of the procedures set forth in paragraph C or 
+15
+in any case when the assessor determines that it is necessary to fairly and consistently 
+16
+reflect the income or loss and apportionment factors of foreign operations included in 
+17
+the unitary business, the assessor, by rule, may provide for other procedures to 
+18
+reasonably approximate the income or loss and apportionment factors of members with 
+19
+foreign operations. A member filing pursuant to this paragraph shall report to the 
+20
+assessor that member's income or loss as determined using one of the following 
+21
+methods:
+22
+(1)  The Code, Section 55, as amended by United States Public Law 117-169 and 
+23
+as codified as of January 1, 2023, regarding the corporate alternative minimum tax; 
+24
+(2) The Two-Pillar Solution to Address Tax Challenges Arising from the 
+25
+Digitalisation of the Economy as published by the Organisation for Economic Co-
+26
+operation and Development; or 
+27
+(3) A method substantially similar to a method in subparagraph (1) or (2).
+28
+The assessor, by rule, may require what information must be used in calculating income 
+29
+for purposes of this paragraph.
+30
+2.  Combination of income and loss.  Unless otherwise provided by this chapter or by 
+31
+rules adopted pursuant to this chapter, income or loss of the members specified in 
+32
+subsection 1 must be combined, after eliminating items of income, expense, gain and loss 
+33
+from transactions between members of the combined group, applying the consolidated 
+34
+filing rules under the Code and applicable federal regulations as if the combined group 
+35
+were a consolidated filing group and as provided in this subsection.
+36
+A. Dividends paid by one member of the combined group to another member are 
+37
+excluded from that paying member's income to the extent those dividends are paid out 
+38
+of the earnings and profits of the unitary business included in the combined report in 
+39
+the current or an earlier tax year.
+40
+B.  Transfers between members of the combined group that partially reflect income of 
+41
+the unitary group, such as those described in the Code, Sections 951 and 951A, are 
+42
+excluded.
+
+Page 5 - 132LR1463(01)
+1
+C.  A charitable expense incurred by a member of a combined group, to the extent 
+2
+allowable as a deduction pursuant to the Code, Section 170, must be subtracted from 
+3
+the apportionable income of the combined group, subject to the income limitations of 
+4
+the Code, Section 170 applied to the entire apportionable income of the group.  Any 
+5
+excess may be carried over as provided in the Code, Section 170, subject to the 
+6
+limitations specified in the Code, Section 170.
+7
+3. Determining combined income.  Combined group ordinary apportionable income 
+8
+or loss is determined by eliminating from the amounts determined in subsections 1 and 2:
+9
+A.  The amount of any net capital gain resulting from application of the Code, Subtitle 
+10
+A, Chapter 1, Subchapter P; and
+11
+B.  Any other income or loss, or item of income, expense, gain or loss, that is 
+12
+nonapportionable.
+13
+4.  Determining state share of combined group income.  The State's share of 
+14
+combined group ordinary apportionable income or loss is determined by multiplying the 
+15
+amount determined under subsection 3 by the combined group apportionment factor as 
+16
+determined under section 2415, subsection 1.
+17
+5.  Determining combined group state net capital.  The combined group state net 
+18
+capital gain or loss from the application of the Code, Subtitle A, Chapter 1, Subchapter P 
+19
+and the amount of any state net capital loss carry-over is determined as follows.
+20
+A.  Each separate item of capital gain or loss for the combined group is determined in 
+21
+accordance with the provisions requiring the computation of capital gains and losses 
+22
+specified in section 5200-A.
+23
+B.  Each separate item of apportionable capital gain or loss determined pursuant to 
+24
+paragraph A is apportioned using the combined group apportionment factor determined 
+25
+under section 2415, subsection 1, and each separate item of nonapportionable capital 
+26
+gain or loss is allocated pursuant to the allocation and apportionment provisions of 
+27
+section 5211.
+28
+C.  The capital gains or losses allocated or apportioned to the State pursuant to 
+29
+paragraph B are netted consistent with the provisions of the Code, Subtitle A, Chapter 
+30
+1, Subchapter P.
+31
+D.  If the amount determined in paragraph C is a net capital gain, that gain is included 
+32
+in combined group net taxable income or loss before net operating loss deduction as 
+33
+computed under subsection 7.
+34
+E.  If the amount determined in paragraph C is a net capital loss, that loss may not be 
+35
+deducted from other income but may be carried over by the combined group and used 
+36
+to offset combined group capital gains, subject to the provisions of this Part allowing 
+37
+a net capital loss carry-over, but only to the extent that the amount or use of such capital 
+38
+loss carry-over is not subject to limitations under any provision of the Code or 
+39
+applicable federal regulations or would not be subject to such limitations applied as if 
+40
+the combined group were the consolidated group.
+41
+F.  If the combined group capital loss carry-over must be attributed to particular 
+42
+members of the group for purposes of determining limitations applicable to the amount 
+43
+or use of the capital loss under paragraph E, the combined group net capital loss 
+
+Page 6 - 132LR1463(01)
+44
+generated for any applicable tax year must be multiplied by a fraction, the numerator 
+45
+of which is the separate entity net capital loss, if any, of the member for that tax year 
+46
+and the denominator of which is the total separate entity net capital losses for all the 
+47
+members of the combined group that had net capital losses for that tax year. A 
+48
+member's separate entity net capital loss carry-over is determined as follows.
+6
+(1)  For each tax year in which the combined group recognized a net capital loss, 
+7
+the combined group net apportionable gains and losses must be multiplied by the 
+8
+member's separate entity apportionment factor determined under section 2415, 
+9
+subsection 2, netting the resulting apportioned gains and losses as provided in this 
+10
+subsection, then adding any nonapportionable gains and subtracting any losses 
+11
+allocated to the State that were generated by that member.
+12
+(2)  Members of the combined group may not be attributed total capital losses under 
+13
+this paragraph in excess of the combined group net capital loss properly reported 
+14
+to this State in the tax year.
+15
+(3)  In computing the net capital loss carry-over for the member of the combined 
+16
+group, the separate entity capital losses for all members computed under this 
+17
+paragraph may be used to offset combined group capital gains in other tax years, 
+18
+as allowed under the Code and law of the State, on a pro rata basis, starting with 
+19
+the earliest tax year.
+20
+6.  Determination of nonapportionable items.  The amount of any combined group 
+21
+nonapportionable items of income, expense, gain or loss not allocated under subsection 5, 
+22
+paragraph B must be determined in accordance with sections 5200 and 5211.
+23
+7.  Determination of combined group state net income or loss before net operating 
+24
+loss deduction.  The combined group state net income or loss before net operating loss 
+25
+deduction is determined by combining and netting the results from subsection 4, subsection 
+26
+5, paragraph D and subsection 6.
+27
+8.  Determination of combined group state net taxable income after net operating 
+28
+loss deduction.  The combined group state net taxable income after any net operating loss 
+29
+deduction is determined by deducting from the amount of combined group state net income 
+30
+calculated under subsection 7 an allowable amount of the combined group's net operating 
+31
+loss carry-over, determined as follows.
+32
+A.  The allowable amount of the combined group net operating loss carry-over in any 
+33
+tax year is the result of adding the amounts specified in subparagraphs (1) and (2) and 
+34
+subtracting from that amount the amount determined under subparagraph (3), as 
+35
+follows:
+36
+(1) The total of the combined group state losses determined under subsection 7 for 
+37
+prior tax years to the extent such losses have not been used to offset the combined 
+38
+group's state net income and to the extent those losses are not otherwise limited by 
+39
+law or this subsection;
+40
+(2)  The amount determined in subparagraph (1) is added to the net operating loss 
+41
+carry-over of any member of the group created before the member became a part 
+42
+of the group, but only to the extent that the net operating loss carry-over:
+1
+2
+3
+4
+5
+
+Page 7 - 132LR1463(01)
+1
+(a) Represents net operating losses that were properly attributed to the member 
+2
+under paragraph B if the member was part of a separate combined group when 
+3
+the losses were created;
+4
+(b) Represents net operating losses properly allocated or apportioned to this 
+5
+State in the tax year created;
+6
+(c) Has not been used to offset income of any taxpayer;
+7
+(d) Would not be subject to limitations as to the amount or use applicable under 
+8
+any provision of the Code or federal regulations, or would not be subject to 
+9
+such limitations applied as if the combined group were the consolidated group; 
+10
+and
+11
+(e)  Is not otherwise not limited by the law of the State; and
+12
+(3)  From the result of the addition of the amounts of subparagraphs (1) and (2) is 
+13
+subtracted the net operating loss carry-over of a member of the combined group 
+14
+attributed to that member under paragraph B that has not been used to offset income 
+15
+and is not otherwise limited by the law of the State as of the date that member is 
+16
+no longer part of the combined group.
+17
+B.  If the combined group net operating loss carry-over must be attributed to particular 
+18
+members of the group for purposes of determining limitations applicable to the amount 
+19
+or use of the net operating loss carry-over under this subsection, the combined group 
+20
+net operating loss generated for any applicable tax year must be multiplied by a 
+21
+fraction, the numerator of which is the separate entity net operating loss, if any, of the 
+22
+member for that tax year and the denominator of which is the total separate entity net 
+23
+operating loss for all the members of the combined group that had net operating losses 
+24
+for that tax year. A member's separate entity net operating loss is determined as 
+25
+follows:
+26
+(1)  Multiply the amount of combined group ordinary apportionable income 
+27
+determined under subsection 3 by the member's separate entity apportionment 
+28
+factor as determined under section 2415, subsection 2;
+29
+(2)  Add to the amount determined under subparagraph (1) the amount of any 
+30
+combined group net gain determined under subsection 5 multiplied by the 
+31
+member's separate entity apportionment factor as determined under section 2415, 
+32
+subsection 2;
+33
+(3)  Add or subtract, as applicable, to or from the amount calculated under 
+34
+subparagraph (2) the amount of any nonapportionable items of income, expense, 
+35
+gain or loss allocated to the State under subsection 6 that were generated by the 
+36
+member; and
+37
+(4)  Add or subtract, as applicable, to or from the amount calculated under 
+38
+subparagraph (3) any adjustments to properly reflect the member's separate entity 
+39
+loss.
+40
+A member may not be attributed total losses under this paragraph in excess of the 
+41
+combined group loss properly reported to the State in the tax year.
+42
+C.  In computing the net operating loss carry-over for a member of the combined group, 
+43
+the separate entity net operating losses for all members computed under subsection 5, 
+
+Page 8 - 132LR1463(01)
+44
+paragraph F may be used to offset combined group net income in other tax years, as 
+45
+allowed under federal law or the law of the State, on a pro rata basis, starting with the 
+46
+earliest tax year.
+4
+9.  Application of state tax credits.  If the use of a tax credit provided in this chapter 
+5
+is limited to the Maine tax attributed to a member of a combined group, the tax that may 
+6
+be offset by the credit is calculated as follows:
+7
+A.  Multiply the amount of combined group ordinary apportionable income determined 
+8
+under subsection 3 by the member's separate entity apportionment factor as determined 
+9
+under section 2415, subsection 2;
+10
+B.  To the amount determined under paragraph A, add the result of the multiplication 
+11
+of any combined group net gain determined under subsection 5 by the member's 
+12
+separate entity apportionment factor determined under section 2415, subsection 2;
+13
+C.  Add or subtract, as applicable, to or from the amount determined under paragraph 
+14
+B the amount of any nonapportionable items of income, expense, gain or loss allocated 
+15
+to the State under subsection 6 that were generated by the member;
+16
+D.  Add or subtract, as applicable, to or from the amount determined under paragraph 
+17
+C any adjustments to properly reflect the member's separate entity loss; and
+18
+E. Multiply the amount determined under paragraph D by the applicable tax rate.
+19
+§2415.  Allocation and apportionment
+20
+Unless otherwise provided in this chapter, section 5211 determines how income or loss, 
+21
+or items making up income or loss, are allocated and apportioned to the State.
+22
+1.  Combined group apportionment factor.  The combined group apportionment 
+23
+factor is determined pursuant to this subsection.
+24
+A.  The combined group apportionment factor is a fraction determined under section 
+25
+5211, the numerator of which includes amounts sourced to the State for the combined 
+26
+group's unitary business, regardless of the separate entity to which that factor may be 
+27
+attributed, and the denominator of which includes amounts associated with the 
+28
+combined group's unitary business, wherever located.
+29
+B.  All income and the factor of a combined group must be combined as required by 
+30
+chapter 821 regardless of any state special apportionment system for any particular 
+31
+entity if considered separately.  A taxpayer may use the special apportionment system 
+32
+for a particular entity with permission of the bureau if the taxpayer demonstrates by 
+33
+clear and convincing evidence that failure to use the special formula will result in an 
+34
+unfair representation of income produced in this State.
+35
+C.  If any information pertinent to apportionment is disclosed as part of some other 
+36
+regulatory regime, that information must be disclosed to the bureau.  Such 
+37
+apportionment information may be used in any apportionment calculations by the 
+38
+taxpayer or may be required to be used by the bureau in rules or other guidance.  As 
+39
+used in this paragraph, "other regulatory regime" includes disclosures for financial 
+40
+reporting purposes or securities law purposes, including, but not limited to, reports by 
+41
+a financial accounting standards board relating to reporting by geographic area.
+1
+2
+3
+
+Page 9 - 132LR1463(01)
+1
+2.  Separate entity apportionment factor.  The separate entity apportionment factor 
+2
+for a member of the combined group is a fraction determined under section 5211, the 
+3
+numerator of which includes amounts sourced to the State for the member and the 
+4
+denominator of which includes amounts associated with the combined group's unitary 
+5
+business, wherever located.
+6
+3.  Partnership interest.  If a member of the combined group holds a partnership 
+7
+interest from which it derives apportionable income, the share of the partnership's 
+8
+apportionment factor to be included in the apportionment factor of the group is determined 
+9
+by multiplying the partnership's factor by a fraction, the numerator of which is the amount 
+10
+of the partnership's apportionable income properly included in the member's income, 
+11
+whether received directly or indirectly, and including any guaranteed payments, and the 
+12
+denominator of which is the amount of the partnership's total apportionable income. If a 
+13
+member of the combined group directly or indirectly receives an allocation of a partnership 
+14
+tax item, such as an item of loss or expense, so that it is not possible to determine the 
+15
+member's share of apportionable income, the assessor may adopt rules for inclusion of 
+16
+particular partnership factors, or portions of factors, in the combined group's factors.
+17
+§2416.  Deference to decisions
+18
+Any matter left to the discretion of the assessor under this chapter, including a 
+19
+determination of whether a business entity is or is not a unitary business, must be treated 
+20
+as a mixed question of law and fact. The assessor's decision must be treated as a mixed 
+21
+finding of law and fact that must be accorded substantial deference by any tribunal or court 
+22
+of law in this State.
+23
+§2417.  Rules
+24
+The assessor shall adopt rules to implement this chapter, including, but not limited to, 
+25
+section 2412, subsection 2, section 2413, subsection 4, section 2414, subsection 1, 
+26
+paragraph D and section 2415, subsection 3.  Rules adopted pursuant to this section are 
+27
+routine technical rules pursuant to Title 5, chapter 375, subchapter 2-A.
+28
+Sec. 2.  Application. This Act applies to tax years beginning on or after January 1, 
+29
+2027.
+30
+SUMMARY
+31
+This bill, based on the Model Statute for Worldwide Combined Reporting, requires a 
+32
+taxpayer, including a corporation or unitary business, that reports more than 
+33
+$1,000,000,000 in gross revenues to file a combined return containing all the financial 
+34
+information of that taxpayer's net profits and gross revenues worldwide.  The taxpayer's 
+35
+liability for Maine corporate income tax is determined based on that combined return.
+31
+32
+33
+34
+35

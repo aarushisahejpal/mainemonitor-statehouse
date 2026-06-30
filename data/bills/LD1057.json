@@ -1,0 +1,87 @@
+{
+  "ld": 1057,
+  "paper": "HP0686",
+  "paper_display": "HP 686",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097439",
+  "title": "Resolve, to Aid Municipalities, Animal Control Officers and Other Parties in Complying with Electronic Dog Licensing Requirements",
+  "committee": "Agriculture, Conservation and Forestry",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 21, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/20/2025 - Reports READ . Representative PLUECKER of Warren, MOVED to ACCEPT the Majority Ought Not to Pass Report. Representative GREENWOOD of Wales REQUESTED a division on the motion to ACCEPT the Majority Ought Not to Pass Report. The Chair ordered a division. A vote of the House was taken. 74 voted in favor of the same and 64 against, and accordingly the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/21/2025 - Reports Read On motion by Senator TALBOT ROSS of Cumberland the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Randall GREENWOOD",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Wales"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ANIMALS",
+      "minor": "DOGS",
+      "detail": "LICENSING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-12",
+      "date_raw": "3/12/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on March 12, 2025. The Resolve was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "House",
+      "description": "Reports READ . Representative PLUECKER of Warren, MOVED to ACCEPT the Majority Ought Not to Pass Report. Representative GREENWOOD of Wales REQUESTED a division on the motion to ACCEPT the Majority Ought Not to Pass Report. The Chair ordered a division. A vote of the House was taken. 74 voted in favor of the same and 64 against, and accordingly the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator TALBOT ROSS of Cumberland the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-174 )",
+      "new_title": "Resolve, to Aid Municipalities in Complying with Dog Licensing Database Requirements",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0686&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0686&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0686",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0686&SessionID=16",
+  "scraped_at": "2026-06-30T18:52:06Z"
+}

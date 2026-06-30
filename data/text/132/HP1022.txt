@@ -1,0 +1,1112 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1564
+H.P. 1022
+House of Representatives, April 10, 2025
+An Act to Delay Implementation of Recent Changes to Maine's 
+Beverage Container Redemption Law
+(EMERGENCY)
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SOBOLESKI of Phillips.
+
+Page 1 - 132LR2018(01)
+1
+Emergency preamble.  Whereas, acts and resolves of the Legislature do not 
+2
+become effective until 90 days after adjournment unless enacted as emergencies; and
+3
+Whereas, this legislation must take effect before the expiration of the 90-day period 
+4
+so that changes to the laws governing manufacturers, distributors and dealers of beverage 
+5
+containers take effect before July 15, 2025; and 
+6
+Whereas, in the judgment of the Legislature, these facts create an emergency within 
+7
+the meaning of the Constitution of Maine and require the following legislation as 
+8
+immediately necessary for the preservation of the public peace, health and safety; now, 
+9
+therefore,
+10
+Be it enacted by the People of the State of Maine as follows:
+11
+Sec. 1.  38 MRSA §3105, sub-§5, as amended by PL 2023, c. 482, §12, is further 
+12
+amended to read:
+13
+5.  Label registration.  An initiator of deposit shall register the container label of any 
+14
+beverage offered for sale in the State on which it initiates a deposit.  Registration must be 
+15
+on forms or in an electronic format provided by the department prior to July 15, 2025 2026 
+16
+and by the cooperative beginning July 15, 2025 2026 and must include the universal 
+17
+product code for each combination of beverage and container manufactured.  The initiator 
+18
+of deposit shall renew a label registration annually and whenever that label is revised by 
+19
+altering the universal product code or whenever the container on which it appears is 
+20
+changed in size, composition or glass color.  The initiator of deposit shall also include as 
+21
+part of the registration identification of a collection agent, identification of all of the parties 
+22
+to a commingling agreement that applies to the container and proof of the collection 
+23
+agreement.
+24
+A.  Prior to July 15, 2025 2026, the department may charge a fee for registration and 
+25
+registration renewals under this subsection.
+26
+B.  Beginning July 15, 2025 2026, a commingling group shall ensure that all initiators 
+27
+of deposit participating in the commingling group provide to the cooperative accurate 
+28
+and up-to-date label registration information required by this subsection and that any 
+29
+updates to label registrations are provided to the cooperative at least 30 days prior to 
+30
+introduction for sale in the State.  The cooperative shall ensure that accurate and up-to-
+31
+date information regarding all label registrations is shared with entities using or 
+32
+administering reverse vending machine and account-based bulk processing programs 
+33
+and is made available on its publicly accessible website.
+34
+Sec. 2.  38 MRSA §3106, sub-§5-A, ¶D, as enacted by PL 2023, c. 482, §14, is 
+35
+amended to read:
+36
+D.  A distributor that had beverage container costs apportioned to it by a dealer or 
+37
+redemption center using an alternative apportionment method under a waiver approved 
+38
+pursuant to this section may apply to the department for reimbursement of beverage 
+39
+container costs or other financial losses incurred as a direct result of the alternative 
+40
+apportionment method if the distributor can demonstrate to the department's 
+41
+satisfaction that the distributor:
+
+Page 2 - 132LR2018(01)
+1
+(1)  Would have been paid additional beverage container costs if the distributor's 
+2
+beverage containers were processed through a reverse vending machine or similar 
+3
+technology that scanned each container; or
+4
+(2)  Otherwise suffered a financial loss as a direct result of the alternative 
+5
+apportionment method implemented under the waiver.
+6
+A distributor must submit a request for reimbursement under this paragraph prior to 
+7
+December 31, 2025 2026.  If the department determines that a distributor is eligible for 
+8
+reimbursement under this paragraph, the department shall reimburse the distributor 
+9
+using funds from the Cost and Carbon Efficient Technology Fund established under 
+10
+section 3114‑A.
+11
+Sec. 3.  38 MRSA §3106, sub-§5-A, as enacted by PL 2023, c. 482, §14, is amended 
+12
+by amending the 2nd blocked paragraph to read:
+13
+On or before February 15, 2025 2026, the department shall submit a report to the joint 
+14
+standing committee of the Legislature having jurisdiction over environment and natural 
+15
+resources matters describing its findings or recommendations regarding the implementation 
+16
+of the temporary waiver process under this subsection.  The report may be included in the 
+17
+report required pursuant to section 3115, subsection 3 that is required by February 15, 2025 
+18
+2026.  After reviewing the report, the committee may report out legislation relating to the 
+19
+report.
+20
+Sec. 4.  38 MRSA §3106, sub-§5-A, as enacted by PL 2023, c. 482, §14, is amended 
+21
+by amending the 3rd blocked paragraph to read:
+22
+This subsection is repealed January 1, 2026 2027.
+23
+Sec. 5.  38 MRSA §3106, sub-§6, as amended by PL 2023, c. 482, §15 and affected 
+24
+by §43, is further amended to read:
+25
+6.  Obligation to preserve container value.  Notwithstanding subsection 8‑A, a 
+26
+commingling group or its agent may refuse to accept, or pay the refund value and handling 
+27
+costs to a dealer, redemption center or other person for, a beverage container that has been 
+28
+processed by a reverse vending machine or account-based bulk processing program in a 
+29
+way that has, for a nonrefillable beverage container, reduced the recycling value of the 
+30
+container below current market value or, for a refillable beverage container, has damaged 
+31
+the container in a manner that prevents its reuse.  This subsection may not be interpreted to 
+32
+prohibit a written processing agreement between a commingling group and a dealer or 
+33
+redemption center and does not relieve a commingling group of its obligation under 
+34
+subsection 8‑A to accept empty, unbroken and reasonably clean beverage containers.  
+35
+Beginning July 15, 2025 2026, the cooperative, on behalf of its member commingling 
+36
+groups, shall negotiate agreements with dealers and redemption centers regarding 
+37
+processing payments for each beverage container material type.  The department shall 
+38
+adopt rules to establish the recycling value of beverage containers under this subsection 
+39
+and the rules may authorize the use of a 3rd-party vendor to determine if a beverage 
+40
+container has been processed by a reverse vending machine or account-based bulk 
+41
+processing program in a manner that, for a nonrefillable beverage container, has reduced 
+42
+the recycling value below current market value or, for a refillable beverage container, has 
+43
+damaged the container in a manner that prevents its reuse.  The rules must outline the 
+44
+method of allocating among the parties involved the payment for 3rd-party vendor costs.
+
+Page 3 - 132LR2018(01)
+1
+Sec. 6.  38 MRSA §3106, sub-§8-A, as enacted by PL 2023, c. 482, §17, is amended 
+2
+to read:
+3
+8-A.  Obligation to pick up and recycle containers.  Beginning October 15, 2024, in 
+4
+accordance with the requirements of this subsection and the rules adopted pursuant to this 
+5
+subsection, a designated pick-up entity has the obligation to ensure the timely pickup and 
+6
+recycling of all empty, unbroken and reasonably clean beverage containers subject to the 
+7
+requirements of this chapter from dealers and redemption centers, including from any 
+8
+locations where an account-based bulk processing program is in operation.  As used in this 
+9
+subsection, "designated pick-up entity" means, prior to July 15, 2025 2026, a commingling 
+10
+group or its pick-up agent and, beginning July 15, 2025 2026, the cooperative or its pick-
+11
+up agent or agents.
+12
+A.  Notwithstanding any provision of this subsection to the contrary, prior to July 15, 
+13
+2025 2026, in the case of a designated pick-up entity that is a commingling group, the 
+14
+commingling group's responsibilities under this subsection apply only to those 
+15
+beverage containers from the initiators of deposit that are members of that 
+16
+commingling group.
+17
+B.  The department shall adopt rules to implement this subsection.  The rules must, at 
+18
+a minimum, establish pickup frequency standards based on the volume of beverage 
+19
+containers collected by each dealer or redemption center, accounting for any 
+20
+irregularities in volume, in a manner that promotes communication between designated 
+21
+pick-up entities and dealers and redemption centers and that increases transportation 
+22
+efficiency while maintaining the level of service provided to dealers and redemption 
+23
+centers such that dealers and redemption centers are not required to store collected 
+24
+beverage containers for extended periods of time without contact from and 
+25
+compensation provided by the designated pick-up entity.  Rules adopted pursuant to 
+26
+this paragraph are routine technical rules as defined in Title 5, chapter 375, subchapter 
+27
+2‑A.
+28
+Sec. 7.  38 MRSA §3106, sub-§9, as amended by PL 2023, c. 482, §18, is further 
+29
+amended to read:
+30
+9.  Plastic bags.  Plastic bags used by a dealer or redemption center and the cost 
+31
+allocation of these bags must conform to rules adopted by the department concerning size 
+32
+and gauge. Beginning July 15, 2025 2026, the cooperative shall provide to the dealer or 
+33
+redemption center, or reimburse the dealer or redemption center for the cost of, the plastic 
+34
+bags used by the dealer or redemption center to contain redeemed beverage containers.
+35
+Sec. 8.  38 MRSA §3107, sub-§3-B, ¶B, as enacted by PL 2023, c. 482, §26, is 
+36
+amended to read:
+37
+B.  By January 15, 2025 2026, the cooperative shall submit a plan for the operation of 
+38
+the program to the department for review and approval. The plan must include, but is 
+39
+not limited to:
+40
+(1)  The method by which the program will facilitate the transition from beverage 
+41
+container sorting at redemption centers by brand to sorting by material type and, 
+42
+for redemption centers that manually sort containers, by size within each material 
+43
+type.  The program may facilitate the negotiation of agreements with redemption 
+44
+centers to gather brand data through use of reverse vending machines, account-
+
+Page 4 - 132LR2018(01)
+45
+based bulk processing programs or similar technology as long as the cost of such 
+46
+data collection is paid by the program;
+3
+(2)  Standards to provide for fair apportionment of costs among the commingling 
+4
+groups and initiators of deposit included in the program, which may be based on:
+5
+(a)  The combined beverage container sales by the initiators of deposit that are 
+6
+members of each commingling group;
+7
+(b)  The unit or brand counts generated by reverse vending machines or 
+8
+account-based bulk processing programs as long as the reverse vending 
+9
+machines or account-based bulk processing programs are subject to periodic 
+10
+3rd-party audits on a schedule approved by the department and with the costs 
+11
+of those audits paid by the program; and  
+12
+(c)  The rates of redemption, as determined pursuant to the method set forth in 
+13
+subparagraph (3) and in accordance with the requirements of subparagraph (5);
+14
+(3)  A method for determining the rate of redemption for beverage containers, 
+15
+which must be verified through a 3rd-party audit paid for by the cooperative, 
+16
+expressed as a percentage of the beverage containers redeemed that are available 
+17
+for redemption; the rate of redemption by beverage type and by beverage container 
+18
+material type; and, to the maximum extent practicable, regional redemption rates 
+19
+in the State.  The method for determining the redemption rate may not include in 
+20
+its calculation any unredeemed beverage containers collected or processed by 
+21
+municipal or other recycling programs.  The program must ensure that a single 
+22
+redemption rate, determined by the method specified in the plan, is used by all 
+23
+commingling groups and initiators of deposit to determine cost apportionment 
+24
+pursuant to subparagraph (2);
+25
+(4)  A budget for the program that includes, but is not limited to, identification of 
+26
+any start-up costs for the program that will not be ongoing, including, but not 
+27
+limited to, the costs of the study described in paragraph F, and a description of the 
+28
+method by which the cooperative will determine and collect payments from 
+29
+commingling groups to cover the program's start-up costs;
+30
+(5)  The method by which the cooperative will collect deposits from initiators of 
+31
+deposit for nonrefillable beverage containers and handling fees for redeemed 
+32
+containers, whether directly from the initiator of deposit or through the 
+33
+commingling group of which the initiator of deposit is a member.  The program 
+34
+must ensure that an initiator of deposit is not required to pay any handling fees for 
+35
+its beverage containers that exceeds the applicable redemption rate for those 
+36
+containers as calculated pursuant to subparagraph (3);
+37
+(6)  A description of how the cooperative intends to segregate, maintain, calculate 
+38
+and expend unclaimed beverage container deposits in accordance with section 
+39
+3108-A;
+40
+(7)  A description of how the cooperative will provide a consistent beverage 
+41
+container pick-up schedule for each redemption center in accordance with the pick-
+42
+up requirements of section 3106, subsection 8-A and the rules adopted pursuant to 
+43
+that subsection.  The program must ensure that pick-up schedules are designed to 
+44
+reduce transportation distances and minimize costs but must allow each 
+1
+2
+
+Page 5 - 132LR2018(01)
+45
+commingling group to provide for beverage container pickup of the commingling 
+46
+group's equivalent container material;
+3
+(8)  Information on how the cooperative will be responsible for and ensure payment 
+4
+to a dealer or redemption center within 10 calendar days of any beverage container 
+5
+pickup of all applicable deposits and handling fees for the beverage containers 
+6
+picked up from the dealer or redemption center, except as otherwise provided under 
+7
+a written agreement entered into by the cooperative or a member commingling 
+8
+group and the dealer or redemption center, and the applicable costs of plastic bags 
+9
+provided to the dealer or redemption center in accordance with section 3106, 
+10
+subsection 9;
+11
+(9)  Information on how the cooperative will ensure that each commingling group 
+12
+and each initiator of deposit that is a member of the commingling group maintains 
+13
+ownership over the commingling group's and initiator of deposit's share of the 
+14
+beverage containers redeemed, collected and processed for recycling under the 
+15
+program;
+16
+(10)  Information on how the cooperative will calculate the base rates offered for 
+17
+the processing of beverage containers using an account-based bulk processing 
+18
+program or pick-up agents;
+19
+(11)  A certification that the cooperative will not share, except with the department 
+20
+as necessary, information provided by a commingling group or initiator of deposit 
+21
+that is proprietary information and that is identified by the commingling group or 
+22
+initiator of deposit as proprietary information.  The certification must include a 
+23
+description of the methods by which the cooperative intends to ensure the 
+24
+confidentiality of that information;
+25
+(12)  Information on how the cooperative will maintain a publicly accessible 
+26
+website regarding the program that includes, at a minimum, the following:
+27
+(a)  A searchable list of all initiators of deposit and beverage container label 
+28
+registrations, including for beverages sold directly to consumers in the State, 
+29
+in a manner that allows redemption centers, dealers and consumers to obtain 
+30
+up-to-date information regarding whether a particular beverage is authorized 
+31
+for sale and redemption in the State;
+32
+(b)  A search function through which consumers can identify nearby dealers or 
+33
+redemption centers offering redemption services based on information made 
+34
+available to the cooperative by the department; and
+35
+(c)  The base rates for the processing of beverage containers by container type 
+36
+as determined in accordance with subparagraph (10);
+37
+(13)  A proposed timeline for implementation of the program plan, if approved, 
+38
+designed to ensure implementation of the plan on or before July 15, 2025 2026 and 
+39
+a description of how the cooperative will notify commingling groups, initiators of 
+40
+deposit, dealers, distributors, pick-up agents and other affected entities regarding 
+41
+program implementation, which must include, but is not limited to, posting of 
+42
+information relating to program implementation on the website described in 
+43
+subparagraph (12);
+1
+2
+
+Page 6 - 132LR2018(01)
+1
+(14)  A description of how the cooperative will support the development of 
+2
+infrastructure throughout the State for the collection and sanitization of refillable 
+3
+beverage containers and for the return of those refillable beverage containers to 
+4
+initiators of deposit of refillable beverage containers for refilling and sale.  That 
+5
+infrastructure development may involve redemption centers, centralized washing 
+6
+and sanitization facilities and other methods;
+7
+(15)  Information regarding the advisory group formed by the board in accordance 
+8
+with paragraph A, including, but not limited to, its membership and the length of 
+9
+the terms of its members, a proposed meeting schedule and a description of the role 
+10
+and responsibilities of the advisory group, which may include, but are not limited 
+11
+to, advising the board regarding the development of the plan submitted under this 
+12
+paragraph;
+13
+(16)  A description of how the cooperative will operate the program in a manner 
+14
+designed to achieve an overall statewide redemption rate for all beverage 
+15
+containers subject to the requirements of this chapter, as determined in accordance 
+16
+with subparagraph (3), of 75% by January 1, 2027 2028; of 80% by January 1, 
+17
+2032 2033; and of 85% by January 1, 2037 2038; and
+18
+(17)  Any other information required by the department.
+19
+Sec. 9.  38 MRSA §3107, sub-§3-B, ¶C, as enacted by PL 2023, c. 482, §26, is 
+20
+amended to read:
+21
+C.  Within 120 days of receipt of a plan submitted by the cooperative under paragraph 
+22
+B, the department shall review the plan and approve the plan, approve the plan with 
+23
+conditions or reject the plan.  Prior to determining whether to approve or reject a plan, 
+24
+the department shall hold a public hearing on the plan.  The department shall notify the 
+25
+cooperative in writing of its determination and, if the plan is approved with conditions 
+26
+or rejected, shall include in the notification a description of the basis for the conditions 
+27
+or rejection.  
+28
+(1)  If the cooperative's plan is rejected, it may submit a revised plan to the 
+29
+department within 60 days of receiving the notice of rejection.  The department 
+30
+may approve the revised plan as submitted or approve the revised plan subject to 
+31
+the implementation of specific changes required by the department.
+32
+(2)  If the cooperative's plan is approved in accordance with this paragraph, the 
+33
+cooperative shall implement the plan on or before July 15, 2025 2026 in accordance 
+34
+with the timeline for implementation described in paragraph B, subparagraph (13), 
+35
+subject to any changes or conditions imposed by the department.  If the cooperative 
+36
+fails to implement an approved plan on or before July 15, 2025 2026, the initiators 
+37
+of deposit that are members of each of the commingling groups included in the 
+38
+cooperative are deemed to be in violation of this chapter and are subject to penalties 
+39
+pursuant to section 3111.
+40
+Sec. 10.  38 MRSA §3107, sub-§3-B, ¶E, as enacted by PL 2023, c. 482, §26, is 
+41
+amended to read:
+42
+E.  On or before April 1, 2026 2027, and annually thereafter, the cooperative shall 
+43
+submit to the department and make available on its publicly accessible website a report 
+44
+that includes, but is not limited to:
+
+Page 7 - 132LR2018(01)
+1
+(1)  Contact information for the cooperative and a list of all initiators of deposit 
+2
+and beverage container label registrations, including for beverages sold directly to 
+3
+consumers in the State;
+4
+(2)  Information on the rates of redemption for beverage containers calculated in 
+5
+accordance with plan requirements under paragraph B, subparagraph (3).  The 
+6
+report must include information regarding the total number of beverage containers 
+7
+subject to the requirements of this chapter sold or distributed in the State during 
+8
+the previous calendar year by the members of each commingling group, aggregated 
+9
+within each commingling group to provide only a total, aggregated number for 
+10
+each commingling group.  If the calculated overall statewide redemption rate for 
+11
+beverage containers is less than the applicable redemption rate goal described in 
+12
+paragraph B, subparagraph (16), the report must include recommendations for 
+13
+changes to the operation of the program that are designed to achieve the required 
+14
+rate, which may include, but are not limited to, recommended increases in the 
+15
+deposit and refund value for beverage containers;
+16
+(3)  Detailed information on the calculation and expenditure of unclaimed deposit 
+17
+funds in the previous calendar year in accordance with section 3108‑A;
+18
+(4)  A description of the education and outreach efforts implemented under the 
+19
+program in the previous calendar year to encourage participation in the beverage 
+20
+container redemption program, reduce instances of fraud in redemption and 
+21
+educate businesses and consumers on the value and safety of refillable beverage 
+22
+containers.  The report must include the results of an assessment, completed by an 
+23
+independent 3rd party, of the effectiveness of the efforts;
+24
+(5)  Any recommendations for changes to the program to improve the convenience 
+25
+of the collection system under the program, consumer education or program 
+26
+evaluation and any goals for supporting the use of refillable and reusable 
+27
+containers;
+28
+(6)  A financial report on the program, as determined through a 3rd-party financial 
+29
+audit, that identifies the total cost of implementing the program and the specific 
+30
+administration, collection, transportation, disposition and communication costs for 
+31
+the program, including all costs associated with payment of handling fees, and an 
+32
+anticipated budget for the subsequent program year; and
+33
+(7)  Any other information required by the department.
+34
+For the report due April 1, 2026 2027 only, the department may modify or waive any 
+35
+of the reporting requirements set forth in this paragraph upon a finding that the 
+36
+information required cannot feasibly be determined or provided by the cooperative due 
+37
+to a partial-year operation of the program.
+38
+Sec. 11.  38 MRSA §3107, sub-§3-B, ¶F-1, as enacted by PL 2023, c. 529, §1, is 
+39
+amended to read:
+40
+F-1.  After consultation with the department and interested persons, the cooperative 
+41
+shall contract with a 3rd-party entity to complete a study by July 15, 2026 2027 to 
+42
+determine the feasibility of achieving goals of 5% refillable and reusable beverage 
+43
+containers sold in the State by 2030, by 2040 and by 2050 and 10% refillable and 
+44
+reusable beverage containers sold in the State by 2030, by 2040 and by 2050 and to 
+
+Page 8 - 132LR2018(01)
+45
+determine the infrastructure and investments that would be necessary to support those 
+46
+goals and shall provide the results of the study, along with any related 
+47
+recommendations, to the department.  After reviewing the results of the study and any 
+48
+recommendations of the cooperative, the department shall include the results of the 
+49
+study, along with any additional comments or recommendations from the department, 
+50
+in the report required by section 3115, subsection 3 that is due by February 15, 2027 
+51
+2028.
+8
+Sec. 12.  38 MRSA §3107, sub-§3-B, ¶G, as enacted by PL 2023, c. 482, §26, is 
+9
+amended to read:
+10
+G.  The cooperative shall pay to the department a reasonable annual fee established by 
+11
+the department, not to exceed $600,000, as provided in this paragraph.
+12
+(1)  On or before July 15, 2025 2026, the cooperative shall pay to the department 
+13
+the annual fee under this paragraph to cover the department's costs for review of 
+14
+the program plan submitted by the cooperative pursuant to paragraph B and the 
+15
+department's costs prior to program plan implementation in its oversight of the 
+16
+development and implementation of the commingling program under this 
+17
+subsection.  The department may require the cooperative to pay a portion of the fee 
+18
+required under this subparagraph at the time the cooperative submits a program 
+19
+plan for review and approval pursuant to paragraph B to cover the department's 
+20
+cost for review of the program plan.
+21
+(2)  On or before April 1, 2026 2027, and annually thereafter, the cooperative shall 
+22
+pay to the department the annual fee under this paragraph to cover the department's 
+23
+costs for review of the cooperative's annual report under paragraph E and the 
+24
+department's costs in the previous calendar year for its oversight, administration 
+25
+and enforcement of the commingling program implemented under this subsection. 
+26
+The cooperative shall pay the fee required pursuant to this subparagraph at the time 
+27
+it submits the annual report required pursuant to paragraph E.
+28
+Sec. 13.  38 MRSA §3107, sub-§3-B, ¶I, as enacted by PL 2023, c. 482, §26, is 
+29
+amended to read:
+30
+I.  Beginning July 15, 2025 2026, an initiator of deposit that is not in compliance with 
+31
+all applicable requirements of the single commingling program implemented pursuant 
+32
+to this subsection:
+33
+(1)  Commits a violation of this chapter and is subject to penalties pursuant to 
+34
+section 3111; and
+35
+(2)  Is prohibited from selling or distributing in the State any beverage container 
+36
+subject to the requirements of this chapter as long as the violation exists. A 
+37
+distributor or dealer may not sell or distribute in the State any such containers of 
+38
+the initiator of deposit, and the department may remove from sale any such 
+39
+containers of the initiator of deposit.
+40
+Sec. 14.  38 MRSA §3108-A, sub-§1, as enacted by PL 2023, c. 482, §28 and 
+41
+affected by §43, is amended to read:
+42
+1.  Commingling group; unclaimed deposits.  Prior to July 15, 2025 2026, unclaimed 
+43
+deposits for nonrefillable beverage containers that are subject to a commingling agreement 
+1
+2
+3
+4
+5
+6
+7
+
+Page 9 - 132LR2018(01)
+44
+pursuant to section 3107, subsection 1‑A or 1‑B are the property of the members of the 
+45
+commingling group administering the agreement.  The commingling group shall determine 
+46
+the disposition and use of those unclaimed deposits.
+4
+Sec. 15.  38 MRSA §3108-A, sub-§2, as amended by PL 2023, c. 529, §§2 to 4 and 
+5
+affected by §7, is further amended to read:
+6
+2.  Commingling cooperative; unclaimed deposits.  Except as provided in paragraph 
+7
+D, beginning July 15, 2025 2026, unclaimed deposits for nonrefillable beverage containers 
+8
+subject to the requirements of this chapter are the property of the cooperative and, in 
+9
+accordance with rules adopted by the department pursuant to subsection 3, must be 
+10
+deposited and maintained by the cooperative in a separate account or accounts and 
+11
+expended only in accordance with this subsection.
+12
+A.  The cooperative shall expend unclaimed deposit amounts as provided in paragraphs 
+13
+B and C and may not expend unclaimed deposit amounts to offset legal or lobbying 
+14
+fees or fines incurred by the cooperative, a commingling group or an initiator of 
+15
+deposit.
+16
+B.  The cooperative shall expend unclaimed deposit amounts for the following 
+17
+purposes:
+18
+(1)  Payment of the annual fee to the department as provided in section 3107, 
+19
+subsection 3‑B, paragraph G;
+20
+(2)  Reasonable costs of administering the program under section 3107, subsection 
+21
+3‑B, including, but not limited to, staffing costs and office operating costs;
+22
+(3)  Costs of educational materials and signage provided to dealers and redemption 
+23
+centers regarding redemption instructions and other information, including 
+24
+information regarding the fraudulent redemption of beverage containers in 
+25
+accordance with section 3106, subsection 10;
+26
+(4)  Reimbursement to dealers and redemption centers of the costs of plastic bags 
+27
+pursuant to section 3106, subsection 9;
+28
+(4-A)  Funding of activities and infrastructure designed to increase the use of 
+29
+refillable and reusable beverage containers and reusable beverage packaging in the 
+30
+State.  The cooperative may expend funds under this subparagraph to support 
+31
+activities and infrastructure designed to increase the use of other types of reusable 
+32
+packaging in the State.  The cooperative shall make available a minimum of 
+33
+$500,000 per calendar year for these activities, which may include, but are not 
+34
+limited to:
+35
+(a)  Activities and infrastructure relating to the development and 
+36
+implementation of models for refillable beverage container washing 
+37
+techniques, including, but not limited to, mobile washing stations, in‑house 
+38
+washing stations and the establishment of a fixed washing facility in the State;
+39
+(b)  Development of or other activities relating to container, adhesive and label 
+40
+options for refillable beverage containers; and
+41
+(c)  Outreach to manufacturers, retailers, restaurants and consumers regarding 
+42
+the benefits of refillable beverage containers and the methods available for 
+43
+ensuring such containers may be safely reused; and
+1
+2
+3
+
+Page 10 - 132LR2018(01)
+1
+(5)  Payment of $500,000 annually to the department for deposit into and use in 
+2
+accordance with the Cost and Carbon Efficient Technology Fund established in 
+3
+section 3114‑A.
+4
+The cooperative shall include in its annual report required under section 3107, 
+5
+subsection 3‑B, paragraph E any recommendations for a reduction in or other 
+6
+amendment to the payment required under this subparagraph that the cooperative 
+7
+believes necessary due to a reduction in the amount of unclaimed deposits available 
+8
+for expenditure in accordance with paragraph C, a surplus of undistributed funding 
+9
+within the Cost and Carbon Efficient Technology Fund established in section 
+10
+3114‑A or for other reasons specified by the cooperative.
+11
+C.  Any deposits determined by the cooperative to be unclaimed in accordance with 
+12
+the rules adopted by the department pursuant to subsection 3 that are not expended by 
+13
+the cooperative as otherwise required by this section may be expended by the 
+14
+cooperative to offset other costs incurred by the program, including, but not limited to, 
+15
+costs of beverage container pickups and payment to dealers or redemption centers of 
+16
+required handling fees under section 3106, subsection 7, as long as such expenditures 
+17
+are designed to equitably offset those costs incurred by each member commingling 
+18
+group as determined pursuant to the approved program plan under section 3107, 
+19
+subsection 3‑B, paragraph B, subparagraph (2).
+20
+D.  Notwithstanding any provision of this section to the contrary, if the cooperative 
+21
+fails to implement a program plan approved by the department pursuant to section 
+22
+3107, subsection 3‑B, paragraph C by July 15, 2025 2026, until the cooperative 
+23
+implements an approved program plan, unclaimed deposits for nonrefillable beverage 
+24
+containers subject to the requirements of this chapter must be deposited and maintained 
+25
+by the cooperative, or, in the event the cooperative has not been established, by each 
+26
+commingling group, in a separate account or accounts and in the manner directed by 
+27
+the department must be paid to the department for deposit into and use in accordance 
+28
+with the Beverage Container Enforcement Fund established under section 3114.
+29
+Sec. 16.  38 MRSA §3109, sub-§5-B, ¶B, as amended by PL 2023, c. 482, §30, is 
+30
+further amended to read:
+31
+B.  The department, a commingling group or, beginning July 15, 2025 2026, the 
+32
+cooperative may audit shells, shipping cartons, bags or other receptacles that have been 
+33
+prepared for pickup by a redemption center.
+34
+(1)  An audit may be conducted by the department, a commingling group or, 
+35
+beginning July 15, 2025 2026, the cooperative on site at the redemption center or 
+36
+off site at a different location.  Off-site audits may involve the use of bulk 
+37
+redemption technology.
+38
+(2)  An audit must be conducted on a minimum of 1,000 beverage containers or, in 
+39
+the case of containers processing through a reverse vending machine or account-
+40
+based bulk processing program, on an equivalent amount by weight of the same 
+41
+material type.
+42
+(3)  If the results of an audit vary from the information included on the label of the 
+43
+shell, shipping carton, bag or other receptacle required by paragraph A, the 
+44
+department, a commingling group or, beginning July 15, 2025 2026, the 
+
+Page 11 - 132LR2018(01)
+45
+cooperative shall, in the case of an on-site audit, require the redemption center to 
+46
+add or remove containers or an equivalent weight of the same material type to 
+47
+address the variation in the results of the audit or, in the case of an off-site audit, 
+48
+require the redemption center to accept payment from the initiator of deposit or 
+49
+pick-up agent adjusted in accordance with the variation in the results of the audit.
+6
+(4)  The department may deny an application for approval of a redemption center 
+7
+under subsection 2 if the redemption center, pursuant to audits conducted by the 
+8
+department in accordance with this subsection, has repeatedly prepared for pickup 
+9
+shells, shipping cartons, bags or other receptacles containing less than 97% of the 
+10
+beverage containers or equivalent weight of the same material type that such shells, 
+11
+shipping cartons, bags or other receptacles are labeled as containing.
+12
+Sec. 17.  38 MRSA §3113, sub-§5, as enacted by PL 2023, c. 482, §34, is amended 
+13
+to read:
+14
+5.  Convenience standard.  On or after July 15, 2025 2026, the department shall adopt 
+15
+rules establishing requirements for the implementation by the cooperative of an efficient 
+16
+beverage container collection system of redemption centers that is adequate to serve the 
+17
+needs of consumers in both rural and urban areas throughout the State.  Rules adopted 
+18
+pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, 
+19
+subchapter 2‑A.
+20
+A.  The beverage container collection system to be implemented must be designed to 
+21
+provide a geographical distribution of redemption locations and of redemption options 
+22
+for consumers, including, but not limited to, manual sorting, reverse vending machines, 
+23
+bag drop programs and account-based bulk processing programs, including those 
+24
+options that provide for immediate payment of the refund value to a consumer as well 
+25
+as those that provide payment of the refund value within a specified period of time 
+26
+following beverage container drop-off.
+27
+B.  In establishing requirements for the beverage container collection system to be 
+28
+implemented, the department shall consider geographical limitations, population 
+29
+densities and reasonable days and hours of operation for redemption centers and may 
+30
+consider options for expanding redemption opportunities for consumers at locations 
+31
+other than redemption centers, including, but not limited to, at dealers and transfer 
+32
+stations.
+33
+Sec. 18.  38 MRSA §3114, sub-§2, ¶B, as amended by PL 2023, c. 482, §35, is 
+34
+further amended to read:
+35
+B.  Fees for registration of beverage container labels and registration renewals under 
+36
+section 3105, subsection 5.
+37
+This paragraph is repealed July 15, 2025 2026;
+38
+Sec. 19.  38 MRSA §3114-A, sub-§3, ¶D, as enacted by PL 2023, c. 482, §37, is 
+39
+amended by amending the first blocked paragraph to read:
+40
+This paragraph is repealed January 1, 2026 2027.
+41
+Sec. 20.  38 MRSA §3115, sub-§1, as amended by PL 2023, c. 482, §38, is further 
+42
+amended by amending the first blocked paragraph to read:
+1
+2
+3
+4
+5
+
+Page 12 - 132LR2018(01)
+1
+This subsection is repealed July 15, 2025 2026.
+2
+Sec. 21.  38 MRSA §3115, sub-§3, as amended by PL 2023, c. 529, §6, is further 
+3
+amended to read:
+4
+3.  Report.  On or before February 15, 2024, and annually thereafter, the department 
+5
+shall report to the joint standing committee of the Legislature having jurisdiction over 
+6
+environment and natural resources matters on the status of the beverage container 
+7
+redemption program implemented under this chapter.
+8
+A.  The report must include any recommendations, including draft legislation as 
+9
+necessary, for amendments to this chapter necessary for its administration or to better 
+10
+fulfill the purpose described under section 3101, including, but not limited to, 
+11
+identification of additional department staffing or resource needs to support the 
+12
+administration of this chapter.
+13
+B.  For the report required by this subsection that is due February 15, 2026 2027, and 
+14
+for each subsequent report, the department shall, at a minimum, include:
+15
+(1)  Any recommendations for necessary adjustments to the amount of the handling 
+16
+fee under section 3106, subsection 7; and
+17
+(2)  Information regarding the status of the Cost and Carbon Efficient Technology 
+18
+Fund under section 3114‑A, including, but not limited to, information regarding 
+19
+the number and amount of grants issued under that fund, information on the 
+20
+recipients of those grants and the technology that those grants were used to support.
+21
+C.  In addition to the requirements of paragraph B, for the report required by this 
+22
+subsection that is due February 15, 2027 2028, and for each subsequent report, the 
+23
+department shall, at a minimum, include information annually reported by the 
+24
+cooperative pursuant to section 3107, subsection 3‑B, paragraph E, including, but not 
+25
+limited to, information regarding the rates of redemption for beverage containers and 
+26
+the calculated overall statewide redemption rate.
+27
+D.  After reviewing the report, the committee may report out legislation relating to the 
+28
+report.  The report under this subsection may be included in the report required pursuant 
+29
+to section 1772, subsection 1.
+30
+Sec. 22.  38 MRSA §3119, sub-§1, as amended by PL 2023, c. 482, §40, is further 
+31
+amended by amending the first blocked paragraph to read:
+32
+This subsection is repealed July 15, 2025 2026.
+33
+Sec. 23.  38 MRSA §3119, sub-§2, as amended by PL 2023, c. 482, §40, is further 
+34
+amended by amending the first blocked paragraph to read:
+35
+This subsection is repealed July 15, 2025 2026.
+36
+Sec. 24.  38 MRSA §3119, sub-§3, as amended by PL 2023, c. 482, §40, is further 
+37
+amended to read:
+38
+3.  Proprietary information.  Proprietary information submitted to the department 
+39
+prior to July 15, 2025 2026 in a report required under this section that is identified by the 
+40
+submittor as proprietary information is confidential and must be handled by the department 
+41
+in the same manner as confidential information is handled under section 1310‑B.
+
+Page 13 - 132LR2018(01)
+1
+Emergency clause.  In view of the emergency cited in the preamble, this legislation 
+2
+takes effect when approved.
+3
+SUMMARY
+4
+This bill amends the law governing manufacturers, distributors and dealers of beverage 
+5
+containers in the provisions regarding labels, stamps and brand names; application; and 
+6
+commingling of beverage containers, which were recently amended by Public Law 2023, 
+7
+chapter 482, to push back by one year the implementation of the law.
+4
+5
+6
+7

@@ -1,0 +1,141 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 808
+H.P. 515
+House of Representatives, March 4, 2025
+An Act to Require School Boards and Governing Bodies of 
+Approved Private Schools to Implement Wearable Panic Alert 
+Systems
+Received by the Clerk of the House on February 27, 2025.  Referred to the Committee on 
+Education and Cultural Affairs pursuant to Joint Rule 308.2 and ordered printed pursuant to 
+Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MASTRACCIO of Sanford.
+Cosponsored by Senator INGWERSEN of York and
+Representatives: CROCKETT of Portland, DODGE of Belfast, KUHN of Falmouth, MEYER 
+of Eliot, MURPHY of Scarborough, RIELLY of Westbrook, SARGENT of York, Senator: 
+RAFFERTY of York.
+
+Page 1 - 132LR1419(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  20-A MRSA §6558 is enacted to read:
+3
+§6558.  Wearable panic alert systems
+4
+Beginning with the 2026-2027 school year, a school board or a governing body of an 
+5
+approved private school shall implement at each school building a wearable panic alert 
+6
+system.  As used in this section, "wearable panic alert system" means a collection of 
+7
+networked wearable devices that can transmit 9-1-1 calls and other notifications or 
+8
+otherwise allow for immediate contact with local emergency response agencies.
+9
+1.  Systems integration.  A wearable panic alert system must be capable of integrating 
+10
+with local public safety answering point infrastructure to transmit a 9-1-1 call and initiating 
+11
+a campuswide lockdown notification.
+12
+2.  Device distribution.  A school board or a governing body of an approved private 
+13
+school shall provide each staff person in a school building with a wearable panic alert 
+14
+system device.
+15
+3.  Training.  Prior to the first day of school each year, a school board or a governing 
+16
+body of an approved private school shall ensure that each staff person in a school building 
+17
+receives training on the protocol for and appropriate use of a wearable panic alert system 
+18
+device.
+19
+4.  Security data accessibility.  A school board or a governing body of an approved 
+20
+private school shall ensure that all security data within a school building are accessible by 
+21
+a local law enforcement agency and coordinate with the local law enforcement agency to 
+22
+establish appropriate access protocols.  Accessible security data must include access to data 
+23
+from cameras and maps.
+24
+5.  Records.  This subsection applies to records related to physical security and fire 
+25
+safety of school buildings.
+26
+A.  Any records, information, photographs, audio and visual presentations, schematic 
+27
+diagrams, surveys, recommendations or consultations or portions thereof relating 
+28
+directly to the physical security or fire safety of a school building or revealing security 
+29
+or fire safety systems that are accessed or held by a local law enforcement agency under 
+30
+this section are confidential and are not public records pursuant to Title 1, chapter 13, 
+31
+subchapter 1.
+32
+B.  Information made confidential under paragraph A may be disclosed:
+33
+(1)  To the property owner or leaseholder of the school building;
+34
+(2)  In furtherance of the official duties and responsibilities of the local law 
+35
+enforcement agency holding the information;
+36
+(3)  To a local, state or federal agency in furtherance of that agency's official duties 
+37
+and responsibilities; and
+38
+(4)  Upon a showing of good cause before a court of competent jurisdiction.
+39
+6.  Rules.  The department may adopt rules to implement this section.  Rules adopted 
+40
+pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, 
+41
+subchapter 2-A.
+
+Page 2 - 132LR1419(01)
+1
+SUMMARY
+2
+This bill requires, beginning with the 2026-2027 school year, a school board or a 
+3
+governing body of an approved private school to implement at each school building a 
+4
+wearable panic alert system that is capable of integrating with local public safety answering 
+5
+point infrastructure to transmit a 9-1-1 call and initiating a campuswide lockdown 
+6
+notification.  It directs a school board or a governing body of an approved private school 
+7
+to provide each staff person in a school building with a wearable panic alert device and 
+8
+training on the use of the device.  It requires each school board and approved private school 
+9
+governing body to ensure that all security data within a school building are accessible by a 
+10
+local law enforcement agency.  It stipulates that records related to physical security or fire 
+11
+safety are not public records pursuant to the Freedom of Access Act but does provide for 
+12
+certain disclosures.
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12

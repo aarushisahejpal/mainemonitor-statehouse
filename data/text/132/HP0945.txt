@@ -1,0 +1,1344 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1436
+H.P. 945
+House of Representatives, April 3, 2025
+An Act to Update and Clarify Provisions Related to 9-1-1 Services
+Submitted by the Public Utilities Commission pursuant to Joint Rule 204.
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SACHS of Freeport.
+
+Page 1 - 132LR0556(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA §12004-I, sub-§74-A, as amended by PL 1993, c. 566, §1, is 
+3
+further amended to read:
+4
+74-A.  
+Public Safety
+E-9-1-1 9-1-1 Council
+Expenses Only
+25 MRSA §2925
+5
+Sec. 2.  17-A MRSA §509, sub-§1, ¶A, as amended by PL 2023, c. 430, §1, is 
+6
+further amended to read:
+8
+A.  The person knowingly gives or causes to be given false information to a law 
+9
+enforcement officer, an emergency communications center or the enhanced 9-1-1 
+10
+services established in Title 25, chapter 352 with the intent of inducing the officer, the 
+11
+emergency communications center or any other emergency services personnel to 
+12
+believe that a crime has been committed or that another has committed a crime, 
+13
+knowing the information to be false;
+14
+Sec. 3.  17-A MRSA §509, sub-§1, ¶B, as amended by PL 2023, c. 430, §1, is 
+15
+further amended to read:
+16
+B.  The person knowingly gives or causes to be given false information to a law 
+17
+enforcement officer, a member of a firefighting agency, including a volunteer fire 
+18
+department, an emergency communications center, the enhanced 9-1-1 services 
+19
+established in Title 25, chapter 352 or any other person knowing that the other person 
+20
+is likely to communicate the information to a law enforcement officer, a member of a 
+21
+firefighting agency, an emergency communications center or any other emergency 
+22
+services personnel concerning a fire, explosive or other similar substance that is 
+23
+capable of endangering the safety of persons, knowing that the information is false, or 
+24
+knowing that the person has no information relating to the fire, explosive or other 
+25
+similar substance; or
+26
+Sec. 4.  17-A MRSA §509, sub-§1, ¶C, as amended by PL 2023, c. 430, §1, is 
+27
+further amended to read:
+28
+C.  The person knowingly gives or causes to be given false information concerning an 
+29
+emergency to an ambulance service, an emergency communications center, the 
+30
+enhanced 9-1-1 services established in Title 25, chapter 352, any other emergency 
+31
+services personnel or a government agency or public utility that deals with emergencies 
+32
+involving danger to life or property, with the intent of inducing the service, personnel, 
+33
+agency, center or utility to respond to the reported emergency, knowing the information 
+34
+to be false.
+35
+Sec. 5.  25 MRSA §2921, sub-§1, as enacted by PL 1987, c. 840, §3, is amended to 
+36
+read:
+37
+1.  Automatic location identification.  "Automatic location identification" means an 
+38
+enhanced a 9-1-1 service capability that enables the automatic display of information 
+39
+defining the geographical location of the telephone used to place a 9-1-1 call.
+40
+Sec. 6.  25 MRSA §2921, sub-§2, as enacted by PL 1987, c. 840, §3, is amended to 
+41
+read:
+5
+6
+7
+
+Page 2 - 132LR0556(01)
+1
+2.  Automatic number identification.  "Automatic number identification" means an 
+2
+enhanced a 9-1-1 service capability that enables the automatic display of the 7-digit number 
+3
+used to place a 9-1-1 call.
+4
+Sec. 7.  25 MRSA §2921, sub-§2-A, as amended by PL 2003, c. 359, §1, is further 
+5
+amended to read:
+6
+2-A.  Bureau.  "Bureau" means the Emergency Services Communication Bureau 
+7
+within the Public Utilities Commission, which is responsible for the statewide 
+8
+implementation and management of E-9-1-1 9-1-1.
+9
+Sec. 8.  25 MRSA §2921, sub-§5-A, as enacted by PL 2007, c. 226, §1, is amended 
+10
+to read:
+11
+5-A.  Enhanced 9-1-1 access-only service.  "Enhanced "9-1-1 access-only service" or 
+12
+"E-9-1-1 access-only service" means the provision of E-9-1-1 9-1-1 access to a residential 
+13
+telephone customer's premises when telephone service to the premises has been otherwise 
+14
+suspended or disconnected.
+15
+Sec. 9.  25 MRSA §2921, sub-§6, as amended by PL 2013, c. 119, §1, is repealed 
+16
+and the following enacted in its place:
+17
+6.  9-1-1 services.  "9-1-1 services" or "9-1-1" means the delivery of 9-1-1 calls to the 
+18
+proper public safety answering points with the automatic location identification and 
+19
+automatic number identification of an entity requesting emergency services.  "9-1-1 
+20
+services" or "9-1-1" includes Internet protocol enabled services.
+21
+Sec. 10.  25 MRSA §2921, sub-§6-D is enacted to read:
+22
+6-D.  Originating service provider.  "Originating service provider" means an entity 
+23
+that provides service to an end user that may be used to originate voice or nonvoice 9-1-1 
+24
+calls for assistance and that connects to the 9-1-1 system for the purposes of delivering 
+25
+9-1-1 services, including, but not limited to, the delivery of wireline, wireless and voice 
+26
+over Internet protocol services, to a public safety answering point.
+27
+Sec. 11.  25 MRSA §2921, sub-§7, as amended by PL 1993, c. 566, §3, is further 
+28
+amended to read:
+29
+7.  Public safety answering point.  "Public safety answering point" means a facility 
+30
+with enhanced 9-1-1 capability, operated on a 24-hour basis, assigned the responsibility of 
+31
+receiving 9-1-1 calls and, as appropriate, the physical or virtual entity where 9-1-1 calls are 
+32
+received that is responsible for directly dispatching emergency services or, through transfer 
+33
+routing or relay routing, passing 9-1-1 calls to public or private safety agencies.
+34
+Sec. 12.  25 MRSA §2921, sub-§13, as amended by PL 2009, c. 400, §1 and 
+35
+affected by §15, is further amended to read:
+36
+13.  Prepaid wireless telecommunications service.  "Prepaid wireless 
+37
+telecommunications service" means a cellular or wireless telecommunications service that 
+38
+allows a caller to dial 9-1-1 to access the E-9-1-1 9-1-1 system, which service must be paid 
+39
+for in advance and is sold in predetermined units or dollars that declines with use in a 
+40
+known amount.
+41
+Sec. 13.  25 MRSA §2921, sub-§17, as enacted by PL 2019, c. 339, §4, is amended 
+42
+to read:
+
+Page 3 - 132LR0556(01)
+1
+17.  9-1-1 call.  "9-1-1 call" means any use of enhanced 9-1-1 services initiated by any 
+2
+means or medium, including, but not limited to, voice calls and text messaging.
+3
+Sec. 14.  25 MRSA §2923-A, as amended by PL 2011, c. 505, §3, is further amended 
+4
+to read:
+5
+§2923-A.  Requirements of municipalities, plantations, counties or unorganized 
+6
+territories
+7
+Each municipality, plantation, county or unorganized territory that does not have a 
+8
+public safety answering point shall contract with an entity that does have a public safety 
+9
+answering point, which may be the department, for receiving 9-1-1 calls and, as 
+10
+appropriate, directly dispatching emergency services or, through transfer routing or relay 
+11
+routing, passing 9-1-1 calls to public or private safety agencies that dispatch emergency 
+12
+services.  If a municipality, plantation, county or unorganized territory without a public 
+13
+safety answering point does not enter into such an agreement, the department shall serve 
+14
+as the public safety answering point for that municipality, plantation, county or 
+15
+unorganized territory and the municipality, plantation, county or unorganized territory shall 
+16
+pay the department for the provision of those services.  Fees received by the department 
+17
+pursuant to this section must be deposited in the Consolidated Emergency Communications 
+18
+Fund established in section 1534. If a fee assessed to a municipality, plantation, county or 
+19
+unorganized territory for services provided pursuant to an agreement under this section or 
+20
+by the department is based in whole or in part on population, the population of the 
+21
+municipality, plantation, county or unorganized territory may not include persons held at a 
+22
+correctional facility, as defined in Title 34‑A, section 1001, subsection 6, within the 
+23
+municipality, plantation, county or unorganized territory.
+24
+Sec. 15.  25 MRSA §2923-B, sub-§1, as enacted by PL 2023, c. 186, §1, is amended 
+25
+to read:
+26
+1.  Notice.  A public safety answering point shall provide notice to the bureau prior to 
+27
+discontinuing service to a municipality, plantation, county or unorganized territory. A 
+28
+public safety answering point may not provide the notice under this subsection less than 
+29
+one year prior to the date that the public safety answering point discontinues service, unless 
+30
+the bureau finds reasonable grounds to authorize a shorter period of time for the 
+31
+notification. If appropriate, the bureau shall notify the department of the notice of 
+32
+discontinuing service received by the bureau from a public safety answering point.
+33
+Sec. 16.  25 MRSA §2923-C, as enacted by PL 2023, c. 609, §3, is amended to read:
+34
+§2923-C.  Cost reporting
+35
+1.  Reporting requirements.  Annually, on a date prescribed by the bureau Public 
+36
+Utilities Commission by rule, a public safety answering point and dispatch center shall each 
+37
+provide the bureau with a report of the costs incurred by the public safety answering point 
+38
+or dispatch center for the provision of enhanced 9-1-1 services.
+39
+2.  Rules.  The bureau Public Utilities Commission shall adopt rules to implement this 
+40
+section. The rules must establish requirements for the report provided by a public safety 
+41
+answering point and dispatch center pursuant to subsection 1, including, at a minimum:
+42
+A.  The manner by which the report must be submitted to the bureau;
+
+Page 4 - 132LR0556(01)
+1
+B.  The specific cost components for the provision of enhanced 9-1-1 services to be 
+2
+included in the report; and
+3
+C.  The date by which the report must be submitted.
+4
+Rules adopted pursuant to this subsection are routine technical rules pursuant to Title 5, 
+5
+chapter 375, subchapter 2‑A.
+6
+Sec. 17.  25 MRSA §2925, as amended by PL 2021, c. 348, §37, is further amended 
+7
+by amending the section headnote to read:
+8
+§2925.  E-9-1-1 9-1-1 Council
+9
+Sec. 18.  25 MRSA §2925, first ¶, as amended by PL 1993, c. 566, §8, is further 
+10
+amended to read:
+11
+The E-9-1-1 9-1-1 Council, established in Title 5, section 12004‑I, subsection 74‑A,  
+12
+and referred to in this section as "the council," shall advise and assist the bureau in the 
+13
+implementation of the E-9-1-1 9-1-1 system.
+14
+Sec. 19.  25 MRSA §2925, sub-§1, as amended by PL 2021, c. 348, §37, is further 
+15
+amended to read:
+16
+1.  Membership.  The E-9-1-1 Council council is composed of 17 members; one 
+17
+appointed by the Public Utilities Commission; one appointed by the Commissioner of 
+18
+Public Safety; and 15 appointed by the Governor, including one who is a municipal official 
+19
+nominated by the statewide association of municipalities, one county official nominated by 
+20
+a statewide association of county commissioners, one who is a chief of a municipal police 
+21
+department nominated by the statewide association of chiefs of police, one who is the chief 
+22
+of a municipal fire department nominated by the statewide association of fire chiefs, one 
+23
+who is a county sheriff nominated by the statewide association of sheriffs, one who 
+24
+represents small telephone companies, one who represents the largest provider of local 
+25
+exchange telephone services, one who represents cellular or wireless service providers, one 
+26
+who represents a direct provider of emergency medical services, one who is a dispatcher 
+27
+nominated by the statewide association of dispatchers, one who is a member of a volunteer 
+28
+fire department, one to represent persons who are deaf and hard of hearing and 3 to 
+29
+represent the public-at-large.  Each member may name a designee who may attend meetings 
+30
+of the council and act on that member's behalf in council proceedings.
+31
+Sec. 20.  25 MRSA §2925, sub-§6, as amended by PL 2009, c. 219, §1, is further 
+32
+amended to read:
+33
+6.  Duties.  The council has the following duties.
+34
+A.  The council shall advise the bureau on activities relating to the establishment of an 
+35
+E-9-1-1 a 9-1-1 system.
+36
+B.  The council shall review and comment on rules proposed by the bureau Public 
+37
+Utilities Commission under this chapter.
+38
+C.  The council shall assist the bureau in providing public information about the 
+39
+implementation and operation of the E-9-1-1 9-1-1 system.
+40
+D.  The council shall assist the bureau in responding to and resolving service-related 
+41
+complaints and issues regarding the E-9-1-1 9-1-1 system.
+
+Page 5 - 132LR0556(01)
+1
+Sec. 21.  25 MRSA §2926, as amended by PL 2023, c. 186, §2, is further amended 
+2
+to read:
+3
+§2926.  Emergency Services Communication Bureau
+4
+1.  Bureau established.  The Emergency Services Communication Bureau is 
+5
+established within the Public Utilities Commission to implement and manage E-9-1-1 
+6
+9-1-1, including the deployment of E-9-1-1 9-1-1 service using emerging communications 
+7
+technologies, including, but not limited to, Internet protocol enabled services, that are 
+8
+capable of connecting users to public safety answering points.
+9
+1-A.  Quality assurance.  The bureau shall develop and implement a quality assurance 
+10
+program to audit and monitor compliance with emergency dispatching standards, practices 
+11
+and procedures of public safety answering points.
+12
+2.  System design.  In consultation with the E-9-1-1 9-1-1 Council, established in Title 
+13
+5, section 12004-I, subsection 74-A, the bureau shall develop all necessary system 
+14
+elements, standards and cost estimates necessary to provide for the installation and 
+15
+operation of a statewide E-9-1-1 9-1-1 system, including, but not limited to, the following:
+16
+A.  Development of network design specifications;
+17
+B.  Development of minimum public safety answering point requirements including 
+18
+24-hour operation; emergency backup power; secured communication areas; separate 
+19
+administrative phone lines for nonemergency calls; call recording and playback 
+20
+equipment; TDD equipment, as defined in Title 35‑A, section 8702, subsection 6; 
+21
+maximum call handling times; and minimum mandatory staff training requirements for 
+22
+9-1-1 call answering and dispatching;
+23
+C.  After consultation with the affected public and private safety agency officials, 
+24
+identification of appropriate public safety answering point sites based on consideration 
+25
+of the existing dispatching capabilities of public and private safety agencies, the 
+26
+expressed preferences of municipalities throughout the State and overall system cost;
+27
+D.  Identification of appropriate technology for system networks, public safety 
+28
+answering point equipment and data base database requirements;
+29
+E.  Procedures for developing and maintaining address and routing data bases database;
+30
+F.  Procedures for cooperation and coordination with telephone utilities and 
+31
+municipalities for implementation and maintenance;
+32
+G.  Standards and procedures to establish the confidentiality and prevent the 
+33
+dissemination of reports and records handled by public safety answering points and of 
+34
+the bureau;
+35
+H.  Estimates of the cost of establishing an operational E-9-1-1 9-1-1 system;
+36
+I.  Procedures for collecting and administering the necessary funds for E-9-1-1 9-1-1; 
+37
+and
+38
+J.  Standards and procedures for developing and maintaining the system databases and 
+39
+for ensuring the confidentiality of those databases pursuant to section 2929.
+40
+2-A.  Goal.  To the extent possible, the bureau shall establish a total of between 16 and 
+41
+24 public safety answering points.  The bureau shall seek to coordinate any reduction in 
+42
+the number of public safety answering points to achieve this goal with any contractual 
+
+Page 6 - 132LR0556(01)
+43
+obligations it may have or may enter into that are or could be affected by that reduction.  
+44
+Prior to implementing a reduction in the number of public safety answering points, the 
+45
+bureau shall make a finding regarding the need for the reduction based on an evaluation of 
+46
+the costs and benefits of the reduction, taking into account impacts on ratepayers, each of 
+47
+the affected municipalities municipality, plantation, county or unorganized territory and 
+48
+the State.
+7
+2-B.  Exceptions.  Notwithstanding subsection 2‑A, the bureau may authorize the 
+8
+establishment of a public safety answering point on a determination that a public safety 
+9
+answering point is necessary to ensure public safety and access to E-9-1-1 9-1-1 services.
+10
+3.  Rulemaking.  The bureau Public Utilities Commission shall adopt by rule its the 
+11
+bureau's standards, specifications and procedures developed under subsection 2, 
+12
+paragraphs A to F after consultation with the E-9-1-1 9-1-1 Council and following at least 
+13
+3 public hearings geographically dispersed throughout the State.
+14
+4.  Technical assistance.  The bureau may provide support for the development of 
+15
+street address information sufficient to support E-9-1-1 9-1-1 services.  The bureau shall 
+16
+provide technical assistance to any municipality in the development of street address 
+17
+information at the request of the interested municipality, plantation, county or unorganized 
+18
+territory.
+19
+5.  Call answering coverage.  The bureau is not required to provide call answering 
+20
+coverage in counties or municipalities that choose not to participate in the E-9-1-1 system.
+21
+6.  System databases.  The system databases, wherever located or stored, are the 
+22
+property of the bureau and their confidentiality is governed by section 2929.
+23
+Sec. 22.  25 MRSA §2927, as amended by PL 2023, c. 609, §4, is repealed.
+24
+Sec. 23.  25 MRSA §2927-A is enacted to read:
+25
+§2927-A.  9-1-1 funding
+26
+1.  Funding.  The activities authorized under this chapter are funded through:
+27
+A.  The statewide 9-1-1 surcharge under subsection 2 levied on:
+28
+(1)  Each residential and business telephone exchange line, including private 
+29
+branch exchange lines and Centrex lines;
+30
+(2)  Semipublic coin and public access lines;
+31
+(3)  Customers of interconnected voice over Internet protocol service; and
+32
+(4)  Customers of cellular or wireless telecommunications service that is not a 
+33
+prepaid wireless telecommunications service.  A surcharge may not be levied under 
+34
+this subparagraph with respect to customers of cellular or wireless 
+35
+telecommunications service that is supported by federal universal service support 
+36
+funds pursuant to 47 Code of Federal Regulations, Part 54; and  
+37
+B.  The statewide prepaid wireless telecommunications service 9-1-1 surcharge under 
+38
+subsection 3 levied on prepaid wireless telecommunications service customers.  A 
+39
+surcharge may not be levied under this paragraph with respect to prepaid wireless 
+40
+telecommunications service supported by federal universal service support funds 
+41
+pursuant to 47 Code of Federal Regulations, Part 54, except that a surcharge may be 
+1
+2
+3
+4
+5
+6
+
+Page 7 - 132LR0556(01)
+42
+levied under this paragraph on transactions in which the customer directly purchases 
+43
+optional services that are not supported by federal universal service support funds.  
+3
+2.  Statewide 9-1-1 surcharge.  The statewide 9-1-1 surcharge is governed by this 
+4
+subsection.
+5
+A.  The Public Utilities Commission shall establish the statewide 9-1-1 surcharge, 
+6
+except that the statewide 9-1-1 surcharge may not exceed 35¢ per month per line or 
+7
+number.  The commission shall establish the statewide 9-1-1 surcharge by rule or 
+8
+through other commission proceedings.  The statewide 9-1-1 surcharge may not be 
+9
+imposed on more than 25 lines or numbers per customer billing account.  
+10
+B.  The statewide 9-1-1 surcharge must be collected from the customer according to 
+11
+subsection 1, paragraph A on a monthly basis by each local exchange telephone utility, 
+12
+cellular or wireless telecommunications service provider and interconnected voice over 
+13
+Internet protocol service provider and be shown separately as a statewide 9-1-1 
+14
+surcharge on the customer's bill.  
+15
+C.  The place of residence of cellular or wireless telecommunications service customers 
+16
+who are not prepaid wireless telecommunications service customers must be 
+17
+determined according to the sourcing rules for mobile telecommunications services as 
+18
+set forth in Title 36, section 2556.
+19
+3.  Statewide prepaid wireless telecommunications service 9-1-1 surcharge.  The 
+20
+statewide prepaid wireless telecommunications service 9-1-1 surcharge, referred to in this 
+21
+subsection as "the prepaid wireless 9-1-1 surcharge," is governed by this subsection.
+22
+The Public Utilities Commission shall establish the prepaid wireless 9-1-1 surcharge, 
+23
+except that the prepaid wireless 9-1-1 surcharge may not exceed 35¢ per retail transaction.  
+24
+The commission shall establish the prepaid wireless 9-1-1 surcharge by rule or through 
+25
+other commission proceedings.
+26
+4.  9-1-1 funding obligation; limitation.  The statewide 9-1-1 surcharge imposed by 
+27
+subsection 2 and the prepaid wireless 9-1-1 surcharge imposed by subsection 3 are the only 
+28
+9-1-1 funding obligations imposed with respect to telecommunications service in this State, 
+29
+and another tax, fee, surcharge or other charge may not be imposed by this State, a political 
+30
+subdivision of this State or an intergovernmental agency for funding 9-1-1 purposes on any 
+31
+telecommunications service with respect to the sale, purchase, use or provision of that 
+32
+telecommunications service.
+33
+5.  Surcharge remittance.  Each local exchange telephone utility, cellular or wireless 
+34
+telecommunications service provider and interconnected voice over Internet protocol 
+35
+service provider shall remit the statewide 9-1-1 surcharge revenues collected from 
+36
+customers pursuant to subsection 1 on a monthly basis and within one month of the month 
+37
+collected, except that a utility or provider whose average monthly surcharge remittance 
+38
+payment for the prior calendar year is less than $5,000 shall remit the 9-1-1 surcharge 
+39
+revenues on a quarterly basis, to the Treasurer of State for deposit in a separate account 
+40
+known as and referred to in this section as "the 9-1-1 fund."  Each telephone utility or 
+41
+service provider required to remit statewide 9-1-1 surcharge revenues shall provide, on a 
+42
+form approved by the bureau, supporting data, including, but not limited to, the following:
+43
+A.  The calculation used to arrive at the surcharge remittance amount;  
+44
+B.  The calculation used to arrive at the uncollectible amount of surcharge;  
+1
+2
+
+Page 8 - 132LR0556(01)
+1
+C.  The total surcharge;  
+2
+D.  The month and year or the quarter and year for which a surcharge is remitted;  
+3
+E.  The legal name and telephone number of the telephone utility or service provider 
+4
+and, if applicable, the parent company name, address and telephone number; and  
+5
+F.  The name and telephone number of the person who prepared the form.  
+6
+Prepaid wireless 9-1-1 surcharges collected by sellers must be remitted to the State Tax 
+7
+Assessor in accordance with Title 35‑A, section 7104‑C.
+8
+6.  Expenditure of funds.  All costs incurred by the bureau under this subsection must 
+9
+be paid from the 9-1-1 fund.
+10
+A.  The bureau may use the revenues in the 9-1-1 fund to:
+11
+(1)  Fund staff;
+12
+(2)  Defray the costs associated with the implementation, operation and 
+13
+management of 9-1-1, including the deployment of 9-1-1 service using emerging 
+14
+communications technologies, including, but not limited to, Internet protocol 
+15
+enabled services, that are capable of connecting users to public safety answering 
+16
+points; and
+17
+(3)  Defray the costs, including necessary staffing costs, of the Emergency Medical 
+18
+Services' Board in implementing the requirements of Title 32, section 85‑A 
+19
+through the transfer of funds to the Other Special Revenue Funds, Emergency 
+20
+Medical Services account within the Department of Public Safety.
+21
+B. The bureau shall use the revenues in the 9-1-1 fund to:
+22
+(1) Provide free training courses for emergency medical dispatchers, as defined in 
+23
+Title 32, section 85‑A, subsection 1, paragraph D, to assist public safety answering 
+24
+points in meeting the requirements of Title 32, section 85‑A;
+25
+(2) Provide each public safety answering point a sufficient number of approved 
+26
+Emergency Medical Dispatch Priority Reference System documents in printed or 
+27
+electronic format, as determined by the bureau pursuant to Title 32, section 85‑A;
+28
+(3) Provide public safety answering points dispatcher training consistent with the 
+29
+protocols, necessary software and printed support materials to assist public safety 
+30
+answering points in the adoption and implementation of standardized dispatch 
+31
+protocols for answering fire 9-1-1 calls;
+32
+(4) Provide quality assurance training and software to assist public safety 
+33
+answering points in ensuring compliance with the standardized dispatch protocols 
+34
+for answering fire 9-1-1 calls;
+35
+(5) Provide, subject to available funds not to exceed $1,000,000 per biennium, 
+36
+grants for nonrecurring costs to:
+37
+(a) Dispatch centers associated with the consolidation of the dispatch centers 
+38
+into public safety answering points;
+39
+(b) Consolidate 2 or more public safety answering points and dispatch centers 
+40
+into a new regional public safety answering point and dispatch center; or
+
+Page 9 - 132LR0556(01)
+1
+(c) Transfer a public safety answering point and all of its dispatch services to 
+2
+another existing public safety answering point; and
+3
+(6) Contract with one or more 3rd‑party vendors to provide quality assurance 
+4
+review in accordance with rules adopted pursuant to subsection 11 and Title 32, 
+5
+section 85‑A, subsection 2 related to the provision of emergency medical dispatch 
+6
+services and answering fire 9-1-1 calls by public safety answering points.
+7
+7.  Unexpended funds; interest.  The amount of the 9-1-1 fund not expended by the 
+8
+end of the fiscal year may not lapse but must be carried forward to be expended for the 
+9
+purposes specified in this chapter in succeeding fiscal years.  The Treasurer of State shall 
+10
+credit all interest on fund balances to the 9-1-1 fund.
+11
+8.  Legislative annual report.  The bureau shall include in the Public Utilities 
+12
+Commission's annual report pursuant to Title 35‑A, section 120, subsection 7 to the joint 
+13
+standing committee of the Legislature having jurisdiction over utilities and energy matters:
+14
+A.  The bureau's planned expenditures for the year and use of funds for the previous 
+15
+year;  
+16
+B.  The statewide 9-1-1 surcharge collected under this section;  
+17
+C.  The bureau's recommended statewide 9-1-1 surcharge for the coming year;  
+18
+D.  The bureau's recommendations for amending existing and enacting new laws to 
+19
+improve the 9-1-1 system; and  
+20
+E.  The performance of each of the public safety answering points in the State during 
+21
+the previous calendar year, including the results of the bureau's quality assurance 
+22
+program audits under section 2926, subsection 1‑A and any recommendations of the 
+23
+bureau relating to the emergency dispatching standards, practices and procedures of 
+24
+public safety answering points.  
+25
+9.  Committee recommendations; budget.  The joint standing committee of the 
+26
+Legislature having jurisdiction over utilities and energy matters shall make 
+27
+recommendations to the joint standing committee of the Legislature having jurisdiction 
+28
+over appropriations and financial affairs regarding all expenditures from the 9-1-1 fund.
+29
+10.  Violations.  A telephone utility, a cellular or wireless telecommunications service 
+30
+provider, including a prepaid wireless telephone service provider, or an interconnected 
+31
+voice over Internet protocol service provider subject to this section that intentionally and 
+32
+knowingly fails to remit the statewide 9-1-1 surcharge revenues collected under this section 
+33
+commits a civil violation for which a fine of not more than $500 may be adjudged for each 
+34
+day that payment is not made after the due date.
+35
+11.  Rules.  The Public Utilities Commission shall adopt rules necessary to implement 
+36
+the provisions of this section. Rules adopted under this subsection are routine technical 
+37
+rules as defined in Title 5, chapter 375, subchapter 2‑A.
+38
+Sec. 24.  25 MRSA §2929, sub-§1, ¶A, as enacted by PL 1997, c. 291, §3, is 
+39
+amended to read:
+40
+A.  The names, addresses and telephone numbers of persons listed in E-9-1-1 9-1-1 
+41
+databases;
+
+Page 10 - 132LR0556(01)
+1
+Sec. 25.  25 MRSA §2929, sub-§1, ¶D, as amended by PL 2015, c. 153, §1, is 
+2
+further amended to read:
+3
+D.  Personally identifying information of and any medical information about a person 
+4
+receiving emergency services through the E-9-1-1 9-1-1 system; or
+5
+Sec. 26.  25 MRSA §2929, sub-§2, ¶D, as enacted by PL 1997, c. 291, §3, is 
+6
+amended to read:
+7
+D.  The bureau director may disclose confidential information to public safety 
+8
+answering points, public or private safety agencies, emergency responders or others 
+9
+within the E-9-1-1 9-1-1 system to the extent necessary to implement and manage the 
+10
+E-9-1-1 9-1-1 system.
+11
+Sec. 27.  25 MRSA §2929, sub-§4, ¶A, as enacted by PL 1997, c. 291, §3, is 
+12
+amended to read:
+13
+A.  To persons within the E-9-1-1 9-1-1 system to the extent necessary to implement 
+14
+and manage the E-9-1-1 9-1-1 system;
+15
+Sec. 28.  25 MRSA §2929, sub-§5, as enacted by PL 1997, c. 291, §3, is amended 
+16
+to read:
+17
+5.  Unlisted telephone numbers.  The name and address associated with the number 
+18
+of a telephone company customer with an unlisted telephone number may be furnished to 
+19
+the E-9-1-1 9-1-1 system for processing a request for E-9-1-1 9-1-1 services from that 
+20
+number and for the provision of emergency services resulting from the request.
+21
+Sec. 29.  25 MRSA §2930, as amended by PL 2007, c. 504, §1, is further amended 
+22
+to read:
+23
+§2930.  Immunity
+24
+1.  Governmental entity.  Subject to all the limitations and exceptions provided under 
+25
+the Maine Tort Claims Act, Title 14, chapter 741, a government governmental entity is 
+26
+immune from tort liability for property damages, bodily injury or death resulting from acts 
+27
+or omissions occurring in developing, establishing, implementing, maintaining or operating 
+28
+the E-9-1-1 9-1-1 system.
+29
+2.  Telecommunications providers.  A telecommunications provider assisting in the 
+30
+implementation and operation of the statewide E-9-1-1 9-1-1 system, including, but not 
+31
+limited to, the development, establishment and maintenance of the E-9-1-1 9-1-1 system, 
+32
+is subject to tort liability:
+33
+A.  For property damages, bodily injury or death resulting from any defect in the 
+34
+E-9-1-1 9-1-1 system or inadequacy in the provision of E-9-1-1 9-1-1 service caused 
+35
+by the telecommunications provider's negligent acts or omissions in developing, 
+36
+establishing, implementing, maintaining or operating the E-9-1-1 9-1-1 system, up to 
+37
+a maximum amount for any and all claims arising out of a single occurrence not to 
+38
+exceed $300,000 or the dollar amount that appears in Title 14, section 8105, subsection 
+39
+1, whichever is greater; and
+40
+B.  For property damages, bodily injury or death resulting from any defect in the 
+41
+E-9-1-1 9-1-1 system or inadequacy in the provision of E-9-1-1 9-1-1 service caused 
+42
+by the telecommunications provider's intentional, willful or reckless acts or omissions 
+
+Page 11 - 132LR0556(01)
+43
+in developing, establishing, implementing, maintaining or operating the E-9-1-1 9-1-1 
+44
+system, without limitation on the amount.
+3
+For purposes of this subsection, the term "telecommunications provider" means a local 
+4
+exchange carrier, a commercial mobile service provider, as defined in 47 United States 
+5
+Code, Section 332(d), or an interconnected voice over Internet protocol service provider an 
+6
+originating service provider; an employee of a local exchange carrier, commercial mobile 
+7
+service provider or interconnected voice over Internet protocol service provider originating 
+8
+service provider acting within the scope of the employee's employment; or an agent of a 
+9
+local exchange carrier, commercial mobile service provider or interconnected voice over 
+10
+Internet protocol service provider originating service provider acting within the scope of 
+11
+the agent's agency.
+12
+For purposes of this subsection, the term "E-9-1-1 "9-1-1 system" includes, but is not 
+13
+limited to, the networks, databases and call processing services necessary to provide 
+14
+enhanced 9-1-1 services or enhanced 9-1-1 access-only services in accordance with this 
+15
+chapter and rules adopted under this chapter.
+16
+Sec. 30.  25 MRSA §2931, as amended by PL 2019, c. 339, §9, is further amended 
+17
+by amending the section headnote to read:
+18
+§2931.  Misuse of E-9-1-1 9-1-1 system
+19
+Sec. 31.  25 MRSA §2931, sub-§1, as amended by PL 2019, c. 339, §9, is further 
+20
+amended to read:
+21
+1.  Prohibited use.  A person is guilty of misuse of the E-9-1-1 9-1-1 system if without 
+22
+reasonable cause the person, after having been forbidden to do so by a public safety 
+23
+answering point manager or administrator or a law enforcement officer:
+24
+A.  Makes repeated 9-1-1 calls to make nonemergency reports or inquiries;
+25
+B.  Causes 9-1-1 calls to be made using an alarm or other alerting device that 
+26
+automatically contacts 9-1-1 and transmits a prerecorded signal or message; or
+27
+C.  Violates paragraph B after having previously violated paragraph B.
+28
+Sec. 32.  25 MRSA §2932, sub-§1, as amended by PL 2021, c. 348, §38, is further 
+29
+amended to read:
+30
+1.  Designated emergency telephone number.  The primary telephone number to be 
+31
+used in a telephone exchange to request emergency services following the activation of 
+32
+E-9-1-1 9-1-1 services for that exchange, including the number for telecommunications 
+33
+devices for communication for persons who are deaf, hard of hearing or speech impaired, 
+34
+is 9-1-1.  A person may not advertise or promote for emergency response services any 
+35
+telephone number other than 9-1-1.
+36
+Sec. 33.  25 MRSA §2932, sub-§2, as amended by PL 2015, c. 62, §2, is repealed.
+37
+Sec. 34.  25 MRSA §2933, as amended by PL 2003, c. 505, §§5 and 6, is further 
+38
+amended to read:
+39
+§2933.  Local exchange carrier and originating service provider participation
+40
+1.  Implementation of E-9-1-1 9-1-1 by local exchange carrier.  Each local exchange 
+41
+carrier offering service over the public switched telephone network, in accordance with 
+1
+2
+
+Page 12 - 132LR0556(01)
+42
+rules and procedures adopted by the bureau Public Utilities Commission, shall implement 
+43
+the E-9-1-1 9-1-1 system and provide the universal emergency telephone number 9-1-1 for 
+44
+use by the public in seeking emergency services assistance through the E-9-1-1 9-1-1 
+45
+system.
+5
+2.  Required information for E-9-1-1 9-1-1 database.  Each local exchange carrier 
+6
+originating service provider shall provide to the bureau or its designee the automatic 
+7
+number identification, automatic location identification and any other information required 
+8
+to establish and maintain the E-9-1-1 9-1-1 database and service services in accordance 
+9
+with the rules adopted by the bureau Public Utilities Commission.
+10
+3.  Coordination of E-9-1-1 9-1-1 service; coordinator.  Each local exchange carrier 
+11
+and cellular or wireless telecommunications service provider originating service provider 
+12
+within the State shall coordinate all implementation, operation and maintenance directly 
+13
+relating to E-9-1-1 9-1-1 through the bureau and shall designate a primary contact person, 
+14
+who may delegate the authority to one or more other persons, to coordinate with and 
+15
+provide all relevant information to the bureau to carry out the purposes of the chapter.
+16
+4.  Penalties.  On petition by the bureau, the The Public Utilities Commission, in an 
+17
+adjudicatory proceeding, may impose the following administrative penalties for a violation 
+18
+by a local exchange carrier or an originating service provider of subsection 1 or 2 or any 
+19
+rules adopted by the bureau Public Utilities Commission implementing subsection 1 or 2:
+20
+A.  An administrative penalty of up to $1,000 for each day of the violation; and
+21
+B.  In extraordinary cases, as determined by the Public Utilities Commission, 
+22
+revocation of the commission's authorization of the local exchange carrier's originating 
+23
+service provider's authority to provide local exchange service in this State.
+24
+Rules adopted pursuant to this section are routine technical rules pursuant to Title 5, 
+25
+chapter 375, subchapter 2‑A.
+26
+Sec. 35.  25 MRSA §2934, as amended by PL 2019, c. 339, §10, is further amended 
+27
+to read:
+28
+§2934.  Multiline telephone systems
+29
+1.  Requirements.  The bureau Public Utilities Commission may by rule establish 
+30
+requirements for locating 9-1-1 calls, and initiating emergency responses to such calls, 
+31
+made from within multiline telephone systems, including network-based or premises-based 
+32
+systems and voice over Internet protocol systems, whether owned or leased by a public or 
+33
+private entity, such as private branch exchanges or Centrex systems.  Rules adopted 
+34
+pursuant to this section:
+35
+A.  May not require any local unit of government to expand or modify its activities so 
+36
+as to necessitate additional expenditures from local revenues;
+37
+B.  Apply only to multiline telephone systems installed, introduced, established or 
+38
+replaced after the effective date of the rules;
+39
+C.  Must provide for appropriate standards, exemptions and waivers that balance the 
+40
+benefits of improved methods of locating 9-1-1 calls, and initiating emergency 
+41
+responses to such calls, made from within multiline telephone systems and the cost of 
+42
+achieving those improvements.  The rules must allow, in appropriate circumstances, 
+1
+2
+3
+4
+
+Page 13 - 132LR0556(01)
+43
+for methods that do not utilize automatic location identification and automatic number 
+44
+identification standards used in processing 9-1-1 calls; and
+3
+D.  May establish appropriate technical, procedural or any other standards relating to 
+4
+multiline telephone systems, telecommunications carrier interconnectivity, databases, 
+5
+dialing instructions, signaling or other matters necessary or appropriate to carry out the 
+6
+purposes of this section.
+7
+2.  Rules.  Rules adopted pursuant to this section are major substantive rules as defined 
+8
+in Title 5, chapter 375, subchapter 2‑A.  The bureau may not provisionally adopt any rule 
+9
+under this section that has not been approved by the Public Utilities Commission.
+10
+Sec. 36.  25 MRSA §2935, as enacted by PL 2007, c. 226, §2, is amended to read:
+11
+§2935.  E-9-1-1 9-1-1 access-only service
+12
+1.  Provision of E-9-1-1 9-1-1 access-only service.  It is the policy of this State that 
+13
+E-9-1-1 9-1-1 be broadly available where it is economically and technologically practical.  
+14
+The bureau Public Utilities Commission shall, by rule, establish requirements for the 
+15
+provision of E-9-1-1 9-1-1 access-only service, including, but not limited to, the 
+16
+circumstances in which E-9-1-1 9-1-1 access-only service is and is not required and which 
+17
+telephone service providers are and are not subject to the requirements.
+18
+2.  Rulemaking.  The bureau Public Utilities Commission shall adopt rules to 
+19
+implement this section.  Rules adopted pursuant to this subsection are major substantive 
+20
+routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+21
+Sec. 37.  30-A MRSA §3110, as enacted by PL 2009, c. 477, §1, is amended to read:
+22
+§3110.  Road-naming disputes
+23
+Unless otherwise provided by local ordinance or charter, when there is a dispute over 
+24
+the naming of a town way, private way or private road for E-9-1-1 9-1-1 purposes, the 
+25
+decision of the municipal officers is final.
+26
+Sec. 38.  30-A MRSA §7062, as enacted by PL 1997, c. 409, §2, is amended by 
+27
+amending the section headnote to read:
+28
+§7062.  Enhanced 9-1-1 addressing standards
+29
+Sec. 39.  30-A MRSA §7062, first ¶, as enacted by PL 1997, c. 409, §2, is amended 
+30
+to read:
+31
+A plantation may enact an ordinance to establish enhanced 9-1-1 addressing standards 
+32
+and, pursuant to that ordinance, may:
+33
+Sec. 40.  30-A MRSA §7501, sub-§8, as amended by PL 1999, c. 106, §2, is further 
+34
+amended to read:
+35
+8.  Enhanced 9-1-1 service.  Assigning and maintaining physical addresses 
+36
+specifically for the purpose of statewide enhanced 9-1-1 service.  The county 
+37
+commissioners may enact an ordinance to establish the addressing standards and, pursuant 
+38
+to that ordinance, may assign road names to existing and proposed roads and property 
+39
+numbers to existing and proposed year-round and seasonal dwellings or structures and may 
+40
+install signs designating road names; and
+1
+2
+
+Page 14 - 132LR0556(01)
+1
+Sec. 41.  32 MRSA §85-A, sub-§4, as amended by PL 2011, c. 271, §12, is further 
+2
+amended to read:
+3
+4.  Licensing actions.  A license issued pursuant to this section is subject to the 
+4
+provisions of sections 90‑A and 91‑A.  Before the board or its subcommittee or staff takes 
+5
+any final action to suspend or revoke an emergency medical dispatch center license or to 
+6
+refuse to reissue an emergency medical dispatch center license, the board shall contact the 
+7
+bureau for input on the effect of such an action on the E-9-1-1 9-1-1 system and, 
+8
+notwithstanding section 91‑B, may, to the extent necessary for this purpose, disclose to the 
+9
+bureau information that is designated as confidential under section 91‑B.
+10
+Sec. 42.  32 MRSA §98, sub-§1, ¶C, as enacted by PL 2023, c. 412, Pt. GGGGG, 
+11
+§1, is amended to read:
+12
+C.  "Historical activations" means the number of times an emergency medical services 
+13
+entity was dispatched by the E-9-1-1 9-1-1 system within a defined period of time.
+14
+Sec. 43.  35-A MRSA §120, sub-§7, ¶A, as enacted by PL 2023, c. 77, §4, is 
+15
+amended to read:
+16
+A.  Title 25, section 2927 2927-A, subsection 5 8;
+17
+Sec. 44.  35-A MRSA §7104-C, sub-§1, ¶C, as enacted by PL 2011, c. 600, §7 
+18
+and affected by §10, is amended to read:
+19
+C.  The statewide prepaid wireless telecommunications service E-9-1-1 9-1-1 
+20
+surcharge levied on prepaid wireless telecommunications service consumers pursuant 
+21
+to Title 25, section 2927 2927-A, subsection 1‑F 3.
+22
+Sec. 45.  35-A MRSA §7104-C, sub-§2, ¶I, as amended by PL 2017, c. 475, Pt. 
+23
+A, §59, is further amended by amending subparagraph (1) to read:
+24
+(1)  The portion of the remitted prepaid wireless fees attributable to the E-9-1-1 
+25
+9-1-1 surcharge imposed by Title 25, section 2927 2927-A, subsection 1‑F 3 is 
+26
+deposited in a separate account;
+27
+Sec. 46.  35-A MRSA §7201, sub-§2, as enacted by PL 2011, c. 623, Pt. A, §18, is 
+28
+amended to read:
+29
+2.  Access to emergency services.  "Access to emergency services" means access to 
+30
+emergency services, as defined in Title 25, section 2921, subsection 5, through 9-1-1 or 
+31
+enhanced 9-1-1 service, as defined in Title 25, section 2921, subsection 6, to the extent a 
+32
+local government in the service area of a provider of last resort service provides 9-1-1 or 
+33
+enhanced 9-1-1 services.
+34
+Sec. 47.  36 MRSA §191, sub-§2, ¶JJJ, as enacted by PL 2019, c. 401, Pt. E, §1 
+35
+and reallocated by RR 2019, c. 1, Pt. A, §56, is amended to read:
+36
+JJJ.  The disclosure of information to an authorized representative of the Public Utilities 
+37
+Commission for use in the commission's administration and oversight of the E‑9‑1‑1 
+38
+9-1-1 funding under Title 25, section 2927 2927-A, the state universal service fund 
+39
+under Title 35‑A, section 7104 and the telecommunications education access fund 
+40
+under Title 35‑A, section 7104‑B.  The assessor shall apprise the authorized 
+41
+representative of the provisions regarding confidentiality of such information and of 
+42
+the continuing confidential nature of the disclosed information.
+
+Page 15 - 132LR0556(01)
+1
+Sec. 48.  39-A MRSA §201, sub-§3-A, ¶B, as amended by PL 2023, c. 405, Pt. A, 
+2
+§143, is further amended to read:
+3
+B.  The employee is a law enforcement officer, corrections officer, E-9-1-1 9-1-1 
+4
+dispatcher, firefighter or emergency medical services person and is diagnosed by an 
+5
+allopathic physician or an osteopathic physician licensed under Title 32, chapter 48 or 
+6
+chapter 36, respectively, with a specialization in psychiatry or a psychologist licensed 
+7
+under Title 32, chapter 56 as having post-traumatic stress disorder that resulted from 
+8
+work stress, that the work stress was extraordinary and unusual compared with that 
+9
+experienced by the average employee and the work stress and not some other source 
+10
+of stress was the predominant cause of the post-traumatic stress disorder, in which case 
+11
+the post-traumatic stress disorder is presumed to have arisen out of and in the course 
+12
+of the worker's employment.  This presumption may be rebutted by clear and 
+13
+convincing evidence to the contrary.  For purposes of this paragraph, "law enforcement 
+14
+officer," "corrections officer," "firefighter" and "emergency medical services person" 
+15
+have the same meaning as in section 328‑A, subsection 1.  For the purposes of this 
+16
+paragraph, "E-9-1-1 "9-1-1 dispatcher" means a person who receives calls made to the 
+17
+E-9-1-1 9-1-1 system and dispatches emergency services.  "E-9-1-1 "9-1-1 dispatcher" 
+18
+includes an emergency medical dispatcher as defined in Title 32, chapter 2‑B, section 
+19
+85‑A, subsection 1, paragraph D.
+20
+Each time the Legislature amends this paragraph to provide for a rebuttable 
+21
+presumption for a new category of employees, the board shall submit a report to the 
+22
+joint standing committee of the Legislature having jurisdiction over labor matters no 
+23
+later than the January 1st after the 5th year of the addition of the category of employees 
+24
+and no later than the January 1st after the 10th year of the addition of the category of 
+25
+employees. The reports must include an analysis of the number of claims brought under 
+26
+this paragraph, the portion of those claims that resulted in a settlement or award of 
+27
+benefits and the effect of the provisions of this paragraph on costs to the State and its 
+28
+subdivisions.  The Department of Administrative and Financial Services, Bureau of 
+29
+Human Resources and the Department of Public Safety shall assist the board in 
+30
+developing the reports, and the board shall seek the input of an association whose 
+31
+membership consists exclusively of counties, municipalities and other political or 
+32
+administrative subdivisions in the development of the report.
+33
+This paragraph is repealed October 1, 2025.
+34
+SUMMARY
+35
+This bill does the following:
+36
+1.  It updates and adds terminology to be consistent with modernized 9-1-1 systems 
+37
+and federal standards;
+38
+2.  It clarifies rule-making authority by designating the Public Utilities Commission as 
+39
+the entity responsible for rulemaking instead of the Emergency Services Communication 
+40
+Bureau within the commission and makes all rulemaking under the emergency services 
+41
+communication laws routine technical;
+42
+3.  It reorganizes the provisions of law related to 9-1-1 funding;
+35
+
+Page 16 - 132LR0556(01)
+1
+4. It expands the granting authority of the bureau to allow grants, subject to available 
+2
+funds, to be used to consolidate 2 or more public safety answering points and dispatch 
+3
+centers into a new regional public safety answering point and dispatch center or transfer a 
+4
+public safety answering point and all of its dispatch services to another existing public 
+5
+safety answering point. It also changes the allowable funding cap for nonrecurring costs to 
+6
+$1,000,000 per biennium;
+7
+5.  It removes the requirement that the bureau reimburse local exchange carriers and 
+8
+cellular and wireless telecommunications service providers for eligible expenses incurred 
+9
+by the carriers and service providers; 
+10
+6.  It removes the requirement regarding the inclusion of 9-1-1 information in telephone 
+11
+directories; and
+12
+7.  It expands the application of provisions related to the information required to be 
+13
+provided to the commission in order to maintain the 9-1-1 database and services and the 
+14
+coordination of 9-1-1 service from local exchange carriers only to originating service 
+15
+providers.

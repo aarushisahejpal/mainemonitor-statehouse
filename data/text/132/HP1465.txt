@@ -1,0 +1,760 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2177
+H.P. 1465
+House of Representatives, January 27, 2026
+An Act to Update and Improve the MaineCare Reimbursement 
+System
+Submitted by the Department of Health and Human Services pursuant to Joint Rule 203.
+Reference to the Committee on Health and Human Services suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative GATTINE of Westbrook.
+
+Page 1 - 132LR2803(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  22 MRSA §1708, sub-§3, as amended by PL 2021, c. 29, Pt. R, §1, is further 
+3
+amended to read:
+4
+3.  Compensation for nursing homes.  A nursing home, as defined under section 
+5
+1812‑A, or any portion of a hospital or institution operated as a nursing home, when the 
+6
+State is liable for payment for care, must be reimbursed at a rate established by the 
+7
+Department of Health and Human Services pursuant to this subsection section 3173-J.  The 
+8
+department may not establish a so-called "flat rate."  This subsection applies to all funds, 
+9
+including federal funds, paid by any agency of the State to a nursing home for patient care.  
+10
+The department shall establish rules concerning reimbursement that:
+11
+A.  Take into account the costs of providing care and services in conformity with 
+12
+applicable state and federal laws, rules, regulations and quality and safety standards;
+13
+B.  Are reasonable and adequate to meet the costs incurred by efficiently and 
+14
+economically operated facilities;
+15
+C.  Are consistent with federal requirements relative to limits on reimbursement under 
+16
+the federal Social Security Act, Title XIX; and
+17
+D.  Ensure that any calculation of an occupancy percentage or other basis for adjusting 
+18
+the rate of reimbursement for nursing facility services to reduce the amount paid in 
+19
+response to a decrease in the number of residents in the facility or the percentage of the 
+20
+facility's occupied beds excludes all beds that the facility has removed from service for 
+21
+all or part of the relevant fiscal period in accordance with section 333.  If the excluded 
+22
+beds are converted to residential care beds or another program for which the department 
+23
+provides reimbursement, nothing in this paragraph precludes the department from 
+24
+including those beds for purposes of any occupancy standard applicable to the 
+25
+residential care or other program pursuant to duly adopted rules of the department;
+26
+E.  Contain an annual inflation adjustment that:
+27
+(1)  Recognizes regional variations in labor costs and the rates of increase in labor 
+28
+costs determined pursuant to the principles of reimbursement and establishes at 
+29
+least 4 regions for purposes of annual inflation adjustments; and
+30
+(2)  Uses the applicable regional inflation factor as established by a national 
+31
+economic research organization selected by the department to adjust costs other 
+32
+than labor costs or fixed costs; and
+33
+F.  Establish a nursing facility's base year every 2 years and increase the rate of 
+34
+reimbursement beginning July 1, 2014 and every year thereafter until June 30, 2018.  
+35
+For the state fiscal year beginning July 1, 2018, the base year for each facility is its 
+36
+fiscal year that ended in the calendar year 2016.  For state fiscal years beginning on or 
+37
+after July 1, 2019, subsequent rebasing must be based on the most recent cost report 
+38
+filings available.  The department may provide a mechanism for subsequent 
+39
+adjustments to base year costs to reflect any material difference between as-filed cost 
+40
+reports used in rebasing and subsequent determinations of audited, allowable costs for 
+41
+the same fiscal period.  The department's rules must provide that, beginning in the state 
+42
+fiscal year beginning July 1, 2018, the rates set for each rebasing year must include an 
+43
+inflation adjustment for a cost-of-living percentage change in nursing facility 
+
+Page 2 - 132LR2803(01)
+44
+reimbursement each year in accordance with the United States Department of Labor, 
+45
+Bureau of Labor Statistics Consumer Price Index nursing homes and adult day care 
+46
+services index.
+4
+Any rebasing done pursuant to this paragraph may not result in a nursing facility 
+5
+receiving a reimbursement rate that is lower than the rate in effect on June 30, 2018.
+6
+G.  Subject to appropriation, establish that nursing facility reimbursement will be 
+7
+rebased for rates effective January 1, 2028, and thereafter rebasing must occur in 
+8
+accordance with section 3173-J.
+9
+Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+10
+chapter 375, subchapter 2‑A.
+11
+Sec. 2.  22 MRSA §1720, as enacted by PL 2005, c. 242, §1, is repealed.
+12
+Sec. 3.  22 MRSA §3173-J, as amended by PL 2023, c. 238, §1, is further amended 
+13
+to read:
+14
+§3173-J.  Rate-setting system for development and maintenance of sustainable, 
+15
+efficient and value-oriented MaineCare payment models and rates 
+16
+reimbursement of MaineCare-covered services
+17
+This section establishes a rate-setting system for the development and maintenance of 
+18
+MaineCare payment models and rates reimbursement of MaineCare-covered services that 
+19
+comply complies with the requirement in 42 United States Code, Section 1396a that rates 
+20
+be consistent with efficiency, economy and quality of care; that are is adequate to support 
+21
+MaineCare member access to services; and that are is equitable and data-driven.
+22
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+23
+following terms have the following meanings.
+24
+A.  "Alternative payment model" means a health care payment model that uses 
+25
+financial incentives to promote or leverage greater value for patients, purchasers, 
+26
+payers or providers and that connects at least a portion of reimbursement to 
+27
+performance on defined quality measures.
+28
+B.  "MaineCare section of policy" means a set of MaineCare-covered services, as 
+29
+categorized by the department through the adoption of rules that specify the parameters 
+30
+for coverage.
+31
+B-1.  "Payment model" means the method that the department uses to reimburse 
+32
+providers for health care services, including whether the reimbursement is paid on a 
+33
+fee-for-service basis or another basis such as per member, per month or an estimated 
+34
+basis that is cost settled.
+35
+C.  "Rate determination" means a process conducted by the department to establish the 
+36
+payment model, associated reimbursement rate methodology, base and, if applicable, 
+37
+the rate amount or payment model for a MaineCare section of policy or for a specific 
+38
+covered service, whether through adoption or adaptation of a benchmark rate or 
+39
+payment model from another payer or development through a rate study.
+40
+D.  "Rate study" means an analysis conducted by the department or its contracted 
+41
+vendor to develop a recommended rate payment model, associated reimbursement 
+42
+methodology and resulting base rate amount and payment model based on the service 
+1
+2
+3
+
+Page 3 - 132LR2803(01)
+43
+model and cost components for the service amounts for current or potential MaineCare-
+44
+covered services. A rate study relies on data collected as part of the analysis conducted 
+45
+by the department to inform the cost of providing services and resulting rates rather 
+46
+than relying on a benchmark of existing rates or payment models used by other payers.
+5
+E.  "Reimbursement methodology" means the method for determining the rate or 
+6
+reimbursement amount under the payment model. Examples of reimbursement 
+7
+methodologies include using standardized assumptions for determining service cost 
+8
+components, such as staffing levels, wages based on required qualifications, benefits 
+9
+and program administration, to determine a reimbursement rate per unit of service; 
+10
+using cost-based reimbursement, under which the MaineCare program determines the 
+11
+percentage it will pay of reported allowable costs; and adjusting reimbursements for 
+12
+patient acuity or the relative duration or intensity of the service.
+13
+2.  Rate-setting system principles and processes.  The department shall establish 
+14
+MaineCare provider payment models, including reimbursement rates, including those paid 
+15
+through fee-for-service and alternative payment models.  The rates must be established 
+16
+methodologies and rate amounts, where applicable, in accordance with the following 
+17
+principles and processes and adopted through rulemaking as described in subsection 3. 
+18
+Changes to rates required by the Federal Government to assist with emergency or 
+19
+extraordinary circumstances or rate reductions required by the Legislature for the purpose 
+20
+of responding to projected MaineCare budget shortfalls are not subject to this section. The 
+21
+department shall:
+22
+A.  Develop annually a schedule of rate determination by MaineCare section of policy 
+23
+in consultation with the MaineCare Rate Reform Expert Technical Advisory Panel 
+24
+established under subsection 5 as follows:
+25
+(1)  Post the rate determination schedule on its publicly accessible website;
+26
+(2)  Provide an opportunity for the public to review and comment on the rate 
+27
+determination schedule and make available a summary of these comments on its 
+28
+publicly accessible website; and
+29
+(3)  Conduct off-schedule rate determinations as the department finds appropriate;
+30
+B.  Conduct or contract for, every 4 years, a comprehensive benchmarking report to 
+31
+compare MaineCare rates for all services to those paid by Medicare, at least 5 
+32
+comparison Medicaid states and any appropriate Maine commercial payers.  The 
+33
+department shall provide public notice of the initiation of the comprehensive 
+34
+benchmarking process, provide an opportunity for the public to review and comment 
+35
+on the draft report and make available a summary of these comments alongside the 
+36
+final report;
+37
+C.  No less frequently than once every 5 years, conduct a rate determination process 
+38
+for each MaineCare section of policy or for a specific covered service, in accordance 
+39
+with the following procedures:
+40
+(1)  Provide public notice of initiation of the rate determination for a MaineCare 
+41
+section of policy or for a specific covered service;
+42
+(2)  Consider and, when appropriate, adopt alternative payment models that use 
+43
+financial incentives to promote or leverage greater value for the MaineCare 
+44
+program. This consideration must include a review of research on any available 
+1
+2
+3
+4
+
+Page 4 - 132LR2803(01)
+45
+national models or best practices regarding payment models for reimbursement 
+46
+related to the service;
+3
+(3)  Determine whether a Medicare rate is available for the service and whether the 
+4
+Medicare rate represents the most appropriate benchmark and payment model 
+5
+covers a specific service and whether the Medicare reimbursement methodology is 
+6
+appropriate for a specific covered service;
+7
+(4)  In the absence of a an appropriate Medicare rate comparison, determine 
+8
+whether a rate from a review non-Medicare payer source sources, including, but 
+9
+not limited to, commercial health care rates payers in the State or other states' 
+10
+Medicaid rates, is available for the service and whether this alternate payer rate 
+11
+represents the most appropriate benchmark and payment model agencies. The 
+12
+department shall determine an appropriate percentage of the benchmark rate for 
+13
+the service, taking take into consideration the findings of the benchmarking report 
+14
+conducted in accordance with paragraph B;
+15
+(5)  Conduct a rate study for every service for which a benchmark rate or payment 
+16
+model in accordance with an appropriate reimbursement methodology or 
+17
+comparison under subparagraph (3) or (4) either is unavailable or is inconsistent 
+18
+with the goals of efficiency, economy and quality of care to support member 
+19
+access. Each rate study must include the following:
+20
+(a)  A review of data, which must include:
+21
+(i)  An assessment as to whether the delivery of service and associated 
+22
+requirements have changed since the previous rate study, if available, to 
+23
+determine if the rate payment model or reimbursement methodology needs 
+24
+to should be revised;
+25
+(ii)  The collection of data applicable to the rate determination on provider 
+26
+costs and cost-related aspects of the delivery of service and associated 
+27
+requirements through existing cost reports, provider surveys and other 
+28
+available data sources; and
+29
+(iii)  Research on any available national models or best practices regarding 
+30
+cost-related aspects of the delivery of service and associated requirements; 
+31
+and
+32
+(b)  Developing or updating rates payment models or reimbursement 
+33
+methodologies by considering the following:
+34
+(i)  The appropriateness of adoption of a change in payment model or 
+35
+reimbursement methodology consistent with the purposes of this section;
+36
+(ii)  The current rate assumptions and their appropriateness given current 
+37
+provider costs, best practices or changes in the delivery of service and 
+38
+associated requirements;
+39
+(iii)  The findings for related services of any comprehensive benchmarking 
+40
+report under paragraph B; and
+41
+(iv)  The degree to which services are dependent on MaineCare 
+42
+reimbursement, including, but not limited to, cost factors, such as average 
+1
+2
+
+Page 5 - 132LR2803(01)
+43
+wage, that may be reflective of restraints of MaineCare reimbursement 
+44
+versus costs of the broader marketplace; and
+3
+(6)  Upon completion of the rate determination process, present the department's 
+4
+rationale and recommendations for rate the payment model, associated 
+5
+reimbursement methodology, and resulting base rate amount and payment model 
+6
+amounts, if applicable, for public comment prior to the rule-making process; 
+7
+convene a meeting of interested providers and other interested members of the 
+8
+public to discuss the recommendations and hear comments; and respond in writing 
+9
+to comments with an explanation of whether and how feedback was incorporated 
+10
+into the final rate determination; and
+11
+D.  Ensure that base rate amounts and other components of the reimbursement 
+12
+methodology developed under paragraph C are updated to keep pace with changes in 
+13
+the costs of delivering the service by:
+14
+(1)  For rates benchmarked to Medicare rates according to paragraph C, 
+15
+subparagraph (3), referencing Medicare rates for the most current year available, 
+16
+updated at least annually, and reviewing the current established percentage 
+17
+benchmark, as appropriate, taking into consideration the findings of the most recent 
+18
+benchmarking report conducted in accordance with paragraph B;
+19
+(2)  For rates benchmarked to an alternate payer source in accordance with 
+20
+paragraph C, subparagraph (4), updating rates to the most current year of data for 
+21
+that payer source at least once every 2 years and reviewing the current established 
+22
+percentage benchmark, as appropriate, taking into consideration the findings of the 
+23
+benchmarking report conducted in accordance with paragraph B; and
+24
+(3)  For base rates determined through a rate study in accordance with paragraph 
+25
+C, subparagraph (5), and subject to available funds as set forth in subsection 4, 
+26
+providing an annual cost-of-living adjustment effective on a consistent date to be 
+27
+established by the department for each service that has not received a rate 
+28
+adjustment within the 12 months prior to the effective date of the cost-of-living 
+29
+adjustment and for which the department determines benchmarking in accordance 
+30
+with paragraph C, subparagraph (3) or (4) is not appropriate or advisable.  In 
+31
+establishing and implementing cost-of-living adjustments, the department shall:
+32
+(a)  Use inflation indices determined established through rulemaking to reflect 
+33
+a reasonable cost of providing services for different categories of services 
+34
+rather than reflecting other factors, such as private sector price increases or 
+35
+cost-shifting from different payers; and
+36
+(b)  Maximize use of a single, consistent and general cost-of-living adjustment 
+37
+index for services for which the costs of direct care staffing are the primary 
+38
+driver of overall cost increases, consistent with the cost-of-living adjustment 
+39
+applied to the minimum wage laws, in order to ensure that the cost-of-living 
+40
+adjustment reflects increases to provider costs for delivering the service rather 
+41
+than other factors, such as private sector price increases or cost-shifting from 
+42
+different payers under Title 26, section 664, subsection 1. The department 
+43
+shall:
+1
+2
+
+Page 6 - 132LR2803(01)
+1
+(i)  Apply this adjustment to services provided by essential support 
+2
+workers as defined in section 7401, subsection 3; and
+3
+(ii)  For any services for which the department applies an adjustment equal 
+4
+to the increase in minimum wage, apply the adjustment to the 
+5
+reimbursement rate between 6 and 12 months after the minimum wage 
+6
+increase goes into effect.
+7
+3.  Rulemaking for establishment of rate payment model and reimbursement 
+8
+methodology.  In addition to the requirements of Title 5, chapter 375, rulemaking for 
+9
+MaineCare provider reimbursement rate methodologies must comply with the following. 
+10
+The department shall:
+11
+A.  Establishment of a rate Conduct rulemaking to establish a payment model and 
+12
+reimbursement methodology for a new MaineCare section of policy or specific new 
+13
+service within a MaineCare section of policy or make changes to an existing rate 
+14
+payment model or reimbursement methodology must be adopted through rulemaking 
+15
+in accordance with the Maine Administrative Procedure Act. Rules adopted pursuant 
+16
+to this subsection must describe the payment model and reimbursement methodology 
+17
+but do not need to include codes, modifiers, reimbursement rates or any other 
+18
+information that the department includes in its centralized master index of rates posted 
+19
+on its publicly accessible website pursuant to subsection 7. Rulemaking is not required 
+20
+for the addition or deletion of new billing codes or to specify rates for specific billing 
+21
+codes if there is no change in the overall payment model or reimbursement 
+22
+methodology and the rates are posted in accordance with this section. Changes in rates 
+23
+resulting from application of the reimbursement methodology, including adjustments 
+24
+as a result of changes in the value or amount of components of the reimbursement 
+25
+methodology or changes to billing codes, do not require rulemaking as long as the 
+26
+reimbursement methodology remains the same; and
+27
+B.  For services the department benchmarks to Medicare or other available payer rates 
+28
+for reimbursement, the department shall adopt a rule specifying the percentage, 
+29
+frequency of benchmark updates for alternate payer sources and other aspects of the 
+30
+benchmark methodology. Additional rulemaking is not required for rate changes tied 
+31
+to the adopted benchmark methodology, or for the addition of new billing codes, unless 
+32
+the department changes the benchmarking percentage or methodology.
+33
+C.  No later than July 1, 2023, the department shall adopt a rule specifying the 
+34
+appropriate cost-of-living adjustment methodology for different types of services in 
+35
+accordance with subsection 2, paragraph D, subparagraph (3). Additional rulemaking 
+36
+is not required for rate increases tied to annual cost-of-living adjustment increases 
+37
+unless the department changes the cost-of-living adjustment methodology.
+38
+Rulemaking is not required for rate adjustments tied to annual cost-of-living adjustment 
+39
+increases unless the department changes the cost-of-living adjustment methodology.
+40
+Rules adopted pursuant to this subsection may incorporate by reference any part of a code, 
+41
+standard, rule, regulation or schedule or any other source considered appropriate by the 
+42
+department.  Notwithstanding any provision of law to the contrary, rules adopted pursuant 
+43
+to this subsection are not subject to Title 5, section 8056, subsection 1, as long as the rules 
+44
+identify the incorporated matter by title or source, as appropriate.
+
+Page 7 - 132LR2803(01)
+1
+Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+2
+chapter 375, subchapter 2‑A unless rules to adopt MaineCare reimbursement rates are 
+3
+designated as major substantive rules in another section of law.
+4
+4.  Funding.  The department may use funds from the MaineCare Stabilization Fund 
+5
+established in section 3174‑KK in order to fund the rate reimbursement adjustments made 
+6
+in accordance with this section when funding may be needed in addition to appropriations 
+7
+associated with separate initiatives. Adjustments to reimbursements made using the 
+8
+MaineCare Stabilization Fund are not considered permanent until ongoing appropriations 
+9
+and allocations funding the adjustments are made.
+10
+Reimbursement adjustments are subject to the availability of appropriations. The 
+11
+department may reduce reimbursement adjustment amounts, including otherwise specified 
+12
+cost-of-living adjustment amounts, in proportion to available funding, including 
+13
+elimination of a scheduled adjustment if funding is unavailable.
+14
+If sufficient funds are not appropriated for reimbursement adjustments in accordance with 
+15
+this section and there are not sufficient funds available in the MaineCare Stabilization Fund 
+16
+for this purpose, the department may prioritize the following, proportional to any funding 
+17
+for reimbursement adjustments that may be available:
+18
+A.  Reimbursement adjustments resulting from any rate determinations for MaineCare 
+19
+sections of policy or services that do not yet have reimbursement established through 
+20
+a rate determination under this section; and
+21
+B.  Reimbursement adjustments for services for which there is evidence of issues 
+22
+related to member access.
+23
+5.  MaineCare Rate Reform Expert Technical Advisory Panel.  The MaineCare 
+24
+Rate Reform Expert Technical Advisory Panel, referred to in this subsection as "the panel," 
+25
+is established for the purpose of advising the commissioner by providing technical, 
+26
+nonpartisan, 3rd-party expertise to inform the department's planned schedule and actions 
+27
+on rate assumptions, payment models and other related technical matters. The panel may 
+28
+not propose rates or methodologies.  The commissioner or the commissioner's designee 
+29
+shall serve as chair.
+30
+A.  The panel includes the following members:  
+31
+(1)  A representative from the Maine Health Data Organization;
+32
+(2)  A representative from the Department of Professional and Financial 
+33
+Regulation, Bureau of Insurance;
+34
+(3)  A representative from the Department of Professional and Financial 
+35
+Regulation;
+36
+(4)  A representative from the department's division of licensing and certification;
+37
+(5)  A representative from the Office of Affordable Health Care;
+38
+(6)  A representative from the Department of Labor; and
+39
+(7)  A representative from the Department of Administrative and Financial 
+40
+Services.
+41
+B.  The panel shall:
+
+Page 8 - 132LR2803(01)
+1
+(1)  Review annual schedules of MaineCare sections of policy scheduled for rate 
+2
+determinations under subsection 2, paragraph A;
+3
+(2)  Review common assumptions and recommendations from rate determinations 
+4
+under subsection 2, paragraph C;
+5
+(3)  Review findings from benchmarking reports to inform the appropriateness of 
+6
+MaineCare rate reimbursement levels across services; and
+7
+(4)  Advise on other related technical matters, as appropriate.
+8
+C.  The panel shall meet at least twice once per year and as otherwise convened by the 
+9
+commissioner.  Meetings of the panel are public, and the panel shall provide public 
+10
+notice of each meeting and an opportunity for public comment.
+11
+6.  MaineCare Advisory Committee.  The MaineCare Advisory Committee, required 
+12
+by 42 Code of Federal Regulations, Section 431.12 and further described in department 
+13
+rules, and referred to in this subsection as "the committee," shall participate in the 
+14
+department's rate-setting system in accordance with this subsection.
+15
+A.  The committee must include a permanent rate system subcommittee that allows 
+16
+broad participation by the full spectrum of types of MaineCare providers.  Participation 
+17
+in the rate system subcommittee may not be limited by number or type of stakeholder 
+18
+in order to allow for participation by any stakeholder affected by MaineCare 
+19
+reimbursement policy and interested in participating in the work of the subcommittee.
+20
+B.  At each meeting of the committee or rate system subcommittee, if requested by the 
+21
+chair of the committee or rate system subcommittee, the department shall provide 
+22
+updates on the department's planned and completed activities under this section for 
+23
+discussion and advisement, including, but not limited to, the following:
+24
+(1)  Schedule and status of rate determination, planned and in progress, by 
+25
+MaineCare section of policy;
+26
+(2)  Status of and plans for comprehensive benchmarking studies; and
+27
+(3)  Contemplated rulemaking to establish rate methodology payment models and 
+28
+reimbursement methodologies resulting from rate determination processes.
+29
+C.  The rate system subcommittee may formulate and present recommendations to the 
+30
+committee pertaining to the department's activities under this section.
+31
+7.  Index of MaineCare rates by service code; publicly accessible website.  The 
+32
+department shall maintain and annually update a centralized master index of rates by 
+33
+service code and post this index on its publicly accessible website.  The index must may 
+34
+contain the following, as applicable:
+35
+A.  The service code, including any modifiers that affect reimbursement;
+36
+B.  The current year rate;
+37
+C.  The source for the rate, including, but not limited to, Medicare or alternate payer 
+38
+benchmark, rate study or other source, and the year and the author of the review, study 
+39
+or report that justified the rate;
+40
+D.  The year the base rate was last updated prior to the application of any subsequent 
+41
+cost-of-living adjustments;
+
+Page 9 - 132LR2803(01)
+1
+E.  Whether the rate is subject to cost-of-living adjustments and, if so, the identity of 
+2
+the benchmark index;
+3
+F.  The section of MaineCare policy pursuant to which the rate was adopted; and
+4
+G.  The target date for the next rate review.
+5
+In addition to the index, the department shall post on its publicly accessible website all rate 
+6
+studies, benchmark reports and other materials used by the department to develop the 
+7
+reimbursement rates and payment models.
+8
+8.  Notice prior to implementation.  For planned rate changes that do not require 
+9
+rulemaking as described in subsection 3, the department shall provide notice prior to 
+10
+implementation, of no less than 30 calendar days for cost-of-living adjustments and no less 
+11
+than 7 calendar days for Medicare fee schedule changes or the addition of new service 
+12
+codes, to stakeholders who request to receive such notice.
+13
+Sec. 4.  22 MRSA §7403, as enacted by PL 2021, c. 398, Pt. AAAA, §1, is repealed.
+14
+SUMMARY
+15
+This bill updates certain definitions and rule-making requirements related to the 
+16
+establishment of a MaineCare payment model and the determination of MaineCare 
+17
+reimbursements for covered services.
+15
+16
+17

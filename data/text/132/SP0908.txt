@@ -1,0 +1,474 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2225
+S.P. 908
+In Senate, March 3, 2026
+An Act to Support Municipal Enforcement of Residential 
+Construction Laws, Codes and Regulations
+Reported by Senator CURRY of Waldo for the Joint Standing Committee on Housing and 
+Economic Development pursuant to Resolve 2025, chapter 64, section 2.
+Reference to the Committee on Housing and Economic Development suggested and 
+ordered printed pursuant to Joint Rule 218.
+DAREK M. GRANT
+Secretary of the Senate
+
+Page 1 - 132LR3036(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  10 MRSA §9722, sub-§6, ¶B, as amended by PL 2019, c. 391, §4, is further 
+3
+amended by amending subparagraph (8) to read:
+4
+(8)  ASHRAE Standard 90.1 Energy Standard for Buildings Except Low-Rise 
+5
+Residential Buildings; and
+6
+Sec. 2.  10 MRSA §9722, sub-§6, ¶B, as amended by PL 2019, c. 391, §4, is further 
+7
+amended by amending subparagraph (9) to read:
+8
+(9)  Standard Practice for Radon Control Options for the Design and Construction 
+9
+of New Low-Rise Residential Buildings published by the American Society for 
+10
+Testing and Materials.; and
+11
+Sec. 3.  10 MRSA §9722, sub-§6, ¶B, a amended by PL 2019, c. 391, §4, is further 
+12
+amended by enacting a new subparagraph (10) to read:
+13
+(10)  International Code Council and Modular Building Institute 1200-2021 
+14
+Standard for Off-site Construction: Planning, Design, Fabrication and Assembly.
+15
+Sec. 4.  10 MRSA §9726 is enacted to read:
+16
+§9726.  Code changes and enforcement
+17
+Notwithstanding any provision of this chapter to the contrary, beginning January 1, 
+18
+2027, the effective date of any changes made by the board to the Maine Uniform Building 
+19
+and Energy Code or to the codes and standards listed in section 9725 between January 1st 
+20
+and June 30th is December 1st of that same calendar year.  The effective date of changes 
+21
+made between July 1st and December 31st is June 1st of the next calendar year.
+22
+Sec. 5.  25 MRSA §2450-A, as amended by PL 2025, c. 388, Pt. D, §31, is further 
+23
+amended to read:
+24
+§2450-A.  Surcharge on plan review fee for Uniform Building Codes and Standards 
+25
+Fund
+26
+In addition to the fees established in section 2450, a surcharge of 4¢ 6¢ per square foot 
+27
+of occupied space must be levied on the existing fee schedule for new construction, 
+28
+reconstruction, repairs, renovations or new use for the sole purpose of funding the activities 
+29
+of the Technical Building Codes and Standards Board with respect to the Maine Uniform 
+30
+Building and Energy Code, established pursuant to Title 10, chapter 1103, the activities of 
+31
+the Division of Building Codes and Standards under chapter 314 and the activities of the 
+32
+Maine Office of Community Affairs under Title 30‑A, section 4451, subsection 3‑A, except 
+33
+that the fee for review of a plan for the renovation of a public school, including the fee 
+34
+established under section 2450, may not exceed $450. Revenue collected from this 
+35
+surcharge must be deposited into the Uniform Building Codes and Standards Fund 
+36
+established by section 2374.
+37
+Sec. 6.  30-A MRSA §4451, sub-§3, as amended by PL 2025, c. 388, Pt. D, §38, is 
+38
+further amended to read:
+39
+3.  Training and certification of code enforcement officers.  In cooperation with 
+40
+code enforcement officer professional associations, the Maine Community College System, 
+41
+the Department of Environmental Protection and the Department of Health and Human 
+
+Page 2 - 132LR3036(01)
+42
+Services, except as otherwise provided in paragraph H, the Maine Office of Community 
+43
+Affairs shall establish a continuing education program for individuals engaged in code 
+44
+enforcement.  This program must provide training in the technical and legal aspects of code 
+45
+enforcement necessary for certification.  The training program must include training to 
+46
+provide familiarity with the laws and ordinances related to the structure and practice of the 
+47
+municipal code enforcement office, municipal planning board and appeals board 
+48
+procedures, application review and permitting procedures, inspection procedures and code 
+49
+enforcement techniques, including enforcement of codes regulating industrialized housing. 
+50
+For the purposes of this subsection, "industrialized housing" means a structure designed to 
+51
+be used for residential housing that consists of or is constructed using one or more modular 
+52
+buildings, modular components or panelized systems that is wholly or in substantial part 
+53
+fabricated or assembled in a manufacturing plant for installation, or assembly and 
+54
+installation, on a separate building site and has been manufactured in such a manner that 
+55
+all parts or processes cannot be inspected at the installation site without disassembly of, 
+56
+damage to or destruction of the structure.
+16
+H.  If funding is not available to support the training and certification program 
+17
+authorized under this subsection, the Maine Office of Community Affairs shall 
+18
+discontinue training and certification activities related to laws and ordinances 
+19
+referenced in subsection 2‑A, paragraphs A and B and shall adopt by routine technical 
+20
+rules under Title 5, chapter 375, subchapter 2‑A a program to register code enforcement 
+21
+officers that meet training and education qualifications.  The Maine Office of 
+22
+Community Affairs shall publish the list of persons registered for code enforcement 
+23
+who have submitted evidence of required qualifications.  Persons registered under this 
+24
+paragraph must meet the requirements for training and certification under this 
+25
+subchapter.  The Maine Office of Community Affairs shall consult with the 
+26
+Department of Health and Human Services for the purposes of carrying out training 
+27
+and certification activities related to laws and ordinances referenced in subsection 2‑A, 
+28
+paragraphs C and D.  Within one month of discontinuation of training and certification 
+29
+under this paragraph, the Maine Office of Community Affairs shall report to the joint 
+30
+standing committee of the Legislature having jurisdiction over appropriations and 
+31
+financial affairs and the joint standing committee of the Legislature having jurisdiction 
+32
+over state and local government matters a recommendation for funding the training and 
+33
+certification program or for further changes in program requirements.
+34
+Sec. 7. Regionalized code enforcement pilot project.  The Maine Office of 
+35
+Community Affairs, through the Housing Opportunity Program established in the Maine 
+36
+Revised Statutes, Title 5, section 3241, shall conduct a 3-year pilot project to promote, 
+37
+incentivize and support the adoption of regionalized approaches to code enforcement by 
+38
+municipalities.  The Maine Office of Community Affairs shall administer the pilot project 
+39
+and establish guidelines for the administration of the pilot project as follows.
+40
+1. The pilot project must start no later than January 1, 2027 and continue for no more 
+41
+than 3 years.
+42
+2. The Maine Office of Community Affairs shall conduct an ongoing evaluation of the 
+43
+pilot project to determine the efficacy and effect of adopting a regionalized approach to 
+44
+code enforcement for participating municipalities.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+Page 3 - 132LR3036(01)
+1
+3. No later than January 15th of each year for the duration of the pilot project, and no 
+2
+later than 60 days following the end of the pilot project, the Maine Office of Community 
+3
+Affairs shall submit a report on the status of the pilot project to the joint standing committee 
+4
+of the Legislature having jurisdiction over building code matters. The final report must 
+5
+include, but is not limited to, the total number of participating municipalities; the reported 
+6
+effects of adopting a regionalized approach to code enforcement; any barriers to the success 
+7
+of the pilot project; and recommendations, including any suggested legislation, for adopting 
+8
+a regionalized approach to code enforcement.
+9
+Upon receipt of any report required by this section, the joint standing committee of the 
+10
+Legislature having jurisdiction over building code matters may report out legislation based 
+11
+on the report to the legislative session in which the report is received.
+12
+Sec. 8. Transfer from Maine Budget Stabilization Fund; Housing 
+13
+Opportunity Program, Other Special Revenue Funds account. Notwithstanding 
+14
+any provision of law to the contrary, on or before June 30, 2027, the State Controller shall 
+15
+transfer $1,000,000 from the Maine Budget Stabilization Fund within the Department of 
+16
+Administrative and Financial Services to the Housing Opportunity Program, Other Special 
+17
+Revenue Funds account for a pilot project to provide regionalized building code 
+18
+enforcement.
+19
+Sec. 9.  Appropriations and allocations.  The following appropriations and 
+20
+allocations are made.
+21
+MAINE OFFICE OF COMMUNITY AFFAIRS
+22
+Division of Building Codes and Standards Z419
+23
+Initiative: Provides funding for the proposed reorganization of one Public Safety Inspector 
+24
+III position to a Public Service Manager II position.
+OTHER SPECIAL REVENUE FUNDS
+2025-26
+2026-27
+Personal Services
+$0
+$28,003
+ 
+__________
+__________
+OTHER SPECIAL REVENUE FUNDS TOTAL
+$0
+$28,003
+25
+Division of Building Codes and Standards Z419
+30
+Initiative: Establishes one Senior Planner position for regional technical assistance for local 
+31
+code enforcement.
+GENERAL FUND
+2025-26
+2026-27
+POSITIONS - LEGISLATIVE COUNT
+0.000
+1.000
+Personal Services
+$0
+$95,147
+All Other
+$0
+$8,000
+ 
+__________
+__________
+GENERAL FUND TOTAL
+$0
+$103,147
+32
+Division of Building Codes and Standards Z419
+39
+Initiative: Establishes one Resource Management Coordinator position and provides 
+40
+funding for training and support for local code enforcement officers.
+OTHER SPECIAL REVENUE FUNDS
+2025-26
+2026-27
+POSITIONS - LEGISLATIVE COUNT
+0.000
+1.000
+25
+26
+27
+28
+29
+32
+33
+34
+35
+36
+37
+38
+41
+42
+
+Page 4 - 132LR3036(01)
+Personal Services
+$0
+$122,761
+All Other
+$0
+$13,000
+ 
+__________
+__________
+OTHER SPECIAL REVENUE FUNDS TOTAL
+$0
+$135,761
+1
+Division of Building Codes and Standards Z419
+6
+Initiative: Provides funding for the approved reclassification of one Public Safety Inspector 
+7
+III position to a Public Safety Inspector Supervisor position retroactive to August 21, 2024 
+8
+and transfers All Other to Personal Services one time to fund the retroactive portion of the 
+9
+reclassification. This initiative also provides funding for authorized overtime.
+OTHER SPECIAL REVENUE FUNDS
+2025-26
+2026-27
+Personal Services
+$0
+$94,594
+All Other
+$0
+($9,282)
+ 
+__________
+__________
+OTHER SPECIAL REVENUE FUNDS TOTAL
+$0
+$85,312
+10
+Housing Opportunity Program Z418
+16
+Initiative: Provides one-time funding for a 3-year pilot project to provide regionalized 
+17
+building code enforcement.
+OTHER SPECIAL REVENUE FUNDS
+2025-26
+2026-27
+All Other
+$0
+$1,000,000
+ 
+__________
+__________
+OTHER SPECIAL REVENUE FUNDS TOTAL
+$0
+$1,000,000
+18
+ 
+MAINE OFFICE OF COMMUNITY AFFAIRS
+ 
+ 
+DEPARTMENT TOTALS
+2025-26
+2026-27
+ 
+ 
+ 
+GENERAL FUND
+$0
+$103,147
+OTHER SPECIAL REVENUE FUNDS
+$0
+$1,249,076
+ 
+__________
+__________
+DEPARTMENT TOTAL - ALL FUNDS
+$0
+$1,352,223
+23
+SUMMARY
+24
+This bill is reported out by the Joint Standing Committee on Housing and Economic 
+25
+Development pursuant to Resolve 2025, chapter 64.  The bill implements the 
+26
+recommendations of the working group to address regulatory barriers to housing 
+27
+construction by:
+35
+1. Adding the International Code Council and Modular Building Institute 1200-2021 
+36
+Standard  for Off-site Construction: Planning, Design, Fabrication and Assembly to the list 
+37
+of codes that make up the Maine Uniform Building and Energy Code;
+38
+2. Establishing consistency for when updates to the Maine Uniform Building and 
+39
+Energy Code and other similar codes go into effect;
+40
+3. Amending the training requirements for code enforcement officers to include 
+41
+training on industrialized housing;
+1
+2
+3
+4
+5
+10
+11
+12
+13
+14
+15
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+
+Page 5 - 132LR3036(01)
+1
+4. Directing the Maine Office of Community Affairs, through the Housing Opportunity 
+2
+Program, to conduct a 3-year pilot project to promote, incentivize and support the adoption 
+3
+of regionalized approaches to code enforcement by municipalities; and
+4
+5. Increasing from 4¢ to 6¢ per square foot the surcharge on the plan review fee. The 
+5
+surcharge is deposited into the Uniform Building Codes and Standards Fund.
+6
+The joint standing committee has not taken a position on the substance of this bill.  By 
+7
+reporting this bill out, the committee is not suggesting and does not intend to suggest that 
+8
+it agrees or disagrees with any aspect of this bill.  The committee is reporting the bill out 
+9
+for the sole purpose of having a bill printed that can be referred to the committee for an 
+10
+appropriate public hearing and subsequent processing in the normal course.  The committee 
+11
+is taking this action to ensure clarity and transparency in the legislative review of the 
+12
+proposals contained in the bill.

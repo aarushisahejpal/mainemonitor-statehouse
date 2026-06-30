@@ -1,0 +1,84 @@
+{
+  "ld": 2243,
+  "paper": "SP0921",
+  "paper_display": "SP 921",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280102454",
+  "title": "An Act Increasing the Debt Limit of the West Paris Water District",
+  "committee": "",
+  "status_summary": "",
+  "final_disposition": "Emergency Enacted, Apr 13, 2026",
+  "governor_action": "Emergency Signed, Apr 13, 2026",
+  "chaptered_law": "ACTPS, Chapter 20",
+  "chapter": "20",
+  "became_law": true,
+  "last_house_action": "4/8/2026 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/8/2026 - PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence.",
+  "sponsors": [
+    {
+      "name": "Joseph MARTIN",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "WATER DISTRICTS",
+      "minor": "CHARTER CHANGES",
+      "detail": "WEST PARIS DEBT LIMIT"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "Committee on ENERGY, UTILITIES AND TECHNOLOGY suggested and ordered printed REFERENCE to the Committee on ENERGY, UTILITIES AND TECHNOLOGY Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2026-04-07",
+      "date_raw": "4/7/2026",
+      "chamber": "House",
+      "description": "Under suspension of the rules and WITHOUT REFERENCE to a Committee, the Bill was READ TWICE and PASSED TO BE ENGROSSED . In NON-CONCURRENCE and sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-07",
+      "date_raw": "4/7/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator DUSON of Cumberland the Senate RECEDED and CONCURRED Suspension of the Rules, READ TWICE AND PASSAGE TO BE ENGROSSED."
+    },
+    {
+      "date": "2026-04-08",
+      "date_raw": "4/8/2026",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-08",
+      "date_raw": "4/8/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0921&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0921&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0921",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0921&SessionID=16",
+  "scraped_at": "2026-06-30T20:25:03Z"
+}

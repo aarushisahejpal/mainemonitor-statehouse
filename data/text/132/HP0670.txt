@@ -1,0 +1,281 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 1041
+H.P. 670
+House of Representatives, March 14, 2025
+An Act to Preserve Affordability in Publicly Assisted Housing 
+Developments
+Received by the Clerk of the House on March 12, 2025.  Referred to the Committee on 
+Housing and Economic Development pursuant to Joint Rule 308.2 and ordered printed 
+pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative LOOKNER of Portland.
+Cosponsored by Senator DUSON of Cumberland and
+Representatives: CAMPBELL of Orrington, DHALAC of South Portland, EDER of 
+Waterboro, GATTINE of Westbrook, GOLEK of Harpswell, MALON of Biddeford, 
+MASTRACCIO of Sanford, RANA of Bangor.
+
+Page 1 - 132LR0798(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  30-A MRSA §4972, as repealed and replaced by PL 2023, c. 218, §3, is 
+3
+repealed and the following enacted in its place:
+4
+§4972.  Definitions
+5
+As used in this subchapter, unless the context otherwise indicates, the following terms 
+6
+have the following meanings.
+7
+1.  Affordability restriction.  “Affordability restriction” means a limit on the rent 
+8
+amount an owner may charge for occupancy of a dwelling unit in publicly assisted rental 
+9
+housing or a limit on the income of a person or family to qualify for admission to publicly 
+10
+assisted rental housing.
+11
+2.  Financial assistance.  “Financial assistance” means funding in the form of grants, 
+12
+tax credits or tax incentives provided by a federal, state or local government entity for 
+13
+which receipt is contingent upon constructing or maintaining dwelling units available to 
+14
+rent at an affordable amount based on the income of the person or family compared to the 
+15
+area median income and on market rates for rental units in that geographic area.
+16
+3.  Holder.  "Holder" means the Maine State Housing Authority or a municipal housing 
+17
+authority that holds the option to purchase a low-income rental housing project.
+18
+4.  Low-income rental housing.  "Low-income rental housing" means rental housing 
+19
+with 5 or more dwelling units in which any of the dwelling units are:
+20
+A.  Subject to federal or state income eligibility restrictions;  
+21
+B.  Subject to rents that are controlled, regulated or assisted by a federal or state agency 
+22
+pursuant to a regulatory agreement, rental assistance agreement, restrictive covenant, 
+23
+mortgage or other documentation; or 
+24
+C.  Subject to requirements contingent upon financial assistance as defined in this 
+25
+section.
+26
+Sec. 2.  30-A MRSA §4973, first ¶, as amended by PL 2023, c. 218, §4, is further 
+27
+amended to read:
+28
+Any person, firm or organization that owns or has a controlling interest in any low-
+29
+income rental housing may not sell, transfer title, prepay a mortgage or take other action in 
+30
+regard to the property that would result in the termination of any income eligibility 
+31
+restrictions, rent affordability restrictions or financial assistance designed to make a rental 
+32
+unit affordable to low-income or moderate-income people without providing notice, as 
+33
+outlined in subsection 1, to the tenants of that property, a tenant organization for that 
+34
+property, if any, the Maine State Housing Authority and, if the property is located in the 
+35
+area of operation of a municipal housing authority, the municipal housing authority, as 
+36
+provided in this section.
+37
+Sec. 3.  30-A MRSA §4973, sub-§1, as amended by PL 2023, c. 218, §4, is repealed 
+38
+and the following enacted in its place:
+39
+1.  Notice.  The notice required by this section must be provided as follows. 
+40
+A.  The notice must include: 
+41
+(1)  The address of the low-income rental housing;
+
+Page 2 - 132LR0798(01)
+1
+(2)  The name and address of the owner of the low-income rental housing;
+2
+(3)  Notification of the date on which the affordability restriction or financial 
+3
+assistance will terminate; and
+4
+(4)  Any other information as required by the Maine State Housing Authority by 
+5
+rule.
+6
+B.  If the remaining term of financial assistance is more than 2 years, the notice must 
+7
+be given at least 2 years before the termination of the financial assistance.
+8
+C.  If the remaining term of financial assistance is less than 2 years as of the effective 
+9
+date of this Act, the notice must be provided by November 30, 2025. 
+10
+D.  If the owner intends to sell, transfer title, prepay a mortgage or take other action in 
+11
+regard to the property that would result in the termination of any affordability 
+12
+restrictions or financial assistance, the notice must be provided at least 90 days prior to 
+13
+the owner entering into a contract or other agreement or taking any action that would 
+14
+result in termination of any affordability restrictions or financial assistance.  
+15
+E.  Any notice required by this section shall be provided by delivery in person or by 
+16
+certified mail, return receipt requested, to the party to whom notice is required, or with 
+17
+respect to tenants, the notice is sent by first-class mail and a copy is left in or under the 
+18
+door of the tenant’s dwelling unit.
+19
+Failure to provide notice as required by this subsection does not reduce the 90-day period 
+20
+within which the Maine State Housing Authority or the municipal housing authority, if any, 
+21
+may submit, in writing, the intention to pursue the option described in subsection 2.
+22
+Sec. 4.  30-A MRSA §4973, sub-§2, as amended by PL 2023, c. 218, §4, is further 
+23
+amended to read:
+24
+2.  Option.  The Maine State Housing Authority or the municipal housing authority, if 
+25
+any, has the option to purchase the property subject to the notice requirements of this 
+26
+section at its current appraised value, as determined by appraisers for the owner of the 
+27
+property and the holder that has stated the intention to exercise the option to purchase 
+28
+within 90 days of receiving the notice required by subsection 1.  The municipal housing 
+29
+authority must have opportunity to exercise the option to purchase.  The holder has the 
+30
+option throughout the 90-day period.  Failure to exercise the option to purchase within 90 
+31
+days constitutes a waiver of that option by the holder.  By stating in writing its intention to 
+32
+pursue its option during the 90-day period, the holder has an additional 90 days, beginning 
+33
+on the date the appraised value is determined by the appraisers for the owner and the holder, 
+34
+to buy or to produce a buyer for the property.  This additional 90-day period may be 
+35
+extended by mutual agreement between the holder and the owner of the property. The 90-
+36
+day period and any agreed upon extension beginning on the date the appraised value is 
+37
+determined is automatically extended for any additional time required to obtain 
+38
+governmental approvals of any sale or transfer transaction and an additional 60 days after 
+39
+receipt of approval.  The holder has the right to assign its option to a nonprofit corporation 
+40
+upon such terms as the holder may determine, including, but not limited to, requiring the 
+41
+assignee to agree to additional income eligibility restrictions and rental restrictions for a 
+42
+duration as determined by the holder.
+43
+A.  Nothing in this This section prevents may not prevent an owner of the property 
+44
+from deciding not to sell, transfer or take other action described in this section. The 
+
+Page 3 - 132LR0798(01)
+45
+withdrawal or revocation, or failure to close on a sale pursuant to the option within the 
+46
+time provided in this subsection, extinguishes any option held by the holder or an 
+47
+assignee.
+4
+Sec. 5.  30-A MRSA §4973, sub-§3, as amended by PL 2023, c. 218, §4, is further 
+5
+amended to read:
+6
+3.  Exceptions.  The holder may not possess any option when a bona fide buyer, by 
+7
+contract with the seller, agrees to maintain the property as low-income housing without any 
+8
+termination or other modification to the income eligibility restrictions or rental affordability 
+9
+restrictions or financial assistance applicable to the property.  The notice provisions of this 
+10
+section apply to this subchapter.
+11
+Sec. 6.  30-A MRSA §4973, as amended by PL 2023, c. 218, §4, is further amended 
+12
+by enacting at the end a new paragraph to read:
+13
+The notice provisions of this section apply to this subchapter.
+14
+Sec. 7.  30-A MRSA §4976, first ¶, as amended by PL 1993, c. 175, §12, is further 
+15
+amended to read:
+16
+Any owner or purchaser of low-income rental housing who sells, transfers title or takes 
+17
+other action in regard to that property that would result in the termination of financial 
+18
+assistance designed to make a rental unit affordable to low-income or moderate-income 
+19
+people shall allow the current tenants to remain in the dwelling units for 6 months from the 
+20
+date of sale, transfer of title or other action in regard to the property, at the same rents or 
+21
+portion of the total rents charged to the tenants before that sale, transfer of title or other 
+22
+action in regard to the property, or the owner may relocate the tenants to comparable units 
+23
+with comparable rents in accordance with the procedure established by rules of the Maine 
+24
+State Housing Authority.
+25
+SUMMARY
+26
+This bill amends the notice an owner of an affordable rental housing property is 
+27
+required to provide when the limitation of the rent amount an owner may charge or the 
+28
+income a person or family needs to qualify to rent in an affordable housing development is 
+29
+likely to end, whether due to sale or transfer of the property, termination of state or federal 
+30
+financial assistance or other action taken by the owner.  The notice requirements for the 
+31
+end of the limitation due to the termination of federal and state financial assistance is set at 
+32
+2 years prior to the end of the financial assistance, or November 30, 2025 if the financial 
+33
+assistance will end in less than 2 years from the effective date of this legislation.  The notice 
+34
+requirement for any other termination of the limitation remains at 90 days.  The bill makes 
+35
+other changes to the Maine Revised Statutes, Title 30-A, subchapter 12 to adjust for the 
+36
+amended language.
+1
+2
+3
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36

@@ -1,0 +1,81 @@
+{
+  "ld": 377,
+  "paper": "SP0133",
+  "paper_display": "SP 133",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096037",
+  "title": "An Act to Establish a University of Maine Medical School and to Dedicate Funds from Raising the Cigarette Tax to the School",
+  "committee": "Education and Cultural Affairs",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 18, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "2/4/2025 - The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS . In concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/18/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Joseph BALDACCI",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Ambureen RANA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Michael TIPPING",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "UNIVERSITY OF MAINE SYSTEM",
+      "minor": "MEDICAL CENTER",
+      "detail": "ESTABLISHED"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "Senate",
+      "description": "Committee on EDUCATION AND CULTURAL AFFAIRS suggested and ordered printed REFERENCE to the Committee on EDUCATION AND CULTURAL AFFAIRS Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0133&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0133",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0133&SessionID=16",
+  "scraped_at": "2026-06-30T18:00:39Z"
+}

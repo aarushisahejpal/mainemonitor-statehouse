@@ -1,0 +1,105 @@
+{
+  "ld": 872,
+  "paper": "HP0558",
+  "paper_display": "HP 558",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097119",
+  "title": "An Act to Ensure Determinations Made by the State Are Free from Unethical, Unsafe or Illegal Interference by Artificial Intelligence",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Jun 9, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/9/2025 - Reports READ . On motion of Representative SALISBURY of Westbrook, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/9/2025 - Reports Read On motion by Senator BALDACCI of Penobscot the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Gary FRIEDMANN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bar Harbor"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ADMINISTRATIVE AND FINANCIAL SVC D",
+      "minor": "INFORMATION SERVICES BUREAU",
+      "detail": "ARTIFICIAL INTELLIGENCE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "House",
+      "description": "Committee on ENERGY, UTILITIES AND TECHNOLOGY suggested and ordered printed. On motion of Representative SACHS of Freeport, the Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator GROHOSKI of Hancock The Bill was REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY . In non-concurrence. ORDERED SENT FORTHWITH for concurrence."
+    },
+    {
+      "date": "2025-03-11",
+      "date_raw": "3/11/2025",
+      "chamber": "House",
+      "description": "The House INSISTED on REFERENCE to the Committee on STATE AND LOCAL GOVERNMENT . ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland The Senate RECEDED and CONCURRED With The Bill REFERRED to the Committee on STATE AND LOCAL GOVERNMENT in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SALISBURY of Westbrook, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator BALDACCI of Penobscot the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-566 )",
+      "new_title": "Resolve, Directing the Office of Information Technology to Study the Use of Artificial Intelligence and Access to Ethical, Legal, Safe and Affordable Forms of Artificial Intelligence",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0558&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0558&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0558",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0558&SessionID=16",
+  "scraped_at": "2026-06-30T18:38:18Z"
+}

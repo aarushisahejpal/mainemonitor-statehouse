@@ -1,0 +1,533 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 874
+H.P. 560
+House of Representatives, March 4, 2025
+An Act to Provide Relief to Federal or State Employees Affected by 
+a Federal Government or State Government Shutdown
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MATHIESON of Kittery.
+Cosponsored by President DAUGHTRY of Cumberland, Senator BAILEY of York and
+Representatives: ARFORD of Brunswick, BOYER of Cape Elizabeth, CLOUTIER of 
+Lewiston, CLUCHEY of Bowdoinham, MASTRACCIO of Sanford, MATLACK of St. 
+George, MILLIKEN of Blue Hill, Senator: BALDACCI of Penobscot.
+
+Page 1 - 132LR1044(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA §160 is enacted to read:
+3
+§160.  Government Shutdown Loan Guarantee Program Fund established
+4
+The Government Shutdown Loan Guarantee Program Fund is established as a 
+5
+nonlapsing Other Special Revenue Funds account within the Office of the Treasurer of 
+6
+State.  All money received by the fund from any source, including any transfers from the 
+7
+General Fund unappropriated surplus, must be credited to the fund. Money credited to the 
+8
+fund must be used to guarantee the repayment of loans made by an eligible financial 
+9
+institution to an eligible affected employee pursuant to Title 10, chapter 110, subchapter 
+10
+15.
+11
+Sec. 2.  10 MRSA c. 110, sub-c. 15 is enacted to read:
+12
+SUBCHAPTER 15
+13
+GOVERNMENT SHUTDOWN LOAN GUARANTEE PROGRAM
+14
+§1100-HH.  Definitions
+15
+As used in this subchapter, unless the context otherwise indicates, the following terms 
+16
+have the following meanings.
+17
+1.  Affected employee.  "Affected employee" means a person employed by the Federal 
+18
+Government or the State Government or any federal or state agency who, during a 
+19
+shutdown, is:
+20
+A.  A resident of the State; and
+21
+B.  Required to work as a federal or state employee without pay or furloughed as a 
+22
+federal or state employee without pay.
+23
+2.  Bureau.  "Bureau" means the Department of Professional and Financial Regulation, 
+24
+Bureau of Financial Institutions.
+25
+3.  Credit union.  "Credit union" has the same meaning as "credit union authorized to 
+26
+do business in this State" in Title 9-B, section 131, subsection 12-A.
+27
+4.  Eligible affected employee.  "Eligible affected employee" means an affected 
+28
+employee who is eligible to receive a loan as determined pursuant to section 1100-JJ, 
+29
+subsection 1.
+30
+5.  Eligible financial institution.  "Eligible financial institution" means a credit union 
+31
+or financial institution that is in good standing as determined by the bureau pursuant to 
+32
+section 1100-II, subsection 2.
+33
+6.  Financial institution.  "Financial institution" has the same meaning as "financial 
+34
+institution authorized to do business in this State" in Title 9-B, section 131, subsection 
+35
+17-A.  
+36
+7.  Good standing.  "Good standing," with respect to a credit union or financial 
+37
+institution, means that the credit union or financial institution is insured by the Federal 
+38
+Deposit Insurance Corporation or the National Credit Union Administration.
+
+Page 2 - 132LR1044(01)
+1
+8.  Grace period.  "Grace period" means the period beginning with the disbursement 
+2
+of a loan under this subchapter and ending 90 days after an eligible affected employee 
+3
+receives disbursement of the loan or at the end of the shutdown during which the loan was 
+4
+made, whichever is later.
+5
+9.  Loan. "Loan" means an extension of credit made by an eligible financial institution 
+6
+to an eligible affected employee pursuant to this subchapter.
+7
+10.  Loan guarantee payment.  "Loan guarantee payment" means the amount paid by 
+8
+the Treasurer of State in satisfaction of a claim filed by an eligible financial institution 
+9
+pursuant to section 1100-KK.
+10
+11.  Program.  "Program" means the Government Shutdown Loan Guarantee Program 
+11
+established in section 1100-II.
+12
+12.  Shutdown.  "Shutdown" means a full or partial shutdown of the Federal 
+13
+Government or the State Government that lasts longer than 7 consecutive calendar days.  
+14
+Each shutdown is considered a separate shutdown for purposes of the program.
+15
+§1100-II.  Government Shutdown Loan Guarantee Program established
+16
+1.  Establishment; purpose.  The Government Shutdown Loan Guarantee Program is 
+17
+established within and administered by the authority.  The authority shall guarantee the 
+18
+repayment of loans made by an eligible financial institution to an eligible affected 
+19
+employee pursuant to section 1100-JJ. The authority shall submit all approved claims 
+20
+pursuant to section 1100-KK to the Treasurer of State, who shall pay from the Government 
+21
+Shutdown Loan Guarantee Program Fund, established in Title 5, section 160, any claims 
+22
+submitted by the authority pursuant to the program.
+23
+2.  Process for credit unions and financial institutions.  A credit union or financial 
+24
+institution may submit a request to the bureau to participate in the program. Not later than 
+25
+5 business days after receiving the request to participate, the bureau shall determine 
+26
+whether the credit union or financial institution is an eligible financial institution and 
+27
+immediately notify the credit union or financial institution and the authority of that 
+28
+determination. An eligible financial institution may make loans to an eligible affected 
+29
+employee in accordance with section 1100-JJ.
+30
+3.  Notification of loan and borrower information.  An eligible financial institution 
+31
+that makes a loan to an eligible affected employee pursuant to section 1100-JJ shall notify 
+32
+the authority in writing not later than 5 business days after making the loan, specifying such 
+33
+information about the eligible affected employee borrower as the authority may request.
+34
+§1100-JJ.  Eligibility of affected employees; loan terms; process
+35
+1.  Determination of eligibility of affected employee.  An eligible financial institution 
+36
+may make a loan to an affected employee who meets the following eligibility requirements.
+37
+A.  An affected employee shall provide to the eligible financial institution proof of the 
+38
+affected employee's employment status, income and residence in this State. An affected 
+39
+employee may meet the requirements of this paragraph by providing to the eligible 
+40
+financial institution proof such as a pay stub or bank statement, a federal employee 
+41
+identification card or the federal tax identification number of the affected employee's 
+42
+employer.
+
+Page 3 - 132LR1044(01)
+1
+B.  In addition to the proof required in paragraph A, an affected employee shall submit 
+2
+to the eligible financial institution a sworn affidavit from the affected employee stating:
+3
+(1) That the affected employee is currently a federal or state employee residing in 
+4
+this State;
+5
+(2) That the affected employee is eligible to receive back pay when a shutdown 
+6
+ends;
+7
+(3)  That the affected employee is not receiving a loan from any other eligible 
+8
+financial institution pursuant to this subchapter; and
+9
+(4)  The amount per week of unemployment compensation benefits pursuant to 
+10
+Title 26, chapter 13:
+11
+(a)  Received by the affected employee, if any, during a shutdown; and
+12
+(b)  The affected employee is eligible to receive, if any, during a shutdown.
+13
+2. Determination of loan amount.  The maximum amount of a loan is the lesser of 
+14
+$6,000 and the affected employee's most recent monthly after-tax pay, offset by any 
+15
+unemployment benefits, as determined pursuant to this subsection.
+16
+A.  Offsetting unemployment benefits are determined by multiplying by 4 the greater 
+17
+of the amount per week of unemployment benefits pursuant to Title 26, chapter 13, as 
+18
+reported pursuant to subsection 1, paragraph B, subparagraph (4):
+19
+(1) Actually received by the affected employee during the shutdown; and
+20
+(2) The affected employee is eligible to receive during the shutdown.
+21
+B.  The amount of offsetting unemployment benefits, if any, as determined pursuant to 
+22
+paragraph A is subtracted from the lesser of $6,000 and the affected employee's most 
+23
+recent monthly after-tax pay.
+24
+C.  The amount of the loan is the lesser of $6,000 and the amount determined following 
+25
+the calculation in paragraph B.
+26
+3.  Creditworthiness.  An eligible financial institution may not use an affected 
+27
+employee's creditworthiness as a factor for the purposes of determining eligibility for a loan 
+28
+under this subchapter.
+29
+4.  Terms of loan agreement. Notwithstanding any provision of law to the contrary, 
+30
+the following terms apply to a loan issued pursuant to this subchapter.
+31
+A.  A loan agreement may not:
+32
+(1)  Require repayment during the grace period; 
+33
+(2)  Charge interest on the principal amount before or during the grace period or 
+34
+for 180 days after the grace period; or 
+35
+(3)  Contain a fee or penalty for the prepayment or early payment of the loan.
+36
+B.  The loan agreement must require that the affected employee repay the loan in full 
+37
+not later than 180 days after the end of the grace period and permit repayment to be 
+38
+made in installments. An affected employee who chooses to repay the loan in 
+39
+installments must be allowed to make at least 3 and no more than 6 equal installment 
+40
+payments.
+
+Page 4 - 132LR1044(01)
+1
+C.  After 180 days have elapsed following the grace period, the eligible financial 
+2
+institution may charge interest or fees in accordance with the eligible financial 
+3
+institution's lending policy and the terms of the loan agreement.
+4
+5.  Multiple loans to same eligible affected employee during same shutdown.  An 
+5
+eligible affected employee who has received a loan pursuant to this section may apply to 
+6
+the same eligible financial institution for an additional loan for each 30-day period beyond 
+7
+the first that the affected employee remains an eligible affected employee, except that an 
+8
+eligible affected employee may not receive more than 3 loans under the program during a 
+9
+shutdown.  An eligible affected employee who applies for an additional loan shall provide 
+10
+the eligible financial institution with updated information as required under subsection 1, 
+11
+including the amount of unemployment compensation benefits the affected employee has 
+12
+been determined eligible to receive or has received during the shutdown. Each additional 
+13
+loan must be made in accordance with this section.
+14
+6.  Treatment of deferred interest.  Notwithstanding any provision of Title 36, Part 
+15
+8 to the contrary, any interest deferred or not charged related to a loan issued pursuant to 
+16
+this section is exempt from all state taxes that may be applicable to such interest amounts 
+17
+as they relate to an affected employee. An eligible financial institution shall disclose to 
+18
+eligible affected employee borrowers in the signed affidavit or loan documents that there 
+19
+may be federal tax consequences to the program loans and that loan information may be 
+20
+shared with the authority.
+21
+§1100-KK.  Loan guarantee
+22
+1.  Claims.  No sooner than the 180th day following the end of the grace period and no 
+23
+later than the 300th day following the end of the grace period, an eligible financial 
+24
+institution that has made a good faith effort to collect the outstanding principal of a loan 
+25
+issued pursuant to section 1100-JJ and has been unsuccessful may make a claim to the 
+26
+authority for recovery of an amount equal to the outstanding principal of that loan.
+27
+An eligible financial institution shall demonstrate to the satisfaction of the authority that 
+28
+the eligible financial institution has made a good faith effort to collect the outstanding 
+29
+principal from the eligible affected employee in accordance with the eligible financial 
+30
+institution's loan servicing and collection policies and has been unsuccessful.
+31
+2.  Loan guarantee payment.  The authority, upon receipt of a properly documented 
+32
+claim submitted by an eligible financial institution pursuant to subsection 1, shall submit 
+33
+the claim immediately to the Treasurer of State for payment.  The Treasurer of State 
+34
+immediately shall pay to the authority from the Government Shutdown Loan Guarantee 
+35
+Program Fund, established in Title 5, section 160, any claims submitted by the authority 
+36
+pursuant to the program.  The authority shall distribute the loan guarantee payment to the 
+37
+eligible financial institution.
+38
+3.  Effect of payment of claim.  After payment of a loan guarantee payment to an 
+39
+eligible financial institution pursuant to subsection 2:
+40
+A.  The loan must be assigned by the eligible financial institution to the authority on 
+41
+behalf of the State; and
+42
+B.  The duty of the authority to continue collection efforts on the loan pursuant to 
+43
+section 1100-LL, subsection 4 applies. 
+44
+§1100-LL.  Duties and powers of authority
+
+Page 5 - 132LR1044(01)
+1
+1.  Maintenance and review of records.  The authority shall maintain records in the 
+2
+regular course of administration of the program, including a record of loans issued pursuant 
+3
+to section 1100-JJ and loan guarantee payments issued pursuant to section 1100-KK, 
+4
+subsection 2 to honor claims on defaulted loans. The authority shall regularly review these 
+5
+records to monitor all the loans issued and identify duplicate applications. 
+6
+2.  Termination of loan recovery guarantee based on misrepresentation or failure 
+7
+to comply by eligible financial institution.  The authority may terminate any agreement 
+8
+to pay the claim of an eligible financial institution pursuant to section 1100-KK if the 
+9
+eligible financial institution misrepresents any information pertaining to the loan or fails to 
+10
+comply with any requirements of this section or section 1100-KK in connection with the 
+11
+claim for the loan.
+12
+3.  Termination of loan recovery guarantee based on excess claims. If the amount 
+13
+expended for loan guarantee payments under section 1100-KK equals or exceeds 10% of 
+14
+the total of all loans issued, the authority shall immediately cease to approve claims and 
+15
+shall notify the Treasurer of State and each eligible financial institution of the total amount 
+16
+of loan guarantee payments made and that the authority has ceased honoring loan claims.
+17
+4.  Recovery of defaulted loans.  The authority, on its own or by contracting with a 
+18
+private entity, shall make reasonable efforts to recover the amount of loan guarantee 
+19
+payments made pursuant to section 1100-KK, subsection 2.  Any funds recovered pursuant 
+20
+to this subsection, less reasonable administrative costs, must be deposited in the 
+21
+Government Shutdown Loan Guarantee Program Fund established in Title 5, section 160.
+22
+§1100-MM.  New loans prohibited after shutdown 
+23
+An affected employee may not apply for a loan under the program after a shutdown 
+24
+ends.  A financial institution may not approve a loan under the program after a shutdown 
+25
+ends.
+26
+§1100-NN.  Review of funding needs
+27
+The joint standing committee of the Legislature having jurisdiction over appropriations 
+28
+and financial affairs, in consultation with the joint standing committee of the Legislature 
+29
+having jurisdiction over financial services matters, may report out legislation to address 
+30
+any funding needs of the program.
+31
+Sec. 3.  Transfer. Notwithstanding any provision of law to the contrary, the State 
+32
+Controller shall transfer $250,000 from the General Fund unappropriated surplus to the 
+33
+Government Shutdown Loan Guarantee Program Fund, established within the Office of the 
+34
+Treasurer of State pursuant to the Maine Revised Statutes, Title 5, section 160, no later 
+35
+than 14 days following the effective date of this Act to be used to guarantee the repayment 
+36
+of loans made by an eligible financial institution to an eligible affected employee pursuant 
+37
+to Title 10, chapter 110, subchapter 15. 
+38
+Sec. 4.  Additional transfer and allocation.  The Joint Standing Committee on 
+39
+Appropriations and Financial Affairs, after consultation with the Joint Standing Committee 
+40
+on Health Coverage, Insurance and Financial Services, may report out legislation to the 
+41
+Second Regular Session of the 132nd Legislature to address any funding needs of the 
+42
+Government Shutdown Loan Guarantee Program established in the Maine Revised 
+43
+Statutes, Title 10, chapter 110, subchapter 15.
+
+Page 6 - 132LR1044(01)
+1
+Sec. 5.  Appropriations and allocations.  The following appropriations and 
+2
+allocations are made.
+3
+TREASURER OF STATE, OFFICE OF
+4
+Government Shutdown Loan Guarantee Program Fund N296
+5
+Initiative: Establishes the Government Shutdown Loan Guarantee Program Fund with a 
+6
+$250,000 transfer from the unappropriated surplus of the General Fund.
+OTHER SPECIAL REVENUE FUNDS
+2025-26
+2026-27
+All Other
+$250,000
+$0
+ 
+__________
+__________
+OTHER SPECIAL REVENUE FUNDS TOTAL
+$250,000
+$0
+7
+SUMMARY
+8
+This bill establishes the Government Shutdown Loan Guarantee Program. The 
+9
+program, administered by the Finance Authority of Maine, or FAME, provides access to 
+10
+no-interest loans for certain federal employees in Maine or State Government employees 
+11
+affected by a partial or full shutdown of the Federal Government or the State Government 
+12
+that lasts for longer than 7 consecutive days by guaranteeing up to 10% of the loans eligible 
+13
+credit unions and financial institutions make to affected employees.  
+18
+Under the bill, affected employees are eligible for up to 3 loans during a shutdown, 
+19
+each equal to their monthly after-tax pay, less unemployment benefits, up to a maximum 
+20
+of $6,000. Eligibility must be proven by the employee based on certain requirements. The 
+21
+creditworthiness of an employee may not be used as a factor to determine eligibility for the 
+22
+program.
+23
+An eligible financial institution that makes a loan pursuant to the program is prohibited 
+24
+from requiring repayment of the loan during the grace period, which is the time during the 
+25
+shutdown or 90 days after the disbursement of the loan, whichever is later, and from 
+26
+imposing interest on the loan for 180 days following the grace period. Following the end 
+27
+of the 180 days, an institution that made a loan under the program, after a good faith effort 
+28
+to collect the principal amount of the loan, may apply to FAME for repayment of the 
+29
+uncollected amount of the loan in default. The Treasurer of State is required to transfer 
+30
+funds for the payment of the uncollected amount to FAME, which is required to make the 
+31
+payment to the eligible financial institution.  FAME is required to make reasonable efforts 
+32
+to recoup the amount of any payments made to eligible financial institutions from the 
+33
+employee who defaulted on the loan.
+34
+Finally, the bill gives the joint standing committee of the Legislature having 
+35
+jurisdiction over appropriations and financial affairs, in consultation with the joint standing 
+36
+committee of the Legislature having jurisdiction over financial services matters, authority 
+37
+to report out legislation to address any funding needs of the program.
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17

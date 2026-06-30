@@ -1,0 +1,111 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1907
+S.P. 748
+In Senate, May 6, 2025
+An Act to Protect Consumers from Unfair Dynamic Pricing in 
+Grocery Stores
+Reference to the Committee on Housing and Economic Development suggested and 
+ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by President DAUGHTRY of Cumberland.
+Cosponsored by Senators: CURRY of Waldo, NANGLE of Cumberland, RENY of Lincoln, 
+TIPPING of Penobscot, Representatives: ARFORD of Brunswick, WEBB of Durham.
+
+Page 1 - 132LR1433(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  10 MRSA §1202, sub-§4-A is enacted to read:
+3
+4-A.  Dynamic pricing.  "Dynamic pricing" means a digital process that uses a 
+4
+software program to determine or change the price of a good or service displayed on an 
+5
+electronic shelf label in a grocery store.
+6
+Sec. 2.  10 MRSA §1202, sub-§4-B is enacted to read:
+7
+4-B.  Electronic shelf label.  "Electronic shelf label" means a digital label or price tag 
+8
+that displays the price of a good or service offered by a grocery store.
+9
+Sec. 3.  10 MRSA §1202, sub-§4-C is enacted to read:
+10
+4-C.  Grocery store.  "Grocery store" means a store that is part of a chain with 15 or 
+11
+more locations nationally doing business under the same name or as part of a corporation 
+12
+that is primarily engaged in the retail sale of canned food, dry goods, frozen food, dairy 
+13
+products, fresh fruits and vegetables and fresh meats, fish and poultry.  "Grocery store" 
+14
+includes a convenience store, but does not include a separately owned eating establishment 
+15
+located within a grocery store.
+16
+Sec. 4.  10 MRSA §1204-B is enacted to read:
+17
+§1204-B.  Certain dynamic pricing prohibited; notice
+18
+1.  Prohibition.  A grocery store may not engage in dynamic pricing more than once 
+19
+in a 48-hour period during a severe weather event, a natural disaster, a supply chain 
+20
+disruption or another event that can cause a sudden increased demand for goods or services.
+21
+2.  Allowable use; notice.  Except as prohibited pursuant to subsection 1, a grocery 
+22
+store may use dynamic pricing if it provides notice to its customers using conspicuous 
+23
+signage indicating:
+24
+A. That dynamic pricing is being used in the grocery store and how it works;
+25
+B.  What factors are used by the grocery store to change the price of a good or service; 
+26
+and
+27
+C.  That it is an unfair or deceptive trade practice to use dynamic pricing more than 
+28
+once in a 48-hour period during a severe weather event, a natural disaster, a supply 
+29
+chain disruption or another event that can cause a sudden increased demand for goods 
+30
+or services.
+31
+3.  Violation is unfair trade practice.  A grocery store engaging in dynamic pricing 
+32
+in violation of this section commits an unfair trade practice under Title 5, chapter 10.
+33
+SUMMARY
+34
+This bill amends the Unfair Sales Act to prohibit the use of dynamic pricing by grocery 
+35
+stores to electronically change the price of a good or service offered by that grocery store 
+36
+more than once in a 48-hour period during a severe weather event, a natural disaster, a 
+37
+supply chain disruption or another event that can cause a sudden increased demand for 
+38
+goods or services.  Dynamic pricing may be used at other times as long as notice of its use 
+39
+is provided to the customers of the grocery store using conspicuous signage describing how 
+40
+and when the grocery store uses dynamic pricing.
+34
+35
+36
+37
+38
+39
+40
+
+Page 2 - 132LR1433(01)
+1
+A violation of the bill's provisions is considered an unfair trade practice, subject to the 
+2
+penalties imposed for a violation of the Maine Unfair Trade Practices Act.

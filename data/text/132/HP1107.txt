@@ -1,0 +1,458 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1672
+H.P. 1107
+House of Representatives, April 17, 2025
+An Act to Allow Participation in the Adult Use Cannabis Tracking 
+System to Be Voluntary
+Reference to the Committee on Veterans and Legal Affairs suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative BOYER of Poland.
+Cosponsored by Senator HICKMAN of Kennebec and
+Representatives: DANA of the Passamaquoddy Tribe, FAULKINGHAM of Winter Harbor, 
+GUERRETTE of Caribou, MONTELL of Gardiner, PLUECKER of Warren, SUPICA of 
+Bangor, Senators: GROHOSKI of Hancock, HARRINGTON of York.
+
+Page 1 - 132LR1757(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  28-B MRSA §105, as amended by PL 2023, c. 396, §§1 and 2 and c. 679, 
+3
+Pt. B, §§8 to 13, is further amended to read:
+4
+§105.  Tracking system; voluntary participation by licensees
+5
+The office shall implement and administer a system, referred to in this section as "the 
+6
+tracking system," for the tracking of to be used by participating licensees to track cannabis 
+7
+plants, adult use cannabis and adult use cannabis products from immature cannabis plant 
+8
+to the point of retail sale, return, disposal or destruction.  As used in this section, 
+9
+"participating licensee" means a licensee that voluntarily elects to use the tracking system 
+10
+implemented and administered by the office pursuant to this section.  The tracking system 
+11
+must allow for a participating licensee to track cannabis plants at the stage of cultivation 
+12
+and upon transfer from the stage of cultivation to another licensee to be tracked by group.  
+13
+The office may implement a tracking system that allows a participating licensee to track 
+14
+adult use cannabis or adult use cannabis products to be tracked by group.
+15
+The office shall ensure that the system implemented and administered under this 
+16
+section, whether tracking individually or by group, maintains, for participating licensees, a 
+17
+detailed record at every stage from immature cannabis plant to the point of retail sale, 
+18
+return, disposal or destruction.
+19
+1.  Data submission requirements.    The tracking system must allow participating 
+20
+licensees to submit tracking data for adult use cannabis or adult use cannabis products to 
+21
+the office.  The tracking system must permit participating licensees to submit all required 
+22
+tracking data through manual data entry or through the use of software that connects to the 
+23
+tracking system maintained by the office through an application program interface, 
+24
+including without limitation point-of-sale system software.  Nothing in this subsection may 
+25
+be construed to permit the submission of required tracking data by a participating licensee 
+26
+using an application program interface that cannot transmit all required data to the tracking 
+27
+system required by the office.
+28
+1-A.  Group tracking.  Cannabis A participating licensee may track cannabis plants 
+29
+at the same stage of growth that are of the same varietal or cultivar of the plant genus 
+30
+Cannabis may be tracked by group if they the plants:
+31
+A.  Are planted in the same specific area at the same time;
+32
+B.  Are transplanted to the same specific area at the same time; or
+33
+C.  Include cannabis plants that were planted in a specific area and cannabis plants that 
+34
+were transplanted to the same specific area.
+35
+For cannabis plants that are tracked as a group, a participating licensee shall designate the 
+36
+square footage of the specific area in which the plants are planted or transplanted.  Cannabis 
+37
+A participating licensee may not track cannabis plants may not be tracked as a group unless 
+38
+they the plants are intended for harvest as a group.
+39
+1-B.  Tagging.  A participating licensee shall affix a tag containing the identifying 
+40
+information required by the office under this chapter or rule adopted pursuant to this chapter 
+41
+to each group of cannabis plants tracked under this section.  The office may not require 
+42
+cannabis plants that are being tracked as a group to be individually affixed with a tag during 
+43
+cultivation or transfer from a participating licensee to another licensee.
+
+Page 2 - 132LR1757(01)
+1
+1-C.  Group transfers.  When a group of cannabis plants tracked under this section is 
+2
+transferred from a participating licensee to another licensee, the licensee transferring the 
+3
+group of cannabis plants must provide a manifest that lists every cannabis plant within the 
+4
+group and any other relevant information required by the office by rule.
+5
+2.  Rules; participating licensees.  The office shall adopt rules regarding the 
+6
+implementation and administration of the tracking system and tracking requirements for 
+7
+participating licensees.  Rules adopted under this section must include, but are not limited 
+8
+to, the following:
+9
+A.  Record-keeping requirements for the tracking of cannabis plants when tracked 
+10
+individually and when tracked by group; and
+11
+B.  Record-keeping requirements necessary to ensure the office's ability to implement 
+12
+a recall for reasons related to health and safety when tracking cannabis plants 
+13
+individually or by group.
+14
+3.  Rules; nonparticipating licensees.  The office shall adopt rules regarding 
+15
+minimum inventory control system and other requirements that must be satisfied by a 
+16
+licensee that does not voluntarily elect to use the tracking system implemented and 
+17
+administered by the office pursuant to this section.  The rules must require such licensees 
+18
+to submit to the office information regarding the inventory control system and other 
+19
+operating and record-keeping procedures sufficient to ensure the office's ability to 
+20
+implement a recall of the licensee's adult use cannabis or adult use cannabis products for 
+21
+reasons related to health and safety.  Rules adopted by the office pursuant to this subsection 
+22
+are major substantive rules as defined in Title 5, chapter 375, subchapter 2-A.
+23
+Sec. 2.  28-B MRSA §501, sub-§10, as amended by PL 2023, c. 396, §5, is further 
+24
+amended to read:
+25
+10.  Tracking.  In accordance with the requirements of section 105, a cultivation 
+26
+facility licensee that has voluntarily elected to use the tracking system implemented by the 
+27
+office pursuant to section 105 shall track the adult use cannabis it cultivates from immature 
+28
+cannabis plant to the point at which the cannabis plant or the cannabis produced by the 
+29
+cannabis plant is delivered or transferred to a products manufacturing facility, a testing 
+30
+facility, a cannabis store or another cultivation facility or is disposed of or destroyed. If a 
+31
+cultivation facility licensee that has voluntarily elected to use the tracking system 
+32
+implemented by the office pursuant to section 105 receives a return of a cannabis plant, 
+33
+cannabis flower or cannabis trim from a products manufacturing facility, a cannabis store 
+34
+or another cultivation facility, the cultivation facility licensee receiving the return shall 
+35
+track the returned cannabis plant, cannabis flower or cannabis trim to the point at which 
+36
+the return is transferred to a products manufacturing facility, a testing facility, a cannabis 
+37
+store or a cultivation facility or is disposed of or destroyed.
+38
+Sec. 3.  28-B MRSA §501, sub-§12, as enacted by PL 2023, c. 679, Pt. B, §67, is 
+39
+amended by amending the first blocked paragraph to read:
+40
+Any A cultivation facility licensee or nursery cultivation facility licensee that has 
+41
+voluntarily elected to use the tracking system implemented by the office pursuant to section 
+42
+105 and that acquires seeds or seedlings acquired pursuant to this subsection must be 
+43
+tracked pursuant to shall track those seeds or seedlings in accordance with section 105.
+
+Page 3 - 132LR1757(01)
+1
+Sec. 4.  28-B MRSA §502, sub-§13, as amended by PL 2023, c. 396, §7, is further 
+2
+amended to read:
+3
+13.  Tracking.  In accordance with the requirements of section 105, a products 
+4
+manufacturing facility licensee that has voluntarily elected to use the tracking system 
+5
+implemented by the office pursuant to section 105 shall track the adult use cannabis it uses 
+6
+in its manufacturing processes from the point the cannabis is delivered or transferred to the 
+7
+products manufacturing facility by a cultivation facility to the point the cannabis or 
+8
+cannabis concentrate or an adult use cannabis product produced using the cannabis or 
+9
+cannabis concentrate is delivered or transferred to another products manufacturing facility, 
+10
+a testing facility or a cannabis store or is disposed of or destroyed. If a products 
+11
+manufacturing facility licensee that has voluntarily elected to use the tracking system 
+12
+implemented by the office pursuant to section 105 receives a return of cannabis, cannabis 
+13
+concentrate or an adult use cannabis product from another products manufacturing facility 
+14
+or a cannabis store, the products manufacturing facility licensee shall track the cannabis, 
+15
+cannabis concentrate or adult use cannabis product until transferred, whether in its original 
+16
+form or as a cannabis product, to another products manufacturing facility or a cannabis 
+17
+store or disposed of or destroyed.
+18
+Sec. 5.  28-B MRSA §502, sub-§14, as enacted by PL 2023, c. 396, §8, is amended 
+19
+to read:
+20
+14.  Return of cannabis plant, flower or trim.  Notwithstanding any provision of law 
+21
+to the contrary, a products manufacturing facility licensee may return a cannabis plant, 
+22
+cannabis flower or cannabis trim to a cultivation facility from which the cannabis plant, 
+23
+cannabis flower or cannabis trim was received, as long as the products manufacturing 
+24
+facility licensee tracks the cannabis plant, cannabis flower or cannabis trim until transferred 
+25
+to the cultivation facility and as long as the cultivation facility accepts returns.
+26
+Sec. 6.  28-B MRSA §503, sub-§9, as enacted by PL 2017, c. 409, Pt. A, §6 and 
+27
+amended by PL 2021, c. 669, §5, is further amended to read:
+28
+9.  Tracking.  In accordance with the requirements of section 105, a testing facility 
+29
+licensee that has voluntarily elected to use the tracking system implemented by the office 
+30
+pursuant to section 105 shall track all adult use cannabis and adult use cannabis products it 
+31
+receives from a licensee for testing purposes from the point at which the cannabis or 
+32
+cannabis products are delivered or transferred to the testing facility to the point at which 
+33
+the cannabis or cannabis products are disposed of or destroyed.
+34
+Sec. 7.  28-B MRSA §503-A, sub-§6, as enacted by PL 2019, c. 676, §13 and 
+35
+amended by PL 2021, c. 669, §5, is further amended to read:
+36
+6.  Tracking.  In accordance with the requirements of section 105, a sample collector 
+37
+that has voluntarily elected to use the tracking system implemented by the office pursuant 
+38
+to section 105 shall track all adult use cannabis and adult use cannabis products it collects 
+39
+from a licensee for testing purposes from the point at which the cannabis or cannabis 
+40
+products are collected from a licensee to the point at which the cannabis or cannabis 
+41
+products are delivered to a testing facility or the cannabis or cannabis products are disposed 
+42
+of or destroyed.
+43
+Sec. 8.  28-B MRSA §504, sub-§8, as amended by PL 2023, c. 396, §9, is further 
+44
+amended to read:
+
+Page 4 - 132LR1757(01)
+1
+8.  Tracking.  In accordance with the requirements of section 105, a cannabis store 
+2
+licensee that has voluntarily elected to use the tracking system implemented by the office 
+3
+pursuant to section 105 shall track all adult use cannabis and adult use cannabis products 
+4
+from the point at which the cannabis or cannabis products are delivered or transferred to 
+5
+the cannabis store by a cultivation facility or a products manufacturing facility to the point 
+6
+at which the cannabis or cannabis products are sold to a consumer, are delivered or 
+7
+transferred to a testing facility, are returned to a cultivation facility or a products 
+8
+manufacturing facility from which the cannabis or cannabis products were received or are 
+9
+disposed of or destroyed.
+10
+Sec. 9.  28-B MRSA §504, sub-§11, as enacted by PL 2023, c. 396, §11, is amended 
+11
+to read:
+12
+11.  Return of adult use cannabis.  Notwithstanding any provision of law to the 
+13
+contrary, a cannabis store licensee may return a cannabis plant, cannabis flower and 
+14
+cannabis trim to a cultivation facility from which the cannabis plant, cannabis flower or 
+15
+cannabis trim was received, or return cannabis or cannabis products to the products 
+16
+manufacturing facility from which the cannabis or cannabis product was received, as long 
+17
+as the cannabis store licensee tracks the return as required in subsection 8 until transferred 
+18
+to the cultivation facility or products manufacturing facility and as long as the cultivation 
+19
+facility or products manufacturing facility accepts returns.
+20
+Sec. 10.  28-B MRSA §605, sub-§3, as enacted by PL 2017, c. 409, Pt. A, §6 and 
+21
+amended by PL 2021, c. 669, §5, is further amended to read:
+22
+3.  Tracking maintained.  Tracking If the licensee has voluntarily elected to use the 
+23
+tracking system implemented by the office pursuant to section 105, tracking from immature 
+24
+cannabis plant to the point of retail sale has been maintained for the cannabis or cannabis 
+25
+product and transfers of the cannabis or cannabis product to another licensee or to a 
+26
+consumer can be easily identified; and
+27
+Sec. 11.  28-B MRSA §802-A, sub-§2, ¶B, as enacted by PL 2023, c. 679, Pt. B, 
+28
+§134, is amended by repealing subparagraph (11).
+29
+Sec. 12.  28-B MRSA §802-A, sub-§2, ¶B, as enacted by PL 2023, c. 679, Pt. B, 
+30
+§134, is amended by amending subparagraph (12) to read:
+31
+(12)  Conduct that demonstrates a pattern of willful or reckless disregard for the 
+32
+tracking system requirements, sales tax obligations, excise tax obligations, 
+33
+mandatory testing obligations or facility requirements;
+34
+Sec. 13.  28-B MRSA §803-A, first ¶, as amended by PL 2023, c. 679, Pt. B, §136, 
+35
+is further amended to read:
+36
+In accordance with the provisions of this section, the office may impose an 
+37
+administrative hold on a licensee’s cannabis plants, cannabis or cannabis products if, as a 
+38
+result of an inspection or investigation of the licensee by the office or a criminal justice 
+39
+agency, the office determines there are reasonable grounds to believe the licensee or an 
+40
+agent or employee of the licensee has committed or is committing a violation of the 
+41
+provisions of this chapter, the rules adopted pursuant to this chapter or the terms, conditions 
+42
+or provisions of the licensee's license regarding labeling and packaging, testing results, 
+43
+contamination of cannabis plants and cannabis or cannabis products or cannabis plants or 
+44
+cannabis products tracking that is not in compliance with the tracking system, if the licensee 
+
+Page 5 - 132LR1757(01)
+45
+has voluntarily elected to use the tracking system implemented by the office pursuant to 
+46
+section 105.
+3
+Sec. 14.  Office of Cannabis Policy; tracking system contract; transfer.  
+4
+Notwithstanding any provision of law to the contrary, the Department of Administrative 
+5
+and Financial Services, Office of Cannabis Policy may not renew, extend, negotiate or enter 
+6
+into any contract or other agreement with a 3rd-party entity for the administration of, or 
+7
+otherwise relating to, the tracking system for adult use cannabis and adult use cannabis 
+8
+products required pursuant to the Maine Revised Statutes, Title 28-B, section 105.  The 
+9
+office shall, as expeditiously as possible, take all reasonable steps to cancel or terminate 
+10
+any such existing contracts or agreements with 3rd-party entities, subject to the terms, 
+11
+conditions and other limitations of those contracts or agreements.  By June 30, 2026, the 
+12
+Department of Administrative and Financial Services shall transfer to the Department of 
+13
+Defense, Veterans and Emergency Management, Bureau of Veterans' Services, Maine 
+14
+Veterans' Homes Stabilization Fund, established in Title 37-B, section 613, all funds in its 
+15
+possession allocated or otherwise dedicated to the administration of, or otherwise relating 
+16
+to, the tracking system for adult use cannabis and adult use cannabis products required 
+17
+under Title 28-B, section 105.
+18
+SUMMARY
+19
+This bill amends the Cannabis Legalization Act to provide that a cannabis 
+20
+establishment licensee may voluntarily elect, but is not required, to use the tracking system 
+21
+for adult use cannabis and adult use cannabis products implemented and administered by 
+22
+the Department of Administrative and Financial Services, Office of Cannabis Policy.  The 
+23
+office is directed to adopt major substantive rules regarding minimum inventory control 
+24
+system and other requirements that must be satisfied by a licensee that does not voluntarily 
+25
+elect to use that tracking system implemented and administered by the office.
+26
+The bill also prohibits the office from renewing, extending, negotiating or entering into 
+27
+any contract or other agreement with a 3rd-party entity for the administration of, or 
+28
+otherwise relating to, the tracking system for adult use cannabis and adult use cannabis 
+29
+products.  The office is directed to, as expeditiously as possible, take all reasonable steps 
+30
+to cancel or terminate any such existing contracts or agreements with 3rd-party entities, 
+31
+subject to the terms, conditions and other limitations of those contracts or agreements.  By 
+32
+June 30, 2026, the Department of Administrative and Financial Services is required to 
+33
+transfer to the Department of Defense, Veterans and Emergency Management, Bureau of 
+34
+Veterans' Services, Maine Veterans' Homes Stabilization Fund, established in the Maine 
+35
+Revised Statutes, Title 37-B, section 613, all funds in its possession allocated or otherwise 
+36
+dedicated to the administration of, or otherwise relating to, the tracking system for adult 
+37
+use cannabis and adult use cannabis products.
+1
+2
+19
+20
+21
+22
+23
+24
+25

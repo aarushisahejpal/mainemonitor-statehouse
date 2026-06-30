@@ -1,0 +1,297 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1934
+H.P. 1295
+House of Representatives, May 6, 2025
+An Act to Promote Responsible Outdoor Lighting
+Reference to the Committee on State and Local Government suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative OSHER of Orono.
+Cosponsored by Senator GUERIN of Penobscot and
+Representatives: CAMPBELL of Orrington, JULIA of Waterville, RIELLY of Westbrook, 
+WOODSOME of Waterboro, Senators: BALDACCI of Penobscot, BENNETT of Oxford, 
+GROHOSKI of Hancock, TIPPING of Penobscot.
+
+Page 1 - 132LR1969(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA c. 21 is enacted to read:
+3
+CHAPTER 21
+4
+RESPONSIBLE OUTDOOR LIGHTING
+5
+§481. Responsible outdoor lighting
+6
+1.  Definitions.  As used in this chapter, unless the context otherwise indicates, the 
+7
+following terms have the following meanings:
+8
+A.  "ANSI/IES lighting standard" means a standard developed by the Illuminating 
+9
+Engineering Society and adopted by the American National Standards Institute or 
+10
+successor organizations to describe adequate outdoor lighting that does not 
+11
+unnecessarily brighten the night sky when used for particular purposes or in particular 
+12
+settings, including, but not limited to, the following standards:
+13
+(1) RP-6: outdoor sports and recreational areas;
+14
+(2) RP-7: outdoor industrial areas;
+15
+(3) RP-8: roadway and parking facilities;
+16
+(4) RP-40: port terminals; and
+17
+(5) RP-43: outdoor pedestrian areas.
+18
+B.  "Correlated color temperature" means the measured color appearance of light 
+19
+emitted by a light source, described using a nominal value stated in kelvins.
+20
+C.  "Fully shielded luminaire" means a luminaire that is shielded in such a manner that 
+21
+no light is emitted, either directly or indirectly, at or above a horizontal plane running 
+22
+through the lowest light-emitting part of the luminaire. 
+23
+D.  "Light level" means the maintained luminance or illuminance value. 
+24
+E.  "Light trespass" means artificial lighting illuminating across property lines at night 
+25
+without permission.  Unless specified otherwise, light trespass limits are measured at 
+26
+any location along a property line both horizontally at the ground plane facing upward 
+27
+and vertically at 1.5 meters above the ground plane with the light meter aimed toward 
+28
+the light source in question. 
+29
+F.  "Lumen" means a unit of measure of the luminous flux of a light source.
+30
+G.  "Luminaire" means a complete lighting unit, including the light source, housing, 
+31
+optics, electronics and other necessary components for the purpose of providing 
+32
+illumination.
+33
+H.  "Lux" means the metric system unit of measure for illuminance, the total luminous 
+34
+flux incident at a point on a surface.
+35
+I.  "Nadir" means a downward vertical vector directly beneath a luminaire, opposite to 
+36
+zenith.
+
+Page 2 - 132LR1969(01)
+1
+J.  "Nighttime hours" means the time between 10:00 p.m. and sunrise or 7:00 a.m., 
+2
+whichever comes earlier, except that for facilities, offices, activities and events with 
+3
+operating hours later than 10:00 p.m., nighttime hours begin one hour after the end of 
+4
+the operating hours.
+5
+K.  "Nonessential lighting" means public outdoor lighting that does not improve the 
+6
+physical safety of motor vehicles or pedestrians, including, but not limited to, 
+7
+landscape lighting, illuminated signage or advertising during nighttime hours, facade 
+8
+lighting, vacant sports field lighting, decorative lighting and seasonal lighting.
+9
+L.  "Outdoor sports lighting" means public outdoor lighting for illumination of sporting 
+10
+events or activities, including, but not limited to, downhill skiing areas, playing fields 
+11
+for team sports and similar outdoor recreational facilities. 
+12
+M.  "Public entity" means an agency as defined in section 43 and any political 
+13
+subdivision or public instrumentality of the State.
+14
+N.  "Public improvement" means any improvement or replacement of facilities or 
+15
+equipment undertaken by, on behalf of or pursuant to a contract or grant agreement 
+16
+with a public entity.  
+17
+O.  "Public outdoor lighting" means any public improvement that includes the 
+18
+installation or replacement of luminaires for the purpose of providing outdoor 
+19
+illumination. 
+20
+P.  "Seasonal lighting" means public outdoor lighting that is portable, temporary, 
+21
+decorative and used in connection with festivals, celebrations, holidays and traditions.  
+22
+"Seasonal lighting" includes, but is not limited to, string lighting, icicle lighting and 
+23
+lighted inflatables, none of which are intended for general illumination.
+24
+2.  Requirements.  Beginning October 1, 2026, public outdoor lighting that is installed 
+25
+or replaced must comply with the requirements of this subsection as follows: 
+26
+A. Public outdoor lighting, with the exception of outdoor sports lighting, may not 
+27
+exceed 125% of the light level recommended by the applicable ANSI/IES lighting 
+28
+standard or a more stringent standard specified by rule adopted pursuant to subsection 
+29
+4 or an ordinance authorized by subsection 5;
+30
+B. Light trespass to a federally designated or state-designated wilderness, natural area, 
+31
+habitat or reserve may not measure greater than 0.1 lux;
+32
+C. Luminaires emitting more than 1,000 lumens must be fully shielded luminaires and 
+33
+may not emit more than 5% of their total lumen output above 80 degrees from the 
+34
+luminaries' nadir;
+35
+D. Nonessential lighting must be extinguished during nighttime hours;
+36
+E. The maximum allowable correlated color temperature of outdoor luminaires is 3,000 
+37
+kelvins, except for outdoor sports lighting; and
+38
+F. Outdoor sports lighting must meet the following standards in addition to the 
+39
+standards in paragraphs B to D:
+40
+(1) Eighty-five percent of the lumens generated must be confined to within 10 
+41
+meters of the playing field or the spectator track or bleacher area, whichever is 
+42
+greater;
+
+Page 3 - 132LR1969(01)
+1
+(2) Lighting applications for sports in which the height of a ball in play would, in 
+2
+the normal course of playing the sport, exceed the height of the sports lighting 
+3
+poles must have a maximum of 8% of their total lumen output above 80 degrees 
+4
+from the lighting's nadir;
+5
+(3) Luminaires must use the lowest possible correlated color temperature necessary 
+6
+for the sport, class of play and viewing audience, except that the correlated color 
+7
+temperature may not exceed 5,700 kelvins; and
+8
+(4) Outdoor sports lighting must comply with paragraphs A and E except during 
+9
+the seasons and times of day when the activities for which the lighting is designed 
+10
+are taking place or maintenance to support those activities is being conducted.
+11
+3.  Exemptions.  This chapter does not apply to public outdoor lighting to the extent 
+12
+that:
+13
+A. Regulations or orders of the United States Department of Transportation, Federal 
+14
+Aviation Administration require lighting that exceeds or otherwise fails to comply with 
+15
+the standards in subsection 2;
+16
+B. Rules adopted pursuant to subsection 4 by the Department of Public Safety require 
+17
+lighting necessary to protect public safety or security that does not comply with the 
+18
+requirements of subsection 2;
+19
+C. Law enforcement officers and authorized first responders use public outdoor 
+20
+lighting during emergency procedures that does not comply with subsection 2;
+21
+D. Rules adopted pursuant to subsection 4 by the Department of Transportation permit 
+22
+temporary lighting to ensure safety and efficiency in completion of road construction 
+23
+and repair, as long as such lighting deviates from the standards in subsection 2 to the 
+24
+minimum extent necessary; 
+25
+E. Luminaires replicating historical character and lighting effect are protected pursuant 
+26
+to a law governing historical registration; and
+27
+F. Seasonal lighting complies with subsection 2, paragraphs B and D. 
+28
+4.  Rulemaking.  The Department of Administrative and Financial Services may adopt 
+29
+rules governing the implementation of this chapter.  The Department of Public Safety may 
+30
+adopt rules establishing exemptions as described in subsection 3, paragraph B.  The 
+31
+Department of Transportation may adopt rules governing temporary lighting necessary to 
+32
+ensure safety and efficiency in completion of road construction and repair as described in 
+33
+subsection 3, paragraph D.  Any department proposing rules that affect municipalities shall 
+34
+confer with the Maine Office of Community Affairs before proposing those rules.  All rules 
+35
+adopted pursuant to this subsection are major substantive rules as defined in chapter 375, 
+36
+subchapter 2-A.
+37
+Sec. 2.  Local ordinances required.  By December 31, 2028, each municipality in 
+38
+the State is required to adopt a local ordinance to promote compliance with this chapter and 
+39
+to extend its standards as appropriate beyond public improvements governed by this 
+40
+chapter.  No later than September 30, 2026, the Maine Office of Community Affairs shall 
+41
+develop and share with municipalities a model ordinance for these purposes. 
+42
+This section may not be construed to prohibit a municipality from adopting lighting 
+43
+ordinances stricter than those adopted by the State pursuant to this chapter.
+
+Page 4 - 132LR1969(01)
+1
+Sec. 3.  Effective date. This Act takes effect September 30, 2026.
+2
+SUMMARY
+3
+This bill requires that outdoor lighting installed or replaced after October 1, 2026 
+4
+comply with certain standards, including standards established by the American National 
+5
+Standards Institute and the Illuminating Engineering Society, intended to reduce the 
+6
+amount of unnecessary light emitted.  The bill includes exemptions for certain types of 
+7
+lighting such as outdoor sports lighting, temporary lighting and required and emergency 
+8
+lighting.  The bill directs certain departments to adopt rules to implement the requirements 
+9
+of this bill.  The bill also directs each municipality in the State to adopt a local ordinance 
+10
+to promote compliance with the provisions of this bill and allows a municipality to adopt 
+11
+ordinances that are more strict than those required by this bill.
+3
+4
+5
+6
+7
+8
+9
+10
+11

@@ -1,0 +1,118 @@
+{
+  "ld": 1308,
+  "paper": "SP0538",
+  "paper_display": "SP 538",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097849",
+  "title": "Resolve, Directing the Department of Inland Fisheries and Wildlife and the Department of Agriculture, Conservation and Forestry to Examine Issues Related to Public Access to Privately Owned Lands",
+  "committee": "Inland Fisheries and Wildlife",
+  "status_summary": "",
+  "final_disposition": "Emergency Finally Passed, Jun 17, 2025",
+  "governor_action": "Emergency Signed, Jun 17, 2025",
+  "chaptered_law": "RESLV, Chapter 82",
+  "chapter": "82",
+  "became_law": true,
+  "last_house_action": "6/10/2025 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/11/2025 - FINALLY PASSED - Emergency - 2/3 Elected Required, in concurrence.",
+  "sponsors": [
+    {
+      "name": "Joseph BALDACCI",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "William BRIDGEO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Augusta"
+    },
+    {
+      "name": "James DILL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Town"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "RECREATION",
+      "minor": "PROPERTY ACCESS",
+      "detail": "PUBLIC-PRIVATE PARTNERSHIPS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-27",
+      "date_raw": "3/27/2025",
+      "chamber": "Senate",
+      "description": "Committee on INLAND FISHERIES AND WILDLIFE suggested and ordered printed REFERENCE to the Committee on INLAND FISHERIES AND WILDLIFE Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-03-27",
+      "date_raw": "3/27/2025",
+      "chamber": "House",
+      "description": "The Resolve was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE . Committee Amendment \"A\" (S-314) READ and ADOPTED . Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-314) . Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Resolve was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-314) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-11",
+      "date_raw": "6/11/2025",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED - Emergency - 2/3 Elected Required, in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-314 )",
+      "new_title": "Resolve, Directing the Department of Inland Fisheries and Wildlife and the Department of Agriculture, Conservation and Forestry to Examine Issues Related to Public Access to Privately Owned Lands",
+      "house_action": "Adopted on 6/9/2025",
+      "senate_action": "Adopted on 6/9/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0538&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0538&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0538&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0538",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0538&SessionID=16",
+  "scraped_at": "2026-06-30T19:12:01Z"
+}

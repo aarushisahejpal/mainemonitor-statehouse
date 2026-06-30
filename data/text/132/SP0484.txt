@@ -1,0 +1,572 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 1195
+S.P. 484
+In Senate, March 20, 2025
+An Act to Amend the Provisions of the Maine Workers' 
+Compensation Act of 1992 Governing Requirements for Self-
+insurers
+Submitted by the Department of Professional and Financial Regulation pursuant to Joint 
+Rule 204.
+Reference to the Committee on Labor suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BAILEY of York.
+
+Page 1 - 132LR0624(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  39-A MRSA §403, sub-§3, as amended by PL 2017, c. 401, §1, is further 
+3
+amended by amending the first blocked paragraph to read:
+4
+Except as provided in subsection 5, paragraph A‑1, a self-insurer may, with the approval 
+5
+of the Superintendent of Insurance, use the following types of security to satisfy the self-
+6
+insurer's responsibility to post security required by the superintendent: a surety bond; an 
+7
+irrevocable standby letter of credit; cash deposits and acceptable securities; and an 
+8
+actuarially determined fully funded trust.  For purposes of this section, "tangible net worth" 
+9
+means equity less assets that have no physical existence and depend on expected future 
+10
+benefits for their ascribed value.  Unless disapproved by the superintendent pursuant to 
+11
+paragraph C, subparagraphs (5) and (6), a group self-insurer that maintains a trust 
+12
+actuarially funded to the confidence level required by the superintendent may use an 
+13
+irrevocable standby letter of credit as follows:  only in an amount not greater than the 
+14
+difference between the funding to the required confidence level and funding to the 
+15
+confidence level reduced by 10 percentage points; only as long as the trust assets are not 
+16
+used as collateral for the letter of credit; and only as long as the value of trust assets, 
+17
+excluding the value of the letter of credit, is at least equal to the present value, evaluated to 
+18
+the 65% confidence level, of ultimate incurred claims, claims settlement costs and, if 
+19
+determined necessary by the superintendent, administrative costs.
+20
+Sec. 2.  39-A MRSA §403, sub-§3, ¶A, as amended by PL 2017, c. 401, §1, is 
+21
+further amended by amending the 3rd blocked paragraph to read:
+22
+The irrevocable standby letter of credit must be the individual obligation of the issuing 
+23
+financial institution, may not be subject to any agreement, condition, qualification or 
+24
+defense between the financial institution and the employer or group and may not in any 
+25
+way be contingent on reimbursement by the employer or group.  If the rating of an 
+26
+issuing financial institution that has issued an irrevocable standby letter of credit 
+27
+pursuant to this section falls below the required standard, the employer or group shall 
+28
+obtain a new irrevocable standby letter of credit from a qualified financial institution 
+29
+or shall provide other eligible security of equal value approved by the Superintendent 
+30
+of Insurance.  The irrevocable standby letter of credit is automatically extended for one 
+31
+year from the date of expiration unless, at least 90 days prior to any expiration date, the 
+32
+issuing financial institution notifies the Superintendent of Insurance that the financial 
+33
+institution elects not to renew the irrevocable standby letter of credit.
+34
+Sec. 3.  39-A MRSA §403, sub-§3, ¶A, as amended by PL 2017, c. 401, §1, is 
+35
+further amended by amending the 4th blocked paragraph to read:
+36
+An irrevocable standby letter of credit that has been issued by a qualified financial 
+37
+institution and accepted by the Superintendent of Insurance binds the issuing financial 
+38
+institution to pay one or more drafts drawn by the Treasurer of State, as directed by the 
+39
+superintendent, as long as the draft does not exceed the total amount of the irrevocable 
+40
+standby letter of credit.  Any draft presented by the Treasurer of State, as directed by 
+41
+the superintendent, must be promptly honored if accompanied by the certification of 
+42
+the superintendent that any obligation under this chapter has not been paid when due 
+43
+or that a proceeding in bankruptcy has been initiated by or with respect to the employer 
+44
+or group in a court of competent jurisdiction.
+
+Page 2 - 132LR0624(01)
+1
+Sec. 4.  39-A MRSA §403, sub-§3, ¶A, as amended by PL 2017, c. 401, §1, is 
+2
+further amended by repealing the 5th blocked paragraph.
+3
+Sec. 5.  39-A MRSA §403, sub-§3, ¶A, as amended by PL 2017, c. 401, §1, is 
+4
+further amended by repealing the 6th blocked paragraph.
+5
+Sec. 6.  39-A MRSA §403, sub-§3, ¶A, as amended by PL 2017, c. 401, §1, is 
+6
+further amended by repealing the 7th blocked paragraph.
+7
+Sec. 7.  39-A MRSA §403, sub-§3, ¶A-1 is enacted to read:
+8
+A-1.  The Superintendent of Insurance may instruct the Treasurer of State to draw on 
+9
+an irrevocable standby letter of credit if:
+10
+(1) Any obligation under this chapter has not been paid by the employer or group 
+11
+when due;
+12
+(2) A proceeding in bankruptcy has been initiated by or with respect to the 
+13
+employer or group in a court of competent jurisdiction; or
+14
+(3) The following conditions have been met:
+15
+(a) The superintendent has received notice that that the financial institution 
+16
+elects not to renew the irrevocable standby letter of credit;
+17
+(b) The self-insurer has had at least 15 days’ notice to replace the security with 
+18
+other eligible security of equal value approved by the superintendent; and
+19
+(c) The self-insurer has not replaced the irrevocable standby letter of credit 
+20
+with a new letter of credit or other approved security.
+21
+The issuing financial institution shall promptly honor a draft on an irrevocable standby 
+22
+letter presented by the Treasurer of State. Any proceeds from a draw on such an 
+23
+irrevocable standby letter of credit by the treasurer must be held by the treasurer on 
+24
+behalf of workers' compensation claimants to secure payment of claims until either the 
+25
+superintendent authorizes the treasurer to release those proceeds to the employer or 
+26
+group upon provision by the employer or group of replacement security adequate to 
+27
+meet the requirements for security set by the superintendent, or the superintendent 
+28
+directs distribution of the proceeds in accordance with this Title.
+29
+To the extent not inconsistent with state law, the letter of credit is subject to and 
+30
+governed by the International Standby Practices 1998 or successor practices governing 
+31
+standby letters of credit duly adopted by the International Chamber of Commerce. If 
+32
+any legal proceedings are initiated with respect to payment of the letter of credit, those 
+33
+proceedings are subject to the State's courts and law.
+34
+Sec. 8.  39-A MRSA §403, sub-§3, ¶C, as amended by PL 2017, c. 401, §1, is 
+35
+further amended to read:
+36
+C.  A self-insurer may establish an actuarially determined fully funded trust, funded at 
+37
+a level sufficient to discharge those obligations incurred by the employer pursuant to 
+38
+this Act as they become due and payable from time to time, as long as the 
+39
+Superintendent of Insurance requires that the value of unencumbered trust assets be at 
+40
+least equal to the present value of ultimate expected incurred claims and claims 
+41
+settlement costs, plus required safety margins and, if determined necessary by the 
+42
+superintendent, administrative costs for the operation of the plan of self-insurance.  For 
+
+Page 3 - 132LR0624(01)
+43
+the purpose of determining whether a group self-insurer's actuarially determined fully 
+44
+funded trust has a surplus of funds in excess of that is fully funded as required by this 
+45
+subsection, the superintendent shall consider, based upon the group's audit for all 
+46
+completed plan years, only the following assets held outside the trust account:  cash up 
+47
+to $10,000; accounts receivable, limited to amounts collected and deposited in the trust 
+48
+account by the date of the surplus distribution; accrued interest on trust account assets 
+49
+that will be collected and deposited in the trust account within 6 months from the date 
+50
+of the surplus determination; tangible assets that will be converted to cash and 
+51
+deposited in the trust account prior to the distribution date of any surplus; and a letter 
+52
+of credit to be used to partially fund the trust to the extent allowed under this section 
+53
+and rules adopted by the superintendent, as supported in the actuarial review.  The 
+54
+superintendent shall consider cash held outside the trust account in excess of $10,000 
+55
+if the self-insurer provides, to the superintendent's satisfaction, documentation 
+56
+regarding why the money is being held outside the trust account.  An actuarially 
+57
+determined fully funded trust must be funded as follows, as determined by the 
+58
+superintendent.
+17
+(1)  For individual and group self-insurers, the amount of security must be 
+18
+determined based upon an actuarial review.  The actuarial review must take into 
+19
+consideration the use by a group self-insurer of any irrevocable standby letter of 
+20
+credit.  Except as provided in subparagraph (3), initial funding for each plan year 
+21
+must be maintained at the 90% or higher confidence level.  Funding after the 
+22
+completion of the initial plan year may be established no lower than the 75% 
+23
+confidence level if the following has occurred:
+24
+(a)  A year considered for reduction is completed;
+25
+(b)  The supporting actuarial review includes an evaluation of the completed 
+26
+year experience with claims evaluated not less than 6 months from the end of 
+27
+the plan year, or in the case of a group self-insurer in existence for at least 36 
+28
+months, not less than 4 months from the end of the plan year; and
+29
+(c)  For individual self-insurers, prior approval from the superintendent is 
+30
+obtained.
+31
+For the purposes of determining the confidence level, all completed years at the 
+32
+same confidence level may be aggregated.  For individual self-insurers, funds may 
+33
+not be released from the trust or transferred between years except as approved by 
+34
+the superintendent.  The governing body of a group self-insurer may at any time 
+35
+declare a surplus of funds above the required confidence level, but may only release 
+36
+funds after the completion of any plan year.  The superintendent may request 
+37
+information regarding any such declaration.  Any distribution of surplus must be 
+38
+based upon an actuarial review of all outstanding obligations for all completed plan 
+39
+years, an audited financial statement of the group for all completed plan years and 
+40
+a surplus distribution worksheet for all completed plan years on a form approved 
+41
+by the superintendent.  The group self-insurer must provide the required 
+42
+information within 10 days after the distribution.  Any surplus declared or 
+43
+distributed pursuant to this paragraph is subject to adjustment after review by the 
+44
+superintendent within 60 days of the receipt of the required information.  Any 
+45
+deficit below the required confidence level, as determined by the superintendent, 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Page 4 - 132LR0624(01)
+46
+that results from a distribution under this paragraph must be funded within 45 days 
+47
+from the date of the notice by the superintendent.
+3
+(1-A)  A group self-insurer may secure its obligations to the confidence level 
+4
+required by the superintendent in the following manner:
+5
+(a)  The obligations must be secured by an actuarially determined fully funded 
+6
+trust with unencumbered assets at least equal to the present value of ultimate 
+7
+expected incurred claims and claims settlement costs, or such higher amount 
+8
+as the superintendent may require in accordance with subparagraphs (5) and 
+9
+(6); and
+10
+(b)  The balance may be secured by a letter of credit complying with paragraph 
+11
+A.
+12
+(2)  A group self-insurer may elect to fund at a higher confidence level through the 
+13
+use of cash, marketable securities or reinsurance.  If a member of a group self-
+14
+insurer terminates membership in the group for any reason, that member shall fund 
+15
+the member's proportionate share of the liabilities and obligations of the trust to the 
+16
+95% confidence level.  If for any reason the departing member fails to fund the 
+17
+member's proportionate share of the trust's exposure to the 95% level of 
+18
+confidence, the trust is responsible for that member's liabilities and obligations to 
+19
+the trust. If the superintendent finds that a material risk to the trust's ability to 
+20
+satisfy its liabilities and obligations in full exists due to the failure of one or more 
+21
+departing members to fund the departing members' proportionate share of those 
+22
+liabilities and obligations to the 95% confidence level or due to the failure of the 
+23
+group trust to enforce the funding requirement, the superintendent shall consider 
+24
+the unfunded share of the trust's exposure when approving a determination of a 
+25
+surplus or deficit in the trust.
+26
+(3)  Subject to prior approval by the superintendent in accordance with 
+27
+subparagraph (5), a self-insurer that has successfully maintained an actuarially 
+28
+determined fully funded trust for a period of 5 or more consecutive years may fund 
+29
+all years, including the prospective fund year, at the 75% or higher confidence level 
+30
+in the aggregate and a group self-insurer that has successfully maintained an 
+31
+actuarially determined fully funded trust for a period of 10 or more consecutive 
+32
+years may fund all years, including the prospective fund year, at the 65% or higher 
+33
+confidence level in the aggregate.
+34
+(4)  Trust assets must consist of cash or marketable securities of a type and risk 
+35
+character as specified in subsection 9.  The trustee shall submit a report to the 
+36
+superintendent not less frequently than quarterly that lists the assets comprising the 
+37
+corpus of the trust, including a statement of their market value and the investment 
+38
+activity during the period covered by the report.  The trust must be established and 
+39
+maintained subject to the condition that trust assets may not be transferred or revert 
+40
+in any manner to the employer except to the extent that the superintendent finds 
+41
+that the value of the trust assets exceeds the present value of incurred claims and 
+42
+claims settlement costs with an actuarially indicated margin for future loss 
+43
+development.  In all other respects, the trust instrument, including terms for 
+44
+certification, funding, designation of trustee and payout, must be as approved by 
+45
+the superintendent, except that the value of the trust account must be actuarially 
+1
+2
+
+Page 5 - 132LR0624(01)
+46
+calculated at least annually by a casualty actuary who is a member of the American 
+47
+Academy of Actuaries and adjusted to the required level of funding.
+3
+(5)  In determining whether a self-insurer that maintains an actuarially determined 
+4
+fully funded trust qualifies for a reduction in the required confidence level pursuant 
+5
+to subparagraph (1) or (3) or is subject to an enhanced confidence level pursuant 
+6
+to subparagraph (6), the superintendent shall consider the financial condition of the 
+7
+self-insurer in relation to the potential workers' compensation liabilities.  The 
+8
+factors the superintendent may consider include the self-insurer's liquidity, 
+9
+leverage, tangible net worth, size and net income.  For group self-insurers, the 
+10
+superintendent's review must be based on the aggregate financial condition of the 
+11
+group members.  At the request of the superintendent, a group self-insurer shall 
+12
+report relevant financial information, on a form prescribed by the superintendent, 
+13
+at such intervals as the superintendent directs.  The superintendent may establish 
+14
+additional review criteria or procedures by rule.  Rules adopted pursuant to this 
+15
+subparagraph are routine technical rules as defined in Title 5, chapter 375, 
+16
+subchapter 2‑A.
+17
+(6)  If the superintendent determines, based on an evaluation of a self-insurer's 
+18
+financial condition pursuant to subparagraph (5), that the confidence level at which 
+19
+the self-insurer has been authorized to fund its trust is not sufficient to provide 
+20
+adequate security for the self-insurer's reasonably anticipated potential workers' 
+21
+compensation liabilities, the superintendent shall make a determination of the 
+22
+appropriate confidence level and order the self-insurer to take prompt action to 
+23
+increase funding to that level within 60 days.
+24
+Sec. 9.  39-A MRSA §403, sub-§4-A, ¶L, as enacted by PL 2009, c. 232, §2, is 
+25
+amended by amending subparagraph (1) to read:
+26
+(1)  Any out-of-state self-insurer that participates in the account may do so only 
+27
+through participation in a protected cell.  An employer or group authorized by the 
+28
+Superintendent of Insurance to self-insure its Maine liabilities pursuant to this 
+29
+section is considered an out-of-state insurer self-insurer to the extent that it is 
+30
+reinsuring out-of-state liabilities beyond the scope of its Maine self-insurance plan.
+31
+Sec. 10.  39-A MRSA §403, sub-§5, ¶A-1, as enacted by PL 2017, c. 401, §3, is 
+32
+amended by amending subparagraph (2) to read:
+33
+(2)  If the principal member does not have employees in the State, the principal 
+34
+member must meet the same qualifications as a subsidiary employer applying to 
+35
+become qualified parent corporation of an individual self-insurer under subsection 
+36
+3, paragraph G, except that direct majority ownership is not required and the 
+37
+group's indemnity agreement is deemed to meet the requirement for an irrevocable 
+38
+contract of assignment.
+39
+Sec. 11.  39-A MRSA §403, sub-§11, as enacted by PL 1991, c. 885, Pt. A, §8 and 
+40
+affected by §§9 to 11, is amended to read:
+41
+11.  Qualifications for reinsurance carriers.  A workers' compensation contract or 
+42
+policy issued after the effective date of this section January 1, 1993 may not be recognized 
+43
+by the Superintendent of Insurance in considering the ability of an individual or group self-
+44
+insurer to fulfill its financial obligations under this Act, unless the contract or policy is 
+1
+2
+
+Page 6 - 132LR0624(01)
+45
+issued by an admitted insurance company or a reinsurance company that meets on a 
+46
+continuous basis the requirements of Title 24‑A, chapter 9, subchapter III 3 and the 
+47
+reinsurance company has been approved by the superintendent to issue in this State 
+48
+contracts of primary workers' compensation reinsurance, or by Lloyd's of London, a 
+49
+syndicate of unincorporated alien insurers that has established and maintains United States 
+50
+trust funds consistent with the requirements of Title 24‑A, chapter 9, subchapter III 
+51
+formally organized association of incorporated underwriters and individual unincorporated 
+52
+underwriters, any one or more of which underwrite and assume as insurer a portion of the 
+53
+risk insured by them as set forth in the contract of insurance.  Each contract of primary 
+54
+workers' compensation reinsurance that is proposed for use in this State must be filed for 
+55
+approval in the manner set out in Title 24‑A, section 2412.  Insofar as is To the extent 
+56
+practicable, a contract so approved may be modified with less than 30 days advance filing 
+57
+notice if the superintendent determines the modifications suggested are not contrary to 
+58
+provisions of Title 24‑A, section 2412, this Title or Bureau of Insurance Rule Chapter 250 
+59
+and are necessary to effect required reinsurance coverage to authorize the self-insurer to 
+60
+operate a plan of workers' compensation self-insurance.
+17
+Sec. 12.  39-A MRSA §403, sub-§14, ¶F-1 is enacted to read:
+18
+F-1.  After terminating or suspending an authorization for self-insurance in accordance 
+19
+with this subsection, the Superintendent of Insurance shall promptly notify the board 
+20
+and forward to it a copy of the order terminating or suspending the authorization.
+21
+SUMMARY
+22
+This bill does the following to the Maine Workers' Compensation Act of 1992 
+23
+governing requirements for self-insurers.
+24
+1.  It removes the confidence level requirements for letters of credit for self-insureds.  
+25
+2.  It clarifies the notice period for nonrenewal of an irrevocable standby letter of credit.  
+26
+3.  It changes the requirements for when a draft on a letter of credit must be honored.  
+27
+4.  It clarifies how a group self-insurer may secure its obligations to the confidence 
+28
+level required.  
+29
+5.  It corrects "out-of-state insurer" to "out-of-state self-insurer."
+30
+6.  It corrects an error related to group self-insurers.
+31
+7.  It corrects a reference to Lloyd's of London.
+32
+8.  It adds a requirement that the Superintendent of Insurance notify the Workers' 
+33
+Compensation Board if an authorization for self-insurance is terminated or suspended.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+22
+23

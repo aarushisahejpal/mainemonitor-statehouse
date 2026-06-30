@@ -1,0 +1,73 @@
+{
+  "ld": 1983,
+  "paper": "SP0783",
+  "paper_display": "SP 783",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099554",
+  "title": "An Act to Protect Minors from Intoxicating Hemp-derived Products by Regulating Those Products Under the Adult Use Cannabis Laws",
+  "committee": "Veterans and Legal Affairs",
+  "status_summary": "",
+  "final_disposition": "Leave to Withdraw, Jan 13, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/22/2025 - The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS . In concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "1/13/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Henry INGWERSEN",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HEMP",
+      "minor": "HEMP PRODUCTS",
+      "detail": "PROTECTIONS FOR MINORS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "Senate",
+      "description": "Committee on VETERANS AND LEGAL AFFAIRS suggested and ordered printed REFERENCE to the Committee on VETERANS AND LEGAL AFFAIRS Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on VETERANS AND LEGAL AFFAIRS . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-01-13",
+      "date_raw": "1/13/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0783&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0783",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0783&SessionID=16",
+  "scraped_at": "2026-06-30T20:04:08Z"
+}

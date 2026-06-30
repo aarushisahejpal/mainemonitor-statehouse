@@ -1,0 +1,84 @@
+{
+  "ld": 240,
+  "paper": "SP0106",
+  "paper_display": "SP 106",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095844",
+  "title": "An Act to Create Consistency in Retirement Service Benefits Deferral Under the Maine Public Employees Retirement System",
+  "committee": "Labor",
+  "status_summary": "",
+  "final_disposition": "Enacted, Mar 25, 2025",
+  "governor_action": "Signed, Mar 25, 2025",
+  "chaptered_law": "ACTPUB, Chapter 12",
+  "chapter": "12",
+  "became_law": true,
+  "last_house_action": "3/20/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/20/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Craig HICKMAN",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Kennebec"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE RETIREMENT SYSTEM",
+      "minor": "BENEFITS",
+      "detail": "DEFERRAL"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "date_raw": "1/16/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on January 16, 2025 and REFERRED to the Committee on LABOR pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED . Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED. In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0106&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0106&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0106",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0106&SessionID=16",
+  "scraped_at": "2026-06-30T17:48:33Z"
+}

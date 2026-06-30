@@ -1,0 +1,209 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2140
+S.P. 858
+In Senate, January 7, 2026
+An Act to Reduce Household Energy Costs in Response to Federal 
+Cuts
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Reference to the Committee on Taxation suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TEPLER of Sagadahoc.
+
+Page 1 - 132LR2931(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  36 MRSA §5219-CCC is enacted to read:
+3
+§5219-CCC.  Energy-efficient home improvement tax credit
+4
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings.
+6
+A.  "Air sealing materials" means materials used to create barriers against drafts and 
+7
+prevent or reduce the loss of heat from a building and includes, but is not limited to, 
+8
+caulk, weather stripping, sealant foam and tape.
+9
+B.  "Building envelope improvement" means an improvement to a permanent residence 
+10
+as follows:
+11
+(1)  The repair of an exterior door or an exterior window or skylight or the 
+12
+replacement of an exterior door or an exterior window or skylight with an 
+13
+energy-efficient door, window or skylight; and
+14
+(2)  The use of insulation and air sealing materials.
+15
+C.  "Home energy audit" means an inspection of a permanent residence to determine 
+16
+the most significant and cost-effective energy efficiency improvements conducted by 
+17
+a qualified home energy auditor or under the supervision of a qualified home energy 
+18
+auditor.
+19
+D.  "Permanent residence" means a place in this State where an individual has a true, 
+20
+fixed and permanent home and principal establishment to which the individual, 
+21
+whenever absent, has the intention of returning. An individual may have only one 
+22
+permanent residence at a time and, once a permanent residence is established, that 
+23
+residence is presumed to continue until circumstances indicate otherwise.  
+24
+E.  "Qualified energy-efficient improvement" means a home energy audit or building 
+25
+envelope improvement that is conducted or first placed in service during the taxable 
+26
+year.
+27
+F.  "Qualified expense" means an expense made for a qualified energy-efficient 
+28
+improvement made to a taxpayer's permanent residence.  
+29
+G.  "Qualified home energy auditor" means an individual who is certified by the United 
+30
+States Department of Energy to conduct energy-efficient home energy audits.
+31
+2.  Credit allowed.  For tax years beginning on or after January 1, 2026, a resident 
+32
+individual is allowed a credit against the tax otherwise due under this Part for qualified 
+33
+expenses incurred for a qualified energy-efficient improvement.  The amount of the credit 
+34
+is determined as follows.
+35
+A.  For a home energy audit, the maximum credit allowed under this section is $150.  
+36
+In order to qualify for the credit, the qualified home energy auditor shall conduct a 
+37
+home energy audit that is consistent with industry standards and provide a written 
+38
+report that includes, at a minimum:
+39
+(1)  The results of the home energy audit identifying the most significant and cost-
+40
+effective energy-efficient improvements for the permanent residence and an 
+
+Page 2 - 132LR2931(01)
+41
+estimate of the energy and cost savings that would be attained with respect to those 
+42
+improvements;
+3
+(2)  The qualified home energy auditor's name and relevant employer identification 
+4
+number or, if the qualified home energy auditor does not have an employer 
+5
+identification number, another type of appropriate taxpayer identification number; 
+6
+and
+7
+(3)  An attestation that the qualified home energy auditor is certified to conduct 
+8
+home energy audits by a qualified certification program and the name of that 
+9
+qualified certification program.
+10
+B.  For building envelope improvements, the maximum credit is:
+11
+(1)  For an exterior door, $250 per door and $500 total and for an exterior window 
+12
+or skylight, $600 total. 
+13
+An exterior door or exterior window or skylight must meet or exceed applicable 
+14
+United States Environmental Protection Agency and United States Department of 
+15
+Energy Energy Star program standards or similar energy efficiency standards 
+16
+established or approved by the Efficiency Maine Trust; and
+17
+(2)  For insulation and air sealing materials, $1,200. 
+18
+The insulation and air sealing material must meet or exceed International Energy 
+19
+Conservation Code standards in effect as of the beginning of the calendar year that 
+20
+is 2 years prior to the calendar year in which the materials are placed in service.
+21
+The cost of the labor to install a building envelope improvement is not eligible for the 
+22
+credit under this section.
+23
+3.  Refundability.  The credit allowed under this section is refundable.  
+24
+4.  Phase-out.  The amount of the credit allowed by this section must be reduced, but 
+25
+not below zero, by $20 for each $500 or fraction thereof by which the taxpayer's Maine 
+26
+adjusted gross income exceeds:  
+27
+A.  For individuals filing as single individuals, $100,000; 
+28
+B.  For an individual filing as a head of household, $125,000; 
+29
+C.  For individuals filing married joint returns or surviving spouses, $150,000; and
+30
+D.  For a married individual filing a separate return, 1/2 of the applicable amount under 
+31
+paragraph C.
+32
+SUMMARY
+33
+This bill, which is based on the federal energy-efficient home improvement credit that 
+34
+expired December 31, 2025, allows a resident to claim a refundable tax credit for the cost 
+35
+of energy-efficient improvements made to that resident's permanent residence in Maine.  
+36
+Eligible energy-efficient improvements are:
+37
+1.  A home energy audit that is conducted by a qualified home energy auditor or 
+38
+someone under the supervision of a qualified home energy auditor.  The maximum credit 
+39
+for a home energy audit is $150;
+1
+2
+33
+34
+35
+36
+
+Page 3 - 132LR2931(01)
+1
+2.  The repair of an exterior door or exterior window or skylight or the replacement of 
+2
+an exterior door or an exterior window or skylight with an exterior door or exterior window 
+3
+or skylight that meets or exceeds specified energy efficiency standards.  The maximum 
+4
+credit available for a replacement door is $250 per door, up to a maximum of $500 for more 
+5
+than one door, and for a replacement window or skylight, $600 total; and
+6
+3.  The use of insulation and air sealing materials that meet or exceed International 
+7
+Energy Conservation Code standards in effect as of the beginning of the calendar year that 
+8
+is 2 years prior to the calendar year in which the materials are placed in service.  The 
+9
+maximum credit for insulation and air sealing material is $1,200.
+10
+The credit is not available for the cost of labor to install a door, window or skylight or 
+11
+insulation and air sealing material.
+12
+The credit is phased out based on income limits.

@@ -1,0 +1,89 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1330
+H.P. 865
+House of Representatives, March 27, 2025
+An Act to Clarify That a Business's License or Subscription to Use 
+Software Is Not Considered a Lease for the Purposes of Sales and 
+Use Tax
+Reference to the Committee on Taxation suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative DUCHARME of Madison.
+Cosponsored by Senator BICKFORD of Androscoggin and
+Representatives: CROCKETT of Portland, FAULKINGHAM of Winter Harbor, FOSTER of 
+Dexter, PARRY of Arundel, ROBERTS of South Berwick, RUDNICKI of Fairfield, WHITE 
+of Ellsworth, Senator: BERNARD of Aroostook.
+
+Page 1 - 132LR1733(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  36 MRSA §1752, sub-§5-D, as enacted by PL 2023, c. 643, Pt. H, §2 and 
+3
+affected by §29 and enacted by c. 673, §2 and affected by §28, is amended to read:
+4
+5-D.  Lease or rental.  "Lease or rental," "lease" or "rental" means any transfer of 
+5
+possession or control of tangible personal property for a fixed or indeterminate term for 
+6
+consideration and may include future options to purchase the property or extend the lease 
+7
+or rental.  "Lease or rental" includes a sublease and subrental.
+8
+"Lease or rental" does not include:
+9
+A.  Leases and contracts payable by rental or license fees for the right of possession 
+10
+and use when such leases and contracts are determined by the assessor to be in lieu of 
+11
+purchase;
+12
+B.  A transfer of possession or control of property under a security agreement or 
+13
+deferred payment plan that requires the transfer of title upon completion of the required 
+14
+payments;
+15
+C.  Providing tangible personal property along with a person to operate that property, 
+16
+for a fixed or indeterminate period of time, when that person is necessary for the 
+17
+tangible personal property to perform as designed and the person does more than 
+18
+maintain, inspect or set up the tangible personal property; or
+19
+D.  The lease or rental of property that is subject to the provisions of the service 
+20
+provider tax imposed pursuant to chapter 358.; or 
+21
+E.  Leases, licenses, subscriptions or similar rights to use or access software when the 
+22
+lessee, licensee, subscriber or user is a business.
+23
+The characterization of a transaction as a lease or rental under generally accepted 
+24
+accounting principles, the Code, the Uniform Commercial Code or other provisions of 
+25
+federal, state or local law does not affect a determination that a transaction is a lease or 
+26
+rental under chapters 211 to 225.
+27
+Sec. 2.  Application. This Act applies only to leases, licenses, subscriptions or 
+28
+similar rights to use or access software entered into or renewed after the effective date of 
+29
+this Act.
+30
+SUMMARY
+31
+This bill amends the definition of "lease or rental" within the provisions of the law 
+32
+governing sales and use tax to clarify that leases, licenses, subscriptions or similar rights to 
+33
+use or access software are not considered leases or rentals if the user is a business.
+31
+32
+33

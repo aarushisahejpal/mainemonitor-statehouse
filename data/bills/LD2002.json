@@ -1,0 +1,98 @@
+{
+  "ld": 2002,
+  "paper": "SP0816",
+  "paper_display": "SP 816",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100815",
+  "title": "An Act to Extend the Maine Lobster Marketing Collaborative to December 31, 2028",
+  "committee": "Marine Resources",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 3, 2026",
+  "governor_action": "Signed, Apr 3, 2026",
+  "chaptered_law": "ACTPUB, Chapter 612",
+  "chapter": "612",
+  "became_law": true,
+  "last_house_action": "3/26/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/30/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Cameron RENY",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Lincoln"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LOBSTERS",
+      "minor": "PROMOTION",
+      "detail": "COLLABORATIVE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-03",
+      "date_raw": "12/3/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on December 3, 2025 and REFERRED to the Committee on MARINE RESOURCES pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2026-03-24",
+      "date_raw": "3/24/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE . Committee Amendment \"A\" (S-574) READ and ADOPTED . Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-574). Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2026-03-25",
+      "date_raw": "3/25/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-574) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-26",
+      "date_raw": "3/26/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-30",
+      "date_raw": "3/30/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-574 )",
+      "new_title": "An Act to Extend the Maine Lobster Marketing Collaborative to December 31, 2028",
+      "house_action": "Adopted on 3/25/2026",
+      "senate_action": "Adopted on 3/24/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0816&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0816&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0816&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0816",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0816&SessionID=16",
+  "scraped_at": "2026-06-30T20:05:32Z"
+}

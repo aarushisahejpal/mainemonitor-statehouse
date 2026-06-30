@@ -1,0 +1,244 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1238
+H.P. 813
+House of Representatives, March 25, 2025
+An Act to Establish a Small-cap Loan Guarantee Program for 
+Affordable Housing Investments
+Reference to the Committee on Housing and Economic Development suggested and 
+ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ARCHER of Saco.
+Cosponsored by Senator BRADSTREET of Kennebec and
+Representatives: GERE of Kennebunkport, JULIA of Waterville, MACIAS of Topsham.
+
+Page 1 - 132LR1208(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  30-A MRSA §4834 is enacted to read:
+3
+§4834.  Small-cap Loan Guarantee Program
+4
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings.
+6
+A.  "Administrator" means the Maine State Housing Authority or an organization 
+7
+contracted by the Maine State Housing Authority to administer the program.
+8
+B.  "Affordable housing" means a housing unit that is affordable to a household with 
+9
+an income at or below 80% of the area median income, as defined by the United States 
+10
+Department of Housing and Urban Development.
+11
+C.  "Loan guarantee" means the State's promise to repay a portion or all of a loan made 
+12
+to a participant if the participant defaults.
+13
+D.  "Low-income housing" means a housing unit that is specifically designed to serve 
+14
+a household with an income at or below 60% of the area median income, as defined by 
+15
+the United States Department of Housing and Urban Development.
+16
+E.  "Participant" means an eligible investor or developer that participates in the 
+17
+program.
+18
+F.  "Program" means the Small-cap Loan Guarantee Program established in subsection 
+19
+2.
+20
+G.  "Small-cap project" means an affordable housing or low-income housing 
+21
+construction or rehabilitation project with a value of $1,000,000 or less.
+22
+2.  Small-cap Loan Guarantee Program established.  The Small-cap Loan 
+23
+Guarantee Program is established to provide a state-backed loan guarantee to an investor 
+24
+or developer that commits to a small-cap project. The program is administered by the Maine 
+25
+State Housing Authority, which may contract with an organization to administer the 
+26
+program. The program must:
+27
+A.  Offer state-backed loan guarantees to participants on financing for small-cap 
+28
+projects;
+29
+B.  Prioritize small-cap projects that provide long-term options or increase housing 
+30
+stock for low-income housing, particularly in underserved areas; and
+31
+C.  Require that a housing unit constructed or rehabilitated by a loan backed by the 
+32
+program retains its original status as affordable housing or low-income housing for 10 
+33
+years from the date of completion of the small-cap project.
+34
+3.  Program eligibility.  To be eligible for the program, an investor or developer must:
+35
+A.  Submit a detailed proposal for a small-cap project that states:
+36
+(1)  The number of housing units to be constructed or rehabilitated;
+37
+(2)  The expected impact on the community; and
+38
+(3)  The proposed financing structure;
+
+Page 2 - 132LR1208(01)
+1
+B.  Demonstrate financial stability and the ability to complete the small-cap project 
+2
+under paragraph A on time and within budget; 
+3
+C.  Enter into a loan guarantee agreement with the administrator; 
+4
+D.  Pay the application fee under subsection 6; and
+5
+E.  Comply with all state and local zoning, building and environmental laws, rules and 
+6
+regulations.
+7
+4.  Loan guarantee conditions.  A loan guarantee for a small-cap project loan:
+8
+A.  Covers an amount of the loan based upon the risk level of the loan as determined 
+9
+by the administrator;
+10
+B.  May cover up to 20% of the amount of the loan, subject to availability of funds in 
+11
+the program; and
+12
+C.  Remains in place for the duration of the loan repayment period up to 20 years.
+13
+5.  Default; administrator's authority to bill participants.  If a participant defaults 
+14
+on a loan backed by a loan guarantee:
+15
+A.  The administrator may assume responsibility for repayment of the loan up to the 
+16
+guaranteed portion of the loan amount in accordance with the loan guarantee agreement 
+17
+under subsection 3, paragraph C;
+18
+B.  Upon repaying the loan, the administrator may bill the participant for the full 
+19
+amount paid by the administrator, including any interest, penalty or fee related to the 
+20
+default;
+21
+C.  The administrator may pursue any legal means necessary to recover funds owed 
+22
+under paragraph B, including filing a lien against the participant's property or seeking 
+23
+a court judgment; 
+24
+D.  If the default is determined to be caused by a fraudulent action by the participant, 
+25
+the administrator may pursue other penalties as provided by law; and
+26
+E.  The participant must repay the full amount owed to the State under paragraph B and 
+27
+any additional costs incurred by the administrator in collecting the amount within a 
+28
+period determined by the administrator, not to exceed 10 years.
+29
+6.  Application fee.  The program is funded by an application fee paid by the 
+30
+participant upon application to the program, which covers program administrative and 
+31
+operational costs. The amount of the application fee is determined by the administrator 
+32
+based on the total loan guarantee amount and risk assessment of the small-cap project under 
+33
+subsection 4. 
+34
+7.  Evaluation; report.  The administrator shall conduct an annual evaluation of the 
+35
+program to assess the program's effectiveness in meeting program goals of increasing 
+36
+affordable housing availability and supporting investors and developers of small-cap 
+37
+projects. The Maine State Housing Authority shall submit an annual report based upon the 
+38
+evaluation and detailing the use of program funds, the status of active loans backed by loan 
+39
+guarantees and the number of affordable housing and low-income housing units 
+40
+constructed or rehabilitated to the joint standing committee of the Legislature having 
+41
+jurisdiction over housing and economic development matters.
+
+Page 3 - 132LR1208(01)
+1
+8.  Oversight.  If the Maine State Housing Authority contracts with an organization to 
+2
+administer the program, the Maine State Housing Authority shall exercise oversight over 
+3
+the organization's administration of the program. The State Auditor shall review the 
+4
+program annually to ensure compliance with this section and to monitor the financial health 
+5
+of the program.
+6
+9.  Rules.  The Maine State Housing Authority shall adopt rules to carry out the 
+7
+purposes of this section. Rules adopted under this subsection are routine technical rules 
+8
+under Title 5, chapter 375, subchapter 2-A.
+9
+Sec. 2.  Small-cap Loan Guarantee Program implementation.  On or before 
+10
+January 1, 2027, the Maine State Housing Authority or an organization contracted by the 
+11
+Maine State Housing Authority shall begin accepting applications for the Small-cap Loan 
+12
+Guarantee Program established under the Maine Revised Statutes, Title 30-A, section 4834.
+13
+Sec. 3.  Effective date. This Act takes effect July 1, 2026.
+14
+SUMMARY
+15
+This bill creates the Small-cap Loan Guarantee Program, through which the State 
+16
+provides loan guarantees to investors and developers for small-cap projects.  A small-cap 
+17
+project is an affordable housing or low-income housing construction or rehabilitation 
+18
+project with a value of $1,000,000 or less. Under the bill, affordable housing is housing 
+19
+that is affordable to a household with an income at or below 80% of the area median 
+20
+income, as defined by the United States Department of Housing and Urban Development, 
+21
+and low-income housing is housing specifically designed to serve a household with an 
+22
+income at or below 60% of the area median income, as defined by the United States 
+23
+Department of Housing and Urban Development. The program is administered by the 
+24
+Maine State Housing Authority or an organization contracted by the Maine State Housing 
+25
+Authority to administer the program and funded by application fees based upon the amount 
+26
+and risk assessed of each loan guaranteed by the program.
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26

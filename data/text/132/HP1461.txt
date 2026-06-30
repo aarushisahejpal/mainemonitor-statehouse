@@ -1,0 +1,675 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2173
+H.P. 1461
+House of Representatives, January 27, 2026
+An Act to Update the Laws Regarding Housing Developments and 
+Accessory Dwelling Units
+(EMERGENCY)
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Reference to the Committee on Housing and Economic Development suggested and 
+ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative COLLAMORE of Pittsfield.
+Cosponsored by Senator CURRY of Waldo and
+Representatives: Speaker FECTEAU of Biddeford, ROBERTS of South Berwick.
+
+Page 1 - 132LR2757(01)
+1
+Emergency preamble.  Whereas, acts and resolves of the Legislature do not 
+2
+become effective until 90 days after adjournment unless enacted as emergencies; and
+3
+Whereas, the majority of the changes made by this legislation will become applicable 
+4
+to certain municipalities on July 1, 2026; and 
+5
+Whereas, this legislation modifies recently enacted provisions of law that will 
+6
+become applicable to many municipalities without the modifications made by this 
+7
+legislation on July 1, 2026; and
+8
+Whereas, this legislation creates a grace period for certain municipalities to delay 
+9
+compliance with a recently enacted provision of law if the municipality makes a filing with 
+10
+the municipality's county register of deeds prior to July 1, 2026; and 
+11
+Whereas, this legislation contains other critical changes that must go into effect as 
+12
+soon as possible to allow municipalities to implement the Legislature's intent and remain 
+13
+in compliance with the law; and
+14
+Whereas, this legislation will not go into effect prior to July 1, 2026 unless enacted 
+15
+as an emergency; and
+16
+Whereas, in the judgment of the Legislature, these facts create an emergency within 
+17
+the meaning of the Constitution of Maine and require the following legislation as 
+18
+immediately necessary for the preservation of the public peace, health and safety; now, 
+19
+therefore,
+20
+Be it enacted by the People of the State of Maine as follows:
+21
+Sec. 1.  25 MRSA §2463-B, as enacted by PL 2025, c. 385, §1, is amended to read:
+22
+§2463-B.  Fire protection in accessory dwelling units
+23
+Fire suppression sprinklers are not required for an accessory dwelling unit unless the 
+24
+accessory dwelling unit is within or attached to a structure of that contains, or will contain 
+25
+upon completion of construction, more than 2 dwelling units, including accessory dwelling 
+26
+units.  As used in this section, "accessory dwelling unit" has the same meaning as in Title 
+27
+30‑A, section 4301, subsection 1‑C.
+28
+Sec. 2.  30-A MRSA §4360, as amended by PL 2025, c. 385, §3 and affected by 
+29
+§23, is further amended to read:
+30
+§4360.  Rate of growth ordinances
+31
+1.  Ordinance review and update.  A municipality that enacts a rate of growth 
+32
+ordinance shall review and update the ordinance at least every 3 years to determine whether 
+33
+the rate of growth ordinance is still necessary and how the rate of growth ordinance may 
+34
+be adjusted to meet current conditions.
+35
+1-A.  Definition; common scheme of development.  For the purposes of this section, 
+36
+"common scheme of development" means a plan or process of development that:
+37
+A.  Takes place on contiguous parcels or lots in the same immediate vicinity; and
+38
+B.  Exhibits characteristics of a unified approach, method or effect, such as:
+39
+(1)  Unified ownership, management or supervision;
+
+Page 2 - 132LR2757(01)
+1
+(2)  Sharing common equipment or labor; or
+2
+(3)  Common financing.
+3
+2.  Differential ordinances.  A municipality may enact rate of growth ordinances that 
+4
+set different limits on the number of building or development permits that are permitted in 
+5
+designated rural areas.  A municipality may not enact or enforce rate of growth ordinances 
+6
+that limit residential development in designated growth areas, as defined in section 4301, 
+7
+subsection 6‑C, except as authorized by this chapter subsection 3.
+8
+3.  Ordinance requirements.  A municipality may adopt a rate of growth ordinance 
+9
+only if:
+10
+A.  The ordinance is consistent with section 4314, subsection 3;
+11
+B.  The ordinance sets the number of building or development permits for new 
+12
+residential dwellings, not including permits for affordable housing, at 105% 130% or 
+13
+more of the mean number of total permits issued for new residential dwellings within 
+14
+the municipality during the 10 5 years immediately prior to the year in which the 
+15
+number is calculated.  The mean is determined by adding together the total number of 
+16
+permits issued, excluding permits issued for affordable housing, for new residential 
+17
+dwellings for each year in the prior 10 5 years and then dividing by 10 5;
+18
+C.  In addition to the permits established pursuant to paragraph B, the ordinance sets 
+19
+the number of building or development permits for affordable housing at no less than 
+20
+10% of the number of permits set in the ordinance pursuant to paragraph B; and
+21
+C-1.  The ordinance does not require a development permit for affordable housing as 
+22
+defined in section 5246, subsection 1; 
+23
+D.  The number of building or development permits for new residential dwellings 
+24
+allowed under the ordinance is recalculated every 3 years.; and
+25
+E.  Within a designated growth area, the ordinance does not limit the development 
+26
+permits allowed per project or per common scheme of development to a number that 
+27
+is less than 35% of the allocated permits for that area.
+28
+Sec. 3.  30-A MRSA §4364, first ¶, as amended by PL 2023, c. 192, §1, is further 
+29
+amended to read:
+30
+For an affordable housing development approved on or after the implementation date 
+31
+defined in subsection 1-A, a municipality with density requirements shall apply density 
+32
+requirements in accordance with this section, and, for an affordable housing development 
+33
+approved on or after the implementation date defined in subsection 1-B, a municipality 
+34
+with height restriction requirements shall apply additional height allowance requirements 
+35
+in accordance with this section.
+36
+Sec. 4.  30-A MRSA §4364, sub-§1-A, as enacted by PL 2023, c. 192, §3, is 
+37
+amended to read:
+38
+1-A.  Implementation date; density requirements.  For purposes of this section, with 
+39
+respect to applying density requirements under this section, "implementation date" means:
+40
+A.  January 1, 2024 for municipalities for which ordinances may be enacted by the 
+41
+municipal officers without further action or approval by the voters of the municipality; 
+42
+and
+
+Page 3 - 132LR2757(01)
+1
+B.  July 1, 2024 for all other municipalities.
+2
+Sec. 5.  30-A MRSA §4364, sub-§1-B is enacted to read:
+3
+1-B.  Implementation date; height allowances.  For purposes of this section, with 
+4
+respect to applying additional height allowances under this section, "implementation date" 
+5
+means: 
+6
+A.  July 1, 2026 for municipalities for which ordinances may be enacted by the 
+7
+municipal officers without further action or approval by the voters of the municipality; 
+8
+and
+9
+B.  July 1, 2027 for all other municipalities. 
+10
+Sec. 6.  30-A MRSA §4364, sub-§2-A, as enacted by PL 2025, c. 385, §5 and 
+11
+affected by §23, is amended to read:
+12
+2-A.  Additional height allowance.  Except as otherwise prohibited under Title 38, 
+13
+chapter 3 and municipal shoreland zoning ordinances, a municipality shall allow, subject 
+14
+to review by a municipal fire official or designee, an affordable housing development to 
+15
+exceed any municipal height restriction by no less than one story or 14 feet but only up to 
+16
+a total building height of 55 feet.  To be eligible for an additional height allowance pursuant 
+17
+to this subsection, an affordable housing development must be reviewed by a fire official 
+18
+or designee during the development approval process; must comply with minimum lot size 
+19
+requirements in accordance with Title 12, chapter 423-A, as applicable; and must: 
+20
+A.  Be in a designated growth area of a municipality as identified in a comprehensive 
+21
+plan adopted pursuant to subchapter 2; or
+22
+B.  Be served by a public, special district or other centrally managed water system and 
+23
+a public, special district or other comparable sewer system.
+24
+This subsection may not be construed to provide additional authority to a fire official or 
+25
+designee or to establish new standards for the review of an affordable housing development 
+26
+by a fire official or designee other than the requirements established in the Maine Uniform 
+27
+Building and Energy Code, adopted pursuant to Title 10, chapter 1103.
+28
+Sec. 7.  30-A MRSA §4364, sub-§5, as amended by PL 2025, c. 385, §6 and 
+29
+affected by §23, is further amended by repealing the first blocked paragraph and enacting 
+30
+the following in its place:
+31
+A municipal ordinance may not require minimum standards for subsurface wastewater 
+32
+disposal systems other than what is required pursuant to rules adopted by the Department 
+33
+of Health and Human Services governing subsurface wastewater disposal pursuant to Title 
+34
+22, section 42. 
+35
+Sec. 8.  30-A MRSA §4364-A, as amended by PL 2025, c. 385, §§7 to 12 and 
+36
+affected by §23 and amended by c. 388, Pt. D, §37, is further amended by amending the 
+37
+section headnote to read:
+38
+§4364-A.  Residential areas,; generally; up to 4 dwelling units allowed
+39
+Sec. 9.  30-A MRSA §4364-A, sub-§1, as repealed and replaced by PL 2025, c. 
+40
+385, §7 and affected by §23 and amended by c. 388, Pt. D, §37, is repealed and the 
+41
+following enacted in its place:
+
+Page 4 - 132LR2757(01)
+1
+1.  Use allowed.  Notwithstanding any provision of law to the contrary, except Title 
+2
+12, chapter 423-A, for any area in which residential uses are allowed, including as a 
+3
+conditional use, the following are permitted uses:
+4
+A.  At least 3 dwelling units, attached or detached, inclusive of accessory dwelling 
+5
+units, per lot; and
+6
+B.  At least 4 dwelling units, attached or detached, inclusive of accessory dwelling 
+7
+units, per lot if the lot is located in a designated growth area, as identified in a 
+8
+comprehensive plan adopted pursuant to subchapter 2, or the lot is served by a public 
+9
+water system and a public sewer system.
+10
+A municipality may allow more units than the minimum number required by this 
+11
+subsection.
+12
+Sec. 10.  30-A MRSA §4364-A, sub-§1-A, as enacted by PL 2023, c. 192, §7, is 
+13
+amended to read:
+14
+1-A.  Implementation date.  For purposes of this section, "implementation date" has 
+15
+the same meaning as in section 4364, subsection 1‑A. means:
+16
+A.  January 1, 2024 for municipalities for which ordinances may be enacted by the 
+17
+municipal officers without further action or approval by the voters of the municipality; 
+18
+and
+19
+B.  July 1, 2024 for all other municipalities.
+20
+Sec. 11.  30-A MRSA §4364-A, sub-§2-A, as enacted by PL 2025, c. 385, §9 and 
+21
+affected by §23, is amended to read:
+22
+2-A.  Lot Limitations on municipal ordinances related to lot size and density 
+23
+allowance for private property requirements.  Notwithstanding any provision of law to 
+24
+the contrary, except Title 12, chapter 423‑A, this subsection applies to any area in which 
+25
+residential uses are allowed, including as a conditional use.
+26
+A.  If a lot is located in a designated growth area and is served by a public, special 
+27
+district or other centrally managed water system and a public, special district or other 
+28
+comparable sewer system, a municipal ordinance may not require a minimum lot size 
+29
+requirement may not exceed that exceeds 5,000 square feet and a density requirement 
+30
+may not exceed 1,250 square feet of lot area per dwelling unit for the first 4 dwelling 
+31
+units and 5,000 additional square feet of lot area per dwelling unit for subsequent units 
+32
+may not require more than 1,250 square feet of lot area per dwelling unit for the first 4 
+33
+dwelling units.
+34
+B.  If a lot is located outside a designated growth area and in an area served by a public, 
+35
+special district or other centrally managed water system as defined in Title 22, section 
+36
+2601, subsection 8 and a public, special district or other comparable sewer system, a 
+37
+municipal ordinance may not require a minimum lot size requirement may not exceed 
+38
+that exceeds 5,000 square feet and a density requirement may not exceed 5,000 square 
+39
+feet of lot area for the first 2 dwelling units contained within a single structure, not 
+40
+including accessory dwelling units may not require more than 5,000 square feet of lot 
+41
+area per dwelling unit for one dwelling unit or 10,000 square feet of lot area for 2 
+42
+dwelling units within a single structure.
+
+Page 5 - 132LR2757(01)
+1
+C.  If a lot is located in a designated growth area without a public, special district or 
+2
+other comparable sewer system, a municipal ordinance may not establish minimum lot 
+3
+size requirement may not exceed the minimum lot size required by Title 12, chapter 
+4
+423‑A and the density requirement or calculation may not be more restrictive than 
+5
+required by Title 12, chapter 423‑A requirements, density requirements or 
+6
+requirements for other calculations related to dwelling units per lot area other than what 
+7
+is required pursuant to rules adopted by the Department of Health and Human Services 
+8
+governing subsurface wastewater disposal pursuant to Title 22, section 42.
+9
+If 4 or fewer dwelling units have been constructed on a lot as a result of the allowances 
+10
+under this section or section 4364‑B, the lot is not eligible for any additional increases in 
+11
+density, including under section 4364, unless more units are allowed by the municipality.
+12
+Sec. 12.  30-A MRSA §4364-A, sub-§4, as amended by PL 2025, c. 385, §11 and 
+13
+affected by §23, is further amended by repealing the first blocked paragraph and enacting 
+14
+the following in its place:
+15
+A municipal ordinance may not require minimum standards for subsurface wastewater 
+16
+disposal systems other than what is required pursuant to rules adopted by the Department 
+17
+of Health and Human Services governing subsurface wastewater disposal pursuant to Title 
+18
+22, section 42.
+19
+Sec. 13.  30-A MRSA §4364-A, sub-§5-A, as enacted by PL 2025, c. 385, §12 and 
+20
+affected by §23, is amended to read:
+21
+5-A.  Planning board approval not required.  A For any area in which residential 
+22
+uses are allowed, including as a conditional use, a municipality may not require planning 
+23
+board approval for to establish 4 or fewer dwelling units within a single structure on a lot 
+24
+or for accessory dwelling units.
+25
+Sec. 14.  30-A MRSA §4364-B, sub-§1, as amended by PL 2025, c. 385, §13 and 
+26
+affected by §23, is further amended to read:
+27
+1.  Use permitted.  Except as provided in Title 12, chapter 423‑A, a municipality shall 
+28
+allow an accessory dwelling unit to be located on the same lot as a single-family dwelling 
+29
+unit or multi-unit 2-unit or 3-unit residential structure in any area in which residential uses 
+30
+are permitted, including as a conditional use, in accordance with this section.
+31
+Sec. 15.  30-A MRSA §4364-B, sub-§1-A, as enacted by PL 2023, c. 192, §13, is 
+32
+amended to read:
+33
+1-A.  Implementation date.  For purposes of this section, "implementation date" has 
+34
+the same meaning as in section 4364, subsection 1‑A. means:
+35
+A.  January 1, 2024 for municipalities for which ordinances may be enacted by the 
+36
+municipal officers without further action or approval by the voters of the municipality; 
+37
+and
+38
+B.  July 1, 2024 for all other municipalities.
+39
+Sec. 16.  30-A MRSA §4364-B, sub-§2, ¶B, as amended by PL 2025, c. 385, §14 
+40
+and affected by §23, is further amended to read:
+41
+B.  Attached to or sharing a wall with a single-family dwelling unit or multi-unit 
+42
+residential structure; or
+
+Page 6 - 132LR2757(01)
+1
+Sec. 17.  30-A MRSA §4364-B, sub-§3, ¶A, as amended by PL 2025, c. 385, §15 
+2
+and affected by §23, is further amended to read:
+3
+A.  At least one accessory dwelling unit must be allowed on any lot where a single-
+4
+family dwelling unit is the principal structure is a single-family dwelling unit or 2-unit 
+5
+or 3-unit residential structure; and
+6
+Sec. 18.  30-A MRSA §4364-B, sub-§7, as amended by PL 2025, c. 385, §18 and 
+7
+affected by §23, is further amended by repealing the first blocked paragraph and enacting 
+8
+the following in its place:
+9
+A municipal ordinance may not require minimum standards for subsurface wastewater 
+10
+disposal systems other than what is required pursuant to rules adopted by the Department 
+11
+of Health and Human Services governing subsurface wastewater disposal pursuant to Title 
+12
+22, section 42.
+13
+Sec. 19.  30-A MRSA §4364-B, sub-§8, ¶A, as amended by PL 2023, c. 192, §19, 
+14
+is repealed.
+15
+Sec. 20.  30-A MRSA §4364-D, sub-§1, ¶C is enacted to read:
+16
+C.  "Small child care facility" has the same meaning as in Title 22, section 8301-A, 
+17
+subsection 1-A, paragraph E.
+18
+Sec. 21.  30-A MRSA §4364-D, sub-§2, as enacted by PL 2025, c. 288, §2, is 
+19
+amended to read:
+20
+2.  Location of child care.  A child care facility or a family child care provider is must 
+21
+be a permitted use in a municipal area that is zoned for residential purposes,.  A family 
+22
+child care provider or small child care facility located in an area zoned for residential 
+23
+purposes must be subject to the same zoning requirements for other residential property as 
+24
+a single-family dwelling unit.
+25
+Sec. 22.  30-A MRSA §4364-E, as enacted by PL 2025, c. 364, §2 and reallocated 
+26
+by RR 2025, c. 1, Pt. A, §42, is amended by enacting after the first paragraph a new 
+27
+paragraph to read:
+28
+This section does not apply to areas allowing industrial uses.
+29
+Sec. 23.  30-A MRSA §4401, sub-§4, ¶H-2, as amended by PL 2025, c. 385, §20 
+30
+and affected by §23, is further amended to read:
+31
+H-2.  This subchapter may not be construed to prevent a municipality from enacting an 
+32
+ordinance under its home rule authority that otherwise regulates land use activities.
+33
+A municipality may not enact an ordinance that expands the definition of "subdivision" 
+34
+except as provided in this subchapter.  A municipality that has a definition of 
+35
+"subdivision" that conflicts with the requirements of this subsection at the time this 
+36
+paragraph takes effect on September 24, 2025 shall comply with this subsection no 
+37
+later than July 1, 2027, except that if a municipality that has a conflicting definition 
+38
+files its conflicting definition in the county registry of deeds applicable to that 
+39
+municipality by July 1, 2026, that definition remains valid until January 1, 2028.  A 
+40
+filing made pursuant to this paragraph must be collected and indexed in a separate book 
+41
+in the registry of deeds for the county in which the municipality is located.
+
+Page 7 - 132LR2757(01)
+1
+Sec. 24.  30-A MRSA §4402, sub-§6, as amended by PL 2025, c. 385, §21 and 
+2
+affected by §23, is further amended to read:
+3
+6.  Division of new or existing structures.  Beginning January 1, 2026, a A division 
+4
+of a new or existing structure into 3 5 or more dwelling units whether the division is 
+5
+accomplished by sale, lease, development or otherwise in a municipality where the project 
+6
+is subject to municipal site plan review.
+7
+A.  For the purposes of this subsection, "municipal site plan review" means review 
+8
+under a municipal ordinance that sets forth a process for determining whether a 
+9
+development meets certain specified criteria, which must include criteria regarding 
+10
+stormwater management, sewage disposal, water supply and vehicular access and 
+11
+which may include criteria regarding other environmental effects, layout, scale, 
+12
+appearance and safety.
+13
+B.  The municipal reviewing authority in each municipality shall determine whether a 
+14
+municipal site plan review ordinance adopted by the municipality meets the 
+15
+requirements of paragraph A.
+16
+Sec. 25.  Application.  Notwithstanding any provision of law to the contrary, those 
+17
+sections of this Act that amend the Maine Revised Statutes, Title 30-A, sections 4364, 
+18
+4364-A, 4364-B and 4364-E apply to municipalities for which ordinances may be enacted 
+19
+by the municipal officers without further action or approval by the voters of the 
+20
+municipality beginning July 1, 2026 and apply to all other municipalities beginning July 1, 
+21
+2027.
+22
+Sec. 26.  Effective date; growth ordinances.  That section of this Act that amends 
+23
+the Maine Revised Statutes, Title 30-A, section 4360 takes effect January 1, 2028.
+24
+Emergency clause.  In view of the emergency cited in the preamble, this legislation 
+25
+takes effect when approved, except as otherwise indicated.
+26
+SUMMARY
+27
+This bill modifies provisions of law related to housing development and regulation in 
+28
+the following ways. 
+29
+1. It clarifies requirements related to fire protection in accessory dwelling units. 
+30
+2. It modifies provisions governing rate of growth ordinances to require that such an 
+31
+ordinance set the number of building or development permits for new residential dwellings 
+32
+at 130% or more of the mean number of total permits issued for new residential dwellings 
+33
+within a municipality during the 5 years immediately prior.  It also provides that a 
+34
+municipality may not enforce certain growth ordinances and that a growth ordinance may 
+35
+not require a development permit for affordable housing.  It also establishes requirements 
+36
+related to the limit a municipality may place on the number of development permits issued 
+37
+per project or per common scheme of development in a designated growth area.
+38
+3. It modifies the provision of law that allows certain affordable housing developments 
+39
+to exceed municipal height restrictions and establishes a new implementation date by which 
+40
+municipalities must apply the requirements with respect to height restrictions as modified 
+41
+by this legislation.  It also clarifies that the implementation date established in Public Law 
+42
+2023, chapter 192 now applies only to density requirements, not height restrictions.  The 
+27
+28
+
+Page 8 - 132LR2757(01)
+43
+changes to these implementation dates do not apply until July 1, 2026 for municipalities 
+44
+for which ordinances may be enacted by the municipal officers without further action or 
+45
+approval by the voters of the municipality and July 1, 2027 for all other municipalities.  
+46
+The bill replaces cross-references to the implementation date in current law. 
+5
+4. It provides that municipalities may not require minimum subsurface wastewater 
+6
+disposal standards for housing structures, affordable housing developments and accessory 
+7
+dwelling units other than what is required by the Department of Health and Human Services 
+8
+rules for subsurface wastewater disposal. 
+9
+5. It modifies provisions of law that place limitations on municipal ordinances that 
+10
+establish minimum lot sizes and density requirements for certain residential property. 
+11
+6. It clarifies that planning board approval is not needed for accessory dwelling units.  
+12
+It also limits the structures in which a municipality is required to allow an accessory 
+13
+dwelling unit to a single-family dwelling unit or 2-unit or 3-unit residential structure instead 
+14
+of a single-family dwelling unit or multi-unit residential structure as in current law.
+15
+7. It provides that a small child care facility or a family child care provider located in 
+16
+an area zoned for residential purposes must be subject to the same zoning requirements as 
+17
+a single-family dwelling unit. 
+18
+8. It clarifies that the provision of law that requires municipalities to allow residential 
+19
+units within buildings located in an area zoned for commercial use does not apply to areas 
+20
+allowing industrial uses.
+21
+9. It creates a grace period from the deadline for updating a municipal ordinance with 
+22
+a definition of "subdivision" that is not in compliance with current law by allowing a 
+23
+municipality to keep its noncompliant definition in force until January 1, 2028 if the 
+24
+municipality files its current noncompliant definition in the applicable county registry of 
+25
+deeds by July 1, 2026. 
+26
+10. It changes an exception to the law regarding subdivisions for divisions of new or 
+27
+existing structures by making the exception applicable to the division of a new or existing 
+28
+structure into 5 or more dwelling units instead of 3 or more.
+1
+2
+3
+4

@@ -1,0 +1,126 @@
+{
+  "ld": 1340,
+  "paper": "SP0555",
+  "paper_display": "SP 555",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097916",
+  "title": "An Act to Establish the Municipal Stream Crossing Fund",
+  "committee": "Transportation",
+  "status_summary": "",
+  "final_disposition": "Enacted, May 30, 2025",
+  "governor_action": "Signed, May 30, 2025",
+  "chaptered_law": "ACTPUB, Chapter 162",
+  "chapter": "162",
+  "became_law": true,
+  "last_house_action": "5/27/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/27/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Matthea DAUGHTRY",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "President",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Lydia CRAFTS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Newcastle"
+    },
+    {
+      "name": "Bradlee FARRIN",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Somerset"
+    },
+    {
+      "name": "Timothy NANGLE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Denise TEPLER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Sagadahoc"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "TRANSPORTATION DEPARTMENT",
+      "minor": "PLANNING",
+      "detail": "MUNICIPAL STREAM CROSSING FUND"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-28",
+      "date_raw": "3/28/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on March 28, 2025 and REFERRED to the Committee on TRANSPORTATION pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE . Committee Amendment \"A\" (S-116) READ and ADOPTED . Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-116) . Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-116) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-116 )",
+      "new_title": "",
+      "house_action": "Adopted on 5/22/2025",
+      "senate_action": "Adopted on 5/21/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0555&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0555&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0555&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0555",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0555&SessionID=16",
+  "scraped_at": "2026-06-30T19:14:24Z"
+}

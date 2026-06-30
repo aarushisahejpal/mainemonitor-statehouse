@@ -1,0 +1,81 @@
+{
+  "ld": 1857,
+  "paper": "SP0727",
+  "paper_display": "SP 727",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098968",
+  "title": "An Act to Expand Property Tax Relief for Veterans and Their Survivors and to Modify Certain Corporate Tax Expenditures",
+  "committee": "Taxation",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Jun 11, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/11/2025 - Reports READ . On motion of Representative CLOUTIER of Lewiston, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )",
+  "last_senate_action": "6/11/2025 - Reports Read On motion by Senator GROHOSKI of Hancock the Majority Ought Not to Pass Report ACCEPTED Sent down for concurrence",
+  "sponsors": [
+    {
+      "name": "Michael TIPPING",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "PROPERTY TAX",
+      "minor": "RELIEF",
+      "detail": "VETERANS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-01",
+      "date_raw": "5/1/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on May 1, 2025 and REFERRED to the Committee on TAXATION pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-06-11",
+      "date_raw": "6/11/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator GROHOSKI of Hancock the Majority Ought Not to Pass Report ACCEPTED Sent down for concurrence"
+    },
+    {
+      "date": "2025-06-11",
+      "date_raw": "6/11/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative CLOUTIER of Lewiston, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-341 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0727&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0727&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0727",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0727&SessionID=16",
+  "scraped_at": "2026-06-30T19:53:52Z"
+}

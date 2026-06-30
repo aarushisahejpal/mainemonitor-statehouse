@@ -1,0 +1,404 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2187
+S.P. 892
+In Senate, February 3, 2026
+An Act to Update Certain Water Quality Standards and to 
+Reclassify Certain Waters of the State
+Reported by Senator TEPLER of Sagadahoc for the Joint Standing Committee on 
+Environment and Natural Resources pursuant to the Maine Revised Statutes, Title 38, section 
+464, subsection 3, paragraph B.
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed pursuant to Joint Rule 218.
+DAREK M. GRANT
+Secretary of the Senate
+
+Page 1 - 132LR3014(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  38 MRSA §465, sub-§1, ¶B, as amended by PL 2021, c. 551, §9, is further 
+3
+amended to read:
+4
+B.  The aquatic life, Except for activities associated with fish stocking and fish 
+5
+management that are approved by a state agency, the aquatic life of Class AA waters 
+6
+must be as naturally occurs.  The dissolved oxygen and bacteria content of Class AA 
+7
+waters must be as naturally occurs, except that the number of Escherichia coli bacteria 
+8
+in these waters may not exceed a geometric mean of 64 CFU or MPN per 100 milliliters 
+9
+over a 90-day interval or 236 CFU or MPN per 100 milliliters in more than 10% of the 
+10
+samples in any 90-day interval.
+11
+Sec. 2.  38 MRSA §465, sub-§2, ¶B, as amended by PL 2021, c. 551, §10, is further 
+12
+amended to read:
+13
+B.  Except for activities associated with fish stocking and fish management that are 
+14
+approved by a state agency, the aquatic life of Class A waters must be as naturally 
+15
+occurs.  The dissolved oxygen content of Class A waters may not be less than 7 parts 
+16
+per million or and 75% of saturation, whichever is higher, except that for the period 
+17
+from October 1st to May 14th, in order to ensure spawning and egg incubation of 
+18
+indigenous fish species, the 7-day mean dissolved oxygen concentration may not be 
+19
+less than 9.5 parts per million and the one-day minimum dissolved oxygen 
+20
+concentration may not be less than 8.0 parts per million in identified fish spawning 
+21
+areas.  Except as provided in section 464, subsection 4, paragraph C, the pH of Class 
+22
+A waters must fall within the 6.5 to 9.0 range.  The aquatic life and bacteria content of 
+23
+Class A waters must be as naturally occurs, except that the numbers of Escherichia coli 
+24
+bacteria in these waters may not exceed a geometric mean of 64 CFU or MPN per 100 
+25
+milliliters over a 90-day interval or 236 CFU or MPN per 100 milliliters in more than 
+26
+10% of the samples in any 90-day interval.
+27
+Sec. 3.  38 MRSA §465, sub-§3, ¶B, as amended by PL 2021, c. 551, §11, is further 
+28
+amended to read:
+29
+B.  Class B waters must be of sufficient quality to support all aquatic species indigenous 
+30
+to those waters without detrimental changes in the resident biological community.  The 
+31
+Except as provided in section 464, subsection 4, paragraph C, the dissolved oxygen 
+32
+content of Class B waters may not be less than 7 parts per million or and 75% of 
+33
+saturation, whichever is higher calculated as a daily average, except that for the 
+34
+dissolved oxygen of any individual reading at any time may not be less than 6 parts per 
+35
+million.  For the period from October 1st to May 14th, in order to ensure spawning and 
+36
+egg incubation of indigenous fish species, the 7-day mean dissolved oxygen 
+37
+concentration may not be less than 9.5 parts per million and the one-day minimum 
+38
+dissolved oxygen concentration may not be less than 8.0 parts per million in identified 
+39
+fish spawning areas.  Except as provided in section 464, subsection 4, paragraph C, the 
+40
+pH of Class B waters must fall within the 6.5 to 9.0 range.  Between April 15th and 
+41
+October 31st, the number of Escherichia coli bacteria in these waters may not exceed 
+42
+a geometric mean of 64 CFU or MPN per 100 milliliters over a 90-day interval or 236 
+43
+CFU or MPN per 100 milliliters in more than 10% of the samples in any 90-day 
+44
+interval.
+
+Page 2 - 132LR3014(01)
+1
+Sec. 4.  38 MRSA §465, sub-§4, ¶B, as amended by PL 2021, c. 551, §12, is further 
+2
+amended to read:
+3
+B.  Class C waters must be of sufficient quality to support all species of fish indigenous 
+4
+to those waters and to maintain the structure and function of the resident biological 
+5
+community.  The dissolved oxygen content of Class C water waters may not be less 
+6
+than 5 parts per million or and 60% of saturation, whichever is higher, except that in 
+7
+identified salmonid spawning areas where water quality is sufficient to ensure 
+8
+spawning, egg incubation and survival of early life stages, that water quality sufficient 
+9
+for these purposes must be maintained.  In order to provide additional protection for 
+10
+the growth of indigenous fish, the following standards apply.
+11
+(1)  The 30-day average dissolved oxygen criterion of a Class C water is 6.5 parts 
+12
+per million using a temperature of 22 degrees centigrade or the ambient 
+13
+temperature of the water body, whichever is less, if:
+14
+(a)  A license or water quality certificate other than a general permit was issued 
+15
+prior to March 16, 2004 for the Class C water and was not based on a 6.5 parts 
+16
+per million 30-day average dissolved oxygen criterion; or
+17
+(b)  A discharge or a hydropower project was in existence on March 16, 2005 
+18
+and required but did not have a license or water quality certificate other than a 
+19
+general permit for the Class C water.
+20
+This criterion for the water body applies to licenses and water quality certificates 
+21
+issued on or after March 16, 2004.
+22
+(2)  In Class C waters not governed by subparagraph (1), dissolved oxygen may 
+23
+not be less than 6.5 parts per million as a 30-day average based upon a temperature 
+24
+of 24 degrees centigrade or the ambient temperature of the water body, whichever 
+25
+is less.  This criterion for the water body applies to licenses and water quality 
+26
+certificates issued on or after March 16, 2004.
+27
+The department may negotiate and enter into agreements with licensees and water 
+28
+quality certificate holders in order to provide further protection for the growth of 
+29
+indigenous fish.  Agreements entered into under this paragraph are enforceable as 
+30
+department orders according to the provisions of sections 347-A to 349.
+31
+Except as provided in section 464, subsection 4, paragraph C, the pH of Class C waters 
+32
+must fall within the 6.5 to 9.0 range.  Between April 15th and October 31st, the number 
+33
+of Escherichia coli bacteria in Class C waters may not exceed a geometric mean of 100 
+34
+CFU or MPN per 100 milliliters over a 90-day interval or 236 CFU or MPN per 100 
+35
+milliliters in more than 10% of the samples in any 90-day interval.   The board shall 
+36
+adopt rules governing the procedure for designation of spawning areas. Those rules 
+37
+must include provision for periodic review of designated spawning areas and 
+38
+consultation with affected persons prior to designation of a stretch of water as a 
+39
+spawning area.
+40
+Sec. 5.  38 MRSA §465-A, sub-§1, ¶B, as amended by PL 2021, c. 551, §13, is 
+41
+further amended to read:
+42
+B.  Class GPA waters must be described by their trophic state based on measures of 
+43
+the chlorophyll "a" content, Secchi disk transparency, total phosphorus content and 
+
+Page 3 - 132LR3014(01)
+44
+other appropriate criteria. Class GPA waters must have a stable or decreasing trophic 
+45
+state, subject only to natural fluctuations, and must be free of culturally induced algal 
+46
+blooms that impair their use and enjoyment.  Except for activities associated with fish 
+47
+stocking and fish management that are approved by a state agency, the aquatic life of 
+48
+Class GPA waters must be as naturally occurs.  Except as provided in section 464, 
+49
+subsection 4, paragraph C, the pH of Class GPA waters must fall within the 6.5 to 9.0 
+50
+range.  The number of Escherichia coli bacteria in these waters may not exceed a 
+51
+geometric mean of 29 CFU or MPN per 100 milliliters over a 90-day interval or 194 
+52
+CFU or MPN per 100 milliliters in more than 10% of the samples in any 90-day 
+53
+interval.
+11
+Sec. 6.  38 MRSA §465-B, sub-§2, ¶B, as amended by PL 2021, c. 551, §15, is 
+12
+further amended to read:
+13
+B.  Class SB waters must be of sufficient quality to support all estuarine and marine 
+14
+species indigenous to those waters without detrimental changes in the resident 
+15
+biological community.  The dissolved oxygen content of Class SB waters may not be 
+16
+less than 85% of saturation.  Except as provided in section 464, subsection 4, paragraph 
+17
+C, the pH of Class SB waters must fall within the 7.0 to 8.5 range.  Between April 15th 
+18
+and October 31st, the number of enterococcus bacteria in these waters may not exceed 
+19
+a geometric mean of 8 CFU or MPN per 100 milliliters in any 90-day interval or 54 
+20
+CFU or MPN per 100 milliliters in more than 10% of the samples in any 90-day 
+21
+interval.  The number of total coliform bacteria or other specified indicator organisms 
+22
+in samples representative of the waters in shellfish harvesting areas may not exceed the 
+23
+criteria recommended under the National Shellfish Sanitation Program, United States 
+24
+Food and Drug Administration as set forth in its publication "Guide for the Control of 
+25
+Molluscan Shellfish" (2019 revision) or any successor publication.
+26
+Sec. 7.  38 MRSA §465-B, sub-§3, ¶A, as amended by PL 2003, c. 227, §8, is 
+27
+further amended to read:
+28
+A.  Class SC waters must be of such quality that they are suitable for the designated 
+29
+uses of recreation in and on the water, fishing, aquaculture, propagation and restricted 
+30
+harvesting of shellfish, industrial process and cooling water supply, hydroelectric 
+31
+power generation, navigation and as a habitat for fish and other estuarine and marine 
+32
+life.
+33
+Sec. 8.  38 MRSA §465-B, sub-§3, ¶B, as amended by PL 2021, c. 551, §16, is 
+34
+further amended to read:
+35
+B.  Class SC waters must be of sufficient quality to support all species of fish 
+36
+indigenous to those waters and to maintain the structure and function of the resident 
+37
+biological community.  The dissolved oxygen content of Class SC waters may not be 
+38
+less than 70% of saturation.  Except as provided in section 464, subsection 4, paragraph 
+39
+C, the pH of Class SC waters must fall within the 7.0 to 8.5 range.  Between April 15th 
+40
+and October 31st, the number of enterococcus bacteria in these waters may not exceed 
+41
+a geometric mean of 14 CFU or MPN per 100 milliliters in any 90-day interval or 94 
+42
+CFU or MPN per 100 milliliters in more than 10% of the samples in any 90-day 
+43
+interval.  The number of total coliform bacteria or other specified indicator organisms 
+44
+in samples representative of the waters in restricted shellfish harvesting areas may not 
+45
+exceed the criteria recommended under the National Shellfish Sanitation Program, 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Page 4 - 132LR3014(01)
+46
+United States Food and Drug Administration as set forth in its publication "Guide for 
+47
+the Control of Molluscan Shellfish" (2019 revision) or any successor publication.
+3
+Sec. 9.  38 MRSA §467, sub-§1, ¶C, as amended by PL 2009, c. 163, §1, is further 
+4
+amended by amending subparagraph (4-A) to read:
+5
+(4-A)  Abbott Brook and its tributaries in Lincoln Plantation -  Class AA.
+6
+Sec. 10.  38 MRSA §467, sub-§4, ¶G, as amended by PL 2021, c. 551, §24, is 
+7
+further amended by amending subparagraph (2) to read:
+8
+(2)  Sandy River, tributaries - Class B unless otherwise specified.
+9
+(a)  All tributaries entering above the Route 142 bridge in Phillips - Class A 
+10
+unless otherwise specified.
+11
+(a-1)  South Branch Sandy River and its tributaries - Class AA.
+12
+(a-2)  Cottle Brook and its tributaries - Class AA.
+13
+(b)  Wilson Stream, main stem, below the outlet of Wilson Pond - Class C.
+14
+(c)  Mount Blue Stream and its tributaries - Class A AA.
+15
+(d)  Orbeton Stream above Toothaker Pond Road and its tributaries - Class AA.
+16
+(e)  All tributaries entering between Avon Valley Road and Mount Blue Pond 
+17
+Road west of Route 4 in Avon - Class A.
+18
+(f)  Temple Stream and all its tributaries above the confluence with Edes 
+19
+Brook - Class A.
+20
+(g)  All tributaries to Drury Pond and the stream between Drury Pond and 
+21
+Temple Stream - Class A.
+22
+Sec. 11.  38 MRSA §467, sub-§4, ¶H, as repealed and replaced by PL 2003, c. 317, 
+23
+§9, is amended by amending subparagraph (2), division (a) to read:
+24
+(a)  Sebasticook River, East Branch from the outlet of Corundel Lake, also 
+25
+known as East Branch Sebasticook River Reservoir and Corundel Bog, to its 
+26
+confluence with the West Branch - Class C.
+27
+Sec. 12.  38 MRSA §467, sub-§7, ¶E, as amended by PL 2021, c. 551, §§37 to 40, 
+28
+is further amended by enacting a new subparagraph (2), division (c-1) to read:
+29
+(c-1)  Pleasant River, Middle Branch and its tributaries - Class AA.
+30
+Sec. 13.  38 MRSA §467, sub-§7, ¶F, as amended by PL 2021, c. 551, §§41 and 
+31
+42, is further amended by amending subparagraph (5) to read:
+32
+(5)  Olamon Stream and its tributaries above the bridge on Horseback Road, also 
+33
+known as Spring Bridge Road - Class A.
+34
+SUMMARY
+35
+This bill, which is reported out by the Joint Standing Committee on Environment and 
+36
+Natural Resources pursuant to the Maine Revised Statutes, Title 38, section 464, subsection 
+37
+3, paragraph B, implements the recommendations of the Board of Environmental 
+38
+Protection resulting from its review of the State's water quality classification system and 
+1
+2
+35
+36
+37
+38
+
+Page 5 - 132LR3014(01)
+39
+related water quality standards.  As recommended by the board, the bill includes specific 
+40
+updates to certain water quality standards and water quality classifications based on water 
+41
+quality data and recommendations made by the United States Environmental Protection 
+42
+Agency, the Department of Environmental Protection and other persons.
+5
+The committee has not taken a position on the substance of the bill and by reporting 
+6
+this bill out, the committee is not suggesting and does not intend to suggest that it agrees 
+7
+or disagrees with any aspect of this bill.  The committee is reporting the bill out for the sole 
+8
+purpose of obtaining a printed bill that can be referred to the committee for a public hearing 
+9
+and subsequent committee action in the normal course.
+1
+2
+3
+4

@@ -1,0 +1,67 @@
+{
+  "ld": 1856,
+  "paper": "HP1240",
+  "paper_display": "HP 1240",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098961",
+  "title": "An Act Directing the Maine Commission on Public Defense Services to Assist Persons Filing Post-judgment Motions to Seal Criminal History Record Information",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Jun 9, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/30/2025 - Representative KUHN for the Joint Standing Committee on Judiciary pursuant to Resolve 2023, chapter 103, section 8 reports that the Bill be REFERRED to the Committee on JUDICIARY and printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on JUDICIARY Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/5/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Amy KUHN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Falmouth"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CRIMINAL HISTORIES",
+      "minor": "CRIMINAL HISTORY RECORDS",
+      "detail": "SEALING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "House",
+      "description": "Representative KUHN for the Joint Standing Committee on Judiciary pursuant to Resolve 2023, chapter 103, section 8 reports that the Bill be REFERRED to the Committee on JUDICIARY and printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on JUDICIARY Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. On motion by Senator Carney of Cumberland REFERRED to Committee on Judiciary, in concurrence."
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1240&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1240",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1240&SessionID=16",
+  "scraped_at": "2026-06-30T19:53:48Z"
+}

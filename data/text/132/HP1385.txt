@@ -1,0 +1,263 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2072
+H.P. 1385
+House of Representatives, December 17, 2025
+An Act to Make Changes to the Laws Governing Financial 
+Institutions and to Eliminate Certain Administrative Fees Paid by 
+Banks and Credit Unions Under the Maine Consumer Credit Code
+Submitted by the Department of Professional and Financial Regulation pursuant to Joint 
+Rule 203.
+Received by the Clerk of the House on December 15, 2025.  Referred to the Committee on 
+Health Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered 
+printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MATHIESON of Kittery.
+
+Page 1 - 132LR2812(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  9-A MRSA §6-201, as amended by PL 2005, c. 206, §2, is further amended 
+3
+to read:
+4
+§6-201.  Applicability
+5
+This Part applies to a person engaged in this State in entering into consumer credit 
+6
+transactions and to a person having an office or place of business in this State who takes 
+7
+assignments of or undertakes direct collection of payments from or enforcement of rights 
+8
+against debtors arising from these transactions.  In addition, this Part applies to a person, 
+9
+wherever located, who takes assignments of or undertakes direct collection of payments 
+10
+from or enforcement of rights against debtors arising from a consumer credit transaction 
+11
+subject to this Title.  This Part also applies to a person, other than a supervised financial 
+12
+organization, wherever located, who takes assignments of or undertakes direct collection 
+13
+of payments from or enforcement of rights against debtors arising from a consumer credit 
+14
+transaction subject to Article 9. This Part does not apply to supervised financial 
+15
+organizations.
+16
+Sec. 2.  9-A MRSA §6-203, sub-§3-A, as enacted by PL 1993, c. 268, §2, is 
+17
+repealed.
+18
+Sec. 3.  9-A MRSA §6-203, sub-§3-D, as enacted by PL 2021, c. 245, Pt. A, §5, is 
+19
+amended to read:
+20
+3-D.   Notwithstanding subsection 3‑C, the administrator may by rule adjust the fees 
+21
+paid with respect to creditors that are not supervised financial organizations making 
+22
+residential mortgage loans to support the costs of compliance and staff attorney positions. 
+23
+Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+24
+chapter 375, subchapter 2‑A.
+25
+Sec. 4.  9-A MRSA §6-203, sub-§6, as amended by PL 1997, c. 393, Pt. B, §5 and 
+26
+PL 2001, c. 44, §11 and affected by §14 and amended by PL 2007, c. 273, Pt. B, §§5 and 
+27
+6 and affected by c. 695, Pt. A, §47, is repealed.
+28
+Sec. 5.  9-B MRSA §161, sub-§1-A, ¶F, as amended by PL 2001, c. 44, §11 and 
+29
+affected by §14 and enacted by c. 262, Pt. B, §2 and amended by PL 2007, c. 273, Pt. B, 
+30
+§5 and affected by c. 695, Pt. A, §47, is further amended by amending subparagraph (10) 
+31
+to read:
+32
+(10)  The Office of Securities within the Department of Professional and Financial 
+33
+Regulation; and
+34
+Sec. 6.  9-B MRSA §161, sub-§1-A, ¶F, as amended by PL 2001, c. 44, §11 and 
+35
+affected by §14 and enacted by c. 262, Pt. B, §2 and amended by PL 2007, c. 273, Pt. B, 
+36
+§5 and affected by c. 695, Pt. A, §47, is further amended by amending subparagraph (11) 
+37
+to read:
+38
+(11)  The United States Securities and Exchange Commission.; and
+39
+Sec. 7.  9-B MRSA §161, sub-§1-A, ¶F, as amended by PL 2001, c. 44, §11 and 
+40
+affected by §14 and enacted by c. 262, Pt. B, §2 and amended by PL 2007, c. 273, Pt. B, 
+41
+§5 and affected by c. 695, Pt. A, §47, is further amended by enacting a new subparagraph 
+42
+(12) to read:
+
+Page 2 - 132LR2812(01)
+1
+(12)  The federal Consumer Financial Protection Bureau.
+2
+Sec. 8.  9-B MRSA §161, sub-§1-A, ¶F, as amended by PL 2001, c. 44, §11 and 
+3
+affected by §14 and enacted by c. 262, Pt. B, §2 and amended by PL 2007, c. 273, Pt. B, 
+4
+§5 and affected by c. 695, Pt. A, §47, is further amended by enacting at the end a new first 
+5
+blocked paragraph to read:
+6
+"Supervisory agency" includes any successor agency to those listed in this paragraph.
+7
+Sec. 9.  9-B MRSA §162, sub-§5-A, as enacted by PL 2025, c. 215, §2, is amended 
+8
+to read:
+9
+5-A.  Disclosure upon suspicion of financial exploitation.  The financial records are 
+10
+disclosed to the Office of the Attorney General or a law enforcement agency pursuant to 
+11
+section 245 because a financial institution authorized to do business in this State or its 
+12
+affiliate or a credit union authorized to do business in this State or its affiliate has reasonable 
+13
+cause to believe that a disbursement requested by an individual 62 65 years of age or older 
+14
+or an individual protected under the Adult Protective Services Act may result in financial 
+15
+exploitation of that person;
+16
+Sec. 10.  9-B MRSA §252, sub-§6, as amended by PL 1997, c. 398, Pt. K, §5, is 
+17
+further amended to read:
+18
+6.  Decision.  After consideration of all relevant matters presented in the application, 
+19
+in any written comments, in an investigation conducted by the bureau to examine and 
+20
+evaluate facts related to the application to the extent necessary to make an informed 
+21
+decision and at the hearing, if any, the superintendent shall promulgate, in accordance with 
+22
+the Maine Administrative Procedure Act, the final order. Within 5 14 days of promulgation, 
+23
+notice of the final order setting forth the name of the applicant, the nature of the application 
+24
+and the superintendent's action thereon on the application, together with a statement that 
+25
+copies of the order are available to the public at cost, must be published by the 
+26
+superintendent in those newspapers in which the notice required by subsection 2 was 
+27
+published. Unless the superintendent specifies a later date in the final notice relating thereto 
+28
+to the application, the effective date of the final order is 30 days after its promulgation. The 
+29
+superintendent may waive all or part of the 30-day waiting period following promulgation 
+30
+of the final order, if the superintendent determines that extraordinary or unusual conditions 
+31
+exist that warrant that action. The superintendent shall set forth in writing the circumstances 
+32
+and reasons for waiving all or part of the 30-day waiting period, provided, however, except 
+33
+that the superintendent shall, within 60 days of the close of the comment period or within 
+34
+60 days of the conclusion of the hearing if such a hearing was held, whichever period is 
+35
+greater, promulgate the final order either approving or disapproving the application.
+36
+Sec. 11.  9-B MRSA §326, sub-§1, ¶E, as enacted by PL 1975, c. 500, §1, is 
+37
+amended to read:
+38
+E.  The compensation of directors, which may include provision for payment of 
+39
+medical, surgical and hospital expenses due to accident or illness in the same manner 
+40
+as provided for officers and employees, may be fixed by the corporators or members 
+41
+at any legal meeting thereof, or, subject to the written approval of the superintendent, 
+42
+such may be fixed by the board of directors of the corporators or members.
+43
+Sec. 12.  9-B MRSA §851, sub-§1, as amended by PL 2003, c. 322, §36, is further 
+44
+amended to read:
+
+Page 3 - 132LR2812(01)
+1
+1.  Authorization.  A credit union may make, sell, purchase, arrange, participate in, 
+2
+invest in and otherwise deal in loans to its members for any purpose in accordance with the 
+3
+provisions of this chapter. Subject to the provisions of this chapter, a credit union may 
+4
+participate in loans to nonmembers as long as the borrower is a member of at least one 
+5
+other participating credit union. Notwithstanding section 855, participation loans may be 
+6
+secured by real estate located outside this State.
+7
+SUMMARY
+8
+This bill extends the deadline by which the Department of Professional and Financial 
+9
+Regulation, Bureau of Financial Institutions must publish a notice of a final order in a 
+10
+newspaper during the decision-making process on an application for a charter, branch, 
+11
+merger, acquisition, conversion, subsidiary formation or other similar request.  
+12
+Additionally, the bill eliminates certain administrative fees charged to financial institutions 
+13
+based on their volume of consumer loans.  The bill also eliminates the alternative approval 
+14
+process that allows the board of directors of a mutual financial institution, subject to written 
+15
+approval of the Superintendent of Financial Institutions, to fix the rate of the directors' own 
+16
+compensation.
+17
+The bill provides that when a credit union chartered in this State participates in a loan, 
+18
+the borrower must be a member of any one of the participating credit unions and any real 
+19
+estate securing the loan need not be located in this State.  The bill aligns the laws that permit 
+20
+the disclosure of financial records to the Office of the Attorney General or a law 
+21
+enforcement agency when a financial institution or credit union has reasonable cause to 
+22
+believe that a disbursement requested by certain individuals may result in financial 
+23
+exploitation of an individual with the provisions in the Maine Revised Statutes, Title 9-B, 
+24
+section 245 by clarifying that the required age of such an individual is 65 years of age or 
+25
+older and that individuals protected under the Adult Protective Services Act are included.  
+26
+The bill changes the definition of "supervisory agency" for the laws governing confidential 
+27
+financial records by adding the federal Consumer Financial Protection Bureau and 
+28
+providing that any successor agency to an agency listed in the definition is considered to 
+29
+be a supervisory agency.
+8
+9
+10
+11
+12
+13
+14
+15
+16

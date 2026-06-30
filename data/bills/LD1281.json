@@ -1,0 +1,674 @@
+{
+  "ld": 1281,
+  "paper": "SP0509",
+  "paper_display": "SP 509",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097707",
+  "title": "An Act to Address the Safety of Nurses and Improve Patient Care by Enacting the Maine Quality Care Act",
+  "committee": "",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Apr 29, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/29/2026 - The Bill was in the possession of the House when the Legislature adjourned Sine Die and was placed in the Legislative Files. ( DEAD )",
+  "last_senate_action": "4/10/2025 - Taken from the table by the President On motion by Senator INGWERSEN of York The Bill was REFERRED to the Committee on LABOR PREVAILED Roll Call Ordered Roll Call Number 95 Yeas 18 - Nays 15 - Excused 2 - Absent 0 Ordered sent down forthwith for concurrence",
+  "sponsors": [
+    {
+      "name": "Stacy BRENNER",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Matthew BECK",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Portland"
+    },
+    {
+      "name": "Matthea DAUGHTRY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "President",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Gary FRIEDMANN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bar Harbor"
+    },
+    {
+      "name": "Valli GEIGER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Rockland"
+    },
+    {
+      "name": "Amy ROEDER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Bangor"
+    },
+    {
+      "name": "Kilton WEBB",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Durham"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HEALTH CARE PERSONNEL",
+      "minor": "NURSES",
+      "detail": "SAFETY AND PATIENT CARE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "date_raw": "3/25/2025",
+      "chamber": "Senate",
+      "description": "Committee on HEALTH AND HUMAN SERVICES suggested and ordered printed On motion by Senator INGWERSEN of York Tabled until Later in Today's Session, pending REFERENCE Unfinished Business"
+    },
+    {
+      "date": "2025-03-27",
+      "date_raw": "3/27/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-01",
+      "date_raw": "4/1/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-08",
+      "date_raw": "4/8/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President On motion by Senator INGWERSEN of York The Bill was REFERRED to the Committee on LABOR PREVAILED Roll Call Ordered Roll Call Number 95 Yeas 18 - Nays 15 - Excused 2 - Absent 0 Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-04-15",
+      "date_raw": "4/15/2025",
+      "chamber": "House",
+      "description": "On motion of Representative MOONEN of Portland, TABLED pending REFERENCE in concurrence. Later today assigned. (Roll Call Ordered)"
+    },
+    {
+      "date": "2025-04-15",
+      "date_raw": "4/15/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-22",
+      "date_raw": "4/22/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-23",
+      "date_raw": "4/23/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-29",
+      "date_raw": "4/29/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-14",
+      "date_raw": "5/14/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-03",
+      "date_raw": "6/3/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-04",
+      "date_raw": "6/4/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-05",
+      "date_raw": "6/5/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-09",
+      "date_raw": "6/9/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-10",
+      "date_raw": "6/10/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-11",
+      "date_raw": "6/11/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-12",
+      "date_raw": "6/12/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-13",
+      "date_raw": "6/13/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-16",
+      "date_raw": "6/16/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-17",
+      "date_raw": "6/17/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-18",
+      "date_raw": "6/18/2025",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Unfinished Business Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-01-07",
+      "date_raw": "1/7/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-01-13",
+      "date_raw": "1/13/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-01-20",
+      "date_raw": "1/20/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-01-27",
+      "date_raw": "1/27/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-02-03",
+      "date_raw": "2/3/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-02-10",
+      "date_raw": "2/10/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-02-12",
+      "date_raw": "2/12/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-02-24",
+      "date_raw": "2/24/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-02-26",
+      "date_raw": "2/26/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-03",
+      "date_raw": "3/3/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-05",
+      "date_raw": "3/5/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-10",
+      "date_raw": "3/10/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-12",
+      "date_raw": "3/12/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-18",
+      "date_raw": "3/18/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-19",
+      "date_raw": "3/19/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-24",
+      "date_raw": "3/24/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-25",
+      "date_raw": "3/25/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-26",
+      "date_raw": "3/26/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-30",
+      "date_raw": "3/30/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-03-31",
+      "date_raw": "3/31/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-03",
+      "date_raw": "4/3/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-07",
+      "date_raw": "4/7/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-09",
+      "date_raw": "4/9/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-09",
+      "date_raw": "4/9/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-13",
+      "date_raw": "4/13/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "House",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-29",
+      "date_raw": "4/29/2026",
+      "chamber": "House",
+      "description": "The Bill was in the possession of the House when the Legislature adjourned Sine Die and was placed in the Legislative Files. ( DEAD )"
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "Senate",
+      "number": "95",
+      "date": "2025-04-10",
+      "date_raw": "April 10, 2025",
+      "motion": "REFERENCE",
+      "outcome": "PREVAILS",
+      "yeas": 18,
+      "nays": 15,
+      "absent": 0,
+      "excused": 2,
+      "vacant": 0,
+      "yeas_required": 17,
+      "members": [
+        {
+          "member": "BAILEY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BALDACCI of Penobscot",
+          "party": "D",
+          "vote": "E"
+        },
+        {
+          "member": "BEEBE-CENTER of Knox",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BENNETT of Oxford",
+          "party": "I",
+          "vote": "N"
+        },
+        {
+          "member": "BERNARD of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BICKFORD of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BLACK of Franklin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRADSTREET of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BRENNER of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CARNEY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CURRY of Waldo",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CYRWAY of Kennebec",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "DAUGHTRY of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DUSON of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Somerset",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "GROHOSKI of Hancock",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GUERIN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HAGGAN of Penobscot",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HARRINGTON of York",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HICKMAN of Kennebec",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "INGWERSEN of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAWRENCE of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LIBBY of Cumberland",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MARTIN of Oxford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MOORE of Washington",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "NANGLE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "PIERCE of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAFFERTY of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RENY of Lincoln",
+          "party": "D",
+          "vote": "E"
+        },
+        {
+          "member": "ROTUNDO of Androscoggin",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STEWART of Aroostook",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TALBOT ROSS of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TEPLER of Sagadahoc",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "TIMBERLAKE of Androscoggin",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TIPPING of Penobscot",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280097707&chamber=Senate&serialnumber=95"
+    }
+  ],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0509&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0509",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0509&SessionID=16",
+  "scraped_at": "2026-06-30T19:09:51Z"
+}

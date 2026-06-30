@@ -1,0 +1,184 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 782
+S.P. 340
+In Senate, March 4, 2025
+An Act to Amend MaineCare Financial Eligibility Requirements
+Received by the Secretary of the Senate on February 26, 2025.  Referred to the Committee 
+on Health and Human Services pursuant to Joint Rule 308.2 and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TEPLER of Sagadahoc.
+Cosponsored by Senator: TIPPING of Penobscot, Representatives: ABDI of Lewiston, 
+MACIAS of Topsham, RANA of Bangor, SATO of Gorham.
+
+Page 1 - 132LR0951(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  22 MRSA §3174-G, sub-§1, ¶C, as repealed and replaced by PL 2005, c. 
+3
+3, Pt. M, §1 and affected by §2, is amended to read:
+4
+C.  A qualified elderly or disabled person when the person's family income is equal to 
+5
+or below 100% 138% of the nonfarm income official poverty line;
+6
+Sec. 2.  22 MRSA §3174-G, sub-§1, ¶E, as amended by PL 2023, c. 597, §7, is 
+7
+further amended to read:
+8
+E.  On or before September 30, 2012, the parent or caretaker relative of a child 
+9
+described in paragraph B when the child's family income is equal to or below 200% of 
+10
+the nonfarm income official poverty line, subject to adjustment by the commissioner 
+11
+under this paragraph and, beginning October 1, 2012, the parent or caretaker relative 
+12
+of a child described in paragraph B when the child's family income is equal to or below 
+13
+133% 138% of the nonfarm income official poverty line, subject to adjustment by the 
+14
+commissioner under this paragraph.  Medicaid services provided under this paragraph 
+15
+must be provided within the limits of the program budget.  Funds appropriated for 
+16
+services under this paragraph must include an annual inflationary adjustment 
+17
+equivalent to the rate of inflation in the Medicaid program.  On a quarterly basis, the 
+18
+commissioner shall determine the fiscal status of program expenditures under this 
+19
+paragraph.  If the commissioner determines that expenditures will exceed the funds 
+20
+available to provide Medicaid coverage pursuant to this paragraph, the commissioner 
+21
+must adjust the income eligibility limit for new applicants to the extent necessary to 
+22
+operate the program within the program budget.  If, after an adjustment has occurred 
+23
+pursuant to this paragraph, expenditures fall below the program budget, the 
+24
+commissioner must raise the income eligibility limit to the extent necessary to provide 
+25
+services to as many eligible persons as possible within the fiscal constraints of the 
+26
+program budget, as long as on or before September 30, 2012 the income limit does not 
+27
+exceed 200% of the nonfarm income official poverty line and, beginning October 1, 
+28
+2012, the income limit does not exceed 133% 138% of the nonfarm income official 
+29
+poverty line;
+30
+Sec. 3.  22 MRSA §3174-G, sub-§1, ¶E, as amended by PL 2023, c. 597, §8, is 
+31
+further amended to read:
+32
+E.  On or before September 30, 2012, the parent or caretaker relative of a child 
+33
+described in paragraph B when the child's family income is equal to or below 200% of 
+34
+the nonfarm income official poverty line, subject to adjustment by the commissioner 
+35
+under this paragraph and, beginning October 1, 2012, the parent or caretaker relative 
+36
+of a child described in paragraph B when the child's family income is equal to or below 
+37
+100% 138% of the nonfarm income official poverty line.  Medicaid services provided 
+38
+under this paragraph must be provided within the limits of the program budget.  Funds 
+39
+appropriated for services under this paragraph must include an annual inflationary 
+40
+adjustment equivalent to the rate of inflation in the Medicaid program.  On a quarterly 
+41
+basis, the commissioner shall determine the fiscal status of program expenditures under 
+42
+this paragraph.  If the commissioner determines that expenditures will exceed the funds 
+43
+available to provide Medicaid coverage pursuant to this paragraph, the commissioner 
+44
+must adjust the income eligibility limit for new applicants to the extent necessary to 
+45
+operate the program within the program budget.  If, after an adjustment has occurred 
+
+Page 2 - 132LR0951(01)
+46
+pursuant to this paragraph, expenditures fall below the program budget, the 
+47
+commissioner must raise the income eligibility limit to the extent necessary to provide 
+48
+services to as many eligible persons as possible within the fiscal constraints of the 
+49
+program budget, as long as on or before September 30, 2012 the income limit does not 
+50
+exceed 200% of the nonfarm income official poverty line;
+6
+Sec. 4.  22 MRSA §3174-G, sub-§1, ¶G, as amended by PL 2021, c. 519, §5, is 
+7
+further amended by amending subparagraph (2) to read:
+8
+(2)  A child person under 21 23 years of age;
+9
+Sec. 5.  22 MRSA §3174-AA, sub-§2, as enacted by PL 2001, c. 450, Pt. A, §4, is 
+10
+amended to read:
+11
+2.  Savings.  An amount up to $8,000 $15,000 for an individual and up to $12,000 
+12
+$25,000 for a household of more than one person.
+13
+Sec. 6.  Rulemaking.  The Department of Health and Human Services shall amend 
+14
+its rules establishing the maximum asset limits for MaineCare eligibility for individuals 
+15
+who are working with a disabling condition to $15,000 for an individual and $25,000 for a 
+16
+household of more than one person.  Amendments to rules adopted pursuant to this section 
+17
+are routine technical rules pursuant to the Maine Revised Statutes, Title 5, chapter 375, 
+18
+subchapter 2-A.
+19
+SUMMARY
+20
+This bill makes the following changes to financial eligibility for the MaineCare 
+21
+program.
+22
+1. It changes the family income limit for qualified elderly or disabled persons from 
+23
+100% to 138% of the nonfarm income official poverty line.
+24
+2. It changes the family income limit for parents and caretaker relatives from 100% to 
+25
+138% of the nonfarm income official poverty line.
+26
+3. It raises the age of eligibility for a person otherwise eligible who is a noncitizen 
+27
+legally admitted to the United States to the extent that coverage is allowable by federal law 
+28
+from under 21 years of age to under 23 years of age.
+29
+4. It raises the maximum asset limits for members subject to an asset test from $8,000 
+30
+for an individual to $15,000 and from $12,000 for a household of more than one person to 
+31
+$25,000.
+32
+5. It directs the Department of Health and Human Services to establish by rule that the 
+33
+maximum asset limits for those who are working with a disabling condition is $15,000 for 
+34
+an individual and $25,000 for a household of more than one person.
+1
+2
+3
+4
+5
+20
+21

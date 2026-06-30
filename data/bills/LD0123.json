@@ -1,0 +1,90 @@
+{
+  "ld": 123,
+  "paper": "SP0044",
+  "paper_display": "SP 44",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095555",
+  "title": "An Act Regarding Licensure of Emergency Medical Services Persons",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Enacted, Mar 21, 2025",
+  "governor_action": "Signed, Mar 21, 2025",
+  "chaptered_law": "ACTPUB, Chapter 7",
+  "chapter": "7",
+  "became_law": true,
+  "last_house_action": "3/11/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/18/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Scott CYRWAY",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Kennebec"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "EMERGENCY MEDICAL SERVICES",
+      "minor": "SYSTEM",
+      "detail": "LICENSING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "date_raw": "1/8/2025",
+      "chamber": "Senate",
+      "description": "Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY suggested and ordered printed On motion by Senator BEEBE-CENTER of Knox REFERENCE to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-01-08",
+      "date_raw": "1/8/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-25",
+      "date_raw": "2/25/2025",
+      "chamber": "Senate",
+      "description": "Reports READ On motion by Senator PIERCE of Cumberland The Majority Ought to Pass Report ACCEPTED READ ONCE Under suspension of the Rules, READ A SECOND TIME AND PASSED TO BE ENGROSSED Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative ARFORD of Brunswick, the Majority Ought to Pass Report was ACCEPTED . The Bill was READ ONCE . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-11",
+      "date_raw": "3/11/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0044&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0044&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0044",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0044&SessionID=16",
+  "scraped_at": "2026-06-30T17:38:55Z"
+}

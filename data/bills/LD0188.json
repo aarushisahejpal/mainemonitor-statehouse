@@ -1,0 +1,114 @@
+{
+  "ld": 188,
+  "paper": "HP0121",
+  "paper_display": "HP 121",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095802",
+  "title": "An Act to Permit the Sale of Motor Vehicles on Sundays",
+  "committee": "Housing and Economic Development",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "1/21/2025 - The House INSISTED on REFERENCE to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Joshua MORRIS",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Turner"
+    },
+    {
+      "name": "David BOYER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Poland"
+    },
+    {
+      "name": "Quentin CHAPMAN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "Michael LANCE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Paris"
+    },
+    {
+      "name": "Laurel LIBBY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Auburn"
+    },
+    {
+      "name": "Jennifer POIRIER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Skowhegan"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "BUSINESS PRACTICES",
+      "minor": "SUNDAY SALES",
+      "detail": "MOTOR VEHICLES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "date_raw": "1/14/2025",
+      "chamber": "House",
+      "description": "Committee on TRANSPORTATION suggested and ordered printed. On motion of Representative CRAFTS of Newcastle, the Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-01-14",
+      "date_raw": "1/14/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . On motion by Senator CURRY of Waldo The Senate RECONSIDERED whereby the Bill was REFERRED to the Committee on Housing and Economic Development On motion by Senator NANGLE of Cumberland the Bill was REFERRED to the Committee on Transportation In NON-CONCURRENCE Sent down for concurrence"
+    },
+    {
+      "date": "2025-01-21",
+      "date_raw": "1/21/2025",
+      "chamber": "House",
+      "description": "The House INSISTED on REFERENCE to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-01-28",
+      "date_raw": "1/28/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland The Senate RECEDED and CONCURRED With REFERENCE to the Committee on HOUSING AND ECONOMIC DEVELOPMENT in concurrence"
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0121&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0121",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0121&SessionID=16",
+  "scraped_at": "2026-06-30T17:43:55Z"
+}

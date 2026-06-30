@@ -1,0 +1,437 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1457
+S.P. 598
+In Senate, April 3, 2025
+Resolve, to Allow the Maine Turnpike Authority to Conduct a Pilot 
+Program to Implement Automated Speed Control Systems in 
+Highway Work Zones
+Reference to the Committee on Transportation suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator FARRIN of Somerset.
+Cosponsored by Representative CRAFTS of Newcastle and
+Senator: PIERCE of Cumberland, Representatives: ALBERT of Madawaska, MASON of 
+Lisbon, RAY of Lincolnville.
+
+Page 1 - 132LR1457(01)
+1
+Sec. 1. Maine Turnpike Authority authorized to conduct pilot program to 
+2
+implement automated speed control systems in highway work zones. Resolved: 
+3
+That the Maine Turnpike Authority, in conjunction with the Department of Transportation 
+4
+and the Department of Public Safety, may establish a pilot program to operate work zone 
+5
+speed control systems in a highway work zone.
+6
+Sec. 2. Definitions. Resolved: That, as used in this resolve, unless the context 
+7
+otherwise indicates, the following terms have the following meanings.
+8
+1. "Authority" means the Maine Turnpike Authority under the Maine Revised Statutes, 
+9
+Title 23, chapter 24.
+10
+2. "Director" means the executive director of the authority appointed under the Maine 
+11
+Revised Statutes, Title 23, section 1964-A, subsection 8.
+12
+3. "Highway work zone" means an active construction work area denoted by roadway 
+13
+construction signs with workers present.
+14
+4. "Limited access state highway" means a controlled access highway as defined in the 
+15
+Maine Revised Statutes, Title 23, section 301.
+16
+5. "Operator" means an operator of a system who is a person trained and certified to 
+17
+operate a system.
+18
+6. "Personally identifiable information" means information created or maintained by 
+19
+the authority or a vendor that identifies or describes an owner of a motor vehicle and 
+20
+includes the owner's address, telephone number, license plate number, photograph, bank 
+21
+account information, credit card number or debit card number or the date, time, location or 
+22
+direction of the owner's travel on a limited access state highway.
+23
+7. "Pilot program" means the pilot program established pursuant to this resolve.
+24
+8. "System" means a work zone speed control system, which is a device having one or 
+25
+more motor vehicle sensors connected to a camera system capable of producing a recorded 
+26
+image of a license plate and type of motor vehicle that indicates the date, time and location 
+27
+of the image of the motor vehicle allegedly operating in violation of section 4.
+28
+9. "Vendor" means a person selected by the authority:
+29
+A. To provide services to the authority under this resolve;
+30
+B. That operates, maintains, leases or licenses a system; or
+31
+C. That is authorized to review and assemble the recorded images captured by a system.
+32
+Sec. 3. Program requirements. Resolved: That the pilot program has the 
+33
+following requirements.
+34
+1. The pilot program must operate a system at up to 3 locations in the State at any one 
+35
+time. A system may be used to record images of license plates of motor vehicles traveling 
+36
+on a limited access state highway within a highway work zone in which the speed limit, 
+37
+established using generally accepted traffic engineering practices, is 45 miles per hour or 
+38
+greater.
+39
+2. A system may be used if:
+40
+A. The system is operated by an operator;
+
+Page 2 - 132LR1457(01)
+1
+B. In accordance with a manual of uniform traffic control devices approved and revised 
+2
+by the authority, at least 2 conspicuous road signs are placed at a reasonable distance 
+3
+in advance of a highway work zone notifying drivers that a system may be in operation;
+4
+C. At least one sign in paragraph B indicates that the system is operational or is not 
+5
+operational;
+6
+D. An appropriate sign is conspicuously placed at the end of the highway work zone 
+7
+with a system that is operational; and
+8
+E. A notice identifying the location of a system is available on the authority's publicly 
+9
+accessible website.
+10
+3. A system may be used only to record images of motor vehicles that are exceeding 
+11
+the posted highway work zone speed limit by 11 miles per hour or more in violation of the 
+12
+provisions of section 4. Any recorded images collected as part of a system may not be used 
+13
+for any surveillance purpose. The authority or operator shall certify to the Department of 
+14
+Public Safety when a system is operational.
+15
+4. The director may:
+16
+A. Enter into an agreement with a vendor for the design, operation or maintenance, or 
+17
+any combination thereof, of systems; and
+18
+B. Retain and employ a consultant or assistant on a contract or other basis for rendering 
+19
+legal, financial, professional, technical or other assistance and advice necessary for the 
+20
+design, operation and maintenance of a system. If a vendor provides, deploys or 
+21
+operates a system, the vendor's fee may not be contingent on the number of violations 
+22
+issued or fines paid pursuant to the provisions of section 4.
+23
+5. The pilot program must commence on or before January 1, 2026 and terminate on 
+24
+December 31, 2028.
+25
+Sec. 4. Penalties for exceeding speed limit in highway work zone detected 
+26
+by system. Resolved: That the owner of a motor vehicle that exceeds the posted speed 
+27
+limit by 11 or more miles per hour, as detected by a system, within a highway work zone 
+28
+where a system is operational is in violation of this section. A penalty imposed by this 
+29
+section is equivalent to a penalty imposed for a violation of the Maine Revised Statutes, 
+30
+Title 29-A, section 2075, subsection 2.
+31
+1. The owner of a motor vehicle identified by a system as violating this section:
+32
+A. For a first violation, must receive a written warning; and
+33
+B. For a 2nd or subsequent violation, is liable for a penalty pursuant to the procedures 
+34
+of the Maine Rules of Civil Procedure, Rule 80F. A notice of violation under section 7 
+35
+satisfies the requirement for commencement of proceedings and a violation summons 
+36
+and complaint under Rule 80F(b).
+37
+2. The owner under subsection 1 is liable for a fine imposed under subsection 1 unless 
+38
+the driver of the motor vehicle received a citation from a law enforcement officer at the 
+39
+time of the violation.
+40
+3. A violation of this section:
+
+Page 3 - 132LR1457(01)
+1
+A. Is not subject to demerit points under the Maine Revised Statutes, Title 29-A, section 
+2
+2458, subsection 3;
+3
+B. May not be used for merit rating for insurance purposes; and
+4
+C. Does not authorize the imposition of surcharge points in the provision of motor 
+5
+vehicle insurance coverage.
+6
+Sec. 5. Review of recorded images. Resolved: That whenever a system detects 
+7
+and produces a recorded image of a motor vehicle allegedly committing a violation of 
+8
+section 4, a sworn member or authorized member of the Department of Public Safety shall 
+9
+review the recorded image. If, after review, the member determines that there are 
+10
+reasonable grounds to believe that a violation has occurred, the member may issue a notice 
+11
+of violation for the alleged violation. The notice of violation must be sworn or affirmed by 
+12
+the member and is prima facie evidence of the facts contained in the notice. The notice of 
+13
+violation must include written verification that the system was operating correctly at the 
+14
+time of the alleged violation and specify the date of the most recent inspection that confirms 
+15
+the system to be operating properly.
+16
+Sec. 6. Operator training and duties; system calibration.  Resolved: That:
+17
+1. An operator shall complete training offered by the manufacturer of a system or the 
+18
+manufacturer's representative in the procedures for setting up, testing and operating the 
+19
+system, including training on any device critical to the operation of the system. Upon 
+20
+completion of the training, the manufacturer or manufacturer's representative shall issue a 
+21
+signed certificate to the operator. The signed certificate must be admitted as evidence in 
+22
+any court proceeding for an alleged violation of section 4;
+23
+2. An operator shall complete and sign a daily log for a system. The daily log must:
+24
+A. State the date, time and location of the system's setup;
+25
+B. State that the operator successfully performed and the system passed the testing 
+26
+specified by the manufacturer of the system;
+27
+C. Be kept on file at the principal office of the operator; and 
+28
+D. Be admitted in any court proceeding for an alleged violation of section 4; and
+29
+3. A system must undergo an annual calibration check performed at a calibration 
+30
+laboratory. The calibration laboratory shall issue a signed certificate of calibration after the 
+31
+annual calibration check. The signed certificate of calibration must be kept on file and 
+32
+admitted as evidence in any court proceeding for an alleged violation of section 4.
+33
+Sec. 7. Notice of violation. Resolved: That:
+34
+1. The notice of violation for an alleged violation of section 4 must include:
+35
+A. A copy of the recorded image showing the motor vehicle with the motor vehicle's 
+36
+license plate visible;
+37
+B. The registration number and state of issuance of the motor vehicle registration;
+38
+C. Verification that the system was operating correctly at the time of the alleged 
+39
+violation and the date of the most recent calibration check under section 6, subsection 
+40
+3; and
+41
+D. The date, time and location of the alleged violation;
+
+Page 4 - 132LR1457(01)
+1
+2. For an alleged violation of section 4 involving a motor vehicle registered in the State, 
+2
+the notice of violation must be mailed not later than 30 days after the commission of the 
+3
+alleged violation or after the identity of the owner of the motor vehicle is ascertained, 
+4
+whichever is later, to the address of the owner that is in the records of the Department of 
+5
+the Secretary of State, Bureau of Motor Vehicles;
+6
+3. For an alleged violation of section 4 involving a motor vehicle registered in another 
+7
+jurisdiction, the notice of the violation must be mailed no later than 30 days after the 
+8
+identity of the owner of the motor vehicle is ascertained to the address of the owner that is 
+9
+in the records of the official in the other jurisdiction issuing the registration;
+10
+4. The notice of violation for an alleged violation of section 4 is invalid unless the 
+11
+notice is mailed to the owner of the motor vehicle no later than 90 days after the alleged 
+12
+violation of section 4; and
+13
+5. The notice of violation for an alleged violation of section 4 must be sent by first-
+14
+class mail. A manual or automatic record of mailing prepared by the operator in the 
+15
+ordinary course of business is prima facie evidence of mailing and is admissible in any 
+16
+court proceeding as to the facts contained in the notice.
+17
+Sec. 8. Defenses. Resolved: That the following defenses are available to the owner 
+18
+of a motor vehicle identified by a system as allegedly violating section 4:
+19
+1. The violation took place during a period of time in which the motor vehicle had been 
+20
+reported to a law enforcement unit as being stolen, as described in the Maine Revised 
+21
+Statutes, Title 17-A, section 360, subsection 1, paragraph A, and had not been recovered 
+22
+prior to the time of the violation; or
+23
+2. The system was not in compliance with the provisions of section 6 relating to tests 
+24
+for accuracy, certification or calibration.
+25
+A motor vehicle owner who receives a notice of violation under section 7 must follow 
+26
+the procedures set forth in the Maine Rules of Civil Procedure, Rule 80F.
+27
+Sec. 9. Information to authority and vendor. Resolved: That the Department 
+28
+of the Secretary of State, Bureau of Motor Vehicles shall provide the authority and any 
+29
+vendor with information regarding the owner of a motor vehicle identified by a system as 
+30
+allegedly violating the provisions of section 4. The information must include the make and 
+31
+license plate number of the motor vehicle and the name and address of the owner of the 
+32
+motor vehicle.
+33
+Sec. 10. Motor vehicle registration when penalty for exceeding speed limit 
+34
+in highway work zone detected by system is unpaid. Resolved: If a motor vehicle 
+35
+owner does not pay the fine imposed for a violation of section 4 or the owner is found guilty 
+36
+at a trial for the commission of the violation, the Department of the Secretary of State, 
+37
+Bureau of Motor Vehicles may suspend the registration or refuse to register the motor 
+38
+vehicle involved in the violation.
+39
+Sec. 11. Personally identifiable information. Resolved: That:
+40
+1. Personally identifiable information may not be sold or disclosed by the authority or 
+41
+a vendor to any person or entity except when the disclosure is made:
+
+Page 5 - 132LR1457(01)
+1
+A. In connection with the charging, collection and enforcement of the fines imposed 
+2
+pursuant to section 4;
+3
+B. Pursuant to a judicial order, including a search warrant or subpoena, in a criminal 
+4
+proceeding; or
+5
+C. To comply with federal or state laws, rules or regulations;
+6
+2. Personally identifiable information may not be stored or retained by the authority or 
+7
+a vendor unless such information is necessary for the collection and enforcement of the 
+8
+fines imposed pursuant to section 4;
+9
+3. The authority or a vendor may disclose aggregate information and other data 
+10
+gathered from a system that does not directly or indirectly identify an owner of a motor 
+11
+vehicle or a motor vehicle for research purposes authorized by the director;
+12
+4. Except as otherwise provided by law or in connection with an administrative 
+13
+summons or judicial order, including a search warrant or subpoena, in a criminal 
+14
+proceeding, the authority or a vendor shall destroy personally identifiable information and 
+15
+other data that specifically identifies an owner of a motor vehicle or a motor vehicle and 
+16
+relates to a violation of section 4 no later than one year after any fine is imposed or the 
+17
+resolution of a trial conducted for the alleged commission of the violation; and
+18
+5. Personally identifiable information is not a public record under the Maine Revised 
+19
+Statutes, Title 1, section 402, subsection 3.
+20
+Sec. 12. Rules. Resolved: That the director shall adopt rules to carry out the purposes 
+21
+of this resolve, including rules that establish the criteria that must be met before a system 
+22
+may be operated in a highway work zone. Rules adopted pursuant to this section are routine 
+23
+technical rules under the Maine Revised Statutes, Title 5, chapter 375, subchapter 2-A.
+24
+Sec. 13. Report. Resolved: That, by November 1, 2028, the director shall submit a 
+25
+report evaluating the pilot program along with any recommended legislation to the joint 
+26
+standing committee of the Legislature having jurisdiction over transportation matters, 
+27
+which may report out legislation to the 134th Legislature in 2029.
+28
+SUMMARY
+29
+This resolve authorizes the Maine Turnpike Authority to conduct a pilot program to 
+30
+implement up to 3 automated speed control systems at a time in highway work zones on 
+31
+limited access highways in the State for 3 years. The system produces an image of a motor 
+32
+vehicle exceeding the posted speed limit by 11 miles an hour or more in the highway work 
+33
+zone, including the motor vehicle's license plate number, and a notice of violation is sent 
+34
+to the owner of the motor vehicle, who is subject to a warning for a first offense and a fine 
+35
+for a 2nd or subsequent offense. The system is maintained by an operator who is responsible 
+36
+for calibrating the system and certifying that the system is in proper working order. 
+37
+Personally identifiable information of motor vehicle owners and motor vehicles captured 
+38
+by the system is confidential and not a public record under the Freedom of Access Act.
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38

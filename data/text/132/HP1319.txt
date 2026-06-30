@@ -1,0 +1,232 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1975
+H.P. 1319
+House of Representatives, May 13, 2025
+An Act to Eliminate the ConnectMaine Authority by Repealing the 
+Advanced Technology Infrastructure Act
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative DUCHARME of Madison.
+Cosponsored by President DAUGHTRY of Cumberland and
+Representatives: ANKELES of Brunswick, CAMPBELL of Orrington, CROCKETT of 
+Portland, GREENWOOD of Wales, ROLLINS of Augusta, RUDNICKI of Fairfield, SAYRE 
+of Kennebunk, WADSWORTH of Hiram.
+
+Page 1 - 132LR1304(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA §1541-B, sub-§1, ¶A, as enacted by PL 2019, c. 468, §1, is 
+3
+amended to read:
+4
+A.  "Advanced communications technology infrastructure" has the same meaning as in 
+5
+Title 35‑A, section 9202 9402, subsection 1.
+6
+Sec. 2.  5 MRSA §12004-G, sub-§33-F, as amended by PL 2019, c. 625, §1, is 
+7
+repealed.
+8
+Sec. 3.  5 MRSA §12021, sub-§6, ¶B, as amended by PL 2019, c. 625, §2, is 
+9
+repealed.
+10
+Sec. 4.  10 MRSA §9902, sub-§3, ¶A, as enacted by PL 2011, c. 622, §1, is 
+11
+amended to read:
+12
+A.  Property and equipment, including related support facilities that provide service to 
+13
+more than one customer or person, owned or used by a public utility as defined in Title 
+14
+35‑A, section 102, subsection 13 or by a communications service provider as defined 
+15
+in Title 35‑A, section 9202, subsection 4.  For purposes of this paragraph, 
+16
+"communications service provider" means an entity offering wireline voice, satellite, 
+17
+data, fixed wireless data or video retail service to customers in the State.  
+18
+"Infrastructure" includes, without limitation, real and personal property such as 
+19
+buildings, offices, power lines, poles, pipes, structures and equipment; and
+20
+Sec. 5.  14 MRSA §6000, sub-§3-A, ¶C, as enacted by PL 2023, c. 594, §5 and 
+21
+affected by §13, is amended to read:
+22
+C.  Services provided by a communications service as defined in Title 35‑A, section 
+23
+9202, subsection 3 wireline voice, satellite, data, fixed wireless data or video retail 
+24
+service; and
+25
+Sec. 6.  30-A MRSA §5225, sub-§1, ¶C, as amended by PL 2023, c. 142, §§1 to 
+26
+3, is further amended by amending subparagraph (10) to read:
+27
+(10)  Costs associated with broadband and fiber optics expansion projects, 
+28
+including preparation, planning, engineering and other related costs in addition to 
+29
+the construction costs of those projects.  If an area within a municipality or 
+30
+plantation is unserved with respect to broadband service, as defined by the 
+31
+ConnectMaine Authority as provided in Title 35‑A, section 9204‑A, subsection 1, 
+32
+broadband and fiber optics expansion projects may serve residential or other 
+33
+nonbusiness or noncommercial areas in addition to business or commercial areas 
+34
+within the municipality or plantation;
+35
+Sec. 7.  30-A MRSA §5403, sub-§15, as enacted by PL 2019, c. 108, §5, is amended 
+36
+to read:
+37
+15.  Communications services systems; community broadband systems.  Construct, 
+38
+maintain and operate a municipal or multimunicipal system composed of infrastructure 
+39
+capable of being utilized by communications service providers for the provision of 
+40
+communications services.  For the purposes of this subsection, "communications service" 
+41
+has the same meaning as in Title 35‑A, section 9202, subsection 3 and "communications 
+42
+service provider" has the same meaning as in Title 35‑A, section 9202, subsection 4 means 
+
+Page 2 - 132LR1304(01)
+43
+any wireline voice, satellite, data, fixed wireless data or video retail service.  For the 
+44
+purposes of this subsection, "communications services provider" means an entity offering 
+45
+communications service to customers in the State.
+4
+Nothing in this chapter restricts a municipality from purchasing, leasing, constructing or 
+5
+equipping facilities that are designed to provide communications services.  Nothing in this 
+6
+chapter restricts a municipality from using community broadband systems for internal 
+7
+municipal government purposes or, by written contract, leasing, selling capacity in or 
+8
+granting other similar rights to communications service providers to use the facilities in 
+9
+connection with the provider's offering communications services.
+10
+Sec. 8.  35-A MRSA §711, sub-§4, as amended by PL 2017, c. 199, §1, is further 
+11
+amended to read:
+12
+4.  Rules.  The commission shall adopt rules governing the resolution of pole 
+13
+attachment disputes and the rates, terms and conditions of joint use. The rules must promote 
+14
+competition, further the state broadband policy set forth in section 9202‑A and ensure safe, 
+15
+nondiscriminatory access on just and reasonable terms. The rules must also include a 
+16
+process for ensuring that a new joint use entity seeking access to the poles, ducts, conduits 
+17
+or rights-of-way of another joint use entity meets the requirements of subsection 1, 
+18
+paragraph D. In establishing rates, the commission shall consider various formulas, 
+19
+including, but not limited to, the formula adopted by the Federal Communications 
+20
+Commission as codified in 47 Code of Federal Regulations, Part 1, Subpart J, as amended.  
+21
+Rules adopted or amended pursuant to this subsection are routine technical rules as defined 
+22
+in Title 5, chapter 375, subchapter 2‑A.
+23
+Sec. 9.  35-A MRSA §2503, sub-§2, as amended by PL 2019, c. 625, §4, is further 
+24
+amended to read:
+25
+2.  Notice.  The applicant may give public notice of the application by publishing its 
+26
+description of the proposed facility once in a newspaper circulated in the municipality or 
+27
+municipalities encompassing the limits of the proposed location.  The applicant shall send 
+28
+a copy of any application filed with the Department of Transportation to the municipal 
+29
+clerk of each municipality in which the facilities are located, or to the clerk of the county 
+30
+commissioners in the case of facilities within an unorganized township, except that the 
+31
+applicant may, without publication of its application, place its facility described in its 
+32
+application on receipt of a permit from the licensing authority as may be otherwise 
+33
+provided.  If a proposed facility is located underground and is in excess of 500 feet in 
+34
+length, the applicant shall, within 5 business days of submitting an application to the 
+35
+applicable licensing authority, provide the ConnectMaine Authority established in Title 5, 
+36
+section 12004‑G, subsection 33‑F a notice that includes a description and the location of 
+37
+the proposed facility.
+38
+Sec. 10.  35-A MRSA §2524, sub-§1, ¶C, as enacted by PL 2019, c. 127, §1, is 
+39
+repealed.
+40
+Sec. 11.  35-A MRSA §2524, sub-§2, ¶A, as enacted by PL 2019, c. 127, §1, is 
+41
+amended to read:
+42
+A.  For a governmental purpose consistent with the police power of the municipality; 
+43
+or.
+1
+2
+3
+
+Page 3 - 132LR1304(01)
+1
+Sec. 12.  35-A MRSA §2524, sub-§2, ¶B, as enacted by PL 2019, c. 127, §1, is 
+2
+repealed.
+3
+Sec. 13.  35-A MRSA §7104-B, sub-§5, ¶I, as amended by PL 2019, c. 625, §5, 
+4
+is further amended to read:
+5
+I.  To provide, within existing resources, support for qualified libraries in rural areas of 
+6
+the State with greatest need, as determined in consultation with the State Librarian, and 
+7
+the Commissioner of Education and the ConnectMaine Authority, to offer portable 
+8
+wireless access points, or hotspots, for mobile Internet access.
+9
+Sec. 14.  35-A MRSA c. 93, as amended, is repealed.
+10
+SUMMARY
+11
+This bill repeals the Advanced Technology Infrastructure Act, which is codified as the 
+12
+Maine Revised Statutes, Title 35-A, chapter 93.  Repeal of this chapter eliminates the state 
+13
+broadband policy, the ConnectMaine Authority, the ConnectMaine Fund and the Municipal 
+14
+Gigabit Broadband Network Access Fund.  The bill removes cross-references to the 
+15
+repealed provisions.
+11
+12
+13
+14
+15

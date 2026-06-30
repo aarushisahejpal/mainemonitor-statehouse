@@ -1,0 +1,73 @@
+{
+  "ld": 608,
+  "paper": "HP0376",
+  "paper_display": "HP 376",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096678",
+  "title": "An Act Making Certain Supplemental Appropriations and Allocations and Changing Certain Provisions of Law Necessary to the Proper Operations of State Government",
+  "committee": "Appropriations and Financial Affairs",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Apr 29, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/29/2026 - The Bill was in the possession of the Committee on Appropriations and Financial Affairs when the Legislature adjourned Sine Die and was placed in the Legislative Files. ( DEAD )",
+  "last_senate_action": "None",
+  "sponsors": [
+    {
+      "name": "Drew GATTINE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "GENERAL FUND",
+      "minor": "SUPPLEMENTAL",
+      "detail": "FY24-25"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "date_raw": "2/20/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on February 20, 2025. The Bill was REFERRED to the Committee on APPROPRIATIONS AND FINANCIAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-04-29",
+      "date_raw": "4/29/2026",
+      "chamber": "House",
+      "description": "The Bill was in the possession of the Committee on Appropriations and Financial Affairs when the Legislature adjourned Sine Die and was placed in the Legislative Files. ( DEAD )"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0376&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0376",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0376&SessionID=16",
+  "scraped_at": "2026-06-30T18:18:20Z"
+}

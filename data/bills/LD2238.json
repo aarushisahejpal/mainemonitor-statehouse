@@ -1,0 +1,90 @@
+{
+  "ld": 2238,
+  "paper": "HP1513",
+  "paper_display": "HP 1513",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280102008",
+  "title": "Resolve, Regarding Legislative Review of Chapter 348: Exemption for On-farm Raising, Slaughter, and Processing of Less than 1,000 Ready-to-cook Whole Poultry, a Late-filed Major Substantive Rule of the Department of Agriculture, Conservation and Forestry",
+  "committee": "Agriculture, Conservation and Forestry",
+  "status_summary": "",
+  "final_disposition": "Emergency Finally Passed, Apr 13, 2026",
+  "governor_action": "Emergency Signed, Apr 13, 2026",
+  "chaptered_law": "RESLV, Chapter 159",
+  "chapter": "159",
+  "became_law": true,
+  "last_house_action": "4/2/2026 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/6/2026 - FINALLY PASSED - Emergency - 2/3 Elected Required, in concurrence.",
+  "sponsors": [
+    {
+      "name": "William PLUECKER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Warren"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "AGRICULTURE, CONSERVATION AND FORE",
+      "minor": "RULES",
+      "detail": "POULTRY FARMING AND SLAUGHTER"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "House",
+      "description": "Representative PLUECKER for the Department of Agriculture, Conservation and Forestry pursuant to the Maine Revised Statutes, Title 5, section 8072 and approved for introduction by a majority of the Legislative Council, reports that the Resolve be REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY and ordered printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Resolve was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY and ordered printed pursuant to Joint Rule 218. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. On motion by Senator Talbot Ross of Cumberland REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY and ordered printed pursuant to Joint Rule 218, in concurrence."
+    },
+    {
+      "date": "2026-03-30",
+      "date_raw": "3/30/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Resolve was PASSED TO BE ENGROSSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED, in concurrence. READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED - Emergency - 2/3 Elected Required, in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1513&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1513&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1513",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1513&SessionID=16",
+  "scraped_at": "2026-06-30T20:24:42Z"
+}

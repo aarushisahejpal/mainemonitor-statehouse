@@ -1,0 +1,260 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2115
+H.P. 1430
+House of Representatives, January 7, 2026
+An Act to Protect Private Wells from Hazardous Substances
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ANKELES of Brunswick.
+Cosponsored by Representatives: ARFORD of Brunswick, GOLEK of Harpswell, Senators: 
+President DAUGHTRY of Cumberland, INGWERSEN of York, TEPLER of Sagadahoc.
+
+Page 1 - 132LR2820(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  38 MRSA §1310-B-1, as amended by PL 2021, c. 641, §§6 to 8, is further 
+3
+amended to read:
+4
+§1310-B-1.  Land Application Contaminant Monitoring Well Contamination 
+5
+Response Fund
+6
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+7
+following terms have the following meanings.
+8
+A.  "Fund" means the Land Application Contaminant Monitoring Well Contamination 
+9
+Response Fund under subsection 2.
+10
+B.  "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" has the same meaning 
+11
+as in Title 32 38, section 1732 1614, subsection 5‑A 1, paragraph F.
+12
+2.  Land Application Contaminant Monitoring Well Contamination Response 
+13
+Fund.  The Land Application Contaminant Monitoring Well Contamination Response 
+14
+Fund is established to be used by the department as a nonlapsing, revolving fund to test and 
+15
+monitor soil and groundwater private drinking water wells for PFAS and other 
+16
+contaminants and for other related activities, including, but not limited to, abating, 
+17
+remediating or mitigating identified contamination and the effects of such contamination 
+18
+through the provision of access to safe drinking water, the installation and maintenance of 
+19
+filter treatment systems, connection to local water district networks, the provision of bottled 
+20
+drinking water or other actions.
+21
+A.  The fund may accept revenue from any source, public or private, that may be 
+22
+available for carrying out the purposes of the fund.  The department shall deposit with 
+23
+the Treasurer of State to the credit of the fund money in the fund not currently needed 
+24
+by the department to carry out the purposes of the fund, which may be invested as 
+25
+provided by law.  Interest earned on investment of money under this paragraph must 
+26
+be credited to the fund.
+27
+B.  The department may transfer money in the fund in excess of the amounts the 
+28
+department anticipates to be necessary to carry out the purposes of the fund to the 
+29
+Uncontrolled Sites Fund under section 1364, subsection 6 for the purposes of testing, 
+30
+monitoring or treating land contaminated by PFAS.
+31
+C.  Beginning January 15, 2023 2027, and every 2 years thereafter, the department shall 
+32
+submit a report to the joint standing committee of the Legislature having jurisdiction 
+33
+over environment and natural resources matters regarding the uses of the fund and a 
+34
+summary of contamination identified.  After reviewing the report, the joint standing 
+35
+committee may report out legislation related to the report.
+36
+4.  Rules.  The board may adopt rules necessary for the administration of the fund and 
+37
+any underlying program or purpose under or funded by the fund.  Rules adopted by the 
+38
+board must include provisions for determining the eligibility of private drinking water wells 
+39
+impacted by hazardous substances, including PFAS, for funding for testing, remediation, 
+40
+the installation and maintenance of filter treatment systems, connection to local water 
+41
+district networks and the provision of bottled drinking water regardless of when the testing, 
+42
+remediation, installation or maintenance, connection or provision occurred.  Under the 
+43
+rules, funding appropriated for private drinking water wells must be prioritized based on 
+
+Page 2 - 132LR2820(01)
+44
+the proximity of the well to a discharge of a hazardous substance or landfill leachate or to 
+45
+the spreading of sludge.  Rules adopted pursuant to this subsection are routine technical 
+46
+rules as defined in Title 5, chapter 375, subchapter 2‑A.
+4
+Sec. 2.  Appropriations and allocations.  The following appropriations and 
+5
+allocations are made.
+6
+ENVIRONMENTAL PROTECTION, DEPARTMENT OF
+7
+Land Application Contaminant Monitoring Fund Z325
+8
+Initiative: Transfers funding in the Land Application Contaminant Monitoring Fund within 
+9
+the Department of Environmental Protection to the newly created Well Contamination 
+10
+Response Fund in the same department to reflect a change in fund name.
+OTHER SPECIAL REVENUE FUNDS
+2025-26
+2026-27
+All Other
+($500)
+($500)
+ 
+__________
+__________
+OTHER SPECIAL REVENUE FUNDS TOTAL
+($500)
+($500)
+11
+Well Contamination Response Fund N560
+16
+Initiative: Transfers funding in the Land Application Contaminant Monitoring Fund within 
+17
+the Department of Environmental Protection to the newly created Well Contamination 
+18
+Response Fund in the same department to reflect a change in fund name.
+OTHER SPECIAL REVENUE FUNDS
+2025-26
+2026-27
+All Other
+$500
+$500
+ 
+__________
+__________
+OTHER SPECIAL REVENUE FUNDS TOTAL
+$500
+$500
+19
+Well Contamination Response Fund N560
+24
+Initiative: Provides funding for private drinking water wells impacted by hazardous 
+25
+substances, including perfluoroalkyl and polyfluoroalkyl substances. Funding may be used 
+26
+for testing, remediation, the installation and maintenance of filter treatment systems, 
+27
+connection to local water district networks and the provision of bottled drinking water.
+GENERAL FUND
+2025-26
+2026-27
+All Other
+$0
+$1,000,000
+ 
+__________
+__________
+GENERAL FUND TOTAL
+$0
+$1,000,000
+28
+ 
+ENVIRONMENTAL PROTECTION, 
+DEPARTMENT OF
+ 
+ 
+DEPARTMENT TOTALS
+2025-26
+2026-27
+ 
+ 
+ 
+GENERAL FUND
+$0
+$1,000,000
+OTHER SPECIAL REVENUE FUNDS
+$0
+$0
+ 
+__________
+__________
+DEPARTMENT TOTAL - ALL FUNDS
+$0
+$1,000,000
+1
+2
+3
+11
+12
+13
+14
+15
+19
+20
+21
+22
+23
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+
+Page 3 - 132LR2820(01)
+1
+SUMMARY
+2
+This bill changes the name of the Land Application Contaminant Monitoring Fund to 
+3
+the Well Contamination Response Fund and changes the activities for which funding may 
+4
+be used. It provides funding for private drinking water wells impacted by hazardous 
+5
+substances, including perfluoroalkyl and polyfluoroalkyl substances. Funding may be used 
+6
+for testing, remediation, the installation and maintenance of filter treatment systems, 
+7
+connection to local water district networks and the provision of bottled drinking water.  The 
+8
+bill also directs the Department of Environmental Protection to determine eligibility 
+9
+requirements for the funding through rulemaking.
+1
+2
+3
+4
+5
+6
+7
+8
+9

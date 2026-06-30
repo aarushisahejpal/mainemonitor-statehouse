@@ -1,0 +1,68 @@
+{
+  "ld": 237,
+  "paper": "SP0103",
+  "paper_display": "SP 103",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095841",
+  "title": "An Act to Increase the Percentage of Funds Provided to Municipalities Through State-Municipal Revenue Sharing",
+  "committee": "Taxation",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "None",
+  "last_senate_action": "3/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Joseph BALDACCI",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    },
+    {
+      "name": "Nicole GROHOSKI",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Hancock"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "REVENUE SHARING",
+      "minor": "DISTRIBUTION",
+      "detail": "INCREASED"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "date_raw": "1/16/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on January 16, 2025 and REFERRED to the Committee on TAXATION pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0103&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0103",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0103&SessionID=16",
+  "scraped_at": "2026-06-30T17:48:01Z"
+}

@@ -1,0 +1,132 @@
+{
+  "ld": 946,
+  "paper": "HP0611",
+  "paper_display": "HP 611",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097224",
+  "title": "Resolve, to Increase Access to Energy Efficiency Programs by Low-income and Moderate-income Residents",
+  "committee": "Energy, Utilities and Technology",
+  "status_summary": "",
+  "final_disposition": "Finally Passed, Jun 9, 2025",
+  "governor_action": "Signed, Jun 9, 2025",
+  "chaptered_law": "RESLV, Chapter 53",
+  "chapter": "53",
+  "became_law": true,
+  "last_house_action": "6/2/2025 - FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/2/2025 - FINALLY PASSED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Sophia WARREN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Scarborough"
+    },
+    {
+      "name": "Daniel ANKELES",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Brunswick"
+    },
+    {
+      "name": "Cheryl GOLEK",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Harpswell"
+    },
+    {
+      "name": "Rachel TALBOT ROSS",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Michael TIPPING",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Penobscot"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HOUSING",
+      "minor": "ASSISTANCE",
+      "detail": "ENERGY ASSISTANCE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-05",
+      "date_raw": "3/5/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on March 5, 2025. The Resolve was REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SACHS of Freeport, the Majority Ought to Pass as Amended Report was ACCEPTED . The Resolve was READ ONCE . Committee Amendment \"A\" (H-291) was READ and ADOPTED . Under suspension of the rules, the Resolve was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Resolve was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-291) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator LAWRENCE of York the Majority Ought to Pass as Amended Report ACCEPTED . Bill READ ONCE. Committee Amendment \"A\" (H-291) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-291) in concurrence."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "House",
+      "description": "FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-291 )",
+      "new_title": "",
+      "house_action": "Adopted on 5/28/2025",
+      "senate_action": "Adopted on 5/29/2025",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0611&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0611&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0611&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0611",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0611&SessionID=16",
+  "scraped_at": "2026-06-30T18:43:53Z"
+}

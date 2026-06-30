@@ -1,0 +1,159 @@
+{
+  "ld": 2096,
+  "paper": "HP1411",
+  "paper_display": "HP 1411",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101158",
+  "title": "An Act Regarding Scheduling of Agricultural Fairs and Pulling Events",
+  "committee": "Agriculture, Conservation and Forestry",
+  "status_summary": "",
+  "final_disposition": "Emergency Enacted, Mar 23, 2026",
+  "governor_action": "Emergency Signed, Mar 23, 2026",
+  "chaptered_law": "ACTPUB, Chapter 582",
+  "chapter": "582",
+  "became_law": true,
+  "last_house_action": "3/17/2026 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/18/2026 - PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence.",
+  "sponsors": [
+    {
+      "name": "Christina MITCHELL",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Mark COOPER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Windham"
+    },
+    {
+      "name": "Sharon FROST",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Belgrade"
+    },
+    {
+      "name": "Timothy GUERRETTE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Caribou"
+    },
+    {
+      "name": "Caldwell JACKSON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Oxford"
+    },
+    {
+      "name": "Teresa PIERCE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Parnell TERRY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Gorham"
+    },
+    {
+      "name": "Jeffrey TIMBERLAKE",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Androscoggin"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "FAIRS",
+      "minor": "AGRICULTURAL",
+      "detail": "DATES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "date_raw": "1/7/2026",
+      "chamber": "House",
+      "description": "Committee on Agriculture, Conservation and Forestry suggested and ordered printed. The Bill was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-01-07",
+      "date_raw": "1/7/2026",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY in concurrence"
+    },
+    {
+      "date": "2026-03-05",
+      "date_raw": "3/5/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-823) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-10",
+      "date_raw": "3/10/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED. Bill READ ONCE. Committee Amendment \"A\" (H-823) READ and ADOPTED. ASSIGNED FOR SECOND READING NEXT LEGISLATIVE DAY."
+    },
+    {
+      "date": "2026-03-12",
+      "date_raw": "3/12/2026",
+      "chamber": "Senate",
+      "description": "COMMITTEE ON BILLS IN THE SECOND READING REPORTS NO FURTHER VERBAL AMENDMENTS NECESSARY. REPORT ACCEPTED. READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-823) , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-18",
+      "date_raw": "3/18/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-823 )",
+      "new_title": "",
+      "house_action": "Adopted on 3/5/2026",
+      "senate_action": "Adopted on 3/10/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1411&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1411&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1411&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1411",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1411&SessionID=16",
+  "scraped_at": "2026-06-30T20:12:57Z"
+}

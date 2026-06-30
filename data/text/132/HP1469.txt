@@ -1,0 +1,806 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2188
+H.P. 1469
+House of Representatives, February 3, 2026
+An Act to Amend Certain State Tax Laws
+Submitted by the Department of Administrative and Financial Services pursuant to Joint 
+Rule 203.
+Reference to the Committee on Taxation suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SAYRE of Kennebunk.
+
+Page 1 - 132LR2671(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+PART A
+3
+Sec. A-1.  36 MRSA §5122, sub-§1, ¶KK, as enacted by PL 2015, c. 388, Pt. A, 
+4
+§5, is amended to read:
+5
+KK.  For taxable years beginning on or after January 1, 2015 but before January 1, 
+6
+2025:
+7
+(1)  An amount equal to the net increase in depreciation attributable to the 
+8
+depreciation deduction claimed by the taxpayer under the Code, Section 168(k) 
+9
+with respect to property placed in service in the State during the taxable year for 
+10
+which a credit is claimed under section 5219‑NN for that taxable year; and
+11
+(2)  An amount equal to the net increase in depreciation attributable to the 
+12
+depreciation deduction claimed by the taxpayer under the Code, Section 168(k) 
+13
+with respect to property for which a credit is not claimed under section 5219‑NN.
+14
+Sec. A-2.  36 MRSA §5122, sub-§1, ¶QQ is enacted to read:
+15
+QQ.  For taxable years beginning on or after January 1, 2025, an amount equal to the 
+16
+net increase in depreciation attributable to the depreciation deduction claimed by the 
+17
+taxpayer under the Code, Section 168(k).
+18
+Sec. A-3.  36 MRSA §5122, sub-§2, ¶M-3, as corrected by RR 2025, c. 1, Pt. A, 
+19
+§55, is amended to read:
+20
+M-3.  For tax years beginning on or after January 1, 2025, the amount in paragraph 
+21
+M‑2, subparagraph (1), division (a) must be reduced by an amount equal to the total 
+22
+amount in paragraph M‑2, subparagraph (1), division (a) multiplied by a fraction, the 
+23
+numerator of which is the taxpayer's federal adjusted gross income less the applicable 
+24
+amount, except that the numerator may not be less than zero, and the denominator of 
+25
+which is $100,000, except for tax years beginning in 2025 only, the denominator is 
+26
+$50,000 in the case of a married individual filing a separate return and $100,000 in all 
+27
+other filing cases.  The fraction contained in this paragraph may not produce a result 
+28
+that is more than one.  The applicable amount must be adjusted for inflation in 
+29
+accordance with section 5403, subsection 11.
+30
+For purposes of this paragraph, "applicable amount" means:
+31
+(1)  For individuals filing as single individuals and for married individuals filing 
+32
+separate returns, $125,000;
+33
+(2)  For individuals filing as heads of households, $187,500; or
+34
+(3)  For individuals filing married joint returns or as surviving spouses, $250,000; 
+35
+or
+36
+(4)  For married individuals filing separate returns, 1/2 of the applicable amount 
+37
+under subparagraph (3);
+38
+Sec. A-4.  36 MRSA §5122, sub-§2, ¶RR, as enacted by PL 2019, c. 527, Pt. A, 
+39
+§2 and reallocated by RR 2019, c. 1, Pt. A, §70, is amended to read:
+
+Page 2 - 132LR2671(01)
+1
+RR.  For taxable years beginning on or after January 1, 2020, an amount equal to the 
+2
+net increase in the depreciation deduction allowable under the Code, Sections 167 and 
+3
+168 that would have been applicable to that property had the depreciation deduction 
+4
+under the Code, Section 168(k) not been claimed with respect to such property placed 
+5
+in service during the taxable year beginning on or after January 1, 2020 for which an 
+6
+addition was required under subsection 1, paragraph KK and, for taxable years 
+7
+beginning on or after January 1, 2025, under subsection 1, paragraph QQ for the taxable 
+8
+year.
+9
+Upon the taxable disposition of property to which this paragraph applies, the amount 
+10
+of any gain or loss includable in federal adjusted gross income must be adjusted for 
+11
+Maine income tax purposes by an amount equal to the difference between the addition 
+12
+modification for such property under subsection 1, paragraph paragraphs KK and QQ 
+13
+and the subtraction modifications allowed pursuant to this paragraph.
+14
+The total amount of subtraction claimed under this paragraph for all tax years may not 
+15
+exceed the addition modification under subsection 1, paragraph KK for taxable years 
+16
+beginning on or after January 1, 2020 and, for taxable years beginning on or after 
+17
+January 1, 2025, under subsection 1, paragraph QQ for the same property.
+18
+Sec. A-5.  36 MRSA §5200-A, sub-§1, ¶CC, as enacted by PL 2015, c. 388, Pt. 
+19
+A, §11, is amended to read:
+20
+CC.  For taxable years beginning on or after January 1, 2015 but before January 1, 
+21
+2025:
+22
+(1)  An amount equal to the net increase in depreciation attributable to the 
+23
+depreciation deduction claimed by the taxpayer under the Code, Section 168(k) 
+24
+with respect to property placed in service in the State during the taxable year for 
+25
+which a credit is claimed under section 5219‑NN for that taxable year; and
+26
+(2)  An amount equal to the net increase in depreciation attributable to the 
+27
+depreciation deduction claimed by the taxpayer under the Code, Section 168(k) 
+28
+with respect to property for which a credit is not claimed under section 5219‑NN.
+29
+Sec. A-6.  36 MRSA §5200-A, sub-§1, ¶II is enacted to read:
+30
+II.  For taxable years beginning on or after January 1, 2025, an amount equal to the net 
+31
+increase in depreciation attributable to the depreciation deduction claimed by the 
+32
+taxpayer under the Code, Section 168(k).
+33
+Sec. A-7.  36 MRSA §5200-A, sub-§2, ¶FF, as enacted by PL 2019, c. 527, Pt. A, 
+34
+§4, is amended to read:
+35
+FF.  For taxable years beginning on or after January 1, 2020, an amount equal to the 
+36
+net increase in the depreciation deduction allowable under the Code, Sections 167 and 
+37
+168 that would have been applicable to that property had the depreciation deduction 
+38
+under the Code, Section 168(k) not been claimed with respect to such property placed 
+39
+in service during the taxable year beginning on or after January 1, 2020 for which an 
+40
+addition was required under subsection 1, paragraph CC and, for taxable years 
+41
+beginning on or after January 1, 2025, under subsection 1, paragraph II for the taxable 
+42
+year.
+
+Page 3 - 132LR2671(01)
+1
+Upon the taxable disposition of property to which this paragraph applies, the amount 
+2
+of any gain or loss includable in federal taxable income must be adjusted for Maine 
+3
+income tax purposes by an amount equal to the difference between the addition 
+4
+modification for such property under subsection 1, paragraph paragraphs CC and II and 
+5
+the subtraction modifications allowed pursuant to this paragraph.
+6
+The total amount of subtraction claimed under this paragraph for all tax years may not 
+7
+exceed the addition modification under subsection 1, paragraph CC for taxable years 
+8
+beginning on or after January 1, 2020 and, for taxable years beginning on or after 
+9
+January 1, 2025, under subsection 1, paragraph II for the same property.
+10
+Sec. A-8.  36 MRSA §5295, sub-§4, ¶B, as enacted by PL 2025, c. 336, §2, is 
+11
+amended to read:
+12
+B.  Explain that a taxpayer may choose to wait for the enactment by the Legislature of 
+13
+legislation that addresses federal income tax law changes by filing under extension 
+14
+pursuant to section 5231, subsection 4;
+15
+PART B
+16
+Sec. B-1.  36 MRSA §1760, sub-§5-A, as repealed and replaced by PL 2017, c. 
+17
+170, Pt. C, §4 and affected by §9, is amended to read:
+18
+5-A.  Prosthetic or orthotic devices.  Sales of:
+19
+A.  Prosthetic or orthotic devices sold by means of an order issued by a health care 
+20
+practitioner as defined in Title 24, section 2502, subsection 1‑A who is licensed under 
+21
+Title 32; and.
+22
+B.  Crutches and wheelchairs for the use of sick, injured or disabled persons and not 
+23
+for rental.
+24
+Sec. B-2.  36 MRSA §1760, sub-§58, as amended by PL 2003, c. 588, §8, is 
+25
+repealed.
+26
+Sec. B-3.  36 MRSA §1760, sub-§74, ¶A, as enacted by PL 2007, c. 438, §46, is 
+27
+amended to read:
+28
+A.  Tangible personal property that becomes an ingredient or component part of 
+29
+tangible personal property produced for later sale or lease, other than lease for use in 
+30
+this State, or that becomes an ingredient or component part of tangible personal 
+31
+property produced pursuant to a contract with the Federal Government or an agency of 
+32
+the Federal Government; and
+33
+Sec. B-4.  36 MRSA §1760, sub-§74, ¶B, as enacted by PL 2007, c. 438, §46, is 
+34
+amended to read:
+35
+B.  Tangible personal property, other than fuel or electricity, that is consumed or 
+36
+destroyed or loses its identity directly and primarily in the production of tangible 
+37
+personal property for later sale or lease, other than lease for use in this State, or that is 
+38
+consumed or destroyed or loses its identity directly and primarily in the production of 
+39
+tangible personal property produced pursuant to a contract with the Federal 
+40
+Government or an agency of the Federal Government.
+
+Page 4 - 132LR2671(01)
+1
+Sec. B-5.  36 MRSA §4403, sub-§1, as amended by PL 2025, c. 388, Pt. E, §5 and 
+2
+affected by §6, is further amended to read:
+3
+1.  Smokeless tobacco products before January 5, 2026.  Before January 5, 2026, a 
+4
+tax is imposed on smokeless tobacco products, including chewing tobacco and snuff, at the 
+5
+rate of:
+6
+A.  On amounts of smokeless tobacco products packaged for sale to the consumer in a 
+7
+package that contains one ounce or more of smokeless tobacco products, $2.02 per 
+8
+ounce and prorated; and
+9
+B.  On smokeless tobacco products packaged for sale to the consumer in a package that 
+10
+contains less than one ounce of smokeless tobacco products, $2.02 per package.
+11
+Beginning January 2, 2020, the tax rates in this subsection are subject to adjustment 
+12
+pursuant to subsection 5.
+13
+Sec. B-6.  36 MRSA §4403, sub-§1-A, as enacted by PL 2025, c. 388, Pt. E, §5 
+14
+and affected by §6, is amended to read:
+15
+1-A.  Smokeless tobacco products on or after January 5, 2026.  Beginning January 
+16
+5, 2026, a tax is imposed on smokeless tobacco products, including chewing tobacco and 
+17
+snuff, at the rate of:
+18
+A.  On amounts of smokeless tobacco products packaged for sale to the consumer in a 
+19
+package that contains one ounce or more of smokeless tobacco products, $3.54 per 
+20
+ounce and prorated; and
+21
+B.  On smokeless tobacco products packaged for sale to the consumer in a package that 
+22
+contains less than one ounce of smokeless tobacco products, $3.54 per package.
+23
+The tax rates in this subsection are subject to adjustment pursuant to subsection 5.
+24
+PART C
+25
+Sec. C-1.  36 MRSA §502, first ¶, as amended by PL 1997, c. 216, §1, is further 
+26
+amended to read:
+27
+All real estate within the State, all personal property of residents of the State and all 
+28
+personal property within the State of persons not residents of the State is subject to taxation 
+29
+on the first day of each April as provided; and the status of all taxpayers and of such taxable 
+30
+property must be fixed as of that date.  Upon receipt of a declaration of value under section 
+31
+4641‑D reflecting a change of ownership in real property, the assessor may change the 
+32
+records of the municipality to reflect the identity of the new owner, if notice of tax liabilities 
+33
+is sent both to the new owner and to the owner of record as of the April 1st when the liability 
+34
+accrued.  The taxable year is from April 1st to April 1st March 31st. Notwithstanding this 
+35
+section, proration of taxes must be over the period specified in section 558.
+36
+Sec. C-2.  36 MRSA §943, 4th ¶, as enacted by PL 2025, c. 351, §1, is amended to 
+37
+read:
+38
+If the party named on the tax lien mortgage has sold or otherwise conveyed the property 
+39
+to another person and provides proof of payment of that party's own pro rata share of taxes 
+40
+due, the municipal treasurer or the treasurer's designee of record shall prepare and record, 
+41
+upon request from the party named on the tax lien mortgage, a discharge of the tax lien 
+42
+mortgage against that party in the same manner as is now provided for the discharge of real 
+
+Page 5 - 132LR2671(01)
+43
+estate mortgages, except that a facsimile signature of the treasurer or treasurer's assignee 
+44
+may be used.  The discharge under this paragraph is only for the seller certificate that names 
+45
+that party and states that the party has paid that party's own pro rata share of the taxes owed 
+46
+and does not owe property taxes in connection with the tax lien mortgage.  The discharge 
+47
+of the tax lien must include a statement that the assignee, following the release of the 
+48
+property, did not owe property taxes as to the released property.  The assignee of the 
+49
+discharge party requesting the certificate is responsible for the cost of recording the 
+50
+discharge certificate.  The assignee of the discharge must be limited to the seller Only a 
+51
+party named on the tax lien mortgage who has sold or otherwise disposed of the property 
+52
+that is the subject of the tax lien mortgage may request a certificate prepared and recorded 
+53
+under this paragraph.
+12
+Sec. C-3.  36 MRSA §948, first ¶ is amended to read:
+13
+When taxes are assessed under section 713, the lien upon real estate shall must be 
+14
+enforced as provided in sections 941 to 943 according to the procedures provided in this 
+15
+subchapter; except that if real estate shall have has been transferred to a bona fide purchaser 
+16
+for value since the assessment was omitted or invalidly made with the transfer duly 
+17
+recorded, prior to the date of the supplemental assessment, the lien shall terminate 
+18
+terminates.
+19
+Sec. C-4.  36 MRSA §949, as enacted by PL 2015, c. 53, §1, is repealed.
+20
+Sec. C-5.  36 MRSA §1281, first ¶, as amended by PL 2023, c. 579, §2, is further 
+21
+amended to read:
+22
+Annually, after January 15th but no later than January 31st, the State Tax Assessor 
+23
+shall send by mail to the last known address of each owner of real estate subject to 
+24
+assessment under section 1602, including supplementary taxes assessed under section 
+25
+1331, upon which taxes remain unpaid a notice in writing, containing a description of the 
+26
+real estate assessed and the amount of unpaid taxes and interest, and alleging that a lien is 
+27
+claimed on that real estate for payment of those taxes, interests and costs, with a demand 
+28
+that payment be made by the next February 21st.  For property that constitutes a homestead 
+29
+for which a property tax exemption is claimed under chapter 105, subchapter 4‑B, the State 
+30
+Tax Assessor shall include in the written notice written notice to the owner named on the 
+31
+tax lien mortgage that that owner may be eligible to file an application for tax abatement 
+32
+under section 841, subsection 2, indicating that the State Tax Assessor, upon request, will 
+33
+assist the owner in requesting an abatement and provide information regarding the 
+34
+procedures for making such a request.  The notice must also indicate that the owner may 
+35
+seek assistance from an advisor who can help the owner work with the State Tax Assessor 
+36
+to avoid tax lien foreclosure and provide information regarding ways to contact sources of 
+37
+assistance including legal services providers described in Title 4, section 18‑A, subsection 
+38
+1, paragraph B.  The Department of Professional and Financial Regulation, Bureau of 
+39
+Consumer Credit Protection, by July 15th annually, shall post on a publicly accessible 
+40
+website information on accessing sources of assistance, and that information may be used 
+41
+by the State Tax Assessor in providing the information required in the notice. Before 
+42
+posting this information, the bureau shall consider input, if any, received from legal 
+43
+services providers, counselors and state and federal agencies involved in foreclosure 
+44
+prevention matters. If the owners of any such real estate are unknown, instead of sending 
+45
+the notices by mail, the assessor shall cause the information required in this section on that 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+Page 6 - 132LR2671(01)
+46
+real estate to be advertised in the state paper and in a newspaper, if any, of general 
+47
+circulation in the county in which the real estate lies.  Such a statement or advertisement is 
+48
+sufficient legal notice of delinquent taxes. If those taxes and interest to date of payment and 
+49
+costs are not paid by February 21st, the State Tax Assessor shall record by March 15th, in 
+50
+the registry of deeds of the county or registry district where the real estate lies, a certificate 
+51
+signed by the assessor, setting forth the name or names of the owners according to the last 
+52
+state valuation, or the valuation established in accordance with section 1331; the 
+53
+description of the real estate assessed as contained in the last state valuation, or the 
+54
+valuation established in accordance with section 1331; the amount of unpaid taxes and 
+55
+interest; the amount of costs; and a statement that demand for payment of those taxes has 
+56
+been made, and that those taxes, interest and costs remain unpaid.  The costs charged by 
+57
+the register of deeds for the filing may not exceed the fees established by Title 33, section 
+58
+751.
+14
+Sec. C-6.  36 MRSA §1283, as amended by PL 2017, c. 375, Pt. F, §§2 and 3 and 
+15
+affected by §4, is further amended to read:
+16
+§1283.  Supervision, administration and sale of real estate
+17
+A copy of the lien certificate shall must be filed in the office of the State Tax Assessor. 
+18
+On the 30th day of March annually, whenever the State shall have has acquired title to real 
+19
+estate assessed for any taxes assessed under chapter 115, the State Tax Assessor shall 
+20
+certify to the State Controller the amount of unpaid taxes, interest and costs then 
+21
+outstanding. Unpaid taxes and interest and costs on the books of the State shall must be 
+22
+charged against the Unorganized Territory Education and Services Fund.
+23
+Whenever the State acquires title to real estate under this subchapter, except real estate 
+24
+that is a permanent residence, as defined in section 681, the State Tax Assessor shall cause 
+25
+an inventory to be made of all the real estate.  The inventory must contain a description of 
+26
+the real estate, amount of accrued taxes by years and any other information necessary in 
+27
+the administration and supervision of the real estate.  A copy of the inventory must be 
+28
+furnished to the Commissioner of Agriculture, Conservation and Forestry and the 
+29
+Commissioner of Inland Fisheries and Wildlife prior to the convening of the Legislature.  
+30
+The assessor State Tax Assessor shall report annually to the Legislature not later than 15 
+31
+days after it convenes.  The report must contain a copy of the inventory of real estate then 
+32
+owned by the State and such recommendations as to the disposition of this real estate the 
+33
+assessor State Tax Assessor, the Commissioner of Agriculture, Conservation and Forestry 
+34
+and the Commissioner of Inland Fisheries and Wildlife may wish to make.  Whenever the 
+35
+State acquires title to real estate that is a permanent residence, as defined in section 681, 
+36
+the State Tax Assessor may cause an inventory to be made of that real estate; that inventory 
+37
+must comply with the requirements of this paragraph.
+38
+The State Tax Assessor shall, after authorization by the Legislature, sell and convey 
+39
+any such real estate upon which a tax lien mortgage has been foreclosed pursuant to this 
+40
+chapter; but shall in all cases of sales, except sales to the former owners of the real estate, 
+41
+give public notice of the proposal to sell such real estate and shall ask for competitive bids 
+42
+and shall sell to the highest bidder, with the right of rejecting all bids using the sale process 
+43
+provided under section 943-C.  Sales of such real estate or any stumpage on that real estate 
+44
+may not be made by the State Tax Assessor except by authorization of the Legislature.  
+45
+Notwithstanding any provisions of this chapter to the contrary, if the State Tax Assessor 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+Page 7 - 132LR2671(01)
+46
+has not yet conveyed such real estate, the State Tax Assessor may convey the real estate to 
+47
+the prior owner under the authorization of this section if the tax, interest and costs are 
+48
+satisfied by way of full payment, compromise or abatement.
+4
+The supervision, administration, utilization and vindication of the rights of the State in 
+5
+such real estate shall be are vested in the State Tax Assessor until title is conveyed or 
+6
+otherwise disposed of by the Legislature.
+7
+All money received from the sale or use of such real estate shall be credited to the 
+8
+Unorganized Territory Education and Services Fund.
+9
+This section shall apply applies to real estate acquired through tax sales and owned by 
+10
+the State.
+11
+Sec. C-7.  36 MRSA §2723-A, sub-§5-A, as amended by PL 1997, c. 24, Pt. C, 
+12
+§6, is further amended to read:
+13
+5-A.  Computing tax.  This amount must be multiplied by 40% and the sum product 
+14
+must then be divided by the total number of adjusted acres of commercial forest land, 
+15
+rounded to the nearest 1/10 of a cent and multiplied by the number of adjusted acres of 
+16
+commercial forest land owned by each taxpayer to determine the amount of tax for which 
+17
+each owner of commercial forest land is liable.
+18
+Sec. C-8.  36 MRSA §6252, sub-§2, as amended by PL 2021, c. 483, Pt. AA, §7 
+19
+and affected by §21, is further amended to read:
+20
+2.  Fee simple estate.  The individual claiming a deferral must, solely or together with 
+21
+the individual's spouse, own the fee simple estate or be purchasing the fee simple estate 
+22
+under a recorded instrument of sale, or 2 or more individuals must together own or be 
+23
+purchasing the fee simple estate with rights of survivorship under a recorded instrument of 
+24
+sale if all owners live in the homestead. For purposes of this subsection, property held in a 
+25
+revocable living trust for the benefit of the taxpayer is deemed to be a fee simple estate 
+26
+owned by the taxpayer.
+27
+Sec. C-9.  36 MRSA §6254, sub-§2-B, as enacted by PL 1989, c. 713, §4, is 
+28
+amended to read:
+29
+2-B.  Sale; legislative authorization.  After authorization by the Legislature, the State 
+30
+Tax Assessor shall, sell or convey any such real estate upon which a tax lien mortgage has 
+31
+been foreclosed pursuant to this chapter, but shall in all cases of sales, except sales to former 
+32
+owners of the real estate, give public notice of the proposal to sell the real estate and shall 
+33
+ask for competitive bids and sell to the highest bidder with the right of rejecting all bids.  
+34
+Sales of any such real estate may not be made by the State Tax Assessor except by 
+35
+authorization of the Legislature using the sale process provided under section 943-C.
+36
+The supervision, administration, utilization and vindication of the right of the State in any 
+37
+such real estate is vested in the State Tax Assessor until the title is conveyed or otherwise 
+38
+disposed of by the Legislature.
+39
+PART D
+40
+Sec. D-1.  36 MRSA §151-C, sub-§3, as amended by PL 2025, c. 486, Pt. A, §1, 
+41
+is further amended to read:
+1
+2
+3
+
+Page 8 - 132LR2671(01)
+1
+3.  Annual report.  Beginning in 2026 2027, the taxpayer advocate and experience 
+2
+officer shall prepare and submit by January 15th an annual report of activities and 
+3
+recommendations under subsection 2 of the taxpayer advocate and experience officer to 
+4
+the Governor, commissioner, the Associate Commissioner for Tax Policy, the assessor and 
+5
+the joint standing committee of the Legislature having jurisdiction over taxation matters.
+6
+Sec. D-2.  36 MRSA §507, sub-§1, as enacted by PL 2007, c. 432, §1 and affected 
+7
+by §2, is amended to read:
+8
+1.  Reductions to tax.  The property tax bill must contain a statement or calculation 
+9
+that demonstrates the amount or percentage by which the taxpayer's tax has been reduced 
+10
+by the distribution of state-municipal revenue sharing, state reimbursement for the Maine 
+11
+resident homestead property tax exemption and state aid for education. The State Tax 
+12
+Assessor shall annually provide each municipality with the amount of state-municipal 
+13
+revenue sharing and state aid for education subject to identification under this section.
+14
+Sec. D-3.  36 MRSA §5122, sub-§2, ¶L, as amended by PL 2003, c. 705, §11 and 
+15
+affected by §14, is repealed.
+16
+Sec. D-4.  36 MRSA §5122, sub-§2, ¶QQ, as enacted by PL 2019, c. 348, §3, is 
+17
+amended to read:
+18
+QQ.  For tax years beginning on or after January 1, 2020, to the extent included in 
+19
+federal adjusted gross income, any earnings on funds in an account established under 
+20
+a qualified ABLE program that complies with the requirements of the federal 
+21
+Achieving a Better Life Experience Act of 2014, Public Law 113‑295.
+22
+Sec. D-5.  Retroactivity. That section of this Part that amends the Maine Revised 
+23
+Statutes, Title 36, section 151-C, subsection 3 applies retroactively to January 1, 2026.
+24
+SUMMARY
+25
+This bill makes the following changes to the State's tax laws.
+26
+Part A:
+27
+1. Removes references to the expired Maine capital investment credit and makes other 
+28
+changes related to the removal of those references;
+29
+2. Aligns the pension deduction phase-out for married individuals filing separate 
+30
+returns with that of single individuals; and
+31
+3. Corrects a cross-reference to the law authorizing income tax due date extensions.
+32
+Part B:
+33
+1. Removes crutches and wheelchairs from the exemption pertaining to prosthetic or 
+34
+orthotic devices under the Maine Revised Statutes, Title 36, section 1760, subsection 5-A 
+35
+that were made redundant by the recently enacted exemption of "durable medical 
+36
+equipment";
+37
+2. Repeals the sales tax exemption for sales of tangible personal property to be 
+38
+physically incorporated in and become a part of a portable classroom for lease to a school 
+39
+since this exemption is included in the exemption for property used in production, which 
+40
+includes sales to lessors of tangible personal property that becomes an ingredient or 
+41
+component part of property to be leased or rented out;
+25
+
+Page 9 - 132LR2671(01)
+1
+3. Clarifies the sales tax exemption for property used in production to correspond with 
+2
+the recent inclusion of leases in the definition of "sale"; and
+3
+4. Clarifies that the tobacco products tax on smokeless tobacco applies to smokeless 
+4
+tobacco products.
+5
+Part C:
+6
+1. Clarifies that the property tax year is from April 1st to March 31st instead of the 
+7
+overlapping April 1st to April 1st;
+8
+2. Clarifies the procedure for documenting that a seller of real property has paid the 
+9
+seller’s pro rata share of taxes owed on property that is still the subject of a lien reflecting 
+10
+taxes due from someone else;
+11
+3. Changes cross-references as they pertain to a lien upon real estate;
+12
+4. Repeals, for property acquired by a municipality for delinquent taxes, the law 
+13
+regarding an excess funds process that a municipality is permitted to implement by 
+14
+ordinance. That process was rendered obsolete by the enactment of the Maine Revised 
+15
+Statutes, Title 36, section 943-C;
+16
+5. Corrects a clerical error;
+17
+6. Ensures that any sales of real estate upon which a tax lien mortgage has been 
+18
+foreclosed, other than sales to the former owner of the real estate, are made in compliance 
+19
+with the requirements of the United States Supreme Court’s decision in Tyler v. Hennepin 
+20
+County (598 U.S. 631);
+21
+7. Makes a grammatical correction by replacing the term "sum" with "product";
+22
+8. Clarifies that property held in a revocable living trust meets the fee simple estate 
+23
+ownership requirement for the homestead property tax deferral program; and
+24
+9. Aligns the homestead property tax deferral program’s foreclosure process with the 
+25
+general property tax provisions regarding the sale of foreclosed property.
+26
+Part D:
+27
+1. Changes the taxpayer advocate and experience officer's annual reporting 
+28
+requirement start date from January 15, 2026 to January 15, 2027 and applies that change 
+29
+retroactively to January 1, 2026;
+30
+2. Removes the requirement that the State Tax Assessor annually provide each 
+31
+municipality with the amount of state-municipal revenue sharing and state aid for 
+32
+education. The Department of Education and the Office of the Treasurer of State maintain 
+33
+and provide this information on their respective websites;
+34
+3. Clarifies the repeal of the law regarding the income subtraction modification for 
+35
+long-term care insurance premiums made in Public Law 2015, chapter 267; and
+36
+4. Clarifies that the subtraction modification for any earnings on funds in an account 
+37
+established under a qualified ABLE program applies only to the extent the amount is 
+38
+included in federal adjusted gross income.

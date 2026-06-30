@@ -1,0 +1,126 @@
+{
+  "ld": 2009,
+  "paper": "SP0828",
+  "paper_display": "SP 828",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100865",
+  "title": "An Act to Clarify the Requirements of a County Audit",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 13, 2026",
+  "governor_action": "Signed, Apr 13, 2026",
+  "chaptered_law": "ACTPUB, Chapter 673",
+  "chapter": "673",
+  "became_law": true,
+  "last_house_action": "4/2/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/6/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Marianne MOORE",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Washington"
+    },
+    {
+      "name": "Billy Bob FAULKINGHAM",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Winter Harbor"
+    },
+    {
+      "name": "Mathew MCINTYRE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lowell"
+    },
+    {
+      "name": "William TUELL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "East Machias"
+    },
+    {
+      "name": "Joseph UNDERWOOD",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Presque Isle"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "COUNTIES",
+      "minor": "BONDING AUTHORITY",
+      "detail": "FEDERAL BANKRUPTCY PROCEEDINGS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-03",
+      "date_raw": "12/3/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on December 3, 2025 and REFERRED to the Committee on STATE AND LOCAL GOVERNMENT pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2026-03-30",
+      "date_raw": "3/30/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE . Committee Amendment \"A\" (S-590) READ and ADOPTED . Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-590). Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2026-03-31",
+      "date_raw": "3/31/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-590) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-590 )",
+      "new_title": "An Act to Clarify the Requirements of a County Audit",
+      "house_action": "Adopted on 3/31/2026",
+      "senate_action": "Adopted on 3/30/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0828&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0828&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0828&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0828",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0828&SessionID=16",
+  "scraped_at": "2026-06-30T20:06:04Z"
+}

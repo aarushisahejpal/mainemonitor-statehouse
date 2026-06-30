@@ -1,0 +1,203 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2202
+H.P. 1481
+House of Representatives, February 10, 2026
+An Act to Require Notice to the Attorney General Prior to the 
+Merger of Certain Health Care Entities as Recommended by the 
+Commission to Evaluate the Scope of Regulatory Review and 
+Oversight over Health Care Transactions That Impact the Delivery 
+of Health Care Services in the State
+Reported by Representative MATHIESON of Kittery for the Joint Standing Committee on 
+Health Coverage, Insurance and Financial Services pursuant to Resolve 2025, chapter 106, 
+section 8.
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed pursuant to Joint Rule 218.
+ROBERT B. HUNT
+Clerk
+
+Page 1 - 132LR3021(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  10 MRSA §1102-B is enacted to read:
+3
+§1102-B.  Premerger notification by health care entities
+4
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings. 
+6
+A.  "Additional documentary material" means the additional documentary material 
+7
+filed with a Hart-Scott-Rodino form. 
+8
+B.  "Electronic" means relating to technology having electrical, digital, magnetic, 
+9
+wireless, optical, electromagnetic or similar capabilities. 
+10
+C.  "Filing threshold" means the minimum size of a transaction that requires the 
+11
+transaction to be reported under the Hart-Scott-Rodino Act in effect when a person 
+12
+files a premerger notification. 
+13
+D.  "Hart-Scott-Rodino Act" means 15 United States Code, Section 18a, as amended. 
+14
+E.  "Hart-Scott-Rodino form" means the form filed with a premerger notification, 
+15
+excluding additional documentary material. 
+16
+F.  "Health care entity" means a health care provider, a health care facility or a provider 
+17
+organization.  "Health care entity" does not include a nursing facility as defined by 
+18
+Title 22, section 328, subsection 18. 
+19
+G.  "Health care facility" means a licensed institution providing health care services or 
+20
+a health care setting, including, but not limited to, hospitals and other licensed inpatient 
+21
+facilities; health systems consisting of one or more health care entities that are jointly 
+22
+owned or managed; ambulatory surgical or treatment centers; residential treatment 
+23
+centers; diagnostic, laboratory and imaging centers; freestanding emergency facilities; 
+24
+outpatient clinics; and rehabilitation and other therapeutic health settings. 
+25
+H.  "Health care provider" means a person, corporation, partnership, governmental unit, 
+26
+state institution, medical practice or other entity qualified or licensed under state law 
+27
+to perform or provide health care services to persons in the State. 
+28
+I.  "Premerger notification" means a notification filed under the Hart-Scott-Rodino Act 
+29
+with the Federal Trade Commission or the United States Department of Justice, 
+30
+Antitrust Division or a successor agency. 
+31
+J.  "Provider organization" means any corporation, partnership, business trust, 
+32
+association or organized group of persons that is in the business of health care delivery 
+33
+or management, whether incorporated or not, that represents one or more health care 
+34
+providers in contracting with carriers for the payment of health care services.  "Provider 
+35
+organization" includes, but is not limited to, physician organizations, physician-
+36
+hospital organizations, independent practice associations, health care provider 
+37
+networks, accountable care organizations and management services organizations and 
+38
+any other organization that contracts with carriers for payment for health care services. 
+39
+2.  Notice requirement.  A health care entity filing a premerger notification shall 
+40
+concurrently file a complete electronic copy of the Hart-Scott-Rodino form with the 
+41
+Attorney General if: 
+
+Page 2 - 132LR3021(01)
+1
+A.  The health care entity has its principal place of business in this State; or 
+2
+B.  The health care entity or a person the health care entity controls directly or indirectly 
+3
+had annual revenue in this State in the most recent calendar year preceding the filing 
+4
+of at least 20% of the filing threshold of the goods or services involved in the 
+5
+transaction. 
+6
+A health care entity that files a Hart-Scott-Rodino form under this subsection shall include 
+7
+with the filing a complete electronic copy of the additional documentary material. The 
+8
+Attorney General may not charge a fee connected with filing or providing the Hart-Scott-
+9
+Rodino form or additional documentary material under this subsection. 
+10
+3.  Confidentiality.  Any information provided to the Attorney General under this 
+11
+section is confidential, except that the Attorney General may: 
+12
+A.  Subject to a protective order entered by an agency, court or judicial officer, disclose 
+13
+a Hart-Scott-Rodino form, additional documentary material or other information listed 
+14
+in subsection 2 in an administrative proceeding or judicial action if the proposed merger 
+15
+is relevant to the proceeding or action;
+16
+B.  Share information with the Federal Trade Commission or the United States 
+17
+Department of Justice, Antitrust Division or a successor agency; or 
+18
+C.  Share information with the attorney general of another state that has enacted a 
+19
+substantively equivalent statute that includes confidentiality provisions at least as 
+20
+protective as the confidentiality provisions of this subsection. At least 2 business days 
+21
+before making a disclosure under this paragraph, the Attorney General shall give notice 
+22
+of the disclosure to the health care entity that filed or provided the Hart-Scott-Rodino 
+23
+form or additional documentary material under subsection 2. 
+24
+4.  Civil penalty.  The failure to provide notice under subsection 2 constitutes a civil 
+25
+violation for which a civil penalty of not more than $10,000 per day of noncompliance of 
+26
+a health care entity may be adjudged.
+27
+SUMMARY
+28
+This bill is reported out by the Joint Standing Committee on Health Coverage, 
+29
+Insurance and Financial Services pursuant to Resolve 2025, chapter 106 to implement a 
+30
+recommendation from the Commission to Evaluate the Scope of Regulatory Review and 
+31
+Oversight over Health Care Transactions That Impact the Delivery of Health Care Services 
+32
+in the State.  The joint standing committee has not taken a position on the substance of this 
+33
+bill. By reporting this bill out, the joint standing committee is not suggesting and does not 
+34
+intend to suggest that it agrees or disagrees with any aspect of this bill; instead, the joint 
+35
+standing committee is reporting the bill out for the sole purpose of having a bill printed that 
+36
+can be referred to a joint standing committee for an appropriate public hearing and 
+37
+subsequent processing in the normal course. The joint standing committee is taking this 
+38
+action to ensure clarity and transparency in the legislative review of the proposals contained 
+39
+in the bill.
+40
+The bill requires a health care entity to provide notice to the Attorney General about a 
+41
+pending merger or acquisition at the same time the health care entity is required to notify 
+42
+the Federal Trade Commission or the United States Department of Justice, Antitrust 
+43
+Division in accordance with federal laws and regulations.
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39

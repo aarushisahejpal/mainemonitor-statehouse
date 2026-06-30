@@ -1,0 +1,96 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1250
+H.P. 825
+House of Representatives, March 25, 2025
+An Act to Provide That Portfolio Requirements for Renewable 
+Electricity Resources Apply Only to Actual Retail Sales
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative WADSWORTH of Hiram.
+Cosponsored by Representatives: FOSTER of Dexter, MCINTYRE of Lowell, WARREN of 
+Scarborough, Senators: GROHOSKI of Hancock, HARRINGTON of York.
+
+Page 1 - 132LR1793(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  35-A MRSA §3210, sub-§3, as amended by PL 2023, c. 361, §1, is further 
+3
+amended to read:
+4
+3.  Portfolio requirements; Class II resources.  As a condition of licensing pursuant 
+5
+to section 3203, each competitive electricity provider in this State must demonstrate in a 
+6
+manner satisfactory to the commission that no less than 30% of its portfolio of supply 
+7
+sources for retail electricity sales in this State is accounted for by Class II resources.  If a 
+8
+competitive electricity provider represents to a customer that the provider is selling to the 
+9
+customer a portfolio of supply sources that includes more than 30% Class II resources, the 
+10
+resources necessary to supply more than 30% of that customer's load may not be applied to 
+11
+meet the aggregate 30% portfolio requirement.  A portfolio requirement under this 
+12
+subsection applies only to an actual retail electricity sale.  Rules adopted under this 
+13
+subsection are major substantive rules pursuant to Title 5, chapter 375, subchapter 2‑A.
+14
+A.  For the purposes of meeting the portfolio requirement under this subsection, a 300% 
+15
+multiplier is applied to the output of a generator fueled by municipal solid waste in 
+16
+conjunction with recycling that has obtained a solid waste facility license from the 
+17
+Department of Environmental Protection.
+18
+This paragraph is repealed January 1, 2027.
+19
+Sec. 2.  35-A MRSA §3210, sub-§3-A, ¶A, as amended by PL 2019, c. 477, §1, is 
+20
+further amended by amending the first blocked paragraph to read:
+21
+Class I resources used to satisfy the requirements of this paragraph may not be used to 
+22
+satisfy the requirements of subsection 3 or 3‑B.  A portfolio requirement under this 
+23
+paragraph applies only to an actual retail electricity sale.
+24
+Sec. 3.  35-A MRSA §3210, sub-§3-B, ¶A, as enacted by PL 2019, c. 477, §1, is 
+25
+amended by amending the first blocked paragraph to read:
+26
+Class IA resources used to satisfy the requirements of this paragraph may not be used 
+27
+to satisfy the requirements of subsection 3 or 3‑A.  A portfolio requirement under this 
+28
+paragraph applies only to an actual retail electricity sale.
+29
+Sec. 4.  35-A MRSA §3210, sub-§3-C, as amended by PL 2019, c. 576, §1, is 
+30
+further amended by amending the first blocked paragraph to read:
+31
+Retail electricity sales pursuant to a supply contract or standard-offer service arrangement 
+32
+executed by a competitive electricity provider that is in effect on September 19, 2019 are 
+33
+exempt from the requirements of this subsection until the end date of the existing term of 
+34
+the supply contract or standard-offer service arrangement.  A portfolio requirement under 
+35
+this subsection applies only to an actual retail electricity sale.
+36
+SUMMARY
+37
+This bill requires that portfolio requirements for renewable resources apply only to 
+38
+actual retail electricity sales.
+37
+38

@@ -1,0 +1,110 @@
+{
+  "ld": 705,
+  "paper": "HP0444",
+  "paper_display": "HP 444",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096760",
+  "title": "An Act to Correct Technical Errors in Public Law 2025, Chapter 650",
+  "committee": "Appropriations and Financial Affairs",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 16, 2026",
+  "governor_action": "Signed, Apr 16, 2026",
+  "chaptered_law": "ACTPUB, Chapter 752",
+  "chapter": "752",
+  "became_law": true,
+  "last_house_action": "4/14/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/14/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Drew GATTINE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "GENERAL FUND",
+      "minor": "BIENNIAL BUDGET",
+      "detail": "FY24-25"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "date_raw": "2/20/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on February 20, 2025. The Bill was REFERRED to the Committee on APPROPRIATIONS AND FINANCIAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative GATTINE of Westbrook, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-1068) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-1068) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "Senate",
+      "description": "Reports READ. On motion by Senator ROTUNDO of Androscoggin the Majority Ought to Pass as Amended Report ACCEPTED . READ ONCE. Committee Amendment \"A\" (H-1068) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-1068) in concurrence."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-1068 )",
+      "new_title": "An Act to Correct Technical Errors in Public Law 2025, Chapter 650",
+      "house_action": "Adopted on 4/14/2026",
+      "senate_action": "Adopted on 4/14/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0444&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0444&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0444&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0444",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0444&SessionID=16",
+  "scraped_at": "2026-06-30T18:25:49Z"
+}

@@ -1,0 +1,73 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1552
+S.P. 636
+In Senate, April 10, 2025
+An Act to Prohibit Landlords from Setting Rents Through the Use 
+of Artificial Intelligence
+Reference to the Committee on Judiciary suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TIPPING of Penobscot.
+Cosponsored by Senator: CURRY of Waldo, Representatives: GERE of Kennebunkport, 
+GOLEK of Harpswell, MALON of Biddeford, YUSUF of Portland.
+
+Page 1 - 132LR2280(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  14 MRSA §6030-K is enacted to read:
+3
+§6030-K.  Prohibition on using algorithmic device or artificial intelligence in setting 
+4
+rent
+5
+A landlord or any other person responsible for setting the amount of rent to be paid by 
+6
+a tenant for the occupancy of a residential rental property may not use an algorithmic device 
+7
+or artificial intelligence in setting the amount of rent to be paid by a tenant for the 
+8
+occupancy of a residential property, including determining any change in the amount of 
+9
+rent to be paid by a tenant for a renewal of occupancy.  For purposes of this section 
+10
+"algorithmic device" means a device that uses one or more algorithms to perform 
+11
+calculations of data, including data concerning local or statewide rent amounts being 
+12
+charged to tenants by landlords, for the purpose of advising a landlord concerning the 
+13
+amount of rent that a landlord may consider charging a tenant. For purposes of this section 
+14
+"artificial intelligence" means an engineered or machine-based system that varies in its 
+15
+level of autonomy and that can, for explicit or implicit objectives, infer from the input it 
+16
+receives how to generate outputs that can influence physical or virtual environments.
+17
+A violation of this section is considered an unfair trade practice under Title 5, chapter 
+18
+10.
+19
+SUMMARY
+20
+This bill prohibits a landlord or any other person responsible for setting the amount of 
+21
+rent to be paid by a tenant for the occupancy of a residential rental property from using an 
+22
+algorithmic device or artificial intelligence in setting the amount of rent to be paid by a 
+23
+tenant for the occupancy of a residential property, including determining any change in the 
+24
+amount of rent to be paid by a tenant for a renewal of occupancy. A violation of this 
+25
+prohibition is considered an unfair trade practice.
+20
+21
+22
+23
+24
+25

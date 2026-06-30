@@ -1,0 +1,186 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2060
+S.P. 846
+In Senate, December 17, 2025
+An Act to Make Technical Changes to the Maine Uniform Securities 
+Act and to Clarify the Securities Administrator's Authority to Grant 
+Licensing Exemptions for Broker-Dealers
+Submitted by the Department of Professional and Financial Regulation pursuant to Joint 
+Rule 203.
+Received by the Secretary of the Senate on December 15, 2025.  Referred to the Committee 
+on Health Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BAILEY of York.
+
+Page 1 - 132LR2813(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  32 MRSA §16202, sub-§26, as amended by PL 2019, c. 252, Pt. A, §1, is 
+3
+further amended to read:
+4
+26.  Nonpublic offerings under 4(2) Section 4(a)(2).  A security offered in a 
+5
+nonpublic offering under Section 4(2) 4(a)(2) of the federal Securities Act of 1933, 15 
+6
+United States Code, Section 77d(2) 77d(a)(2) if, no later than 15 days after the first sale in 
+7
+this State, a notice on "Form D," as promulgated by the Securities and Exchange 
+8
+Commission, is filed with the administrator together with a consent to service of process 
+9
+complying with section 16611, signed by the issuer, and the payment of a nonrefundable 
+10
+filing fee of $300 for each type or class of security sold.  If the Form D includes a consent 
+11
+to service of process, a separate document need not be filed for this purpose, and if the 
+12
+consent to service of process on the Form D is executed in a manner accepted by the 
+13
+Securities and Exchange Commission, it is deemed to comply with the requirement in this 
+14
+section and section 16611, subsection 1 that the consent be signed.  An additional 
+15
+nonrefundable late filing fee of $500 must be paid for a filing made 16 or more days after 
+16
+the first sale in this State.
+17
+Sec. 2.  32 MRSA §16401, sub-§2, as enacted by PL 2005, c. 65, Pt. A, §2, is 
+18
+amended to read:
+19
+2.  Exemptions from licensing.  The following persons are exempt from the licensing 
+20
+requirement of subsection 1:
+21
+A.  A broker-dealer without a place of business in this State if its only transactions 
+22
+effected in this State are with:
+23
+(1)  The issuer of the securities involved in the transactions;
+24
+(2)  A broker-dealer licensed as a broker-dealer under this chapter or not required 
+25
+to be licensed as a broker-dealer under this chapter, except when the person is 
+26
+acting as a clearing broker-dealer;
+27
+(3)  An institutional investor;
+28
+(4)  A nonaffiliated federal covered investment adviser with investments under 
+29
+management in excess of $100,000,000 acting for the account of others pursuant 
+30
+to discretionary authority in a signed record;
+31
+(5)  A bona fide preexisting customer whose principal place of residence is not in 
+32
+this State and the person is registered as a broker-dealer under the federal Securities 
+33
+Exchange Act of 1934 or not required to be registered under the federal Securities 
+34
+Exchange Act of 1934 and is registered or licensed under the securities act of the 
+35
+state in which the customer maintains a principal place of residence; and
+36
+(6)  A bona fide preexisting customer whose principal place of residence is in this 
+37
+State but was not present in this State when the customer relationship was 
+38
+established, if:
+39
+(a)  The broker-dealer is registered under the federal Securities Exchange Act 
+40
+of 1934 or not required to be registered under the federal Securities Exchange 
+41
+Act of 1934 and is registered or licensed under the securities laws of the state 
+
+Page 2 - 132LR2813(01)
+42
+in which the customer relationship was established and where the customer 
+43
+had maintained a principal place of residence; and
+3
+(b)  Within 45 days after the customer's first transaction in this State, the person 
+4
+files an application for licensing as a broker-dealer in this State and no further 
+5
+transactions are effected until the license is effective.  Any broker-dealer may 
+6
+seek an order granting a temporary exemption under subparagraph (7) 
+7
+paragraph C while the application is pending; and
+8
+(7)  Any other person exempted by rule adopted or order issued under this chapter; 
+9
+and
+10
+B.  A person that deals solely in United States government securities and is supervised 
+11
+as a dealer in government securities by the Board of Governors of the Federal Reserve 
+12
+System, the Federal Deposit Insurance Corporation or the United States Department of 
+13
+the Treasury, Office of Thrift Supervision or Comptroller of the Currency.; and
+14
+C.  Any other person exempted by rule adopted or order issued under this chapter.
+15
+Sec. 3.  32 MRSA §16606, sub-§1, as enacted by PL 2005, c. 65, Pt. A, §2, is 
+16
+amended to read:
+17
+1.  Public register of filings.  Subject to state record-keeping requirements, the 
+18
+administrator shall maintain, or designate a person to maintain, records or a register of: 
+19
+applications for registration of securities; registration statements; notice filings; 
+20
+applications for registration licensure of broker-dealers, agents, investment advisers and 
+21
+investment adviser representatives; notice filings by federal covered investment advisers 
+22
+that are or have been effective under this chapter or the predecessor act; notices of claims 
+23
+of exemption from registration or notice filing requirements contained in a record; orders 
+24
+issued under this chapter or the predecessor act; and interpretative opinions or no action 
+25
+determinations issued under this chapter.  Records may be maintained in computer or 
+26
+microform format or any other form of data storage, as long as the records are readily 
+27
+accessible.
+28
+SUMMARY
+29
+This bill makes 2 technical changes to the Maine Uniform Securities Act by updating 
+30
+references to federal citations regarding nonpublic offerings and changing the word 
+31
+"registration" to "licensure" for consistency with the requirements that broker-dealers, 
+32
+agents, investment advisers and investment adviser representatives be licensed.  It also 
+33
+extends the authority of the Securities Administrator in the Department of Professional and 
+34
+Financial Regulation, Office of Securities to grant broker-dealer licensing exemptions to 
+35
+any person regardless of location, not just to those broker-dealers that have a place of 
+36
+business only outside of the State. 
+1
+2
+29
+30
+31
+32
+33
+34
+35
+36

@@ -1,0 +1,121 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 1205
+S.P. 494
+In Senate, March 20, 2025
+An Act to Set Limits on Virtual Currency Kiosks
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TEPLER of Sagadahoc.
+Cosponsored by Representative ARFORD of Brunswick and
+Senators: CARNEY of Cumberland, INGWERSEN of York, Representative: FOLEY of Wells.
+
+Page 1 - 132LR0983(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  32 MRSA §6100-OO, sub-§13-A is enacted to read:
+3
+13-A.  Virtual currency kiosk.  "Virtual currency kiosk" means an automated, 
+4
+unstaffed electronic machine that allows users to engage in money transmission, including 
+5
+any electronic machine that allows users to engage in money transmission, including any 
+6
+machine that is capable of accepting or dispensing cash in exchange for virtual currency.
+7
+Sec. 2.  32 MRSA §6100-OO, sub-§13-B is enacted to read:
+8
+13-B.  Virtual currency kiosk operator.  "Virtual currency kiosk operator" means a 
+9
+person that engages in virtual currency business activity via a virtual currency kiosk located 
+10
+in this State or a person that owns, operates or manages a virtual currency kiosk located in 
+11
+this State through which virtual currency business activity is offered.
+12
+Sec. 3.  32 MRSA §6100-VV is enacted to read:
+13
+§6100-VV.  Virtual currency kiosk operators
+14
+Requirements for virtual currency kiosk operators are governed by this section. 
+15
+1.  Transaction limits; dollar amount.  A virtual currency kiosk operator may not 
+16
+accept or dispense more than $1,000 in a day from or to a customer via a virtual currency 
+17
+kiosk.
+18
+2.  Transaction charges.  A virtual currency kiosk operator may not collect charges, 
+19
+whether direct or indirect, from a customer related to a single virtual currency kiosk 
+20
+transaction that exceed the greater of:
+21
+A. Five dollars; and
+22
+B. Three percent of the United States dollar equivalent of virtual currency assets 
+23
+involved in the transaction according to the publicly quoted market price of the virtual 
+24
+currency asset exchange at the time the customer initiates the transaction. 
+25
+For purposes of this subsection, "single virtual currency kiosk transaction" means the 
+26
+purchase, sale, exchange, swap or conversion of virtual currency, or the subsequent transfer 
+27
+of virtual currency, in a series of transactions.
+28
+3. License required. A virtual currency kiosk operator must be licensed as a money 
+29
+transmitter pursuant to this Act unless exempt pursuant to sections 6074 and 6075.
+30
+4. Operator accountability. If a virtual currency kiosk operator allows or facilitates 
+31
+another person to engage in virtual currency business activity via a virtual currency kiosk 
+32
+in the State that is owned, operated or managed by the virtual currency kiosk operator, the 
+33
+virtual currency kiosk operator shall ensure that the person engaging in virtual currency 
+34
+business activity is licensed pursuant to subsection 3 and complies with all other applicable 
+35
+provisions of this section.
+36
+Sec. 4.  Report.  No later than December 3, 2025, the Commissioner of Professional 
+37
+and Financial Regulation shall submit a report to the Joint Standing Committee on Health 
+38
+Coverage, Insurance and Financial Services that includes findings and recommendations 
+39
+regarding the protection of customers of virtual currency kiosks from fraudulent activity. 
+40
+The committee may submit legislation related to the report to the Second Regular Session 
+41
+of the 132nd Legislature.
+
+Page 2 - 132LR0983(01)
+1
+SUMMARY
+2
+This bill requires licensing of virtual currency kiosk operators, caps fees at the greater 
+3
+of $5 and 3% of the dollar amount of the transaction, establishes a $1,000 per day 
+4
+transaction limit, and requires an operator that allows another person to engage in virtual 
+5
+currency business activity via a virtual currency kiosk owned by that operator to ensure 
+6
+that the person engaging in the virtual currency business activity is licensed and in 
+7
+compliance with applicable provisions governing virtual currency kiosk operators.
+2
+3
+4
+5
+6
+7

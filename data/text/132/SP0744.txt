@@ -1,0 +1,201 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1903
+S.P. 744
+In Senate, May 6, 2025
+An Act to Conform the State's Perfluoroalkyl and Polyfluoroalkyl 
+Substances Laws to Federal Standards
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TIMBERLAKE of Androscoggin.
+Cosponsored by Representative FAULKINGHAM of Winter Harbor and
+Senators: BERNARD of Aroostook, FARRIN of Somerset, MOORE of Washington, 
+STEWART of Aroostook, Representatives: BABIN of Fort Fairfield, DAIGLE of Fort Kent.
+
+Page 1 - 132LR0437(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  7 MRSA §320-K, sub-§1, ¶C-1 is enacted to read:
+3
+C-1.  "Contaminated by PFAS" or "PFAS contamination" means:
+4
+(1)  For perfluorooctane sulfonic acid, the presence of perfluorooctane sulfonic 
+5
+acid in an amount exceeding a soil concentration level of 0.13 milligrams per 
+6
+kilogram; 
+7
+(2)  For perfluorooctanoic acid, the presence of perfluorooctanoic acid in an 
+8
+amount exceeding a soil concentration level of 0.19 milligrams per kilogram; and
+9
+(3) For any PFAS other than those listed in subparagraphs (1) and (2), the presence 
+10
+of such PFAS in an amount exceeding a soil concentration level contained in 
+11
+guidance promulgated by the United States Environmental Protection Agency.
+12
+Sec. 2.  22 MRSA §2611, sub-§1-A is enacted to read:
+13
+1-A.  Maximum contaminant levels for certain perfluoroalkyl and polyfluoroalkyl 
+14
+substances.  The primary drinking water rules adopted and enforced by the commissioner 
+15
+pursuant to subsection 1 must specify for the following perfluoroalkyl and polyfluoroalkyl 
+16
+substances a maximum contaminant level equivalent to the national primary drinking water 
+17
+regulations, 40 Code of Federal Regulations, Part 141, adopted by the United States 
+18
+Environmental Protection Agency in April 2024:
+19
+A. Perfluorooctanoic acid, also known as PFOA;
+20
+B. Perfluorohexane sulfonic acid, also known as PFHxS;
+21
+C. Perfluorooctane sulfonic acid, also known as PFOS;
+22
+D. Perfluorononanoic acid, also known as PFNA;
+23
+E. Hexafluoropropylene oxide dimer acid, also known as HFPO-DA; and
+24
+F. Mixtures containing 2 or more of the following: PFHxS, PFNA, HFPO-DA and 
+25
+perfluorobutane sulfonic acid, also known as PFBS.
+26
+Sec. 3.  32 MRSA §1733, sub-§3-B, as enacted by PL 2019, c. 277, §3, is amended 
+27
+to read:
+28
+3-B.  Prohibition of sale of food package containing PFAS.  In accordance with the 
+29
+requirements of this subsection, except as otherwise provided, the department may by rule 
+30
+prohibit a manufacturer, supplier or distributor from offering for sale or for promotional 
+31
+purposes in the State a food package to which PFAS have been intentionally introduced in 
+32
+any amount greater than an incidental presence.
+33
+A.  The department may not by rule prohibit the sale of a food package to which PFAS 
+34
+have been intentionally introduced in any amount greater than an incidental presence 
+35
+under this subsection unless the department has determined that a safer alternative to 
+36
+the use of PFAS in a specific application of PFAS to a food package is available.  To 
+37
+determine that a safer alternative is available, the department must find that a safer 
+38
+alternative is readily available in sufficient quantity and at a comparable cost and that 
+39
+the safer alternative performs as well as or better than PFAS in a specific application 
+40
+of PFAS to a food package.
+
+Page 2 - 132LR0437(01)
+1
+B.  If the department determines pursuant to paragraph A that a safer alternative to the 
+2
+use of PFAS in a specific application of PFAS to a food package is available, the 
+3
+department shall by rule prohibit the sale of a food package to which PFAS have been 
+4
+intentionally introduced in any amount greater than an incidental presence under this 
+5
+subsection, except that such a prohibition may not take effect until January 1, 2022 or 
+6
+2 years following the date on which the department determines that a safer alternative 
+7
+is available, whichever is later.
+8
+The prohibition in this subsection does not prevent a manufacturer that is located in the 
+9
+State from offering for sale or for promotional purposes outside the State a food package 
+10
+to which PFAS have been intentionally introduced in any amount greater than an incidental 
+11
+presence.
+12
+Rules adopted pursuant to this subsection are major substantive rules as defined in Title 5, 
+13
+chapter 375, subchapter 2‑A.
+14
+Federal law or regulation regulating the sale of a food package to which PFAS have been 
+15
+intentionally added preempts state authority under this subsection.
+16
+Sec. 4.  38 MRSA §420, sub-§2, ¶C-1 is enacted to read:
+17
+C-1.  If surface water quality standards for PFAS are established pursuant to federal 
+18
+law, including the Federal Water Pollution Control Act, Public Law 92-500, Section 
+19
+304(a), as amended, the department shall adopt rules for surface water quality standards 
+20
+to match the federal water quality standards.  For the purposes of this paragraph, 
+21
+"PFAS" has the same meaning as in section 1614, subsection 1, paragraph F.
+22
+Sec. 5.  38 MRSA §585-P is enacted to read:
+23
+§585-P.  Perfluoroalkyl and polyfluoroalkyl substances
+24
+If the United States Environmental Protection Agency adopts emissions standards for 
+25
+PFAS, emissions standards for PFAS adopted by the board must be the same as the 
+26
+emissions standards established by the United States Environmental Protection Agency.  
+27
+For the purposes of this section, "PFAS" has the same meaning as in section 1614, 
+28
+subsection 1, paragraph F.
+29
+SUMMARY
+30
+This bill conforms state standards for certain perfluoroalkyl and polyfluoroalkyl 
+31
+substances, or PFAS, to federal standards in the following ways.
+32
+1.  It establishes soil concentration levels for PFAS for the purposes of determining 
+33
+when land is contaminated by PFAS under the Fund To Address PFAS Contamination.
+34
+2.  It amends the law authorizing the adoption of state drinking water rules by the 
+35
+Commissioner of Health and Human Services to require that those rules establish a 
+36
+maximum contaminant level equivalent to the standards of the United States Environmental 
+37
+Protection Agency's national primary drinking water regulations adopted in April 2024 for 
+38
+certain perfluoroalkyl and polyfluoroalkyl substances.
+39
+3.  It provides that federal law or regulation regulating the sale of a food package to 
+40
+which PFAS have been intentionally added preempts state authority to prohibit the sale of 
+41
+such food packaging.
+30
+31
+
+Page 3 - 132LR0437(01)
+1
+4.  It provides that if surface water quality standards for PFAS are established pursuant 
+2
+to federal law, the Department of Environmental Protection must adopt rules for surface 
+3
+water quality standards to match the federal water quality standards.
+4
+5.  It provides that if the United States Environmental Protection Agency adopts 
+5
+emissions standards for PFAS, emissions standards for PFAS adopted by the Department 
+6
+of Environmental Protection, Board of Environmental Protection must be the same as the 
+7
+emissions standards established by the United States Environmental Protection Agency.

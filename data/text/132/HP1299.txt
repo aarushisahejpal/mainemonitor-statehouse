@@ -1,0 +1,1769 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1940
+H.P. 1299
+House of Representatives, May 7, 2025
+An Act to Revise the Growth Management Program Laws
+Reference to the Committee on Housing and Economic Development suggested and 
+ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SACHS of Freeport.
+Cosponsored by President DAUGHTRY of Cumberland and
+Representatives: Speaker FECTEAU of Biddeford, GERE of Kennebunkport, Senator: 
+CURRY of Waldo.
+
+Page 1 - 132LR0289(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  30-A MRSA §4301, as amended by PL 2021, c. 590, Pt. A, §§3 to 5 and c. 
+3
+754, §1, is further amended to read:
+4
+§4301.  Definitions
+5
+As used in this chapter, unless the context otherwise indicates, the following terms 
+6
+have the following meanings.
+7
+1.  Affordable housing.  "Affordable housing" means a decent, safe and sanitary 
+8
+dwelling, apartment or other living accommodation for a household whose income does 
+9
+not exceed 80% of the median income for the area as defined by the United States 
+10
+Department of Housing and Urban Development under the United States Housing Act of 
+11
+1937, Public Law 75-412, 50 Stat. 888, Section 8, as amended. as follows:
+12
+F.  Rental housing that a household whose income does not exceed 80% of the median 
+13
+income for the area as defined by the United States Department of Housing and Urban 
+14
+Development under the United States Housing Act of 1937, Public Law 75-412, 50 
+15
+Stat. 888, Section 8, as amended, can afford without spending more than 30% of the 
+16
+household's monthly income on housing costs; and
+17
+G.  With respect to housing that is owned, housing that a household whose income does 
+18
+not exceed 120% of the median income for the area as defined by the United States 
+19
+Department of Housing and Urban Development under the United States Housing Act 
+20
+of 1937, Public Law 75-412, 50 Stat. 888, Section 8, as amended, can afford without 
+21
+spending more than 30% of the household's monthly income on housing costs.
+22
+1-A.  Cluster development.  "Cluster development" means a form of development that 
+23
+allows a subdivision design in which individual lot sizes and setbacks are reduced in 
+24
+exchange for the creation of common open space and recreation areas, the preservation of 
+25
+environmentally sensitive areas, agriculture and silviculture and the reduction in the size 
+26
+of road and utility systems.
+27
+1-B.  Age-friendly community.  "Age-friendly community" means a community 
+28
+where policies, services, settings and structures support and enable older people to actively 
+29
+age in place and that recognizes the capabilities, resources and needs of older adults, plans 
+30
+to meet the needs of older adults in flexible ways that support healthy and active aging, 
+31
+promotes the inclusion and contributions of older adults in all areas of community life, 
+32
+respects the self-determination and independence of older adults and protects those older 
+33
+adults who are most vulnerable.
+34
+1-C.  Accessory dwelling unit.  "Accessory dwelling unit" means a self‑contained 
+35
+dwelling unit located within, attached to or detached from a single-family dwelling unit 
+36
+located on the same parcel of land.
+37
+1-D.  Agricultural soils.  "Agricultural soils" means farmland soils classified by the 
+38
+United States Department of Agriculture, Natural Resources Conservation Service and 
+39
+state soil and water conservation districts as prime farmland, unique farmland or farmland 
+40
+of statewide or local importance.
+41
+1-E.  Attainable housing.  "Attainable housing" means a decent, safe and sanitary 
+42
+dwelling or other living accommodation that a household whose income is greater than 
+43
+80% and less than 120% of the median income for the area as defined by the United States 
+
+Page 2 - 132LR0289(01)
+44
+Department of Housing and Urban Development under the United States Housing Act of 
+45
+1937, Public Law 75-412, 50 Stat. 888, Section 8, as amended, can afford without spending 
+46
+more than 30% of the household's monthly income on housing costs.
+4
+2.  Coastal area.  "Coastal area" means a coastal island and any municipality or 
+5
+unorganized township contiguous to tidal waters.  The inland boundary of the coastal area 
+6
+is the inland line of any coastal town line.
+7
+3.  Comprehensive plan.  "Comprehensive plan" means a document or interrelated 
+8
+documents that are consistent with the goals established under subchapter 2 containing the 
+9
+elements established under section 4326 4326-A, subsections 1 to 4, including the 
+10
+strategies for an implementation program which are consistent with the goals and 
+11
+guidelines established under subchapter II.
+12
+4.  Conditional zoning.  "Conditional zoning" means the process by which the 
+13
+municipal legislative body may rezone property to permit the use of that property subject 
+14
+to conditions not generally applicable to other properties similarly zoned.
+15
+4-A.  Critical rural area.  "Critical rural area" means a rural an area that is specifically 
+16
+identified and designated by a municipality's or multimunicipal region's comprehensive 
+17
+plan within a rural area as deserving maximum protection from development to preserve 
+18
+natural resources and related economic activities that may include, but are not limited to, 
+19
+significant farmland, forest land or mineral resources; high-value wildlife or fisheries 
+20
+habitat; scenic areas; public water supplies; scarce or especially vulnerable natural 
+21
+resources; flood buffer areas and flood-prone areas; and open lands functionally necessary 
+22
+to support a vibrant rural economy.
+23
+4-B.  Critical waterfront area.  "Critical waterfront area" means a shorefront area 
+24
+characterized by functionally water-dependent uses, as defined in Title 38, section 436‑A, 
+25
+subsection 6, and specifically identified and designated by a municipality's or 
+26
+multimunicipal region's comprehensive plan as deserving maximum protection from 
+27
+incompatible development.
+28
+4-C.  Conserved lands.  "Conserved lands" means any natural or rural lands that are 
+29
+protected from development through conservation easements, through ownership in fee by 
+30
+a municipality, the State, the Federal Government or a land conservation organization or 
+31
+through other mechanisms.  "Conserved lands" includes lands under permanent fee or 
+32
+conservation easement as identified by the Department of Agriculture, Conservation and 
+33
+Forestry in its inventory of conservation lands and includes natural and traditionally 
+34
+managed lands identified in government-to-government relationships with the Wabanaki 
+35
+Nations.  "Conserved lands" does not include lands with temporary protections such as 
+36
+lease agreements, shoreland or municipal land use restrictions, carbon offset projects or 
+37
+enrollment in tree growth or open space current use tax law programs in Title 36, chapter 
+38
+105, subchapters 2-A and 10, respectively.
+39
+4-D.  Critical natural resources.  "Critical natural resources" means: 
+40
+A.  Protected natural resources such as coastal sand dune systems, coastal wetlands, 
+41
+fragile mountain areas, freshwater wetlands, great ponds, rivers, streams or brooks and 
+42
+significant wildlife habitat as defined by Title 38, section 480-B, subsections 1, 2, 3, 4, 
+43
+5, 9 and 10, respectively;
+1
+2
+3
+
+Page 3 - 132LR0289(01)
+1
+B.  Habitats of threatened and endangered species and species of special concern as 
+2
+designated and mapped under Title 12, chapter 925;
+3
+C.  Significant freshwater fisheries spawning habitat as identified and mapped by the 
+4
+Department of Inland Fisheries and Wildlife or the Department of Marine Resources;
+5
+D.  Rare or exemplary natural communities as defined and mapped in the Natural Areas 
+6
+Program under Title 12, section 544; and
+7
+E.  Areas containing threatened or endangered plant species in the Natural Areas 
+8
+Program under Title 12, section 544.
+9
+5.  Contract zoning.  "Contract zoning" means the process by which the property 
+10
+owner, in consideration of the rezoning of that person's property, agrees to the imposition 
+11
+of certain conditions or restrictions not imposed on other similarly zoned properties.
+12
+5-A.  Downtown.  "Downtown" means: the central business district of a community 
+13
+that serves as the center for socioeconomic interaction in the community and is 
+14
+characterized by a cohesive core of commercial and mixed-use buildings, often 
+15
+interspersed with civic, religious and residential buildings and public spaces, typically 
+16
+arranged along a main street and intersecting side streets, walkable and served by public 
+17
+infrastructure.
+18
+A.  The central business district of a community that serves as the center for 
+19
+socioeconomic interaction in the community and is characterized by a cohesive core of 
+20
+commercial and mixed-use buildings, often interspersed with civic, religious and 
+21
+residential buildings and public spaces, typically arranged along a main street and 
+22
+intersecting side streets, walkable and served by public infrastructure; or
+23
+B.  An area identified as a downtown in a comprehensive plan adopted pursuant to 
+24
+chapter 187, subchapter II.
+25
+5-B.  Growth-related capital investment.  "Growth-related capital investment" 
+26
+means investment by the State in only the following projects, even if privately owned, 
+27
+whether using state, federal or other public funds and whether in the form of a purchase, 
+28
+lease, grant, loan, loan guarantee, credit, tax credit or other financial assistance:
+29
+A.  Construction or acquisition of newly constructed multifamily rental housing;
+30
+B.  Development and redevelopment of high-impact corridors and other designated 
+31
+growth areas that provide an opportunity for mixed-use development consisting of 
+32
+residential, light industrial or business parks uses;
+33
+C.  Construction or, extension or upgrade of sewer, water and other utility lines to 
+34
+support designated growth areas;
+35
+D.  Grants and loans for public or quasi-public service infrastructure, public or quasi-
+36
+public facilities, bicycle and pedestrian infrastructure and community buildings; and
+37
+E.  Construction or expansion of state office buildings, state courts, hospitals and other 
+38
+quasi-public facilities and other civic buildings that serve public clients and customers.
+39
+"Growth-related capital investment" does not include investment in the following: the 
+40
+operation or maintenance of a governmental or quasi-governmental facility or program; the 
+41
+renovation of a governmental facility that does not significantly expand the facility's 
+42
+capacity; general purpose aid for education; school construction or renovation projects; 
+
+Page 4 - 132LR0289(01)
+43
+highway or bridge projects; programs that provide direct financial assistance to individual 
+44
+businesses; community revenue sharing; or public health programs.
+3
+5-C.  Department.  "Department" means the Department of Agriculture, Conservation 
+4
+and Forestry Maine Office of Community Affairs under Title 5, section 3202.
+5
+5-D.  Development standards.  "Development standards" means performance and 
+6
+design standards for buildings, streets, civic spaces and sites that promote a pattern of 
+7
+development through the identification of characteristics unique to a placetype and to the 
+8
+areas that make up a placetype.  Development standards may include, but are not limited 
+9
+to, street connectivity and design; location and design of civic spaces; building type, use, 
+10
+form, placement, arrangement and orientation on a lot; location of parking; storm water 
+11
+design; and other site design considerations.
+12
+6.  Development.  "Development" means a change in land use involving alteration of 
+13
+the land, water or vegetation, or the addition or alteration of structures or other construction 
+14
+not naturally occurring.
+15
+6-A.  Impact fee.  "Impact fee" means a charge or assessment imposed by a 
+16
+municipality against a new development to fund or recoup a portion of the cost of new, 
+17
+expanded or replacement infrastructure facilities necessitated by and attributable at least in 
+18
+part to the new development.
+19
+6-B.  Impact fee ordinance.  "Impact fee ordinance" means an ordinance that 
+20
+establishes the applicability, formula and means by which impact fees are assessed.
+21
+6-C.  Growth area.  "Growth area" means an area that is designated in a municipality's 
+22
+or multimunicipal region's comprehensive plan as suitable for orderly residential, 
+23
+commercial or industrial development, or any combinations of those types of development, 
+24
+and into which most development projected over 10 years is directed a placetype or portion 
+25
+of a placetype that has been identified by a municipality or multimunicipal region in a 
+26
+comprehensive plan as an area for development and investment, including, but not limited 
+27
+to, new roads, utilities and infrastructure expansion.  "Growth area" includes high-impact 
+28
+corridors.
+29
+6-D.  High-impact corridor.  "High-impact corridor" means a linear collection of 
+30
+predominantly commercial parcels of developed land along a road located proximate to a 
+31
+downtown or village center characterized by a low-density development pattern, with large 
+32
+areas of parking typically located between buildings and the road.
+33
+7.  Implementation program.  "Implementation program" means that component of a 
+34
+local growth management program that begins after the adoption of a comprehensive plan 
+35
+and that includes the full range of municipal policy-making powers, including spending 
+36
+and borrowing powers, as well as the powers to adopt or implement ordinances, codes, 
+37
+rules or other land use regulations, tools or mechanisms that carry out the purposes and 
+38
+general policy statements and strategies of the comprehensive plan in a manner consistent 
+39
+with the goals and guidelines of subchapter 2.
+40
+7-A.  Important natural resources.  "Important natural resources" means those areas 
+41
+in the community that are important for strategic conservation planning purposes and are 
+42
+not classified as critical natural resources, including, but not limited to: 
+43
+A.  Large habitat blocks as identified by the Department of Inland Fisheries and 
+44
+Wildlife's beginning with habitat program;
+1
+2
+
+Page 5 - 132LR0289(01)
+1
+B.  Habitat connections as identified by the Department of Inland Fisheries and 
+2
+Wildlife's beginning with habitat program;
+3
+C.  Focus areas of statewide ecological significance as identified in the Department of 
+4
+Inland Fisheries and Wildlife's federally required wildlife action plan;
+5
+D.  Exemplary natural communities as defined by the Natural Areas Program under 
+6
+Title 12, section 544;
+7
+E.  Important water resources and associated riparian habitat as identified by the 
+8
+Department of Inland Fisheries and Wildlife's beginning with habitat program; or
+9
+F.  Barriers and potential barriers to aquatic organism passage as identified by the 
+10
+Department of Inland Fisheries and Wildlife's beginning with habitat program.
+11
+For the purposes of this subsection, "beginning with habitat program" means the program 
+12
+that consolidates wildlife and habitat information from public agencies and private 
+13
+organizations in the State for use by municipalities and landowners.
+14
+8.  Land use ordinance.  "Land use ordinance" means an ordinance or regulation of 
+15
+general application adopted by the municipal legislative body which controls, directs or 
+16
+delineates allowable uses of land and the standards for those uses.
+17
+8-A.  Local climate action plan.  "Local climate action plan" means a planning and 
+18
+decision-making document adopted by a municipality or multimunicipal region that:
+19
+A.  Includes compiled information regarding climate and health risks;
+20
+B.  Includes an evaluation of options for addressing climate and health risks by 
+21
+individuals, committees or offices in local or regional government that are responsible 
+22
+for planning, implementing and monitoring activities that reduce climate risk, build 
+23
+resilience to natural hazards and improve health and community capacity to manage 
+24
+crises; and
+25
+C.  Is produced using community dialogue and participation in a manner that ensures 
+26
+the input and needs of the community's most vulnerable citizens are elevated and 
+27
+prioritized.
+28
+9.  Growth management program.  "Growth management program" means a 
+29
+document containing the components described in section 4326 4326-A, subsections 1 to 
+30
+4, including the implementation program, that is consistent with the goals and guidelines 
+31
+established by subchapter II 2 and that regulates land use beyond that required by Title 38, 
+32
+chapter 3, subchapter I 1, article 2‑B.
+33
+10.  Planning committee.  "Planning committee" means the committee established by 
+34
+the municipal officers of a municipality or combination of municipalities multimunicipal 
+35
+region that has the general responsibility established under sections 4324 and 4326 4326-A.
+36
+11.  Moratorium.  "Moratorium" means a land use ordinance or other regulation 
+37
+approved by a municipal legislative body that, if necessary, may be adopted on an 
+38
+emergency basis and given immediate effect and that temporarily defers all development, 
+39
+or a type of development, by withholding any permit, authorization or approval necessary 
+40
+for the specified type or types of development.
+41
+11-A.  Multimunicipal region.  "Multimunicipal region" means a region made up of 
+42
+2 or more municipalities that work together to cooperatively establish a growth 
+
+Page 6 - 132LR0289(01)
+43
+management program or independent growth management programs that are unified with 
+44
+respect to the implementation of the state goal identified in section 4312, subsection 3, 
+45
+paragraph A A-1.  The several municipalities in a multimunicipal region may establish the 
+46
+region pursuant to section 4325 or chapter 115.
+5
+12.  Municipal reviewing authority.  "Municipal reviewing authority" means the 
+6
+municipal planning board, agency or office, or if none, the municipal officers.
+7
+12-A.  Placetype.  "Placetype" means a definable geographic settlement pattern 
+8
+identifiable by the type of activities that occur there and by a set of characteristics related 
+9
+to its location, including the proximity and relationship to natural resources and rural areas; 
+10
+the size of the developed area; the arrangement of buildings and their uses; the pattern and 
+11
+arrangement of streets; the type of infrastructure available; and the presence of civic spaces 
+12
+and civic buildings.
+13
+13-A.  Rate of growth ordinance.  "Rate of growth ordinance" means a land use 
+14
+ordinance or other rule that limits the number of building or development permits issued 
+15
+by a municipality or other jurisdiction over a designated time frame.
+16
+14.  Regional council.  "Regional council" means a regional planning commission or 
+17
+a council of governments established under chapter 119, subchapter I 1.
+18
+14-A.  Service center community.  "Service center community" means a municipality 
+19
+or group of municipalities identified by the department according to a methodology 
+20
+established by rule that includes 4 basic criteria, including level of retail sales, jobs-to-
+21
+workers ratio, the amount of federally assisted housing and the volume of service sector 
+22
+jobs.  Rules adopted pursuant to this subsection are routine technical rules as defined in 
+23
+Title 5, chapter 375, subchapter 2‑A.
+24
+14-B.  Rural area.  "Rural area" means a geographic area that is identified and 
+25
+designated in a municipality's or multimunicipal region's comprehensive plan as an area 
+26
+that is deserving of some level of regulatory protection from unrestricted development for 
+27
+purposes that may include, but are not limited to, supporting farmland and agriculture, 
+28
+forest land and forestry, mineral resources and mining, open space, erosion mitigation, 
+29
+water retention, wildlife habitat, fisheries habitat, flood buffer areas and flood-prone areas, 
+30
+public water supplies, natural resources, open land and scenic lands, and away from which 
+31
+most development projected over 10 years is diverted.  Characteristics of a rural area may 
+32
+include large tracts of open land, areas of conserved lands, working farms and forests and 
+33
+a pattern of development that is spaced apart with dense vegetation or large, open, 
+34
+undeveloped areas between buildings or groupings of buildings.
+35
+14-C.  Transitional area.  "Transitional area" means an area that is designated in a 
+36
+municipality's or multimunicipal region's comprehensive plan as suitable for a share of 
+37
+projected residential, commercial or industrial development but that is neither intended to 
+38
+accept the amount or density of development appropriate for a growth area nor intended to 
+39
+provide the level of protection for rural resources afforded in a rural area or critical rural 
+40
+area.
+41
+14-D.  Suburban area.  "Suburban area" means a geographic area characterized by a 
+42
+fragmented development pattern, typically segregated by use, that often occurs on formerly 
+43
+rural land and where roadways are generally curvilinear and noncontiguous.
+1
+2
+3
+4
+
+Page 7 - 132LR0289(01)
+1
+15-A.  Zoning ordinance.  "Zoning ordinance" means a type of land use ordinance 
+2
+that divides a municipality into districts and that prescribes and reasonably applies different 
+3
+regulations in each district.
+4
+Sec. 2.  30-A MRSA §4312, sub-§2, ¶I, as enacted by PL 2001, c. 578, §8, is 
+5
+repealed.
+6
+Sec. 3.  30-A MRSA §4312, sub-§2, ¶J is enacted to read:
+7
+J.  Encourage cooperation between municipalities and state agencies, regional councils 
+8
+established under chapter 119, subchapter 1 and nonprofit organizations to develop 
+9
+comprehensive plans that assist municipalities in establishing local land use policies.
+10
+Sec. 4.  30-A MRSA §4312, sub-§3, as amended by PL 2021, c. 657, §§1 to 4, is 
+11
+further amended to read:
+12
+3.  State goals.  The Legislature hereby establishes a set of state goals to provide overall 
+13
+direction and consistency to the planning and regulatory actions of all state and municipal 
+14
+agencies affecting natural resource management, land use and development.  The 
+15
+Legislature declares that, in order to promote and protect the health, safety and welfare of 
+16
+the citizens of the State, it is in the best interests of the State to achieve the following goals:
+17
+A.  To encourage orderly growth and development in appropriate areas of each 
+18
+community and region while protecting the State's rural character, making efficient use 
+19
+of public services and preventing development sprawl;
+20
+A-1.  To encourage municipalities and multimunicipal regions to focus new 
+21
+development in growth areas to enable efficient use of public services and existing 
+22
+infrastructure investments while protecting the State's rural character, working lands, 
+23
+natural resources and natural resource-based industries and preventing development 
+24
+sprawl and sprawl-associated traffic congestion;
+25
+B.  To plan for, finance and develop an a safe and efficient system of public facilities, 
+26
+transportation infrastructure and public services to accommodate anticipated growth 
+27
+and economic development, including planning new development, factoring in 
+28
+life-cycle costs and infrastructure maintenance and replacement;
+29
+C.  To promote an economic climate which that increases job opportunities and overall 
+30
+economic well-being;
+31
+D.  To promote and work to ensure choice, economic diversity and affordability in 
+32
+housing for low-income and moderate-income households and use housing policy to 
+33
+remove barriers to housing production and to help address disparities in access to 
+34
+educational, occupational and other opportunities;
+35
+D-1.  To promote land use policies and land use ordinances that encourage the siting 
+36
+and construction of attainable housing and affordable housing in reasonable proximity 
+37
+to jobs and services and to site new housing in locations that decrease household 
+38
+transportation costs and reduce traffic congestion on regional roadways;
+39
+E.  To protect and improve the quality and to manage the quantity of the State's water 
+40
+resources, including lakes, aquifers, great ponds, estuaries, rivers and coastal areas;
+
+Page 8 - 132LR0289(01)
+1
+F.  To protect the State's other critical natural resources and important natural 
+2
+resources, including, without limitation, wetlands, wildlife and fisheries habitat, sand 
+3
+dunes, shorelands, scenic vistas and unique natural areas;
+4
+G.  To protect the State's marine resources industry, ports and harbors from 
+5
+incompatible development and to promote access to the shore for commercial 
+6
+fishermen persons who fish commercially and the public;
+7
+H.  To safeguard the State's agricultural and forest resources from development which 
+8
+that threatens those resources, including protecting forest soils, agricultural soils and 
+9
+access to farmland and promoting the viability of agriculture, in addition to 
+10
+safeguarding agricultural resources from development;
+11
+I.  To preserve the State's historic and archeological resources;
+12
+J.  To promote and protect the availability of outdoor recreation opportunities for all 
+13
+Maine citizens, including access to surface waters;
+14
+L.  To encourage municipalities to develop policies that accommodate older adults with 
+15
+aging in place and that encourage, including the creation of age-friendly communities, 
+16
+appropriate housing and transportation access; and
+17
+N.  To plan for the effects of the rise in sea level natural hazards, including, but not 
+18
+limited to, rising sea level, coastal and riverine flooding and extreme weather, on 
+19
+buildings, transportation infrastructure, sewage treatment facilities and other relevant 
+20
+state, regional, municipal or privately held infrastructure, property or resources., to 
+21
+build resilience to natural hazards and to promote consistency with the state climate 
+22
+action plan under Title 38, section 577; and
+23
+O.  To develop local and regional coastal management policies that are consistent with 
+24
+Title 38, section 1801 for any part of a municipality or multimunicipal region that is a 
+25
+coastal area.
+26
+Sec. 5.  30-A MRSA §4314, sub-§1, as amended by PL 2003, c. 641, §2, is further 
+27
+amended to read:
+28
+1.  Comprehensive plan.  A municipal comprehensive plan adopted or amended by a 
+29
+municipality under former Title 30, chapter 239, subchapter 5 or 6 remains in effect until 
+30
+amended or repealed in accordance with the procedures, goals and guidelines requirements 
+31
+established in this subchapter.  A comprehensive plan that is submitted to the department 
+32
+for certification prior to the final adoption of rules initiated after July 1, 2026 must be 
+33
+reviewed by the department based on provisions of this subchapter and associated rules in 
+34
+effect as of January 1, 2026.
+35
+Sec. 6.  30-A MRSA §4314, sub-§3, ¶D, as amended by PL 2011, c. 655, Pt. JJ, 
+36
+§16 and affected by §41, is repealed.
+37
+Sec. 7.  30-A MRSA §4314, sub-§3, ¶E, as repealed and replaced by PL 2005, c. 
+38
+397, Pt. A, §31, is amended to read:
+39
+E.  The ordinance or portion of the ordinance conflicts with a newly adopted 
+40
+comprehensive plan or plan amendment adopted in accordance with the procedures, 
+41
+goals and guidelines established in this subchapter, in which case the ordinance or 
+42
+portion of the ordinance remains in effect for a period of up to 24 months immediately 
+43
+following adoption of the comprehensive plan or plan amendment; or
+
+Page 9 - 132LR0289(01)
+1
+Sec. 8.  30-A MRSA §4314, sub-§3, ¶F, as amended by PL 2011, c. 655, Pt. JJ, 
+2
+§16 and affected by §41, is repealed.
+3
+Sec. 9.  30-A MRSA §4324, sub-§3, as amended by PL 2001, c. 578, §13, is further 
+4
+amended to read:
+5
+3.  Citizen Public participation.  In order to encourage citizen public participation in 
+6
+the development of a growth management program, municipalities or multimunicipal 
+7
+regions may adopt growth management programs only after establishing a process for 
+8
+active public participation, soliciting and, considering and incorporating a broad range of 
+9
+public input and engagement in formulating the comprehensive plan and inviting and 
+10
+considering public review and comment.  The intent of this subsection is to provide for the 
+11
+broad dissemination of proposals and alternatives, opportunity for written comments, open 
+12
+discussions, information dissemination and consideration of and response to public 
+13
+comments and to ensure that public comment is a factor in the development of a 
+14
+comprehensive plan as described in section 4326-A.  The department shall provide 
+15
+guidance on best practices for soliciting public input as part of the development of a 
+16
+comprehensive plan.
+17
+Sec. 10.  30-A MRSA §4324, sub-§8, ¶B, as amended by PL 2003, c. 641, §8, is 
+18
+further amended to read:
+19
+B.  A copy of the proposed comprehensive plan must be made available for public 
+20
+inspection at each municipal office or other convenient location with regular public 
+21
+hours at least 30 days before the hearing and made available on the municipality's 
+22
+publicly accessible website and by whatever means the municipality regularly 
+23
+publishes that municipality's public information.  If modification of the plan is 
+24
+proposed pursuant to comments made at a public hearing, and if a follow-up public 
+25
+hearing is to be held, the proposed changes must be made available for public 
+26
+inspection at each municipal office or other convenient location with regular public 
+27
+hours before any follow-up hearing.
+28
+Sec. 11.  30-A MRSA §4325, as amended by PL 2001, c. 578, §14, is further 
+29
+amended to read:
+30
+§4325.  Cooperative municipal growth management activities efforts
+31
+This section governs cooperative growth management efforts conducted by 2 or more 
+32
+municipalities.
+33
+1.  Within municipality.  A municipality participating in cooperative growth 
+34
+management efforts may exercise its land use planning and management authority over the 
+35
+total land area within its jurisdiction.
+36
+2.  Multimunicipal region.  Any combination of municipalities may conduct joint 
+37
+planning and regulatory programs to meet the requirements of this subchapter upon 
+38
+adoption of a written comprehensive planning and enforcement agreement by the municipal 
+39
+legislative bodies involved.  The municipalities must agree:
+40
+A.  On procedures for joint action in the preparation and adoption of comprehensive 
+41
+plans, and whether land use regulations and other implementation measures to be 
+42
+conducted on a multimunicipal basis will be administered within each municipality or 
+43
+by 2 or more of the municipalities;
+
+Page 10 - 132LR0289(01)
+1
+B.  On the manner of representation on any such joint land use body; and
+2
+C.  On the amount and source of contribution from each municipality for any costs 
+3
+incurred in the development, implementation and enforcement of the comprehensive 
+4
+plan and its implementation program and on the method of distributing the benefits or 
+5
+impacts of regional land use, economic development, housing, transportation, 
+6
+infrastructure and other shared plans and programs.
+7
+The comprehensive planning and enforcement agreement must be in writing, approved by 
+8
+the municipal legislative bodies for each municipality and forwarded to the department.
+9
+3.  Requirements.  The comprehensive planning and enforcement agreement must be 
+10
+in writing, approved by the municipal legislative bodies and forwarded to the office.
+11
+Sec. 12.  30-A MRSA §4326, as amended by PL 2023, c. 646, Pt. A, §§35 to 38, is 
+12
+repealed.
+13
+Sec. 13.  30-A MRSA §4326-A is enacted to read:
+14
+§4326-A.  Growth management program elements
+15
+A growth management program must include at least a comprehensive plan, as 
+16
+described in subsections 1 to 5, including a timetable for the implementation program. 
+17
+1.  Inventory and mapping.  A comprehensive plan must include: 
+18
+A.  Mapping of environmental systems data and other information important to making 
+19
+land use decisions, which must include, but is not limited to, all critical natural 
+20
+resources, all important natural resources and all data layers provided by the 
+21
+Department of Inland Fisheries and Wildlife's mapping under the beginning with 
+22
+habitat program as defined in section 4301, subsection 7-A, including those layers that 
+23
+are subject to state and federal laws, rules and regulations intended to preserve natural 
+24
+resources; 
+25
+B.  Mapping of conserved lands, identified using data and maps from federal and state 
+26
+agencies, regional councils and relevant local sources, as applicable; 
+27
+C.  Identification of locally important farmland, agricultural soils, forest land, mineral 
+28
+resources, working waterfronts, heritage coastal areas, scenic areas, public water 
+29
+supplies, other lands and water important to the local or regional natural resource-based 
+30
+economy and land in Maine tree growth, farmland and open space and working 
+31
+waterfront protection tax programs in Title 36, chapter 105, subchapters 2-A, 10 and 
+32
+10-A, respectively.  As used in this paragraph, "heritage coastal areas" means areas 
+33
+containing an assemblage of geological, botanical, zoological, historical or scenic 
+34
+features of exceptional state or national significance; and
+35
+D. A climate vulnerability assessment or local climate action plan. 
+36
+2.  Designation and mapping.  A comprehensive plan must designate, map and 
+37
+describe: 
+38
+A.  Rural areas, including any critical rural areas deserving of protection from 
+39
+unrestricted development, and open lands, including areas deserving additional 
+40
+protections not provided by federal or state law, rule or regulation or local ordinance.  
+41
+Within areas identified and mapped as rural areas or critical rural areas, the 
+42
+comprehensive plan must identify any existing or proposed placetypes within these 
+
+Page 11 - 132LR0289(01)
+43
+rural and critical rural areas, including, but not limited to, placetypes described in 
+44
+department rules such as rural centers, rural farmsteads, rural backlands, adjacent rural 
+45
+lands or rural roads;
+4
+B.  Suburban areas, which may include identification of areas of existing suburban 
+5
+development, intended new suburban development or areas intended to transition from 
+6
+suburban development to another placetype.  Within areas mapped as suburban areas, 
+7
+the comprehensive plan must identify any existing or proposed placetypes within these 
+8
+suburban areas, which may include, but are not limited to, placetypes described in 
+9
+department rules such as advanced suburban areas or suburban roads; 
+10
+C.  Areas or centers of existing or intended human and community activity, including 
+11
+placetypes not identified in paragraph A or B that are described in department rules, 
+12
+including existing or proposed downtowns, village centers, adjacent neighborhoods 
+13
+and high-impact corridors; and 
+14
+D.  Growth areas, which are placetypes or portions of placetypes identified and mapped 
+15
+pursuant to paragraph C, where investment by the municipality and the State may be 
+16
+necessary to implement the comprehensive plan.  Identification of designated growth 
+17
+areas must be informed by and consistent with the needs analysis required by 
+18
+subsection 3 and the goals established under subsection 4. 
+19
+The municipality or multimunicipal region may identify as its growth areas one or more 
+20
+growth areas adopted or to be adopted by one or more other municipalities or 
+21
+multimunicipal regions in accordance with an interlocal agreement adopted in 
+22
+accordance with chapter 115 with one or more municipalities or multimunicipal 
+23
+regions. 
+24
+A municipality or multimunicipal region is not required to identify growth areas within 
+25
+the municipality or multimunicipal region for residential, commercial, industrial or 
+26
+mixed-use growth if it demonstrates, in accordance with rules adopted by the 
+27
+department pursuant to this article, that it is not possible to accommodate future 
+28
+residential, commercial or industrial growth within the municipality or multimunicipal 
+29
+region because of severe physical limitations, including, without limitation, the lack of 
+30
+adequate water supply and sewage disposal services, very shallow soils or limitations 
+31
+imposed by protected natural resources. 
+32
+A municipality or multimunicipal region exercising the discretion afforded by this 
+33
+paragraph to not identify growth areas shall review the basis for its demonstration 
+34
+during the periodic revisions undertaken pursuant to section 4347‑A.
+35
+This subsection does not prohibit a municipality or a multimunicipal region from 
+36
+identifying, describing or mapping placetypes not defined in this subchapter or in rules 
+37
+adopted pursuant to this subchapter.  A municipality or multimunicipal region may use 
+38
+different names for placetypes defined in this subchapter or in rules adopted pursuant to 
+39
+this subchapter in order to reflect local nomenclature or preferences.
+40
+3.  Needs analysis.  A comprehensive plan must include a needs analysis that identifies 
+41
+existing conditions or desired conditions within the municipality or multimunicipal region 
+42
+that are necessary to support housing, economic growth and development; protect public 
+43
+health, safety and welfare of the community; and protect the environment and critical 
+44
+resources.
+1
+2
+3
+
+Page 12 - 132LR0289(01)
+1
+For all areas identified under subsections 1 and 2, the comprehensive plan must identify 
+2
+needs related to ensuring protection of critical natural resources, water quality and, as 
+3
+applicable, access to coastal waters for commercial activities and protection of agricultural 
+4
+and forest resources.
+5
+The comprehensive plan must include a narrative section describing the analysis conducted 
+6
+pursuant to this section and how it informed the identification of each need listed in the 
+7
+comprehensive plan.  The narrative section must describe any public input received, 
+8
+including public input received in response to solicitation of public comment pursuant to 
+9
+section 4324, subsection 3, and how that input informed the identification of needs listed 
+10
+in the comprehensive plan.
+11
+4.  Goals.  The comprehensive plan must include a narrative section that outlines the 
+12
+goals the municipality or multimunicipal region has established to address each of the needs 
+13
+identified under subsection 3.  The narrative must describe how the municipality's or the 
+14
+multimunicipal region's goals:
+15
+A.  Address the needs identified pursuant to subsection 3;
+16
+B.  Align with state goals listed in section 4312.  The comprehensive plan must note if 
+17
+a state goal is not applicable to the municipality or multimunicipal region; and
+18
+C.  Align or, if applicable, conflict with the goals of the region.  
+19
+5.  Implementation strategy.  The comprehensive plan must include a section that 
+20
+describes how the goals established in subsection 4 will be implemented, including: 
+21
+A.  Identification of and a description of land use policies and land use ordinances to 
+22
+be adopted in order to align with the maps created pursuant to this section where those 
+23
+policies and ordinances are applicable; 
+24
+B.  For municipalities with zoning ordinances, establishment of development standards 
+25
+applicable to implement the goals in subsection 4; 
+26
+C.  Plans for capital investment and, if feasible, identification of sources of capital; and
+27
+D.  Establishment of the timetable for the implementation program. 
+28
+Sec. 14.  30-A MRSA §4328, as enacted by PL 2001, c. 592, §2, is amended to read:
+29
+§4328.  Transfer of development rights
+30
+In order to comply with the requirement in section 4326 4326-A for each municipality 
+31
+to adopt land use policies and land use ordinances to discourage incompatible development, 
+32
+a municipality may adopt a transfer of development rights program for the transfer of 
+33
+development rights within its boundaries.  Two or more municipalities may adopt a 
+34
+program that provides for the transfer of development rights between the municipalities if 
+35
+the municipalities have entered into an interlocal agreement pursuant to chapter 115 for 
+36
+this purpose.
+37
+Sec. 15.  30-A MRSA §4346, 2nd ¶, as amended by PL 2021, c. 590, Pt. A, §10, is 
+38
+further amended to read:
+39
+The department may enter into financial assistance grants only to the extent that funds 
+40
+are available.   In making grants, the department shall consider the need for planning in a 
+41
+municipality or multimunicipal region, the proximity of the municipality or multimunicipal 
+
+Page 13 - 132LR0289(01)
+42
+region to other areas that are conducting or have completed the planning process and the 
+43
+economic and geographic role of the municipality or multimunicipal region within a 
+44
+regional context.  The department shall give priority in making grants to any municipality 
+45
+or multimunicipal region that has adopted a local climate action plan and, if the 
+46
+municipality or multimunicipal region has adopted a comprehensive plan or growth 
+47
+management program, prepared a climate vulnerability assessment pursuant to section 
+48
+4326, subsection 1, paragraph L.  The department may consider other criteria in making 
+49
+grants, as long as the criteria support the goal of encouraging and facilitating the adoption 
+50
+and implementation of local and multimunicipal growth management programs consistent 
+51
+with the procedures, goals, requirements and guidelines established in this subchapter.  In 
+52
+order to maximize the availability of the technical and financial assistance program to all 
+53
+municipalities, multimunicipal regions and regional councils, financial assistance programs 
+54
+administered competitively under this article are exempt from rules adopted by the 
+55
+Department of Administrative and Financial Services pursuant to Title 5, section 1825‑C 
+56
+for use in the purchase of services and the awarding of grants and contracts.  The 
+57
+department shall publish a program statement describing its grant program and advertising 
+58
+its availability to eligible applicants.
+18
+Sec. 16.  30-A MRSA §4346, sub-§5, as amended by PL 2013, c. 300, §6, is further 
+19
+amended to read:
+20
+5.  Coordination.  State agencies with regulatory or other authority affecting the goals 
+21
+established in this subchapter shall conduct their respective activities in a manner consistent 
+22
+with the goals established under this subchapter, including, but not limited to, coordinating 
+23
+with municipalities, regional councils and other state agencies in meeting the state goals; 
+24
+providing available information to regions and municipalities as described in section 4326, 
+25
+subsection 1 the department, municipalities and multimunicipal regions; cooperating with 
+26
+efforts to integrate and provide access to the department with geographic information and 
+27
+environmental system data and maps necessary for the inventory and needs analysis 
+28
+components of a comprehensive plan pursuant to section 4326-A; making state investments 
+29
+and awarding grant money as described in section 4349‑A; and conducting reviews of 
+30
+growth management programs as provided in section 4347‑A, subsection 3, paragraph A.  
+31
+Without limiting the application of this section to other state agencies, the following 
+32
+agencies shall comply with this subchapter:
+33
+B.  Department of Economic and Community Development;
+34
+C.  Department of Environmental Protection;
+35
+D.  Department of Agriculture, Conservation and Forestry;
+36
+E.  Department of Inland Fisheries and Wildlife;
+37
+F.  Department of Marine Resources;
+38
+G.  Department of Transportation;
+39
+G-1.  Department of Health and Human Services;
+40
+H.  Finance Authority of Maine; and
+41
+I.  Maine State Housing Authority.
+42
+Sec. 17.  30-A MRSA §4347-A, sub-§1, as amended by PL 2011, c. 655, Pt. JJ, 
+43
+§21 and affected by §41, is further amended to read:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+Page 14 - 132LR0289(01)
+1
+1.  Comprehensive plans.  A municipality or multimunicipal region that chooses to 
+2
+prepare a growth management program and receives a planning grant under this article 
+3
+shall submit its comprehensive plan to the department for review.  A municipality or 
+4
+multimunicipal region that chooses to prepare a growth management program without 
+5
+receiving a planning grant under this article may submit its comprehensive plan to the 
+6
+department for review.  The department shall review plans for consistency with the 
+7
+procedures, goals and guidelines requirements established in this subchapter.  A contract 
+8
+for a planning assistance grant must include specific timetables governing the review of the 
+9
+comprehensive plan by the department.  A comprehensive plan submitted for review more 
+10
+than 12 months following a contract end date may be required to contain data, projections 
+11
+and other time-sensitive portions of the plan or program that are in compliance with the 
+12
+department's most current review standards.
+13
+Sec. 18.  30-A MRSA §4347-A, sub-§2, as amended by PL 2011, c. 655, Pt. JJ, 
+14
+§21 and affected by §41, is further amended to read:
+15
+2.  Growth management programs.  A municipality or multimunicipal region may at 
+16
+any time request a certificate of consistency for its growth management program.
+17
+A.  Upon a request for review under this section, the department shall review the 
+18
+program and determine whether the program is consistent with the procedures, goals 
+19
+and guidelines requirements established in this subchapter.
+20
+B.  Certification by the former State Planning Office or the department of a 
+21
+municipality's or multimunicipal region's growth management program by the former 
+22
+State Planning Office or the department charged with reviewing growth management 
+23
+programs under this article is valid for 10 12 years.  To maintain certification, a 
+24
+municipality or multimunicipal region shall periodically review its growth 
+25
+management program and submit to the department in a timely manner any revisions 
+26
+necessary to account for changes, including changes caused by growth and 
+27
+development. Certification does not lapse in any year in which the Legislature does not 
+28
+appropriate funds to the department for the purposes of reviewing programs for 
+29
+recertification.
+30
+C.  Upon a request for review under this section, the department may review rate of 
+31
+growth, impact fee and zoning ordinances to determine whether the ordinances are 
+32
+consistent with a comprehensive plan that has been found consistent under this section 
+33
+without requiring submission of all elements of a growth management program.  An 
+34
+affirmative finding of consistency by the department is required for a municipality or 
+35
+multimunicipal region to assert jurisdiction as provided in section 4349‑A.
+36
+Sec. 19.  30-A MRSA §4347-A, sub-§3, ¶C, as amended by PL 2011, c. 655, Pt. 
+37
+JJ, §21 and affected by §41, is further amended to read:
+38
+C.  Within 90 days after receiving the growth management program, send all written 
+39
+comments on the growth management program to the municipality or multimunicipal 
+40
+region and any applicable regional council.  If warranted, the department shall issue 
+41
+findings specifically describing how the submitted growth management program is not 
+42
+consistent with the procedures, goals and guidelines requirements established in this 
+43
+subchapter and the recommended measures for remedying the deficiencies.
+
+Page 15 - 132LR0289(01)
+1
+(1)  In its findings, the department shall clearly indicate its position on any point 
+2
+on which there are significant conflicts among the written comments submitted to 
+3
+the department.
+4
+(2)  If the department finds that the growth management program was adopted in 
+5
+accordance with the procedures, goals and guidelines requirements established in 
+6
+this subchapter, the department shall issue a certificate of consistency for the 
+7
+growth management program.
+8
+(3)  Notwithstanding paragraph D, if a municipality or multimunicipal region 
+9
+requests a certificate of consistency for its growth management program, any 
+10
+unmodified component of that program that has previously been reviewed by the 
+11
+former State Planning Office or the department and has received a finding of 
+12
+consistency will retain that finding during program certification review by the 
+13
+department as long as the finding of consistency is current as defined in rules 
+14
+adopted by the department;
+15
+Sec. 20.  30-A MRSA §4347-A, sub-§3-A, as amended by PL 2011, c. 655, Pt. JJ, 
+16
+§21 and affected by §41, is further amended to read:
+17
+3-A.  Review of comprehensive plan.  In reviewing a comprehensive plan, the 
+18
+department shall:
+19
+A.  Solicit written comments on any proposed comprehensive plan from regional 
+20
+councils, state agencies, all municipalities contiguous to the municipality or 
+21
+multimunicipal region submitting a comprehensive plan and any interested residents 
+22
+of the municipality or multimunicipal region or of contiguous municipalities. The 
+23
+comment period extends for 25 20 business days after the department receives the 
+24
+comprehensive plan.  Each state agency reviewing the proposal shall designate a person 
+25
+or persons responsible for coordinating the agency's review of the comprehensive plan;
+26
+B.  Prepare all written comments from all sources in a form to be forwarded to the 
+27
+municipality or multimunicipal region;
+28
+C.  Within 35 40 business days after receiving the comprehensive plan, notify the 
+29
+municipality or multimunicipal region if the plan is complete for purposes of review.  
+30
+If the department notifies the municipality or multimunicipal region that the plan is not 
+31
+complete for purposes of review, the department shall indicate in its notice necessary 
+32
+additional data or information make a determination of whether a plan is consistent or 
+33
+inconsistent based on a review of the requirements of this subchapter;
+34
+D.  Within 10 business days of issuing notification that a comprehensive plan is 
+35
+complete for purposes of review, issue findings specifically describing whether the 
+36
+submitted plan is consistent with the procedures, goals and guidelines established in 
+37
+this subchapter and identify which inconsistencies in the plan, if any, may directly 
+38
+affect rate of growth, zoning or impact fee ordinances.
+39
+(1)  In its findings, the department shall clearly indicate its position on any point 
+40
+on which there are significant conflicts among the written comments submitted to 
+41
+the department.
+42
+(2)  If the department finds that the comprehensive plan was developed in 
+43
+accordance with the procedures, goals and guidelines established in this 
+
+Page 16 - 132LR0289(01)
+44
+subchapter, the department shall issue a finding of consistency for the 
+45
+comprehensive plan.
+3
+(3)  A finding of inconsistency must identify the goals under this subchapter not 
+4
+adequately addressed, specific sections of the rules relating to comprehensive plan 
+5
+review adopted by the department not adequately addressed and recommendations 
+6
+for resolving the inconsistency;
+7
+D-1.  If the department finds that a comprehensive plan was developed in accordance 
+8
+with the goals, requirements and guidelines established in this subchapter, issue a 
+9
+finding of consistency for the comprehensive plan.  If the department finds that a 
+10
+comprehensive plan does not meet the requirements established in this subchapter, the 
+11
+department shall issue a finding of inconsistency and provide to the municipality or 
+12
+multimunicipal region recommendations for resolving the inconsistency;
+13
+E.  Send all written findings and comments on the comprehensive plan to the 
+14
+municipality or multimunicipal region and any applicable regional council; and
+15
+F.  Provide ample opportunity for the municipality or multimunicipal region submitting 
+16
+a comprehensive plan to respond to and correct any identified deficiencies in the plan 
+17
+revise the plan to be consistent with the goals and requirements of this subchapter.  A 
+18
+finding of inconsistency for a comprehensive plan may be addressed within 24 months 
+19
+of the date of the finding without addressing any new review standards that are created 
+20
+during that time interval. After 24 months, the plan must be resubmitted in its entirety 
+21
+for state review under the department's most current review standards.
+22
+If the department finds that a plan is not consistent with the procedures, goals and 
+23
+guidelines requirements established in this subchapter, and in the rules and guidance 
+24
+adopted and established by the department, the municipality or multimunicipal district 
+25
+region that submitted the plan may appeal that finding to the department within 20 business 
+26
+days of receipt of the finding in accordance with rules adopted by the department, which 
+27
+are routine technical rules pursuant to Title 5, chapter 375, subchapter 2‑A.
+28
+The department's decision on consistency of a comprehensive plan constitutes final agency 
+29
+action.
+30
+A finding by the department pursuant to paragraph D D-1 that a comprehensive plan is 
+31
+consistent with the procedures, goals and guidelines requirements established in this 
+32
+subchapter is valid for 12 years from the date of its issuance.  A finding by the former State 
+33
+Planning Office issued pursuant to this subchapter prior to December 31, 2000 that a 
+34
+comprehensive plan is consistent with the procedures, goals and guidelines established in 
+35
+this subchapter is valid until December 31, 2012.  For purposes of section 4314, subsection 
+36
+3 and section 4352, subsection 2, expiration of a finding of consistency pursuant to this 
+37
+subsection does not itself make a comprehensive plan inconsistent with the procedures, 
+38
+goals and guidelines established in this subchapter.
+39
+Sec. 21.  30-A MRSA §4352, sub-§6, as amended by PL 2003, c. 688, Pt. C, §20, 
+40
+is further amended to read:
+41
+6.  Effect on State.  A zoning ordinance that is not consistent with a comprehensive 
+42
+plan that is consistent with the provisions of section 4326 4326-A is advisory with respect 
+43
+to the State.  Except as provided in this section, a state agency shall comply with a zoning 
+44
+ordinance consistent with a comprehensive plan that is consistent with the provisions of 
+1
+2
+
+Page 17 - 132LR0289(01)
+45
+section 4326 4326-A in seeking to develop any building, parking facility or other publicly 
+46
+owned structure.  The Governor or the Governor's designee may, after public notice and 
+47
+opportunity for public comment, including written notice to the municipal officers, waive 
+48
+any use restrictions in those ordinances upon finding that:
+5
+A.  The proposed use is not allowed anywhere in the municipality;
+6
+B.  There are no reasonable alternative sites for or configurations of the project within 
+7
+the municipality that would achieve the necessary public purposes;
+8
+C.  There are no reasonable alternatives to the project, including sites in other 
+9
+municipalities, that would achieve the necessary public purposes;
+10
+D.  The project will result in public benefits beyond the limits of the municipality, 
+11
+including, without limitation, access to public waters or publicly owned lands; and
+12
+E.  The project is necessary to protect the public health, welfare or environment.
+13
+A decision to waive a restriction under this section may be appealed by the municipality or 
+14
+any aggrieved party to Superior Court.
+15
+Sec. 22.  30-A MRSA §5953-D, sub-§3, ¶D, as amended by PL 2011, c. 655, Pt. 
+16
+JJ, §27 and affected by §41 and amended by c. 657, Pt. W, §5, is further amended by 
+17
+amending subparagraph (2), division (a) to read:
+18
+(a)  Has adopted a comprehensive plan that is determined by the Executive 
+19
+Department, former State Planning Office or the Department of Agriculture, 
+20
+Conservation and Forestry the Maine Office of Community Affairs, 
+21
+established in Title 5, section 3202, to be consistent with section 4326, 
+22
+subsections 1 to 4 4326-A.
+23
+Sec. 23.  30-A MRSA §5953-D, sub-§4-A, as amended by PL 2003, c. 288, §3, is 
+24
+further amended to read:
+25
+4-A.  Criteria; conditions for downtown improvement grants or loans.  The 
+26
+Department of Economic and Community Development, in conjunction with the bank, 
+27
+shall develop criteria and conditions for the award of downtown improvement grants or 
+28
+loans to eligible municipalities after consultation with the state agencies listed in subsection 
+29
+5 and subject to the requirements of this section. The department shall establish a 
+30
+preference for municipalities that are regional service centers or urban compact 
+31
+municipalities or have adopted a comprehensive plan consistent with section 4326 4326-A.
+32
+Sec. 24.  Office to adopt rules.  The Maine Office of Community Affairs, 
+33
+established in the Maine Revised Statutes, Title 5, section 3202, shall amend existing rules 
+34
+governing the growth management program to be consistent with the laws governing the 
+35
+program as amended by this Act.  Notwithstanding Title 30-A, section 4312, subsection 4, 
+36
+rules adopted pursuant to this section are major substantive rules as defined in Title 5, 
+37
+chapter 375, subchapter 2-A.  The following placetype descriptions must be incorporated 
+38
+into the rules.
+39
+1.  Adjacent neighborhood.  "Adjacent neighborhood" means a primarily residential 
+40
+area located adjacent to a village center, downtown or high-impact corridor.  Adjacent 
+41
+neighborhoods are predominantly developed for residential activities and are typically 
+42
+arranged along a network of interconnected streets.
+1
+2
+3
+4
+
+Page 18 - 132LR0289(01)
+1
+2.  Adjacent rural lands.  "Adjacent rural lands" means large undeveloped land areas 
+2
+adjacent to rural backlands and to areas where there is development activity.  Adjacent rural 
+3
+lands typically include land located behind lots along rural roads or adjacent to a rural 
+4
+center, village center or other placetype.  Adjacent rural lands can also be located adjacent 
+5
+to suburban areas.  Because of their proximity to land where development is present, 
+6
+adjacent rural lands are a high priority for local planning and policy work to verify goals 
+7
+for future land use.
+8
+3.  Advanced suburban area.  "Advanced suburban area" means an area where low-
+9
+density development has spread from the road frontage deeper into lots and to adjacent 
+10
+rural land.  Development within these areas is typically segregated by use and may include 
+11
+commercial strip malls, regional shopping centers, so-called big box retail development, 
+12
+office parks, residential subdivisions and other forms of single-use development.  
+13
+Advanced suburban areas result in disconnected development and fragmented open spaces 
+14
+disconnected from a larger network of habitat corridors, trails and other natural systems.
+15
+4.  Rural backlands.  "Rural backlands" means geographically isolated areas with no 
+16
+direct frontage onto public roads. Rural backlands often have very little or no development 
+17
+and may be intersected by trails and utility corridors.  These areas may contain conserved 
+18
+lands, critical natural resources and important natural resources.  Depending on local 
+19
+municipal land use policies, rural backlands may be targeted for conservation, as working 
+20
+lands, or for development that limits impacts on wildlife, water management, agricultural 
+21
+uses and active outdoor recreation activities.
+22
+5.  Rural center.  "Rural center" means an area with a grouping of 2 or more buildings 
+23
+that have formed a center of community within a rural area.  It may include historic or 
+24
+architecturally important or significant buildings.  A rural center can vary in size but is 
+25
+geographically smaller in size than a village center placetype.
+26
+6.  Rural farmstead.  "Rural farmstead" means a parcel of land that serves or has the 
+27
+potential to serve as a mixed-use, resource-based economic center of activity in a rural area.  
+28
+A rural farmstead may consist of adjacent buildings on a single parcel that support the 
+29
+commercial, residential and economic needs of a rural agricultural or forestry business.  A 
+30
+rural farmstead allows for mixed-use development in rural areas to provide economic 
+31
+options to rural landowners while also safeguarding the agricultural and forest sectors from 
+32
+fragmented low-density development.
+33
+7.  Rural road.  "Rural road" means a road that has the characteristics of a rural area, 
+34
+with homes and businesses occurring at infrequent intervals on lots that often exceed 5 
+35
+acres in size, and are frequently much larger, with driveways that typically occur an average 
+36
+of every 500 feet or more.  Rural roads have no geographic center, except where punctuated 
+37
+by rural centers.
+38
+8.  Suburban road.  "Suburban road" means an area along the frontage of a road where 
+39
+incremental development slowly transitions a rural road to a suburban one.  Suburban roads 
+40
+have more frequent curb cuts than a rural road, typically occurring an average of every 500 
+41
+feet or less.  Buildings are typically located on lots of one to 3 acres, created through lot 
+42
+splits and subdivisions of larger parcels of land.  Development typically includes a range 
+43
+of uses, including residential, commercial, industrial and office uses, each separated from 
+44
+the other.  Buildings are typically located within view of the road and each other, changing 
+45
+the perception of the area from rural to suburban.
+
+Page 19 - 132LR0289(01)
+1
+9.  Village center.  "Village center" means an area with a loose grouping of buildings 
+2
+accommodating a variety of uses and serving as a center for commerce, living, education 
+3
+and social interaction within a community.  Village centers typically include a loose 
+4
+network of streets, with a main street running through the center.  The placement of 
+5
+buildings on lots, the distance between buildings and the pattern of streets and blocks are 
+6
+looser and more irregular than a downtown placetype.
+7
+Sec. 25.  Director to convene stakeholder group.  Prior to initiating rulemaking 
+8
+as required by this Act, the Director of the Maine Office of Community Affairs shall 
+9
+convene a stakeholder group for the purpose of soliciting input on the development of rules 
+10
+necessary to implement the Maine Revised Statutes, Title 30-A, chapter 187, subchapter 2, 
+11
+as amended by this Act.  The stakeholder group may not exceed 17 members, excluding 
+12
+the director.  Members of the stakeholder group are as follows:
+13
+1.  The Director of the Maine Office of Community Affairs;
+14
+2.  The program director of the Department of Agriculture, Conservation and Forestry's 
+15
+Municipal Planning Assistance Program;
+16
+3.  A representative of the Housing Opportunity Program established in Title 5, section 
+17
+13056-J, as designated by the program's director;
+18
+4.  A representative of the climate resilience program, as designated by the program's 
+19
+director;
+20
+5.  A representative of the Office of Policy Innovation and the Future with expertise in 
+21
+housing, as designated by the director of that office; 
+22
+6.  The director of the Maine State Housing Authority or the director's designee; and 
+23
+7.  The following members, selected by and serving at the pleasure of the Director of 
+24
+the Maine Office of Community Affairs: 
+25
+A. A representative of a statewide association of municipalities; 
+26
+B. A representative of a statewide organization that advocates for farmland protection 
+27
+and farm viability; 
+28
+C. A representative of a statewide organization that advocates for smart growth; 
+29
+D. A representative of a statewide organization that represents land use planners; 
+30
+E. A representative of a statewide organization that advocates for conservation of 
+31
+wildlife and wildlife habitat in this State; 
+32
+F. A representative of a statewide organization that advocates for the creation and 
+33
+preservation of affordable housing; 
+34
+G. A representative of a statewide organization that advocates for responsible 
+35
+development and ownership of real estate; 
+36
+H. Representatives from at least 3 municipalities of varying populations; at least one 
+37
+of whom must be from a municipality that has completed a comprehensive plan that 
+38
+incorporates placetypes; and
+39
+I. Representatives from at least 2 regional councils as established under Title 30-A, 
+40
+chapter 119, subchapter 1. 
+
+Page 20 - 132LR0289(01)
+1
+Sec. 26.  Office to develop guidance for public participation.  The Maine 
+2
+Office of Community Affairs shall develop guidance materials describing strategies for 
+3
+soliciting, encouraging and incorporating public input into the development of a 
+4
+comprehensive plan as required by the Maine Revised Statutes, Title 30-A, section 4324, 
+5
+subsection 3.  At a minimum, the guidance materials must include:
+6
+1.  Strategies to solicit input from all demographic groups of residents, including 
+7
+historically underrepresented persons, through a series of public events and activities, 
+8
+including hands-on workshops, work sessions or focused roundtable meetings;
+9
+2.  Effective methods to advertise events and activities through a combination of print 
+10
+and digital platforms in advance of the events and activities;
+11
+3.  Multiple methods to provide opportunities for the public to contribute ideas, discuss 
+12
+key issues facing the community, set priorities and develop policies and strategies to 
+13
+address local challenges, including, but not limited to, seeking input through digital and 
+14
+paper surveys, questionnaires, visual preference surveys and other means;
+15
+4.  Methods to analyze the public input and use the input to prepare a draft of the 
+16
+comprehensive plan and meet the requirements for a comprehensive plan under Title 30-A, 
+17
+section 4326-A; and
+18
+5.  Ways to make a draft comprehensive plan easily accessible to the public to solicit 
+19
+feedback from the public on the draft comprehensive plan.
+20
+Sec. 27.  Application.  This Act does not apply to a comprehensive plan or growth 
+21
+management program under the Maine Revised Statutes, Title 30-A, section 4314, 
+22
+subsection 1 that was submitted to the Department of Agriculture, Conservation and 
+23
+Forestry for certification before the final adoption of rules necessary to implement Title 
+24
+30-A, chapter 187, subchapter 2 as authorized by Title 30-A, section 4312 and affected by 
+25
+section 24 of this Act.
+26
+SUMMARY
+27
+This bill makes comprehensive changes to the growth management program, including 
+28
+substantive and procedural changes to comprehensive land use planning.
+27
+28

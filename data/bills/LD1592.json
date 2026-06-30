@@ -1,0 +1,94 @@
+{
+  "ld": 1592,
+  "paper": "HP1050",
+  "paper_display": "HP 1050",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098413",
+  "title": "An Act to Reduce Energy Costs by Permitting the Ownership of Generation by Investor-owned Transmission and Distribution Utilities",
+  "committee": "Energy, Utilities and Technology",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 7, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/6/2025 - Reports READ . On motion of Representative KESSLER of South Portland, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/7/2025 - Reports Read On motion by Senator GROHOSKI of Hancock the Majority Ought Not to Pass Report ACCEPTED . in concurrence Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Billy Bob FAULKINGHAM",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Winter Harbor"
+    },
+    {
+      "name": "Steven FOSTER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dexter"
+    },
+    {
+      "name": "Matthew HARRINGTON",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Mathew MCINTYRE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lowell"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ELECTRIC UTILITIES",
+      "minor": "RATES",
+      "detail": "NET ENERGY BILLING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "House",
+      "description": "Committee on Energy, Utilities and Technology suggested and ordered printed. The Bill was REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY in concurrence"
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative KESSLER of South Portland, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator GROHOSKI of Hancock the Majority Ought Not to Pass Report ACCEPTED . in concurrence Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1050&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1050",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1050&SessionID=16",
+  "scraped_at": "2026-06-30T19:32:56Z"
+}

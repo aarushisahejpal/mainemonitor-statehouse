@@ -1,0 +1,101 @@
+{
+  "ld": 1196,
+  "paper": "SP0485",
+  "paper_display": "SP 485",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097619",
+  "title": "Resolve, to Require the Towns of Kittery and York to Develop a Boundary Description",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 29, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/20/2025 - The Resolve was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT . In concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/29/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Mark LAWRENCE",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "York"
+    },
+    {
+      "name": "Kristi MATHIESON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kittery"
+    },
+    {
+      "name": "Michele MEYER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Eliot"
+    },
+    {
+      "name": "Walter RUNTE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "York"
+    },
+    {
+      "name": "Holly SARGENT",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "York"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "MUNICIPALITIES",
+      "minor": "BOUNDARIES",
+      "detail": "KITTERY AND YORK"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Committee on STATE AND LOCAL GOVERNMENT suggested and ordered printed REFERENCE to the Committee on STATE AND LOCAL GOVERNMENT Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "The Resolve was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0485&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0485",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0485&SessionID=16",
+  "scraped_at": "2026-06-30T19:03:23Z"
+}

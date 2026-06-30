@@ -1,0 +1,630 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1969
+H.P. 1313
+House of Representatives, May 13, 2025
+An Act to Amend the Maine Revised Unclaimed Property Act
+Submitted by the Treasurer of State pursuant to Joint Rule 204.
+Reference to the Committee on Judiciary suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative RIELLY of Westbrook.
+
+Page 1 - 132LR0562(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  33 MRSA §2052, sub-§24, ¶B, as amended by PL 2019, c. 571, §3, is 
+3
+further amended by amending subparagraph (1) to read:
+4
+(1)  Money, virtual currency, interest or a dividend, check, draft, deposit or payroll 
+5
+card;
+6
+Sec. 2.  33 MRSA §2052, sub-§32-A is enacted to read:
+7
+32-A.  Virtual currency.  "Virtual currency" means a digital representation of value 
+8
+used as a medium of exchange, unit of account or store of value, which is not legal tender 
+9
+of the United States. "Virtual currency" does not include:
+10
+A. Software or protocols governing the transfer of a digital representation of value;
+11
+B. Game-related digital content; or
+12
+C. A loyalty obligation or gift obligation.
+13
+Sec. 3.  33 MRSA §2061, sub-§5, as enacted by PL 2019, c. 498, §22, is amended 
+14
+to read:
+15
+5.  Payroll card or demand, savings or time deposit.  A payroll card or demand, 
+16
+savings or time deposit, including a deposit that is automatically renewable, 3 years after 
+17
+the later of maturity, if applicable, of the card or deposit and the apparent owner's last 
+18
+indication of interest in the card or deposit, except that a deposit that is automatically 
+19
+renewable is deemed matured on its initial date of maturity unless the apparent owner 
+20
+consented in a record on file with the holder to renewal at or about the time of the renewal;
+21
+Sec. 4.  33 MRSA §2061, sub-§14, as enacted by PL 2019, c. 498, §22, is amended 
+22
+to read:
+23
+14.  Nonactivated stored-value obligation or electronic payment medium.  Funds 
+24
+represented by a nonactivated stored-value obligation or other nonactivated electronic 
+25
+payment medium that require activation for use, one year after the funds would have 
+26
+otherwise first been available to the owner; and
+27
+Sec. 5.  33 MRSA §2061, sub-§14-A is enacted to read:
+28
+14-A.  Terminated retirement plan.  Funds from the termination of a defined 
+29
+contribution plan or other retirement plan, as soon as administratively feasible after the date 
+30
+of plan termination; and
+31
+Sec. 6.  33 MRSA §2062, as enacted by PL 2019, c. 498, §22, is amended to read:
+32
+§2062.  When tax-deferred or tax-advantaged retirement account presumed 
+33
+abandoned
+34
+1.  Presumed abandoned after 3 years.  Subject to section 2070, property held in a 
+35
+pension account or retirement account that qualifies for tax deferral or tax advantage under 
+36
+the income tax laws of the United States is presumed abandoned if it is unclaimed by the 
+37
+apparent owner 3 years after the later of: date a distribution is required under the United 
+38
+States Internal Revenue Code of 1986 in order to avoid a tax penalty, including a 
+39
+distribution required due to the death of the apparent owner, or in the case of a tax-
+40
+advantaged retirement account, 3 years after the death of the apparent owner.
+
+Page 2 - 132LR0562(01)
+1
+A.  The later of the following dates:
+2
+(1)  Except as in subparagraph (2), the date a communication sent by the holder by 
+3
+first class United States mail to the apparent owner is returned to the holder as 
+4
+undeliverable by the United States Postal Service; and
+5
+(2)  If the returned communication is resent within 30 days, the date the resent 
+6
+communication was returned as undeliverable by the United States Postal Service; 
+7
+and
+8
+B.  The earlier of the following dates:
+9
+(1)  The date the apparent owner becomes 70 1/2 years of age; and
+10
+(2)  If the federal Internal Revenue Code of 1986, as amended, requires distribution 
+11
+to avoid a tax penalty, the date the holder:
+12
+(a)  Receives confirmation of the death of the apparent owner in the ordinary 
+13
+course of its business; or
+14
+(b)  Confirms the death of the apparent owner under subsection 2.
+15
+2.  Confirmation of death of apparent owner.  If a holder in the ordinary course of 
+16
+its business receives notice or an indication of the death of an apparent owner and 
+17
+subsection 1, paragraph B applies, the holder shall attempt not later than 90 days after 
+18
+receipt of the notice or indication to confirm whether the apparent owner is deceased.
+19
+3.  Confirmation of apparent owner's interest.  If the holder does not send 
+20
+communications to the apparent owner of an account described in subsection 1 by first class 
+21
+United States mail on at least an annual basis, the holder shall attempt to confirm the 
+22
+apparent owner's interest in the property by sending the apparent owner an e-mail not later 
+23
+than 2 years after the apparent owner's last indication of interest in the property.  However, 
+24
+the holder promptly shall attempt to contact the apparent owner by first class United States 
+25
+mail if:
+26
+A.  The holder does not have information needed to send the apparent owner an e-mail 
+27
+or the holder believes that the apparent owner's e-mail address in the holder's records 
+28
+is not valid;
+29
+B.  The holder receives notification that the e-mail was not received; or
+30
+C.  The apparent owner does not respond to the e-mail within 30 days after the e-mail 
+31
+was sent.
+32
+Sec. 7.  33 MRSA §2063, sub-§2, as enacted by PL 2019, c. 498, §22, is repealed.
+33
+Sec. 8.  33 MRSA §2064, sub-§1, as enacted by PL 2019, c. 498, §22, is amended 
+34
+to read:
+35
+1.  Presumed abandoned after 3 years.  Subject to section 2070, and except as 
+36
+provided in subsection 3, property held in an account established under a state's Uniform 
+37
+Gifts to Minors Act or Uniform Transfers to Minors Act, if it is unclaimed by or on behalf 
+38
+of the minor on whose behalf the account was opened, is presumed abandoned 3 years after 
+39
+the later of: the date on which the custodian is required to transfer the property to the minor 
+40
+or the minor's estate in accordance with the Uniform Gifts to Minors Act or Uniform 
+41
+Transfers to Minors Act of the state in which the account was opened.
+
+Page 3 - 132LR0562(01)
+1
+A.  The date a communication sent by the holder by first class United States mail to the 
+2
+custodian of the minor on whose behalf the account was opened is returned as 
+3
+undeliverable to the holder by the United States Postal Service or, if the communication 
+4
+is resent within 30 days after the date the first communication is returned as 
+5
+undeliverable, the date the first communication was returned as undeliverable; and
+6
+B.  The date on which the custodian is required to transfer the property to the minor or 
+7
+the minor's estate in accordance with the Uniform Gifts to Minors Act or Uniform 
+8
+Transfers to Minors Act of the state in which the account was opened.
+9
+Sec. 9.  33 MRSA §2064, sub-§2, as enacted by PL 2019, c. 498, §22, is repealed.
+10
+Sec. 10.  33 MRSA §2064, sub-§3, as corrected by RR 2019, c. 2, Pt. A, §31, is 
+11
+repealed.
+12
+Sec. 11.  33 MRSA §2067-A is enacted to read:
+13
+§2067-A.  When virtual currency presumed abandoned; liquidation by holder
+14
+1. Presumed abandoned after 5 years. Virtual currency is presumed abandoned 5 
+15
+years after the last indication of interest by the apparent owner.
+16
+2. Determination of value; exempt from reporting or liquidation.  The 
+17
+administrator may decline to accept virtual currency presumed abandoned if the 
+18
+administrator, in the administrator's discretion, determines that the virtual currency is not 
+19
+freely transferable, is of nominal value or has value that is less than the estimated expenses 
+20
+of maintenance, notice or sale of the property.  The administrator may also prescribe by 
+21
+rule classes or types of virtual currency exempt from reporting or liquidation.
+22
+3. Liquidation of unclaimed virtual currency.  A holder of unclaimed virtual 
+23
+currency shall liquidate the virtual currency within 30 days prior to the filing of the report 
+24
+under section 2091 and remit the proceeds to the administrator. 
+25
+4. Liquidation not possible.  If a holder of unclaimed virtual currency reasonably 
+26
+believes that the holder cannot liquidate the virtual currency and cannot otherwise cause 
+27
+the virtual currency to be liquidated, the holder shall promptly notify the administrator in 
+28
+writing and explain the reasons why the virtual currency cannot be liquidated as otherwise 
+29
+required under subsection 3. The administrator shall then direct the holder concerning an 
+30
+alternate disposition of the virtual currency.
+31
+5. State and holder held harmless.  An apparent owner does not have recourse against 
+32
+the administrator or a holder of unclaimed virtual currency to recover any gain in value that 
+33
+occurs after the liquidation of the virtual currency under subsection 3.  Consistent with 
+34
+section 2114, subsection 2, the administrator shall defend and indemnify a holder against 
+35
+liability on any such claim, as long as the holder has acted in good faith and substantially 
+36
+complied with sections 2101 and 2102.
+37
+Sec. 12.  33 MRSA §2068, sub-§1, as enacted by PL 2019, c. 498, §22, is amended 
+38
+to read:
+39
+1.  If communications sent at least annually, presumed Presumed abandoned after 
+40
+3 years of inactivity.  Subject to section 2070, if the holder sends communications to the 
+41
+apparent owner of a security by first class United States mail on at least an annual basis, a 
+
+Page 4 - 132LR0562(01)
+42
+security is presumed abandoned 3 years after the later of: apparent owner's last indication 
+43
+of interest in the security.
+3
+A.  The date a communication sent by the holder by first class United States mail to the 
+4
+apparent owner is returned to the holder as undeliverable by the United States Postal 
+5
+Service; and
+6
+B.  If the communication is resent within 30 days after the first communication is 
+7
+returned, the date the resent communication is returned as undeliverable to the holder 
+8
+by the United States Postal Service.
+9
+Sec. 13.  33 MRSA §2070, sub-§2, ¶C, as enacted by PL 2019, c. 498, §22, is 
+10
+amended to read:
+11
+C.  Presentment by the apparent owner of a check or other instrument of payment of a 
+12
+dividend, interest payment or other distribution, or evidence of receipt of a distribution 
+13
+made by electronic or similar means, with respect to an account, underlying security or 
+14
+interest in a business association;
+15
+Sec. 14.  33 MRSA §2070, sub-§2, ¶E, as amended by PL 2021, c. 41, §2, is further 
+16
+amended to read:
+17
+E.  A deposit into or withdrawal from an account at a financial organization business 
+18
+association by the apparent owner, including an automatic withdrawal except for a 
+19
+recurring automated clearing house debit or credit previously authorized but not 
+20
+including by the apparent owner or an automatic reinvestment of dividends or interest 
+21
+or an automatic withdrawal of disclosed fees;
+22
+Sec. 15.  33 MRSA §2071, as enacted by PL 2019, c. 498, §22, is amended to read:
+23
+§2071.  Deposit account for proceeds of insurance policy or annuity
+24
+If proceeds payable under a life or endowment insurance policy or annuity contract are 
+25
+deposited into an account with check-writing or draft-writing privileges for the beneficiary 
+26
+of the policy or contract and, under a supplementary contract not involving annuity benefits 
+27
+other than death benefits, the proceeds are retained by the insurance company or the 
+28
+financial organization where the account is held, the policy or contract includes the assets 
+29
+in the account, and the account proceeds are presumed abandoned in accordance with 
+30
+section 2061, subsection 7, or 3 years after the beneficiary's last indication of interest in the 
+31
+account, whichever is later.
+32
+Sec. 16.  33 MRSA §2081, sub-§5 is enacted to read:
+33
+5.  Other beneficiary.  The address of the apparent owner of other property for which 
+34
+ownership vests in a beneficiary upon the death of the owner is presumed to be the address 
+35
+of the deceased owner if the address of the beneficiary is not known by the holder and 
+36
+cannot be determined under section 2082.
+37
+Sec. 17.  33 MRSA §2101, sub-§3, as enacted by PL 2019, c. 498, §22, is amended 
+38
+to read:
+39
+3.  Notice; tax deferred account or, security or virtual currency.  The holder of 
+40
+securities presumed abandoned under section 2062, 2063 or 2068 or virtual currency 
+41
+presumed abandoned under section 2067-A shall send to the apparent owner notice by 
+1
+2
+
+Page 5 - 132LR0562(01)
+42
+certified United States mail that complies with section 2102 in a format acceptable to the 
+43
+administrator not less than 60 days before filing the report under section 2091 if:
+3
+A.  The holder has in its records an address for the apparent owner that the holder's 
+4
+records do not disclose to be invalid and that is sufficient to direct the delivery of 
+5
+United States mail to the apparent owner; and
+6
+B.  The value of the property is $1,000 or more.
+7
+Sec. 18.  33 MRSA §2102, sub-§2, ¶D, as enacted by PL 2019, c. 498, §22, is 
+8
+amended to read:
+9
+D.  State With respect to securities presumed abandoned under section 2062, 2063 or 
+10
+2068 or safe deposit box contents presumed abandoned under section 2065, state that 
+11
+the property that is not legal tender of the United States may be sold by the 
+12
+administrator and, with respect to virtual currency presumed abandoned under section 
+13
+2067-A, state that the property may be sold by the holder prior to its reporting; and
+14
+Sec. 19.  33 MRSA §2102, sub-§2, ¶E, as enacted by PL 2019, c. 498, §22, is 
+15
+amended to read:
+16
+E.  Provide instructions that the apparent owner must follow to prevent the holder from 
+17
+reporting and paying or delivering the property to the administrator or selling the 
+18
+property.
+19
+Sec. 20.  33 MRSA §2112, as enacted by PL 2019, c. 498, §22, is amended by 
+20
+amending the section headnote to read:
+21
+§2112.  Dormancy charge; escheat fee prohibited
+22
+Sec. 21.  33 MRSA §2112, sub-§3 is enacted to read:
+23
+3.  Prohibition on escheat fees.  A holder may not deduct an escheat fee, unclaimed 
+24
+property reporting fee or other similar charge imposed solely by virtue of the property 
+25
+becoming subject to reporting under this Act.
+26
+Sec. 22.  33 MRSA §2120, sub-§4 is enacted to read:
+27
+4.  Commencement of action; tolling.  The commencement of an action, proceeding 
+28
+or examination by the administrator or the administrator's agent tolls the running of the 
+29
+period of limitation under subsection 3.
+30
+Sec. 23.  33 MRSA §2121 is enacted to read:
+31
+§2121.  Property held in trust
+32
+A holder that, on May 1st for insurance property and stored-value obligations and 
+33
+November 1st for all other property types, holds property presumed abandoned under 
+34
+subchapter 2 holds the property in trust for the benefit of the State on behalf of the missing 
+35
+owner and is liable to the State for the full value of the property, plus any accrued interest 
+36
+and penalty as defined in section 2194.  A holder is not required by this section to segregate 
+37
+or establish trust accounts for the property as long as the property is timely delivered to the 
+38
+administrator in accordance with section 2113.
+39
+Sec. 24.  33 MRSA §2136 is enacted to read:
+40
+§2136.  Liquidation of virtual currency
+1
+2
+
+Page 6 - 132LR0562(01)
+1
+Liquidation of presumed abandoned virtual currency must be undertaken in accordance 
+2
+with section 2067-A.
+3
+Sec. 25.  33 MRSA §2153, sub-§1, as enacted by PL 2019, c. 498, §22, is amended 
+4
+to read:
+5
+1.  Claim for property.  A person claiming to be the owner of property held under this 
+6
+Act by the administrator may file a claim at any time for the property on a form prescribed 
+7
+by the administrator.  The claimant must verify the claim as to its completeness and 
+8
+accuracy.
+9
+Sec. 26.  33 MRSA §2164, first ¶, as enacted by PL 2019, c. 498, §22, is amended 
+10
+to read:
+11
+Records obtained and records compiled, including work papers, by the administrator 
+12
+or the administrator's agent in the course of conducting an examination under section 2162:
+13
+Sec. 27.  33 MRSA §2165, sub-§4, as enacted by PL 2019, c. 498, §22, is repealed.
+14
+Sec. 28.  33 MRSA §2211, as enacted by PL 2019, c. 498, §22, is amended by 
+15
+amending the section headnote to read:
+16
+§2211.  Definitions; applicability; confidentiality and use of documents and working 
+17
+papers
+18
+Sec. 29.  33 MRSA §2211, sub-§3 is enacted to read:
+19
+3.  Confidentiality and use of documents and working papers.  Information derived 
+20
+from annual reports from holders or otherwise communicated to the administrator or the 
+21
+administrator's agents concerning presumed abandoned property that is unclaimed is 
+22
+confidential and not available for public inspection to the extent the administrator finds it 
+23
+necessary to protect the interests of the holder, the owner, the State and the public welfare.  
+24
+Documents and working papers obtained or compiled by the administrator or the 
+25
+administrator's agents, employees or designated representatives in the course of conducting 
+26
+an examination are confidential and are not public records, but the documents and papers 
+27
+may be:
+28
+A.  Used by the administrator in the course of an action to collect unclaimed property 
+29
+or otherwise enforce this Act;
+30
+B.  Used in joint examinations conducted with or pursuant to an agreement with another 
+31
+state, the Federal Government or any other governmental subdivision, agency or 
+32
+instrumentality;
+33
+C.  Produced pursuant to subpoena or court order; or
+34
+D.  Disclosed to the abandoned or unclaimed property office of another state for that 
+35
+state's use in circumstances equivalent to those described in this subsection, if the other 
+36
+state is bound to keep the documents and papers confidential.
+37
+Sec. 30.  33 MRSA §2212, sub-§1, as enacted by PL 2019, c. 498, §22, is amended 
+38
+to read:
+39
+1.  Confidential.  Except as otherwise provided in this Act, the following are 
+40
+confidential and exempt from public inspection and disclosure:
+
+Page 7 - 132LR0562(01)
+1
+A.  Records of the administrator and the administrator's agent related to the 
+2
+administration of this Act;
+3
+B.  Reports and records of a holder in the possession of the administrator or the 
+4
+administrator's agent, as long as such reports and records are not otherwise available in 
+5
+the public domain;
+6
+C.  Personal information and other information derived or otherwise obtained by or 
+7
+communicated to the administrator or the administrator's agent from an examination 
+8
+under this Act of the records of a person; and
+9
+D.  The identity of a person subject to an examination under section 2162.; and
+10
+E.  Records, including work papers, monthly work-in-progress updates and other 
+11
+examination records, compiled by the administrator or the administrator's agent in the 
+12
+course of conducting examinations authorized under this Act.
+13
+Sec. 31.  33 MRSA §2213, sub-§1, ¶D, as enacted by PL 2019, c. 498, §22, is 
+14
+amended to read:
+15
+D.  The person that administers the unclaimed property law of another state, if the other 
+16
+state accords substantially reciprocal privileges to the administrator and if the other 
+17
+state is required to maintain the confidentiality and security of obtained information in 
+18
+a manner substantially equivalent to that under this subchapter; or
+19
+Sec. 32.  33 MRSA §2213, sub-§1, ¶E, as enacted by PL 2019, c. 498, §22, is 
+20
+amended to read:
+21
+E.  Pursuant to section 2164, subsection 6, the person subject to an examination.; or
+22
+Sec. 33.  33 MRSA §2213, sub-§1, ¶F is enacted to read:
+23
+F.  The administrator's agent's predecessor or successor.
+24
+Sec. 34.  33 MRSA §2214, as enacted by PL 2019, c. 498, §22, is amended to read:
+25
+§2214.  Confidentiality agreement
+26
+A person to be examined under section 2162 may require, as a condition of disclosure 
+27
+of the records of the person to be examined, that the administrator or the administrator's 
+28
+agent execute and deliver to the person to be examined a confidentiality agreement that:
+29
+1.  Form.  Is in a standard form that is reasonably satisfactory to approved for use by 
+30
+the administrator; and
+31
+2.  Compliance with subchapter.  Requires the person having access to the records to 
+32
+comply with the provisions of this subchapter applicable to the person.
+33
+If the person to be examined elects not to execute a confidentiality agreement that has 
+34
+been approved for use by the administrator, and the person to be examined is unable to 
+35
+reach agreement on the terms of a confidentiality agreement within 90 days of the 
+36
+administrator's authorization of the examination, the examination must proceed without a 
+37
+confidentiality agreement in place and the person to be examined must rely upon the 
+38
+confidentiality provisions of this subchapter.
+
+Page 8 - 132LR0562(01)
+1
+SUMMARY
+2
+This bill makes the following changes to the Maine Revised Unclaimed Property Act.
+3
+1. It adds "virtual currency" as a property type and provisions regarding presumed 
+4
+abandonment and liquidation and defines the term.
+5
+2. It simplifies the presumption of abandonment process for tax-advantaged retirement 
+6
+accounts and other tax-deferred accounts.
+7
+3. It simplifies the presumption of abandonment for custodial accounts for minors to 
+8
+not be remitted to the administrator until the owner is no longer a minor.
+9
+4. It simplifies the presumption of abandonment for security accounts.
+10
+5. It removes automatic transactions as an indication of an apparent owner's interest in 
+11
+presumed abandoned property.
+12
+6. It prohibits charging escheat fees on certain accounts.
+13
+7. It clarifies when an audit has commenced.
+14
+8. It requires unremitted property to be held in trust on behalf of the owner and not a 
+15
+part of bankruptcy assets.
+16
+9. It protects the confidentiality of the unclaimed property owner's data.
+17
+10. It strengthens confidentiality laws for 3rd-party auditors.
+2

@@ -1,0 +1,221 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 419
+H.P. 273
+House of Representatives, February 4, 2025
+An Act to Increase the Transparency and Accountability of the 
+Maine Information and Analysis Center
+Reference to the Committee on Criminal Justice and Public Safety suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative LOOKNER of Portland.
+Cosponsored by Senator TALBOT ROSS of Cumberland and
+Representatives: ANKELES of Brunswick, BOYER of Poland, CHAPMAN of Auburn, 
+HASENFUS of Readfield, LEE of Auburn, LIBBY of Auburn, MILLIKEN of Blue Hill, 
+PLUECKER of Warren.
+
+Page 1 - 132LR0931(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  25 MRSA §1802 is enacted to read:
+3
+§1802.  Auditor of center
+4
+1. Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings.
+6
+A. "Auditor" means the auditor of the center pursuant to this section.
+7
+B. "Committee" means the joint standing committee of the Legislature having 
+8
+jurisdiction over criminal justice and public safety matters.
+9
+C. "De-identified" means, with respect to a report, that personally identifiable 
+10
+information has been removed from or obscured in the report so that the report does 
+11
+not identify a person and reasonably cannot be used to identify a person. 
+12
+2. Creation and appointment of position.  There is created within the Office of the 
+13
+Attorney General the position of auditor of the center. The auditor must be appointed by 
+14
+the Attorney General without regard to political affiliation and, as determined by the 
+15
+Attorney General, must be a person qualified by integrity and demonstrated ability in 
+16
+relevant fields. 
+17
+3. Powers and duties.  The auditor shall provide systematic, ongoing oversight of the 
+18
+center to ensure the transparency and accountability of its operations and to ensure that the 
+19
+center operates within the law and in a manner that preserves the privacy, civil liberties and 
+20
+civil rights of all persons in the State.  The auditor:
+21
+A.  Shall assist the committee in the oversight duties of the committee over the center;
+22
+B. Shall maintain a publicly accessible website that includes the de-identified 
+23
+informational reports provided to the committee by the center pursuant to section 1801 
+24
+and by the auditor pursuant to subsection 4;
+25
+C. Shall include as part of the publicly accessible website described in paragraph B a 
+26
+means by which a person may submit questions or complaints about the auditor or 
+27
+center.  The identity of a person who submits a good faith complaint to the auditor 
+28
+against the center using the website or by other means is confidential and the auditor 
+29
+shall maintain the identity of that person as confidential; and
+30
+D. May select the type and extent of reviews of center activities to conduct.
+31
+4. Reporting.  The auditor shall provide the following reports to the committee:
+32
+A. A report no later than April 1st each year beginning in 2026 regarding the oversight 
+33
+of the center;
+34
+B. An interim progress report no later than September 15th each year beginning in 
+35
+2026, including progress made on any goals established by the auditor in prior reports 
+36
+and any obstacles the auditor has found in fulfilling the requirements of this section; 
+37
+C. A report whenever the center refuses a data request or to make personnel available 
+38
+for auditor interviews, if known by the auditor, including the reason for the refusal, if 
+39
+known by the auditor; and
+40
+D. Other reports as the auditor determines necessary.
+
+Page 2 - 132LR0931(01)
+1
+A report provided by the auditor to the committee pursuant to this subsection and posted 
+2
+on the auditor's publicly accessible website pursuant to subsection 3, paragraph B must be 
+3
+de-identified and may not contain any information that is confidential or is otherwise not 
+4
+authorized by law to be disseminated to the public.  The auditor shall redact from a report 
+5
+required by this subsection any information that is prohibited by law from disclosure, is 
+6
+sensitive and pertains to an ongoing investigation of criminal activity or would cause a 
+7
+specific and imminent threat to safety.
+8
+5. Limitations.  The auditor may not:
+9
+A. Require the center to take corrective action; or
+10
+B. Disclose the name or other personally identifying information of an informant, 
+11
+witness or suspect or other source of information to the center.
+12
+6. Center cooperation.  The center shall make available documents and personnel as 
+13
+requested by the auditor.
+14
+7. Commissioner input.  The Commissioner of Public Safety may present to the 
+15
+committee a response to an issue reported by the auditor pursuant to subsection 4.
+16
+Sec. 2.  25 MRSA §1803 is enacted to read:
+17
+§1803.  Public record
+18
+Information shared by the center with a private entity that is not designated as classified 
+19
+or confidential under any federal or state law, regulation or rule is a public record within 
+20
+the meaning of the Freedom of Access Act.
+21
+Sec. 3.  Auditor of Maine Information and Analysis Center; report.  The 
+22
+auditor appointed pursuant to the Maine Revised Statutes, Title 25, section 1802 shall 
+23
+review the Maine Information and Analysis Center's record-keeping and information-
+24
+sharing practices, particularly with respect to its intelligence-gathering and dissemination 
+25
+practices, and assess the policies used by the center to determine the quality or veracity of 
+26
+the information the center receives and whether those policies appropriately consider the 
+27
+privacy, civil liberties and civil rights of all persons in this State.  The auditor shall also 
+28
+determine whether the center's practices comply with the requirements of federal laws and 
+29
+regulations regarding criminal intelligence collection, retention and sharing that are 
+30
+applicable to the center, including, but not limited to, 28 Code of Federal Regulations, Part 
+31
+23.  The auditor shall include the results of the review under this section along with any 
+32
+recommendations in the first report the auditor submits to the joint standing committee of 
+33
+the Legislature having jurisdiction over criminal justice and public safety matters pursuant 
+34
+to Title 25, section 1802, subsection 4.  After reviewing the report, the joint standing 
+35
+committee may report out legislation relating to the report.
+36
+As used in this section, "auditor" has the same meaning as in the Maine Revised 
+37
+Statutes, Title 25, section 1802, subsection 1, paragraph A and "Maine Information and 
+38
+Analysis Center" or "center" has the same meaning as in Title 25, section 1801.
+39
+SUMMARY
+40
+This bill does the following.
+41
+1.  It creates the position of auditor of the Maine Information and Analysis Center 
+42
+within the Office of the Attorney General.
+40
+
+Page 3 - 132LR0931(01)
+1
+2.  It adds a definition for "de-identified" and requires that reports submitted to the joint 
+2
+standing committee of the Legislature having jurisdiction over criminal justice and public 
+3
+safety matters and posted on the publicly accessible website of the auditor of the Maine 
+4
+Information and Analysis Center be de-identified.
+5
+3.  It provides that the powers and duties of the auditor include ensuring that the center 
+6
+operates within the law and in a manner that preserves the privacy, civil liberties and civil 
+7
+rights of all people in the State.
+8
+4.  It requires that reports of the auditor to the committee that are posted on the auditor's 
+9
+publicly accessible website may not contain any records that are confidential or otherwise 
+10
+not authorized by law to be disseminated to the public.
+11
+5.  It specifies that the identity of any person who submits a good faith complaint to the 
+12
+auditor against the center using the auditor's publicly accessible website or by other means 
+13
+is confidential and that the auditor must maintain the identity of such persons as 
+14
+confidential.
+15
+6.  It specifies that classified or confidential information that is shared by the center 
+16
+with a private entity is not considered a public record under the Freedom of Access Act.

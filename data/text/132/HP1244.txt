@@ -1,0 +1,140 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1873
+H.P. 1244
+House of Representatives, May 5, 2025
+An Act to Require Age Verification for Online Obscene Matter
+Received by the Clerk of the House on May 1, 2025.  Referred to the Committee on 
+Judiciary pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SMITH of Palermo.
+Cosponsored by Representatives: COLLINS of Sidney, OLSEN of Raymond, PAUL of 
+Winterport.
+
+Page 1 - 132LR1231(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  10 MRSA c. 239 is enacted to read:
+3
+CHAPTER 239
+4
+AGE VERIFICATION FOR ONLINE MATERIAL
+5
+§1500-Y. Age verification for online obscene matter
+6
+1. Age verification required. A business entity that knowingly and intentionally 
+7
+publishes or distributes obscene matter, as defined in Title 17, section 2911, subsection 1, 
+8
+paragraph D, on a website or software application shall verify that an individual attempting 
+9
+to access the obscene matter is 18 years of age or older through reasonable age verification 
+10
+methods, including, but not limited to, providing a valid, government-issued identification 
+11
+or through methods that rely on public or private transactional data to verify the age of the 
+12
+individual attempting to access the obscene matter.  The business entity shall prevent access 
+13
+to the obscene matter by an individual who has not attained 18 years of age.  A business 
+14
+entity that performs an age verification required pursuant to this subsection may not retain 
+15
+any identifying information of the individual after the individual's age has been verified.
+16
+For the purposes of this chapter, "business entity" has the same meaning as in Title 24-A, 
+17
+section 1402, subsection 3-A.
+18
+2. Exceptions. This section does not apply to any bona fide news broadcast or public 
+19
+interest broadcast, video, report or event and does not affect the rights of a news 
+20
+organization.
+21
+An Internet service provider, as defined in Title 5, section 200-B, subsection 1-A, 
+22
+paragraph A, or an Internet service provider's affiliates or subsidiaries, a search engine or 
+23
+a provider of so-called cloud hosting services does not violate this section solely for 
+24
+providing access or connection to or from a website or other information or content on the 
+25
+Internet or on a facility, system or network not under the Internet service provider's, 
+26
+affiliate's, subsidiary's, search engine's or provider's control, including by transmission or 
+27
+downloading, or through intermediate storage or access software, to the extent the Internet 
+28
+service provider, affiliate, subsidiary, search engine or provider is not responsible for the 
+29
+creation of the obscene matter.
+30
+3. Violation; liability. A business entity that is found to have violated subsection 1 is 
+31
+liable to an individual for damages resulting from a minor's accessing the obscene matter, 
+32
+including court costs and reasonable attorney's fees.  A business entity that is found to have 
+33
+knowingly retained identifying information of an individual after the individual's age has 
+34
+been verified is liable to the individual for damages resulting from retaining the identifying 
+35
+information, including court costs and reasonable attorney's fees.
+36
+If the Attorney General has reason to believe that a business entity is in violation of this 
+37
+section, the Attorney General may bring an action against the business entity for an unfair 
+38
+or deceptive act or practice as prohibited under Title 5, section 207.
+39
+4. Rules. The Attorney General shall adopt rules for the administration and 
+40
+implementation of this chapter, including procedures for receiving and investigating 
+
+Page 2 - 132LR1231(01)
+41
+complaints of violations, and shall establish penalties for violations.  Rules adopted 
+42
+pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, 
+43
+subchapter 2-A.
+4
+SUMMARY
+5
+This bill requires that a business entity that knowingly and intentionally publishes or 
+6
+distributes obscene matter on a website or software application verify that an individual 
+7
+attempting to access the obscene matter is 18 years of age or older through reasonable age 
+8
+verification methods.  The bill prohibits a business entity that performs an age verification 
+9
+of an individual from retaining any identifying information of the individual after the 
+10
+individual's age has been verified.  The bill does not apply to a bona fide news broadcast 
+11
+or public interest broadcast, video, report or event.  A business entity that is found to have 
+12
+violated the provisions of the bill is liable to an individual for damages including court 
+13
+costs and reasonable attorney's fees, and the Attorney General may bring an action against 
+14
+the business entity for an unfair or deceptive act or practice.
+1
+2
+3
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14

@@ -1,0 +1,169 @@
+{
+  "ld": 2141,
+  "paper": "SP0859",
+  "paper_display": "SP 859",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101055",
+  "title": "An Act Regarding Enforcement of the Annual Reporting Requirement of the Laws Governing Unclaimed Beverage Container Deposits",
+  "committee": "Environment and Natural Resources",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 16, 2026",
+  "governor_action": "Signed, Apr 16, 2026",
+  "chaptered_law": "ACTPUB, Chapter 731",
+  "chapter": "731",
+  "became_law": true,
+  "last_house_action": "4/14/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/14/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Stacy BRENNER",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "William BRIDGEO",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Augusta"
+    },
+    {
+      "name": "Victoria DOUDERA",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Camden"
+    },
+    {
+      "name": "Matt MOONEN",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Portland"
+    },
+    {
+      "name": "Denise TEPLER",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Sagadahoc"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CONTAINERS - RETURNABLE",
+      "minor": "BOTTLES",
+      "detail": "UNCLAIMED DEPOSITS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "date_raw": "1/7/2026",
+      "chamber": "Senate",
+      "description": "Committee on ENVIRONMENT AND NATURAL RESOURCES suggested and ordered printed REFERENCE to the Committee on ENVIRONMENT AND NATURAL RESOURCES Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2026-01-07",
+      "date_raw": "1/7/2026",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "Reports READ Senator TEPLER of Sagadahoc moved to ACCEPT The Majority Ought to Pass As Amended Report. On motion by Same Senator Tabled until Later in Today's Session, pending ACCEPTANCE The Majority Ought to Pass As Amended by Committee Amendment \"A\" (S-613) Unfinished Business"
+    },
+    {
+      "date": "2026-04-07",
+      "date_raw": "4/7/2026",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-08",
+      "date_raw": "4/8/2026",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-09",
+      "date_raw": "4/9/2026",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2026-04-13",
+      "date_raw": "4/13/2026",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President The Majority Ought to Pass As Amended by Committee Amendment \"A\" (S-613) Report ACCEPTED. READ ONCE. Committee Amendment \"A\" (S-613) READ. On motion by Senator BRENNER of Cumberland Senate Amendment \"A\" (S-660) to Committee Amendment \"A\" (S-613) READ and ADOPTED. Committee Amendment \"A\" (S-613) as Amended by Senate Amendment \"A\" (S-660) thereto ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-613) as Amended by Senate Amendment \"A\" (S-660) thereto. Sent down for concurrence."
+    },
+    {
+      "date": "2026-04-13",
+      "date_raw": "4/13/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative DOUDERA of Camden, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (S-613) was READ . Senate Amendment \"A\" (S-660) to Committee Amendment \"A\" (S-613) was READ and ADOPTED . Committee Amendment \"A\" (S-613) as Amended by Senate Amendment \"A\" (S-660) thereto was ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-613) . as Amended by Senate Amendment \"A\" (S-660) thereto. In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-613 )",
+      "new_title": "An Act to Further Direct the Use of Unclaimed Beverage Container Deposits and to Make Other Changes to the Beverage Container Redemption Laws",
+      "house_action": "Adopted on 4/13/2026",
+      "senate_action": "Adopted on 4/13/2026",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "S \"A\" (S-660 ) to C \"A\" (S-613 )",
+      "new_title": "An Act Regarding Enforcement of the Annual Reporting Requirement of the Laws Governing Unclaimed Beverage Container Deposits",
+      "house_action": "Adopted on 4/13/2026",
+      "senate_action": "Adopted on 4/13/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0859&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0859&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0859&item=4&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0859&item=5&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0859",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0859&SessionID=16",
+  "scraped_at": "2026-06-30T20:16:40Z"
+}

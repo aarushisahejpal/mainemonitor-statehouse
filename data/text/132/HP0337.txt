@@ -1,0 +1,367 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 519
+H.P. 337
+House of Representatives, February 11, 2025
+An Act to Remove the Requirement That Individual and Small 
+Group Health Plans Be Offered Through a Pooled Market and to 
+Eliminate the Provision of Law Establishing a Pooled Market for 
+Those Plans
+Received by the Clerk of the House on February 7, 2025.  Referred to the Committee on 
+Health Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered 
+printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MORRIS of Turner.
+Cosponsored by Representatives: CIMINO of Bridgton, FLYNN of Albion, FOLEY of Wells, 
+OLSEN of Raymond, Senator: HAGGAN of Penobscot.
+
+Page 1 - 132LR1965(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  24-A MRSA c. 34-B, headnote is amended by amending the chapter 
+3
+headnote to read:
+4
+CHAPTER 34-B
+5
+POOLED MARKET AND CLEAR CHOICE DESIGN
+6
+Sec. 2.  24-A MRSA §2792, as amended by PL 2021, c. 361, §§1 and 2, is repealed.
+7
+Sec. 3.  24-A MRSA §2793, sub-§1, as amended by PL 2021, c. 361, §3, is further 
+8
+amended to read:
+9
+1.  Clear choice design.  For the purposes of this section, "clear choice design" means 
+10
+a set of annual copayments, coinsurance and deductibles for all or a designated subset of 
+11
+the essential health benefits. An individual health plan subject to section 2736‑C or a pooled 
+12
+market health plan subject to section 2792 must conform to one of the clear choice designs 
+13
+developed pursuant to this section unless it is approved as an alternative plan under 
+14
+subsection 4.
+15
+Sec. 4.  24-A MRSA §2793, sub-§2, as amended by PL 2021, c. 361, §3, is further 
+16
+amended to read:
+17
+2.  Development of clear choice designs.  The superintendent shall develop clear 
+18
+choice designs in consultation with working groups consisting of consumers, carriers, 
+19
+health policy experts and other interested persons. The superintendent shall adopt rules for 
+20
+clear choice designs, taking into consideration the ability of plans to conform to actuarial 
+21
+value ranges, consumer needs and promotion of benefits with high value and return on 
+22
+investment.  The superintendent shall develop at least one clear choice design for each tier 
+23
+of health insurance plan designated as bronze, silver, gold and platinum in accordance with 
+24
+the federal Affordable Care Act. Rules adopted pursuant to this subsection are routine 
+25
+technical rules as defined in Title 5, chapter 375, subchapter 2‑A. Clear choice designs 
+26
+apply to all individual health plans offered in this State with effective dates of coverage on 
+27
+or after January 1, 2022 and to all small group health plans offered through the pooled 
+28
+market under section 2792.
+29
+Sec. 5.  24-A MRSA §2808-B, sub-§2-A, ¶B, as amended by PL 2019, c. 653, Pt. 
+30
+B, §4, is further amended to read:
+31
+B.  A filing and all supporting information, except for protected health information 
+32
+required to be kept confidential by state or federal statute and except for descriptions 
+33
+of the amount and terms or conditions or reimbursement in a contract between an 
+34
+insurer and a 3rd party, are public records notwithstanding Title 1, section 402, 
+35
+subsection 3, paragraph B and become part of the official record of any hearing held 
+36
+pursuant to subsection 2‑B, paragraph B or section 2792, subsection 2.
+37
+Sec. 6.  24-A MRSA §2808-B, sub-§2-A, ¶C, as amended by PL 2023, c. 59, §5, 
+38
+is further amended to read:
+
+Page 2 - 132LR1965(01)
+1
+C.  Rates for small group health plans must be filed in accordance with this section and 
+2
+subsections 2‑B and 2‑C or section 2792, as applicable, for premium rates effective on 
+3
+or after July 1, 2004.
+4
+Sec. 7.  24-A MRSA §2808-B, sub-§2-B, as amended by PL 2023, c. 59, §§6 and 
+5
+7, is further amended to read:
+6
+2-B.  Rate review and hearings.  Except as provided in subsection 2‑C and section 
+7
+2792, rate filings are subject to this subsection.
+8
+A.  Rates subject to this subsection must be filed for approval by the superintendent. 
+9
+The superintendent shall disapprove any premium rates filed by any carrier, whether 
+10
+initial or revised, for a small group health plan unless it is anticipated that the aggregate 
+11
+benefits estimated to be paid under all the small group health plans maintained in force 
+12
+by the carrier for the period for which coverage is to be provided will return to 
+13
+policyholders at least 75% of the aggregate premiums collected for those policies, as 
+14
+determined in accordance with accepted actuarial principles and practices and on the 
+15
+basis of incurred claims experience and earned premiums.
+16
+B.  If at any time the superintendent has reason to believe that a filing does not meet 
+17
+the requirements that rates not be excessive, inadequate or unfairly discriminatory or 
+18
+that the filing violates any of the provisions of chapter 23, the superintendent shall 
+19
+cause a hearing to be held.  Hearings held under this subsection must conform to the 
+20
+procedural requirements set forth in Title 5, chapter 375, subchapter 4.  The 
+21
+superintendent shall issue an order or decision within 30 days after the close of the 
+22
+hearing or of any rehearing or reargument or within such other period as the 
+23
+superintendent for good cause may require, but not to exceed an additional 30 days.  In 
+24
+the order or decision, the superintendent shall either approve or disapprove the rate 
+25
+filing.  If the superintendent disapproves the rate filing, the superintendent shall 
+26
+establish the date on which the filing is no longer effective, specify the filing the 
+27
+superintendent would approve and authorize the insurer to submit a new filing in 
+28
+accordance with the terms of the order or decision.
+29
+C.  When a filing is not accompanied by the information upon which the carrier 
+30
+supports the filing or the superintendent does not have sufficient information to 
+31
+determine whether the filing meets the requirements that rates not be excessive, 
+32
+inadequate or unfairly discriminatory, the superintendent shall require the carrier to 
+33
+furnish the information upon which it supports the filing.
+34
+Sec. 8.  24-A MRSA §2808-B, sub-§2-C, as amended by PL 2019, c. 653, Pt. B, 
+35
+§7, is further amended to read:
+36
+2-C.  Guaranteed loss ratio.  Notwithstanding subsection 2‑B, rate filings for a 
+37
+credible block of small group health plans may be filed in accordance with this subsection 
+38
+instead of subsection 2‑B, except as otherwise provided in section 2792.  Rates filed in 
+39
+accordance with this subsection are filed for informational purposes.
+40
+A.  A block of small group health plans is considered credible if the anticipated average 
+41
+number of members during the period for which the rates will be in effect meets 
+42
+standards for full or partial credibility pursuant to the federal Affordable Care Act. The 
+43
+rate filing must state the anticipated average number of members during the period for 
+44
+which the rates will be in effect and the basis for the estimate.  If the superintendent 
+
+Page 3 - 132LR1965(01)
+45
+determines that the number of members is likely to be less than needed to meet the 
+46
+credibility standard, the filing is subject to subsection 2‑B.
+3
+Sec. 9.  24-A MRSA §3958, as amended by PL 2021, c. 361, §5, is further amended 
+4
+to read:
+5
+§3958.  Reinsurance; premium rates
+6
+1.  Reinsurance amount.  A member insurer offering an individual health plan under 
+7
+section 2736‑C must be reinsured by the association to the level of coverage provided in 
+8
+this subsection and is liable to the association for any applicable reinsurance premium at 
+9
+the rate established in accordance with subsection 2.  For calendar year 2023 and 
+10
+subsequent calendar years, the association shall also reinsure member insurers for small 
+11
+group health plans issued under section 2808‑B, unless otherwise provided in rules adopted 
+12
+by the superintendent pursuant to section 2792, subsection 5.
+13
+A.  Beginning July 1, 2012, except as otherwise provided in paragraph A‑1, the 
+14
+association shall reimburse a member insurer for claims incurred with respect to a 
+15
+person designated for reinsurance by the member insurer pursuant to section 3959 after 
+16
+the insurer has incurred an initial level of claims for that person of $7,500 for covered 
+17
+benefits in a calendar year.  In addition, the insurer is responsible for 10% of the next 
+18
+$25,000 of claims paid during a calendar year.  The amount of reimbursement is 90% 
+19
+of the amount incurred between $7,500 and $32,500 and 100% of the amount incurred 
+20
+in excess of $32,500 for claims incurred in that calendar year with respect to that 
+21
+person.  For calendar year 2012, only claims incurred on or after July 1st are considered 
+22
+in determining the member insurer's reimbursement.  With the approval of the 
+23
+superintendent, the association may annually adjust the initial level of claims and the 
+24
+maximum limit to be retained by the insurer to reflect changes in costs, utilization, 
+25
+available funding and any other factors affecting the sustainable operation of the 
+26
+association.
+27
+A-1.  In any plan year in which a pooled market is operating in accordance with section 
+28
+2792, the association shall operate a retrospective reinsurance program providing 
+29
+coverage to member insurers for all individual and small group health plans issued in 
+30
+this State in that plan year.  For plan years beginning in 2022, if the pooled market has 
+31
+not been implemented pursuant to section 2792, subsection 5, the association may 
+32
+operate a retrospective reinsurance program for individual health plans, subject to the 
+33
+approval of the superintendent.
+34
+(1)  The association shall reimburse member insurers based on the total eligible 
+35
+claims paid during a calendar year for a single individual in excess of the 
+36
+attachment point specified by the board. The board may establish multiple layers 
+37
+of coverage with different attachment points and different percentages of claims 
+38
+payments to be reimbursed by the association.
+39
+(2)  Eligible claims by all individuals enrolled in individual or small group health 
+40
+plans in this State may not be disqualified for reimbursement on the basis of health 
+41
+conditions, predesignation by the member insurer or any other differentiating 
+42
+factor.
+1
+2
+
+Page 4 - 132LR1965(01)
+1
+(3)  The board shall annually review the attachment points and coinsurance 
+2
+percentages and make any adjustments that are necessary to ensure that the 
+3
+retrospective reinsurance program operates on an actuarially sound basis.
+4
+(4)  The board shall ensure that any surplus in the retrospective reinsurance 
+5
+program at the conclusion of a plan year is used to lower attachment points, 
+6
+increase coinsurance rates or both for that plan year, consistent with its 
+7
+responsibility to ensure that the program operates on an actuarially sound basis.
+8
+B.  A member insurer shall apply all managed care, utilization review, case 
+9
+management, preferred provider arrangements, claims processing and other methods 
+10
+of operation without regard to whether claims paid for coverage are reinsured under 
+11
+this subsection.  A member insurer shall report for each plan year the name of each 
+12
+high-priced item or service for which its payment exceeded the amount allowed for 
+13
+eligible claims and the name of the provider that received this payment.  The 
+14
+association shall annually compile and publish a list of all reported names.
+15
+2.  Premium rates.  The association, as part of the plan of operation under section 
+16
+3953, subsection 3, shall establish a methodology for determining premium rates to be 
+17
+charged member insurers to reinsure persons eligible for coverage under this chapter.  The 
+18
+methodology must include a system for classification of persons eligible for coverage that 
+19
+reflects the types of case characteristics used by insurers for individual health plans 
+20
+pursuant to section 2736‑C, together with any additional rating factors the association 
+21
+determines to be appropriate.  The methodology must provide for the development of base 
+22
+reinsurance premium rates, subject to approval of the superintendent, set at levels that, 
+23
+together with other funds available to the association, will be sufficient to meet the 
+24
+anticipated costs of the association.  The association shall periodically review the 
+25
+methodology established under this subsection and may make changes to the methodology 
+26
+as needed with the approval of the superintendent.  The association may consider 
+27
+adjustments to the premium rates charged for reinsurance to reflect the use of effective cost 
+28
+containment and managed care arrangements by an insurer.  This subsection does not apply 
+29
+to reinsurance with respect to any calendar year for which the association operates a 
+30
+retrospective reinsurance program under subsection 1, paragraph A‑1.  With the approval 
+31
+of the superintendent, the association's plan of operation for a retrospective reinsurance 
+32
+program may include a provision for charging premium on an equitable basis to all member 
+33
+insurers.
+34
+Sec. 10.  24-A MRSA §3959, sub-§5, as enacted by PL 2019, c. 653, Pt. B, §20, is 
+35
+repealed.
+36
+SUMMARY
+37
+This bill repeals the provisions of the Maine Insurance Code that establish a pooled 
+38
+market for individual and small group health plans, removing the requirement that those 
+39
+types of plans must be offered through a pooled market. The bill also eliminates related 
+40
+provisions that require the Maine Guaranteed Access Reinsurance Association to operate a 
+41
+retrospective reinsurance program providing coverage to member insurers for all individual 
+42
+and small group health plans issued in any plan year in which a pooled market is operating.
+37
+38
+39
+40
+41
+42

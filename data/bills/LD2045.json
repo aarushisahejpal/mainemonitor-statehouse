@@ -1,0 +1,61 @@
+{
+  "ld": 2045,
+  "paper": "SP0838",
+  "paper_display": "SP 838",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100927",
+  "title": "An Act to Amend the Education Laws Regarding the State Board of Education's Authority Concerning Degree-granting Institutions",
+  "committee": "Education and Cultural Affairs",
+  "status_summary": "",
+  "final_disposition": "Leave to Withdraw, Jan 27, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "None",
+  "last_senate_action": "1/27/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Teresa PIERCE",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "COLLEGES AND UNIVERSITIES",
+      "minor": "POLICIES AND PROGRAMS",
+      "detail": "OUT-OF-STATE INSTITUTIONS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-09",
+      "date_raw": "12/9/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on December 9, 2025 and REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2026-01-27",
+      "date_raw": "1/27/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0838&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0838",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0838&SessionID=16",
+  "scraped_at": "2026-06-30T20:09:02Z"
+}

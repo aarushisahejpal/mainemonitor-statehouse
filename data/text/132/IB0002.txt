@@ -1,0 +1,1019 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1378
+I.B. 2
+House of Representatives, April 1, 2025
+An Act to Protect Maine Communities by Enacting the Extreme 
+Risk Protection Order Act
+Transmitted to the Clerk of the 132nd Maine Legislature by the Secretary of State on 
+March 27, 2025 and ordered printed.
+ROBERT B. HUNT
+Clerk
+
+Page 1 - 132LR2508(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  15 MRSA §393, sub-§1, ¶E-3 is enacted to read:
+3
+E-3.  Is currently the subject of an extreme risk protection order issued pursuant to Title 
+4
+25, section 2244 or an emergency extreme risk protection order issued pursuant to Title 
+5
+25, section 2245, except that the prohibition applies to possession and control, not 
+6
+ownership.  Violation of this paragraph is a Class D crime;
+7
+Sec. 2.  15 MRSA §1023, sub-§4, ¶B-2 is enacted to read:
+8
+B-2.  Set preconviction bail for a defendant alleged to have committed a violation of 
+9
+section 393, subsection 1, paragraph E-3;
+10
+Sec. 3.  17-A MRSA §15, sub-§1, ¶A, as amended by PL 2023, c. 465, §1, is further 
+11
+amended by amending subparagraph (24) to read:
+12
+(24)  A Class D or Class E crime committed while released on preconviction or 
+13
+post-conviction bail; or
+14
+Sec. 4.  17-A MRSA §15, sub-§1, ¶A, as amended by PL 2023, c. 465, §1, is further 
+15
+amended by amending subparagraph (25) to read:
+16
+(25)  A violation of a condition of release from a community confinement 
+17
+monitoring program pursuant to Title 30‑A, section 1659‑A; and or
+18
+Sec. 5.  17-A MRSA §15, sub-§1, ¶A, as amended by PL 2023, c. 465, §1, is further 
+19
+amended by enacting a new subparagraph (26) to read:
+20
+(26)  A violation of an extreme risk protection order issued pursuant to Title 25, 
+21
+section 2244, subsection 3 or an emergency extreme risk protection order pursuant 
+22
+to Title 25, section 2245, subsection 2; and
+23
+Sec. 6.  25 MRSA c. 261 is enacted to read:
+24
+CHAPTER 261
+25
+EXTREME RISK PROTECTION ORDER ACT
+26
+§2241. Short title
+27
+This chapter may be known and cited as "the Extreme Risk Protection Order Act."
+28
+§2242. Definitions
+29
+As used in this chapter, unless the context otherwise indicates, the following terms 
+30
+have the following meanings.
+31
+1. Court.  "Court" means a District Court in this State.
+32
+2. Dangerous weapon.  "Dangerous weapon" has the same meaning as in Title 17-A, 
+33
+section 2, subsection 9, paragraph C, including a firearm as defined in Title 17-A, section 
+34
+2, subsection 12-A.
+35
+3. Extreme risk protection order. "Extreme risk protection order" means a written 
+36
+order issued pursuant to this chapter that prohibits and enjoins an individual from 
+
+Page 2 - 132LR2508(01)
+37
+purchasing, possessing or receiving a dangerous weapon or having or attempting to have 
+38
+custody or control of a dangerous weapon. 
+3
+4. Family or household member.  "Family or household member" means a spouse or 
+4
+domestic partner of the respondent, a former spouse or former domestic partner of the 
+5
+respondent, an individual presently or formerly living with the respondent as a spouse of 
+6
+the respondent, a parent of a child of the respondent, an adult sibling of the respondent, an 
+7
+adult child of the respondent, a parent of the respondent or an adult presently living with 
+8
+the respondent.
+9
+5.  Law enforcement agency.  "Law enforcement agency" means a state, county, 
+10
+tribal, municipal or University of Maine System law enforcement agency. "Law 
+11
+enforcement agency" does not include a federal law enforcement agency.
+12
+6. Law enforcement officer.  "Law enforcement officer" has the same meaning as in 
+13
+section 2801-A, subsection 5.  "Law enforcement officer" does not include a federal law 
+14
+enforcement officer.
+15
+7. Petition.  "Petition" means a petition for an extreme risk protection order filed 
+16
+pursuant to this chapter.
+17
+8. Petitioner.  "Petitioner" means a family or household member, a law enforcement 
+18
+agency or a law enforcement officer who files a petition for an extreme risk protection 
+19
+order pursuant to this chapter.
+20
+9. Respondent.  "Respondent" means an individual named in a petition for an extreme 
+21
+risk protection order filed pursuant to this chapter whose purchase, possession, receipt, 
+22
+custody or control of a dangerous weapon the petitioner seeks to restrain.
+23
+§2243. Jurisdiction and venue 
+24
+1. Jurisdiction.  The court has jurisdiction over proceedings under this chapter.
+25
+2. Venue.  A proceeding under this chapter must be commenced in the judicial division 
+26
+where the respondent resides or where events that give rise to the petition occurred.  If a 
+27
+District Court Judge is not available in the division in which a petition is to be filed 
+28
+requesting an extreme risk protection order under section 2244 or an emergency extreme 
+29
+risk protection order under section 2245, the petition and any accompanying motion may 
+30
+be presented to any other District Court Judge or to any Superior Court Justice who has the 
+31
+same authority as a District Court Judge to grant or deny the order.
+32
+§2244. Extreme risk protection orders
+33
+1. Petition.  A family or household member, a law enforcement agency or a law 
+34
+enforcement officer may file a petition requesting that the court issue an extreme risk 
+35
+protection order in accordance with this subsection.
+36
+A.  A petition filed pursuant to this subsection must allege that the respondent poses a 
+37
+significant danger of causing physical injury to the respondent or another person by 
+38
+purchasing, possessing or receiving a dangerous weapon or by having or attempting to 
+39
+have custody or control of a dangerous weapon.
+40
+B.  A significant danger of causing physical injury to another person may be shown by 
+41
+establishing that:
+1
+2
+
+Page 3 - 132LR2508(01)
+1
+(1) The respondent has inflicted or attempted to inflict physical injury on another 
+2
+person;
+3
+(2) By the respondent's threats or actions, the respondent has placed another person 
+4
+in reasonable fear of physical injury; or
+5
+(3) By the respondent's actions or inactions, the respondent has presented a danger 
+6
+to another person in the respondent's care.
+7
+The court may consider any additional information the court finds to be reliable, 
+8
+including a statement by the respondent, or relevant information from family or 
+9
+household members concerning the respondent, and any other facts that the court finds 
+10
+to be relevant.
+11
+C.  A significant danger of causing physical injury to the respondent may be shown by 
+12
+establishing that the respondent has threatened or attempted suicide or has threatened 
+13
+or attempted serious bodily injury.
+14
+D.  The petition must be supported by an affidavit or affidavits that:
+15
+(1) State the specific facts establishing that the requirements in paragraph B or C 
+16
+have been met;
+17
+(2) State whether the petitioner knows of any dangerous weapons in the 
+18
+respondent's possession, custody or control and the identity and location of any 
+19
+such weapons, if known; 
+20
+(3) State whether the petitioner knows of an existing order issued with respect to 
+21
+the respondent under Title 5, section 4655 or Title 19-A, chapter 103 or a similar 
+22
+order issued by a court of competent jurisdiction in the United States or another 
+23
+state, territory, commonwealth or federally recognized Indian tribe; and
+24
+(4) Acknowledge that the petitioner is aware that it is a crime to make a false 
+25
+statement under oath in a court document.
+26
+E.  The court shall provide forms to a petitioner filing a petition or any other necessary 
+27
+documents.  The court may not provide assistance in filling out any such forms or in 
+28
+drafting legal documents or provide legal advice to a petitioner. The forms provided 
+29
+by the court under this paragraph must be uniform throughout the State and must 
+30
+include a summons and an affidavit for an extreme risk protection order.  The summons 
+31
+must include a section on which the petitioner may list the places where the respondent 
+32
+may be located or may be available to be served.
+33
+F.  A filing fee may not be required for a petition filed pursuant to this subsection.
+34
+2.  Hearing.  Except as provided in section 2245 with respect to an emergency extreme 
+35
+risk protection order, the court may grant relief only after notice to the respondent and an 
+36
+opportunity for a hearing. The petitioner has the burden of proving by a preponderance of 
+37
+the evidence that the respondent poses a significant danger of causing physical injury to 
+38
+the respondent or another person by purchasing, possessing or receiving a dangerous 
+39
+weapon or by having or attempting to have custody or control of a dangerous weapon.
+40
+A. The court shall hold a hearing within 14 days after a petition is filed pursuant to this 
+41
+section.  Notice of the hearing must be served pursuant to section 2247 concurrently 
+42
+with the petition and any ex parte order issued pursuant to section 2245. This section 
+
+Page 4 - 132LR2508(01)
+43
+does not limit the court's discretion to continue the hearing upon the court's own motion 
+44
+or upon motion of either party.
+3
+B.  The respondent has the right to be represented by counsel at a hearing. The court 
+4
+may, in its discretion, appoint counsel for an indigent party.  The State is responsible 
+5
+for the cost of appointed counsel.
+6
+3. Orders.  The court shall grant a petition and issue an extreme risk protection order 
+7
+if the court finds by a preponderance of the evidence that the respondent poses a significant 
+8
+danger of causing physical injury to the respondent or to another person by purchasing, 
+9
+possessing or receiving a dangerous weapon or by having or attempting to have custody or 
+10
+control of a dangerous weapon.
+11
+A. The court shall issue an order under this subsection prohibiting the respondent from 
+12
+purchasing, possessing or receiving a dangerous weapon or having or attempting to 
+13
+have custody or control of a dangerous weapon for a period of up to one year. The 
+14
+order must be signed in writing and include the following:
+15
+(1) A statement of the grounds for the issuance of the order; 
+16
+(2) The name and address of the court where any filings must be made, the names 
+17
+of the parties, the date of the petition, the date and time of the order and the date 
+18
+and time the order expires; 
+19
+(3) A description of how to appeal the order pursuant to section 2251; 
+20
+(4) A description of the requirements for relinquishment and return of a dangerous 
+21
+weapon under section 2250;  
+22
+(5) A description of how to request termination of the order under section 2246, 
+23
+including a form for a motion to terminate the order; and
+24
+(6) A statement in substantially the following form:
+25
+"To the subject of this extreme risk protection order: This order is in effect until 
+26
+the date and time stated above. If you have not done so already, you are required 
+27
+to surrender all dangerous weapons in your possession, control or custody as 
+28
+directed in this order. While this order is in effect, you are not allowed to purchase, 
+29
+possess or receive a dangerous weapon; attempt to purchase, possess or receive a 
+30
+dangerous weapon; or have or attempt to have custody or control of a dangerous 
+31
+weapon. You have the right to request one hearing to terminate this order during 
+32
+the period that this order is in effect, starting from the date of this order. You may 
+33
+seek the advice of an attorney regarding any matter connected with this order."
+34
+B. The court shall make either written findings of fact or oral findings of fact on the 
+35
+record. If a court denies a petition filed pursuant to this subsection, the court shall state 
+36
+the reason for the denial.
+37
+C. An order issued pursuant to this section must include the following statement: 
+38
+"VIOLATION OF THIS ORDER IS A CRIME AS PROVIDED BY THE MAINE 
+39
+REVISED STATUTES, TITLE 15, SECTION 393, AND MAY ALSO RESULT IN 
+40
+SANCTIONS FOR CONTEMPT PURSUANT TO THE MAINE RULES OF CIVIL 
+41
+PROCEDURE, RULE 66."
+42
+§2245. Emergency extreme risk protection orders 
+1
+2
+
+Page 5 - 132LR2508(01)
+1
+1.  Petition. In filing a petition under this chapter, a petitioner may request that the 
+2
+court issue an emergency extreme risk protection order.  An emergency extreme risk 
+3
+protection order may be issued ex parte, without prior notice to the respondent.
+4
+A. A petitioner seeking an emergency ex parte order shall indicate in the petition and 
+5
+affidavit or affidavits that emergency relief is requested because the respondent poses 
+6
+an immediate and significant danger of causing physical injury to the respondent or to 
+7
+another person by purchasing, possessing or receiving a dangerous weapon or by 
+8
+having or attempting to have custody or control of a dangerous weapon. An affidavit 
+9
+must include specific facts supporting the statement that the respondent poses an 
+10
+immediate and significant danger. 
+11
+B.  A significant danger of causing physical injury to another person may be shown by 
+12
+establishing that:
+13
+(1) The respondent has inflicted or attempted to inflict physical injury on another 
+14
+person; 
+15
+(2) By the respondent's threats or actions, the respondent has placed another person 
+16
+in reasonable fear of physical injury; or
+17
+(3) By the respondent's actions or inactions, the respondent has presented a danger 
+18
+to another person in the respondent's care.
+19
+The court may consider any additional information the court finds to be reliable, 
+20
+including a statement by the respondent, or relevant information from family or 
+21
+household members concerning the respondent, and any other facts that the court finds 
+22
+to be relevant.
+23
+C.  A significant danger of causing physical injury to the respondent may be shown by 
+24
+establishing that the respondent has threatened or attempted suicide or has threatened 
+25
+or attempted serious bodily injury.
+26
+D. The court may issue an emergency extreme risk protection order if the petition and 
+27
+affidavit or affidavits present good cause that the respondent poses an immediate and 
+28
+significant danger of causing physical injury to the respondent or to another person by 
+29
+purchasing, possessing or receiving a dangerous weapon or by having or attempting to 
+30
+have custody or control of a dangerous weapon. 
+31
+E. The court shall decide whether to grant or deny the petition and issue the order on 
+32
+the basis of the contents of the petition and the affidavit or affidavits provided. If the 
+33
+petition is granted, the court shall immediately sign the original order, enter on its face 
+34
+the exact date and time it is issued and transmit a copy to the petitioner by reliable 
+35
+electronic means, such as e-mail. Upon issuance of an order, a copy must be served on 
+36
+the respondent pursuant to section 2247.
+37
+F. The court may issue an emergency extreme risk protection order by reliable 
+38
+electronic means pursuant to this subsection if requested by the petitioner. 
+39
+2.  Order. An order issued pursuant to this section may prohibit for a period of up to 
+40
+14 days the respondent from purchasing, possessing or receiving a dangerous weapon or 
+41
+having or attempting to have custody or control of a dangerous weapon. This section does 
+42
+not limit the court's discretion to continue the final hearing and extend the order upon the 
+43
+court's own motion or upon the motion of either party. 
+
+Page 6 - 132LR2508(01)
+1
+A. The order must be in writing and include the following:
+2
+(1) A statement of the grounds for the issuance of the order;
+3
+(2) The name and address of the court where any filings must be made, the names 
+4
+of the parties, the date of the petition, the date and time of the order and the date 
+5
+and time the order expires;
+6
+(3) The date and time of the hearing under subsection 3, paragraph A when the 
+7
+respondent may appear to contest the order before the court. The opportunity to 
+8
+contest the order must be scheduled as soon as reasonably possible, but may not be 
+9
+more than 14 days after the date of the issuance of the order unless extended upon 
+10
+the court's own motion or upon the motion of either party;
+11
+(4) A description of the requirements for relinquishment and return of dangerous 
+12
+weapons under section 2250; and
+13
+(5)  A statement in substantially the following form:
+14
+"To the subject of this emergency extreme risk protection order: This order is in 
+15
+effect until the date and time stated above. If you have not done so already, you are 
+16
+required to surrender all dangerous weapons in your possession, control or custody 
+17
+as directed in this order. While this order is in effect, you are not allowed to 
+18
+purchase, possess or receive a dangerous weapon; attempt to purchase, possess or 
+19
+receive a dangerous weapon; or have or attempt to have custody or control of a 
+20
+dangerous weapon. A hearing will be held on the date and time noted above to 
+21
+determine if an extreme risk protection order should be issued. Failure to appear at 
+22
+that hearing may result in the court making an order against you that is valid for up 
+23
+to one year. You may request an extension of the hearing date. You may seek the 
+24
+advice of an attorney regarding any matter connected with this order. An attorney 
+25
+may be appointed at the discretion of the court to represent you if you cannot afford 
+26
+one." 
+27
+B. An order issued pursuant to this section must include the following statement: 
+28
+"VIOLATION OF THIS ORDER IS A CRIME SUBJECT TO A TERM OF 
+29
+IMPRISONMENT OR A FINE, OR BOTH, AS PROVIDED BY THE MAINE 
+30
+REVISED STATUTES, TITLE 15, SECTION 393, AND MAY ALSO RESULT IN 
+31
+SANCTIONS FOR CONTEMPT PURSUANT TO THE MAINE RULES OF CIVIL 
+32
+PROCEDURE, RULE 66."
+33
+If a court denies a petition filed pursuant to this subsection, the court shall state the reason 
+34
+for the denial, which may include either written findings of fact or oral findings of fact on 
+35
+the record.
+36
+3. Duration.  The duration of an emergency extreme risk protection order issued 
+37
+pursuant to this section is as follows.
+38
+A.  Unless the petition is voluntarily dismissed pursuant to paragraph B, the court shall 
+39
+hold a hearing within 14 days after the issuance of an emergency extreme risk 
+40
+protection order to determine if an extreme risk protection order should be issued. If 
+41
+not voluntarily dismissed, the emergency extreme risk protection order expires when 
+42
+the court grants or denies a petition for an extreme risk protection order in accordance 
+43
+with section 2244, subsection 3.
+
+Page 7 - 132LR2508(01)
+1
+B.  The petitioner may voluntarily dismiss a petition filed pursuant to this section at 
+2
+any time prior to the hearing required under paragraph A if the petitioner determines 
+3
+the respondent no longer poses an immediate and significant danger of causing physical 
+4
+injury to the respondent or to another person by purchasing, possessing or receiving a 
+5
+dangerous weapon or by having or attempting to have custody or control of a dangerous 
+6
+weapon. If the petitioner voluntarily dismisses the petition pursuant to this paragraph, 
+7
+the court shall vacate the emergency extreme risk protection order and direct a law 
+8
+enforcement agency in possession of a dangerous weapon belonging to the respondent 
+9
+to return it to the respondent consistent with section 2250.
+10
+§2246. Termination and renewal motions
+11
+1.  Motion to terminate.  A motion to terminate an extreme risk protection order issued 
+12
+pursuant to section 2244 is subject to the provisions of this subsection.
+13
+A.  The respondent may file a motion to terminate an extreme risk protection order 
+14
+issued pursuant to section 2244 or an order renewed under subsection 2.  A motion to 
+15
+terminate may not be filed more than once during the effective period of the order. 
+16
+B. The motion to terminate an extreme risk protection order and notice of a hearing on 
+17
+the motion must be served on the petitioner pursuant to section 2247.
+18
+C.  The court shall grant a motion to terminate an extreme risk protection order if it 
+19
+finds by clear and convincing evidence that the respondent no longer poses a significant 
+20
+danger of causing physical injury to the respondent or to another person by purchasing, 
+21
+possessing or receiving a dangerous weapon or by having or attempting to have custody 
+22
+or control of a dangerous weapon.
+23
+D.  An order on a motion to terminate an extreme risk protection order must state the 
+24
+reason for the denial or granting of the motion.
+25
+E.  The court shall provide forms to a party filing a motion to terminate an extreme risk 
+26
+protection order. The form provided by the court must be uniform throughout the State.
+27
+2.  Motion to renew.  A motion to renew an extreme risk protection order issued 
+28
+pursuant to section 2244 is subject to the provisions of this subsection.
+29
+A.  A petitioner may file a motion to renew an extreme risk protection order issued 
+30
+pursuant to section 2244 or renewed pursuant to this subsection for an additional period 
+31
+of up to one year.  The motion must be accompanied by an affidavit and must be filed 
+32
+not more than 30 days and not less than 14 days before the expiration date of the order.  
+33
+The motion and affidavit must comply with the requirements of section 2244, 
+34
+subsection 1.  
+35
+B.  The court shall hold a hearing within 14 days after a motion to renew an extreme 
+36
+risk protection order under paragraph A is filed.  Notice of the hearing must be served 
+37
+pursuant to section 2247. The court may extend an extreme risk protection order at the 
+38
+time of expiration, upon motion of the petitioner, for additional time as the court 
+39
+determines necessary to hold a hearing on a motion to renew. 
+40
+C.  The court may grant relief only after notice to the respondent and an opportunity 
+41
+for a hearing. The court may grant the motion and renew an extreme risk protection 
+42
+order for an additional period of up to one year if it finds by a preponderance of the 
+43
+evidence that the respondent continues to pose a significant danger of causing physical 
+
+Page 8 - 132LR2508(01)
+44
+injury to the respondent or to another person by purchasing, possessing or receiving a 
+45
+dangerous weapon or by having or attempting to have custody or control of a dangerous 
+46
+weapon. An order on a motion to renew must comply with the requirements of section 
+47
+2244, subsection 3.
+5
+D.  The court shall provide forms to a party filing a motion to renew an extreme risk 
+6
+protection order. The form provided by the court must be uniform throughout the State.
+7
+§2247. Service
+8
+1.  Form of service; transmittal.  A petition, emergency extreme risk protection order, 
+9
+extreme risk protection order or notice of a hearing issued pursuant to this chapter must be 
+10
+served by a law enforcement officer in accordance with the Maine Rules of Civil Procedure. 
+11
+A court that issues an order under this chapter shall promptly transmit the order 
+12
+electronically or by other means to a law enforcement agency for service and shall deliver 
+13
+a copy to the appropriate law enforcement agency. 
+14
+2.  Service on respondent.  A respondent who attends a hearing held under section 
+15
+2244, 2245 or 2246 at which an emergency extreme risk protection order or extreme risk 
+16
+protection order is issued and who receives notice from the court at the hearing that the 
+17
+order has been issued is deemed to have been served.  Regardless of whether the court has 
+18
+previously notified the respondent of the order, the court shall transmit the order for service 
+19
+on the respondent by a law enforcement agency.
+20
+3.  Performance of service.  A petition, emergency extreme risk protection order, 
+21
+extreme risk protection order or notice of a hearing issued pursuant to this chapter must be 
+22
+served in a manner calculated to ensure the safety of the parties. Law enforcement agencies 
+23
+must have a written policy that prioritizes methods of service that do not involve advance 
+24
+notification of a request for an emergency extreme risk protection order to the respondent. 
+25
+The law enforcement agency shall make a good faith effort to serve process expeditiously. 
+26
+Notice of an emergency extreme risk protection order must be served as soon as practicable, 
+27
+but no later than 24 hours after issuance of the order. The law enforcement officer making 
+28
+service shall file a return of service with the court stating the date, time and place at which 
+29
+the order was delivered personally to the respondent.
+30
+4. Service of termination and renewal. A motion to terminate or renew an extreme 
+31
+risk protection order must be served by a law enforcement officer in accordance with the 
+32
+Maine Rules of Civil Procedure. A notice of hearing may be provided in accordance with 
+33
+the Maine Rules of Civil Procedure.
+34
+§2248. Procedure 
+35
+1. Fee.  A fee may not be charged for forms or for filing a petition, motion or other 
+36
+request for relief under this chapter.
+37
+2. Rules; other actions not barred.  Proceedings commenced under this chapter must 
+38
+be in accordance with the Maine Rules of Civil Procedure. A proceeding under this chapter 
+39
+is in addition to any other available civil or criminal remedies. This chapter may not be 
+40
+construed to be applicable to actions under Title 19-A, chapter 103.
+41
+3. Assistance by law enforcement.  Law enforcement agencies shall assist in carrying 
+42
+out the intent of this chapter.
+43
+§2249. Enforcement and entering of orders
+1
+2
+3
+4
+
+Page 9 - 132LR2508(01)
+1
+1.  Law enforcement officers and agencies.  Law enforcement officers are authorized 
+2
+to enforce orders issued pursuant to this chapter. A law enforcement agency shall adopt a 
+3
+written policy on the enforcement of this chapter and the handling of extreme risk 
+4
+protection orders. 
+5
+2.  Failure to comply with order.  A person who knowingly violates an extreme risk 
+6
+protection order issued pursuant to section 2244 or renewed pursuant to section 2246 or an 
+7
+emergency extreme risk protection order issued pursuant to section 2245 is subject to 
+8
+sanctions for contempt pursuant to the Maine Rules of Civil Procedure, Rule 66 and 
+9
+prosecution pursuant to state law, including, but not limited to, Title 15, section 393.
+10
+3.  Notice to State Bureau of Identification; national background check. The court 
+11
+clerk shall forward a copy of an extreme risk protection order or emergency extreme risk 
+12
+protection order issued pursuant to this chapter the same day the order is issued to the 
+13
+Department of Public Safety, Bureau of State Police, State Bureau of Identification. Upon 
+14
+receipt of the copy of the order, the Department of Public Safety, Bureau of State Police, 
+15
+State Bureau of Identification shall enter the order into the Federal Bureau of Investigation, 
+16
+National Instant Criminal Background Check System, any other federal or state computer-
+17
+based systems used by law enforcement agencies or others to identify prohibited purchasers 
+18
+of dangerous weapons and any computer-based criminal intelligence information system 
+19
+available in the State used by law enforcement agencies. The order must remain in each 
+20
+system for the duration of time it is in effect, and the law enforcement agency shall 
+21
+promptly remove expired or terminated orders.
+22
+4. Penalty for submitting false information.  A person who submits materially false 
+23
+information in support of or in opposition to a petition for an extreme risk protection order 
+24
+under this chapter, knowing that material information in the petition or the affidavit is false 
+25
+or that the petition or affidavit is submitted with the intent to harass, is guilty of a Class C 
+26
+crime. 
+27
+5. Warrantless arrest. Notwithstanding any provision of law to the contrary, an arrest 
+28
+for criminal violation of an order issued pursuant to this chapter may be without warrant 
+29
+upon probable cause whether or not the violation is committed in the presence of a law 
+30
+enforcement officer. The law enforcement officer may verify, if necessary, the existence 
+31
+of the order, including by telephone or radio communication with a law enforcement 
+32
+agency with knowledge of the order.  
+33
+§2250. Relinquishment of dangerous weapon
+34
+1.  Relinquishment by respondent.  A respondent who is required to relinquish a 
+35
+dangerous weapon in the respondent's possession, custody or control under an extreme risk 
+36
+protection order issued pursuant to this chapter, upon service of the order, shall 
+37
+immediately relinquish the dangerous weapon to the law enforcement officer serving the 
+38
+order. A respondent notified by the court at a hearing is required to immediately cooperate 
+39
+with a law enforcement officer to come into compliance with the provisions of the order.
+40
+2.  Warrant authorizing search and seizure.  If a law enforcement agency 
+41
+demonstrates that there is probable cause to believe that the respondent will not relinquish 
+42
+a dangerous weapon, a court may issue a search warrant authorizing a law enforcement 
+43
+agency to seize any dangerous weapon at any location at the time of the issuance of the 
+44
+extreme risk protection order. A court may also issue a search warrant if a law enforcement 
+
+Page 10 - 132LR2508(01)
+45
+agency demonstrates that there is probable cause to believe that any dangerous weapon has 
+46
+not been relinquished by the respondent.
+3
+3.  Treatment of seized dangerous weapon.  A law enforcement agency that takes 
+4
+possession of a dangerous weapon shall store the dangerous weapon at the law enforcement 
+5
+agency's facility or a tribal, regional or state public safety facility. 
+6
+4.  Lawful sale of dangerous weapons not affected.  This section may not be 
+7
+construed to prohibit the lawful sale of a dangerous weapon by the lawful owner. 
+8
+5.  Release of dangerous weapon within 3 days.  A law enforcement agency may 
+9
+release to the respondent a dangerous weapon relinquished pursuant to an extreme risk 
+10
+protection order issued pursuant to this chapter upon expiration of the extreme risk 
+11
+protection order in effect at the time of the request by the respondent and completion of a 
+12
+background check using the Federal Bureau of Investigation, National Instant Criminal 
+13
+Background Check System in a manner consistent with federal law. The dangerous weapon 
+14
+must be returned within 3 business days of the request.
+15
+6.  When return prohibited.  Notwithstanding any provision of this chapter to the 
+16
+contrary:
+17
+A.  A dangerous weapon may not be returned to the respondent if the respondent's 
+18
+possession of the dangerous weapon is prohibited by state or federal law; and
+19
+B.  A dangerous weapon may not be returned pursuant to this section if the dangerous 
+20
+weapon is evidence in a pending criminal matter.
+21
+§2251. Appeals
+22
+An extreme risk protection order issued pursuant to this chapter is a final order for the 
+23
+purposes of appeal. 
+24
+§2252. Data and reporting   
+25
+1. Annual report; submission to Legislature.  The State Court Administrator, acting 
+26
+at the direction of the Chief Justice of the Supreme Judicial Court, shall prepare an annual 
+27
+report on and relating to the application of this chapter by the courts.  By January 1, 2027 
+28
+and annually thereafter, the State Court Administrator shall prepare and submit the report 
+29
+to the joint standing committee of the Legislature having jurisdiction over civil rights 
+30
+matters.
+31
+2. Report requirements.  The report required by this section must contain the 
+32
+following: 
+33
+A. The number of petitions filed for an extreme risk protection order; 
+34
+B. The number of petitions filed that included a request for an emergency extreme risk 
+35
+protection order; 
+36
+C. The number of extreme risk protection orders issued and the number denied; 
+37
+D. The number of emergency extreme risk protection orders issued without notice and 
+38
+the number denied; 
+39
+E. The number of extreme risk protection orders that have been voluntarily dismissed 
+40
+by the petitioner; 
+1
+2
+
+Page 11 - 132LR2508(01)
+1
+F. The number of emergency extreme risk protection orders entered without notice that 
+2
+have been voluntarily dismissed by the petitioner;
+3
+G. The number of motions filed to renew an extreme risk protection order;
+4
+H. The number of extreme risk protection orders that have been renewed; 
+5
+I. The number of motions filed to terminate an extreme risk protection order;
+6
+J. The number of motions filed to terminate an extreme risk protection order that 
+7
+resulted in termination of an order prior to the original expiration date;
+8
+K. To the extent ascertainable from available state court data, the number of 
+9
+respondents subject to an extreme risk protection order who, within 30 days after entry 
+10
+of the order, have been charged with a criminal offense, including the nature of the 
+11
+criminal offense, whether the offense was a violation of the extreme risk protection 
+12
+order and the disposition or status of the offense; and
+13
+L. Demographic data regarding the individuals who have been petitioners and 
+14
+respondents in actions for extreme risk protection orders.
+15
+Sec. 7. Department of Public Safety to obtain federal funding; report.  By 
+16
+January 1, 2027, the Department of Public Safety shall report to the joint standing 
+17
+committee of the Legislature having jurisdiction over civil rights matters the status of the 
+18
+state-level process currently under way to obtain federal funding for storing dangerous 
+19
+weapons in the custody of state, county and municipal law enforcement agencies.
+20
+SUMMARY
+21
+This initiated bill enacts the Extreme Risk Protection Order Act.  Under the bill, a 
+22
+petition for an extreme risk protection order, which prohibits the purchase, possession or 
+23
+control of a dangerous weapon, may be sought if a person is suspected of posing a 
+24
+significant danger of causing physical injury to the person or to another person.  A 
+25
+significant danger of causing physical injury to the person or another person is 
+26
+demonstrated by establishing that the person has inflicted or attempted to inflict physical 
+27
+injury on another person; placed another person in reasonable fear of physical injury; by 
+28
+action or inaction, presented a danger to persons in the person's care; or threatened or 
+29
+attempted suicide or has threatened or attempted serious bodily injury. The petition may be 
+30
+filed by a family or household member of the person or by a law enforcement agency or a 
+31
+law enforcement officer and must be supported by an affidavit stating the facts to support 
+32
+the allegations, identifying any dangerous weapons believed to be in the person's 
+33
+possession and stating whether the person is already the subject of an existing protection 
+34
+from harassment or protection from abuse order.  Upon receipt of the petition and affidavit, 
+35
+the District Court is required to schedule a hearing, which must be held within 14 days of 
+36
+the filing of the petition, and provide notice of the hearing to the person who is the subject 
+37
+of the requested extreme risk protection order. Following the hearing, if the court finds by 
+38
+a preponderance of the evidence that the person poses a significant risk of causing physical 
+39
+injury to the person or to another person, the court must issue an order prohibiting, for up 
+40
+to one year, the person from purchasing, possessing or receiving a dangerous weapon, 
+41
+attempting to purchase, possess or receive a dangerous weapon or having custody or control 
+42
+of a dangerous weapon. 
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+Page 12 - 132LR2508(01)
+1
+The bill allows a court to issue an emergency extreme risk protection order without 
+2
+prior notice to the person who is the subject of the requested order.  A hearing must be 
+3
+scheduled no later than 14 days after the order is issued.
+4
+An extreme risk protection order may be terminated upon the request of the person who 
+5
+is the subject of the order if that person shows by clear and convincing evidence that the 
+6
+person no longer poses a significant danger of causing physical injury to the person or 
+7
+another person.  An extreme risk protection order may be renewed for an additional period 
+8
+of up to one year.
+9
+A person who is the subject of an extreme risk protection order must immediately 
+10
+surrender all dangerous weapons in that person's possession, custody or control to a law 
+11
+enforcement agency.
+12
+The bill directs the State Court Administrator to report annually regarding data related 
+13
+to this legislation. It also directs the Department of Public Safety to submit a report to the 
+14
+joint standing committee of the Legislature having jurisdiction over civil rights matters on 
+15
+the status of obtaining federal funding related to storing dangerous weapons in the custody 
+16
+of law enforcement agencies.

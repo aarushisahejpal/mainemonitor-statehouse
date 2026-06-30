@@ -1,0 +1,237 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1239
+H.P. 814
+House of Representatives, March 25, 2025
+An Act to Require Data Collection on and Reporting of Psychiatric 
+Hospital Resources and Transparency in Denials of Emergency 
+Involuntary Admissions to Psychiatric Hospitals
+Reference to the Committee on Health and Human Services suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SHAGOURY of Hallowell.
+Cosponsored by Senator MOORE of Washington and
+Representatives: BRENNAN of Portland, CLOUTIER of Lewiston, GRAHAM of North 
+Yarmouth, GRAMLICH of Old Orchard Beach, MCCABE of Lewiston, ZAGER of Portland, 
+Senator: DUSON of Cumberland.
+
+Page 1 - 132LR1065(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  34-B MRSA §3004, sub-§3, ¶C, as amended by PL 1995, c. 560, Pt. K, 
+3
+§33, is further amended to read:
+4
+C.  Prepare a report that describes the system of community support services in each 
+5
+of the mental health service regions and statewide.
+6
+(1)  The report must include both existing service resources and deficiencies in the 
+7
+system of services., including:
+8
+(a)  An analysis of existing service resources and system deficiencies. The 
+9
+analysis must specifically identify any deficiency that contributed to a denial 
+10
+of a referral as reported to the department under section 3863, subsection 3, 
+11
+paragraph D, subparagraph (4) and section 3863, subsection 3-A; and
+12
+(b)  Recommendations on resources and supports that are needed to address 
+13
+identified deficiencies and that would enable a facility to accept an individual 
+14
+who would otherwise be denied admission.
+15
+(2)  The report must include an assessment of the roles and responsibilities of 
+16
+mental health agencies, human services agencies, health agencies and involved 
+17
+state departments and must suggest ways in which these agencies and departments 
+18
+can better cooperate to improve the service system for people with chronic mental 
+19
+illness.
+20
+(3)  The report must be prepared biennially and, must be submitted to the joint 
+21
+standing committee of the Legislature having jurisdiction over human resources 
+22
+matters by December 15th of every even-numbered year and must be publicly 
+23
+accessible, including on the department's website.
+24
+(4)  The committee shall review the report and make recommendations with respect 
+25
+to administrative and funding improvements in the system of community support 
+26
+services to persons with chronic mental illness; and
+27
+Sec. 2.  34-B MRSA §3004, sub-§3, ¶D, as amended by PL 2011, c. 348, §9, is 
+28
+further amended to read:
+29
+D.  Participate with school administrative units in transition planning for each student 
+30
+with chronic mental illnesses who is receiving special education services and who is 
+31
+16 years of age or older, or 14 years of age if determined appropriate by the student's 
+32
+individualized education program team, and shall assign appropriate staff as a 
+33
+transition contact person and as a member of the transition planning team for each 
+34
+student.; and
+35
+Sec. 3.  34-B MRSA §3004, sub-§3, ¶E is enacted to read:
+36
+E.  By December 15th of every even-numbered year, each psychiatric hospital, as 
+37
+defined in section 3801, subsection 7-B, shall submit a biennial report to the 
+38
+department, including:
+39
+(1) The total number of inpatient beds for which the hospital controls admission;
+40
+(2) The physical address of each facility within the State with inpatient beds under 
+41
+the hospital's control and the number of licensed beds at each facility; and
+
+Page 2 - 132LR1065(01)
+1
+(3) The total number of days each inpatient bed was occupied by a patient as 
+2
+defined in section 3801, subsection 7.
+3
+By January 15th of every odd-numbered year, the department shall compile the data 
+4
+received under this paragraph into a report that identifies statewide trends and 
+5
+utilization patterns and make the report publicly accessible, including on the 
+6
+department's website.
+7
+Sec. 4.  34-B MRSA §3863, sub-§3, ¶D, as enacted by PL 2015, c. 309, §3, is 
+8
+amended by amending subparagraph (2) to read:
+9
+(2)  The hospital, after undertaking its best efforts, has been unable to locate an 
+10
+available inpatient bed at a psychiatric hospital or other appropriate alternative; 
+11
+and
+12
+Sec. 5.  34-B MRSA §3863, sub-§3, ¶D, as enacted by PL 2015, c. 309, §3, is 
+13
+amended by amending subparagraph (3) to read:
+14
+(3)  The hospital has notified the department of the name of the person, the location 
+15
+of the person, the name of the appropriately designated individual who conducted 
+16
+the evaluation pursuant to subparagraph (1) and the time the person first presented 
+17
+to the hospital.; and
+18
+Sec. 6.  34-B MRSA §3863, sub-§3, ¶D, as enacted by PL 2015, c. 309, §3, is 
+19
+amended by enacting subparagraph (4) to read:
+20
+(4)  The hospital has provided to the department the documentation received under 
+21
+subsection 3-A for any psychiatric hospital that has declined a referral for 
+22
+admission of the person.
+23
+Sec. 7.  34-B MRSA §3863, sub-§3-A is enacted to read:
+24
+3-A.  Referral for admission declined by psychiatric hospital.  A psychiatric 
+25
+hospital that declines a referral for admission from a referring hospital under this section 
+26
+shall provide the referring hospital with a written explanation for declining the referral, 
+27
+including:
+28
+A. A detailed explanation of the specific reasons for declining to admit the person; and
+29
+B. A description of the specific circumstances or changes that would allow the 
+30
+psychiatric hospital to reconsider and accept the referral at a later time.
+31
+If the psychiatric hospital has previously declined admission for the person and 
+32
+subsequently admitted another person, the psychiatric hospital shall explain the decision to 
+33
+accept the subsequent person in preference over the previously declined person, keeping 
+34
+personally identifying information of each person confidential and focusing solely on the 
+35
+clinical or logistical criteria used to make the admission decision.
+36
+A psychiatric hospital shall make a written explanation under this subsection available, 
+37
+upon request, to the person who was declined admission.
+38
+Sec. 8.  34-B MRSA §3863, sub-§3-B is enacted to read:
+39
+3-B.  Daily data on available beds at psychiatric hospitals.  A psychiatric hospital, 
+40
+as defined in section 3801, subsection 7-B, shall submit the following data to the 
+41
+department at least once every 24 hours:
+
+Page 3 - 132LR1065(01)
+1
+A. The name and address of the psychiatric hospital, including the location of all 
+2
+inpatient beds for which the psychiatric hospital controls admissions;
+3
+B. The total number of inpatient beds at the psychiatric hospital; and
+4
+C. The number of inpatient beds at the time of reporting that are occupied by a patient 
+5
+as defined in section 3801, subsection 7.
+6
+The department shall compile the data received under this subsection and present the data 
+7
+in a format that allows for easy identification of inpatient bed availability, sorted by 
+8
+psychiatric hospital, in real time on a publicly accessible website.
+9
+SUMMARY
+10
+This bill requires:
+11
+1. Psychiatric hospitals to provide detailed written explanations to referring hospitals 
+12
+for emergency admission denials that include specific reasons for the denial, circumstances 
+13
+under which the admission referral would be reconsidered and justification for prioritizing 
+14
+other admissions;
+15
+2. Psychiatric hospitals on a daily basis to report inpatient bed capacity, occupancy and 
+16
+locations to the Department of Health and Human Services, which is required to make the 
+17
+information available in real time on a publicly accessible website;
+18
+3. Psychiatric hospitals on a biennial basis to report information on inpatient bed 
+19
+capacity and occupancy, with the Department of Health and Human Services issuing a 
+20
+publicly accessible report on this information identifying statewide trends and utilization 
+21
+patterns regarding the use of inpatient beds; and
+22
+4. The Department of Health and Human Services to include in its biennial report 
+23
+identification of deficiencies contributing to denials of referrals for admission and 
+24
+recommendations for necessary resources to improve access to psychiatric hospitals.
+10

@@ -1,0 +1,104 @@
+{
+  "ld": 2052,
+  "paper": "HP1376",
+  "paper_display": "HP 1376",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100941",
+  "title": "Resolve, to Study the Use of Technology in Classrooms and Study Safeguards Related to Its Use",
+  "committee": "Education and Cultural Affairs",
+  "status_summary": "",
+  "final_disposition": "Emergency Finally Passed, Apr 3, 2026",
+  "governor_action": "Emergency Signed, Apr 3, 2026",
+  "chaptered_law": "RESLV, Chapter 149",
+  "chapter": "149",
+  "became_law": true,
+  "last_house_action": "3/24/2026 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/25/2026 - FINALLY PASSED - Emergency - 2/3 Elected Required, in concurrence.",
+  "sponsors": [
+    {
+      "name": "Holly SARGENT",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "York"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "EDUCATION DEPT",
+      "minor": "POWERS",
+      "detail": "TECHNOLOGY SURVEY"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-09",
+      "date_raw": "12/9/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on December 9, 2025. The Resolve was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Resolve was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-841) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-18",
+      "date_raw": "3/18/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED, in concurrence. Bill READ ONCE Committee Amendment \"A\" (H-841) READ and ADOPTED. ASSIGNED FOR SECOND READING NEXT LEGISLATIVE DAY."
+    },
+    {
+      "date": "2026-03-19",
+      "date_raw": "3/19/2026",
+      "chamber": "Senate",
+      "description": "COMMITTEE ON BILLS IN THE SECOND READING REPORTS NO FURTHER VERBAL AMENDMENTS NECESSARY. REPORT ACCEPTED. READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-841) , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2026-03-24",
+      "date_raw": "3/24/2026",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-25",
+      "date_raw": "3/25/2026",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED - Emergency - 2/3 Elected Required, in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-841 )",
+      "new_title": "",
+      "house_action": "Adopted on 3/17/2026",
+      "senate_action": "Adopted on 3/18/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1376&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1376&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1376&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1376",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1376&SessionID=16",
+  "scraped_at": "2026-06-30T20:09:32Z"
+}

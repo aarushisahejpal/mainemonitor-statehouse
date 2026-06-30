@@ -1,0 +1,129 @@
+{
+  "ld": 53,
+  "paper": "HP0017",
+  "paper_display": "HP 17",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095587",
+  "title": "An Act to Establish the November General Election Day as a State Holiday",
+  "committee": "State and Local Government",
+  "status_summary": "",
+  "final_disposition": "Died Between Houses, May 28, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/27/2025 - The House INSISTED on ACCEPTANCE of the Majority Ought to Pass as Amended Report and PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-91) ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/28/2025 - On motion by Senator PIERCE of Cumberland The Senate INSISTED on ACCEPTANCE of The Minority Ought Not To Pass Report. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Jennifer POIRIER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Skowhegan"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE GOVERNMENT",
+      "minor": "STATE HOLIDAYS",
+      "detail": "ELECTION DAY"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-06",
+      "date_raw": "1/6/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on January 6, 2025. The Bill was REFERRED to the Committee on STATE AND LOCAL GOVERNMENT pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SALISBURY of Westbrook, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-91) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-91) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator BALDACCI of Penobscot Tabled until Later in Today's Session, pending ACCEPTANCE OF EITHER REPORT Unfinished Business"
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-14",
+      "date_raw": "5/14/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President On motion by Senator BALDACCI of Penobscot to ACCEPT The Minority Ought Not To Pass Report In NON-CONCURRENCE Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "The House INSISTED on ACCEPTANCE of the Majority Ought to Pass as Amended Report and PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-91) ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland The Senate INSISTED on ACCEPTANCE of The Minority Ought Not To Pass Report. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-91 )",
+      "new_title": "An Act to Establish the November General Election Day as a School Holiday Applicable Only to Public School Buildings Used as Voting Places",
+      "house_action": "Adopted on 5/6/2025",
+      "senate_action": "",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0017&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0017&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0017",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0017&SessionID=16",
+  "scraped_at": "2026-06-30T17:33:27Z"
+}

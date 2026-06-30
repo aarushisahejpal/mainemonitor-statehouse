@@ -1,0 +1,281 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1726
+H.P. 1153
+House of Representatives, April 17, 2025
+An Act to Enhance the Coordination and Effectiveness of Integrated 
+Distribution Grid Planning
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative RUNTE of York.
+Cosponsored by Senator LAWRENCE of York and
+Representatives: KESSLER of South Portland, MCINTYRE of Lowell, SACHS of Freeport, 
+WARREN of Scarborough, WEBB of Durham, Senator: GROHOSKI of Hancock.
+
+Page 1 - 132LR0881(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  2 MRSA §9, sub-§3, ¶D-1 is enacted to read:
+3
+D-1.  Seek to ensure consistency and accuracy in energy planning and analysis, 
+4
+including, but not limited to, through the use in all energy planning and analysis 
+5
+conducted by the office of an energy forecasting method consistent with the method 
+6
+used by the office in preparing the comprehensive state energy plan as required by 
+7
+paragraph C.  The office shall ensure that the energy forecasting method used in 
+8
+preparing the comprehensive state energy plan is made available for use by other state 
+9
+agencies;
+10
+Sec. 2.  35-A MRSA §3147, sub-§1, ¶A-1 is enacted to read:
+11
+A-1.  "Energy storage system" has the same meaning as in section 3481, subsection 6.
+12
+Sec. 3.  35-A MRSA §3147, sub-§6 is enacted to read:
+13
+6.  Grid plan alignment with procurements.  Notwithstanding any provision of this 
+14
+Title to the contrary, in developing requests for proposals, conducting procurements and 
+15
+negotiating agreements for energy and energy storage systems, the commission shall use 
+16
+the grid plans developed by covered utilities to seek to optimize grid capacity, including in 
+17
+evaluating the site location of energy generation projects and energy storage systems, and 
+18
+minimize the need for capital investment in the transmission and distribution system.
+19
+Sec. 4.  35-A MRSA §3147, sub-§7 is enacted to read:
+20
+7.  Integration of distributed energy resources.   In administering this section, the 
+21
+commission shall seek to ensure the integration of distributed energy resources by 
+22
+developing clear technical standards for covered utilities.
+23
+Sec. 5.  35-A MRSA §3147, sub-§8 is enacted to read:
+24
+8.  Standardization of method; energy supply and demand forecasting.  The 
+25
+commission shall, by order, adopt a method for energy supply and demand forecasting that 
+26
+is consistent with the method used by the Governor’s Energy Office in preparing the 
+27
+comprehensive state energy plan under Title 2, section 9, subsection 3, paragraph C and 
+28
+require a covered utility to use this method in its grid plan filings required under this 
+29
+section.
+30
+Sec. 6.  35-A MRSA §3149 is enacted to read:
+31
+§3149.  Coordination of integrated grid planning with transmission and energy 
+32
+planning
+33
+1. Definitions. As used in this section, unless the context otherwise indicates, the 
+34
+following terms have the following meanings.   
+35
+A. "Advanced conductor" means an electric conductor that has a direct current 
+36
+electrical resistance at least 10% lower than existing conductors of a similar diameter 
+37
+on the electric system.
+38
+B. "Grid-enhancing technology" has the same meaning as in section 3148, subsection 
+39
+1, paragraph A.
+
+Page 2 - 132LR0881(01)
+1
+2. Transmission and energy planning. In engaging in transmission and energy 
+2
+planning under this subchapter, the commission shall:
+3
+A. Establish mechanisms to integrate grid plans filed by large investor-owned 
+4
+transmission and distribution utilities pursuant to section 3147;
+5
+B. Seek to improve efficiency and reliability of and reduce congestion on the grid 
+6
+through the consideration of grid-enhancing technologies and advanced conductors in 
+7
+the distribution system and transmission planning processes; and
+8
+C. Incentivize the incorporation of low-voltage sensors to improve grid monitoring 
+9
+capacity, including data related to grid power quality, transformer status and distributed 
+10
+energy resource capacity by location.
+11
+Sec. 7.  35-A MRSA §3210-J, sub-§2, ¶F, as enacted by PL 2023, c. 321, §3, is 
+12
+amended to read:
+13
+F.  In conducting a solicitation and selecting eligible Class IA resources or combined 
+14
+projects for contracts under this section, the commission shall:
+15
+(1)  Consider the expected effect of eligible Class IA resources on other renewable 
+16
+resources, as defined in section 3210, subsection 2, paragraph C, due to congestion 
+17
+and curtailment;
+18
+(2)  Select only those eligible Class IA resources or combined projects for contracts 
+19
+that will benefit ratepayers; and
+20
+(3)  Of those eligible Class IA resources or combined projects that benefit 
+21
+ratepayers, give preference to eligible Class IA resources or combined projects as 
+22
+follows:
+23
+(a)  Primary preference to those eligible Class IA resources or combined 
+24
+projects that are located on contaminated land; and
+25
+(b)  Secondary preference to those eligible Class IA resources or combined 
+26
+projects that minimize use of farmland that is not contaminated land and 
+27
+minimize use of forested land.; and
+28
+(4)  Use grid plans developed by large investor-owned transmission and 
+29
+distribution utilities in accordance with the requirements set forth in section 3147, 
+30
+subsection 6.
+31
+Sec. 8.  35-A MRSA §3804, as enacted by PL 2023, c. 328, §1, is amended to read:
+32
+§3804.  Commission advancement of clean energy and beneficial electrification
+33
+The commission shall advance through its decisions and orders beneficial 
+34
+electrification in order to achieve the emission reduction and renewable energy goals of the 
+35
+State, reduce energy costs to consumers and provide economic and climate benefits for all 
+36
+ratepayers. The commission shall seek to procure energy under section 3803, subsection 1, 
+37
+paragraph B in a manner that is consistent with beneficial electrification and in accordance 
+38
+with the requirements of section 3147, subsection 6. To the extent practicable, the 
+39
+commission shall seek to ensure that the acquisition of energy from renewable resources 
+40
+under section 3803, subsection 1, paragraph B is designed to procure sufficient energy to 
+41
+meet the portfolio requirements under section 3210 for the reasonably expected increase in 
+42
+use of electricity by retail electricity consumers.
+
+Page 3 - 132LR0881(01)
+1
+Sec. 9.  35-A MRSA §10104, sub-§9-A is enacted to read:
+2
+9-A.  Consistency in method.  Notwithstanding any provision of this chapter to the 
+3
+contrary, the trust shall seek to ensure consistency and accuracy in energy planning and 
+4
+analysis, including, but not limited to, through the use of an energy forecasting method for 
+5
+energy supply and demand forecasting that is consistent with the energy forecasting method 
+6
+used by the Governor's Energy Office in preparing the comprehensive state energy plan 
+7
+under Title 2, section 9, subsection 3, paragraph C.
+8
+Sec. 10.  Assessment of nonwires alternative process.  In consultation with the 
+9
+Efficiency Maine Trust and the Office of the Public Advocate, the Public Utilities 
+10
+Commission shall conduct a review of the nonwires alternative investigation and 
+11
+recommendation process established in the Maine Revised Statutes, Title 35-A, section 
+12
+3132-C.  The commission's review must assess the efficiency of that process and consider 
+13
+how that process is incorporated into integrated grid plan filings submitted by large 
+14
+investor-owned transmission and distribution utilities in accordance with the requirements 
+15
+established by Title 35-A, section 3147.  The review must include the opportunity for 
+16
+stakeholders to provide comments to the commission. The commission shall develop 
+17
+recommendations for changes to the nonwires alternative investigation and 
+18
+recommendation process based on its review, which may include recommended legislation 
+19
+to better integrate nonwires alternatives into the requirements for grid plan filings.  By 
+20
+January 1, 2026, the commission shall provide a report of its recommendations to the Joint 
+21
+Standing Committee on Energy, Utilities and Technology.  The committee may report out 
+22
+a bill related to the commission's recommendations to the Second Regular Session of the 
+23
+132nd Legislature.
+24
+SUMMARY
+25
+This bill requires the Public Utilities Commission and the Efficiency Maine Trust to 
+26
+use an energy forecasting method for energy supply and demand forecasting that is 
+27
+consistent with the energy forecasting method used by the Governor's Energy Office in 
+28
+preparing the comprehensive state energy plan.  It requires the commission, in developing 
+29
+requests for proposals, conducting procurements and negotiating agreements for energy 
+30
+and energy storage systems, to consider the grid plans developed by large investor-owned 
+31
+transmission and distribution utilities to seek to optimize grid capacity and minimize the 
+32
+need for capital investment in the transmission or distribution system. 
+33
+It also requires the commission to, when engaging in transmission and energy planning, 
+34
+establish mechanisms to integrate grid plans filed by large investor-owned transmission 
+35
+and distribution utilities, seek to improve efficiency and reliability of and reduce congestion 
+36
+on the grid through the consideration of grid-enhancing technologies and advanced 
+37
+conductors and incentivize the incorporation of low-voltage sensors to improve grid 
+38
+monitoring capacity.  The bill also requires the commission, in consultation with the 
+39
+Efficiency Maine Trust and the Office of the Public Advocate, to conduct a review of the 
+40
+nonwires alternative investigation and recommendation process established in the Maine 
+41
+Revised Statutes, Title 35-A, section 3132-C.  By January 1, 2026, the commission must 
+42
+provide a report of its recommendations to the Joint Standing Committee on Energy, 
+43
+Utilities and Technology.  The committee may report out a bill related to the commission's 
+44
+recommendations to the Second Regular Session of the 132nd Legislature.
+25
+26
+27
+28
+29
+30
+31
+32

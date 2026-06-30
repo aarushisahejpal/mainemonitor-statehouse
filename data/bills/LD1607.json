@@ -1,0 +1,84 @@
+{
+  "ld": 1607,
+  "paper": "HP1061",
+  "paper_display": "HP 1061",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098443",
+  "title": "An Act to Require Law Enforcement Agencies to Adopt Written Policies Regarding Compliance with Certain Constitutional Obligations Related to Disclosure of Evidence",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 9, 2025",
+  "governor_action": "Signed, Jun 9, 2025",
+  "chaptered_law": "ACTPUB, Chapter 219",
+  "chapter": "219",
+  "became_law": true,
+  "last_house_action": "6/2/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/2/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Stephan BUNKER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Farmington"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LAW ENFORCEMENT",
+      "minor": "PROCEDURES",
+      "detail": "EVIDENCE DISCLOSURE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-11",
+      "date_raw": "4/11/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on April 11, 2025. The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative HASENFUS of Readfield, the Majority Ought to Pass Report was ACCEPTED . The Bill was READ ONCE . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator BEEBE-CENTER of Knox the Majority Ought to Pass Report ACCEPTED. Bill READ ONCE. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED in concurrence."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1061&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1061&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1061",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1061&SessionID=16",
+  "scraped_at": "2026-06-30T19:34:08Z"
+}

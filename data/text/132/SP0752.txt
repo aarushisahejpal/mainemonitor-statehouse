@@ -1,0 +1,364 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1911
+S.P. 752
+In Senate, May 6, 2025
+An Act to Automatically Seal Criminal History Record Information 
+for Certain Crimes
+Reference to the Committee on Judiciary suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TALBOT ROSS of Cumberland.
+Cosponsored by Representative BOYER of Poland and
+Senator: TIPPING of Penobscot, Representatives: LEE of Auburn, PUGH of Portland, SATO 
+of Gorham, SINCLAIR of Bath.
+
+Page 1 - 132LR2382(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  4 MRSA §17, sub-§17, ¶C, as amended by PL 2021, c. 684, §2, is further 
+3
+amended to read:
+4
+C.  The statement on proposed legislation prepared by the State Court Administrator 
+5
+must be considered in the preparation of the fiscal note included in a committee 
+6
+amendment or other amendment if the legislation or amendment has a fiscal impact on 
+7
+the judicial system, as determined by the State Court Administrator; and
+8
+Sec. 2.  4 MRSA §17, sub-§18, ¶B, as enacted by PL 2021, c. 684, §3, is amended 
+9
+by amending subparagraph (8) to read:
+10
+(8)  Provide a mechanism for the retention of all information submitted to or 
+11
+communicated by or within the system.; and
+12
+Sec. 3.  4 MRSA §17, sub-§19 is enacted to read:
+13
+19.  Review for automatic sealing of criminal history record information.  Establish 
+14
+and maintain a process by which the Administrative Office of the Courts must perform its 
+15
+obligations to assist with the automatic sealing of criminal history record information for 
+16
+eligible criminal convictions as provided under Title 15, section 2403.
+17
+Sec. 4.  15 MRSA c. 313 is enacted to read:
+18
+CHAPTER 313
+19
+AUTOMATIC SEALING OF CERTAIN CRIMINAL HISTORY RECORD 
+20
+INFORMATION
+21
+§2401.  Definitions
+22
+As used in this chapter, unless the context otherwise indicates, the following terms 
+23
+have the following meanings.
+24
+1.  Bureau.  "Bureau" means the Department of Public Safety, Bureau of State Police, 
+25
+State Bureau of Identification.
+26
+2.  Criminal history record information.  "Criminal history record information" has 
+27
+the same meaning as in Title 16, section 703, subsection 3.
+28
+3.  Criminal justice agency.  "Criminal justice agency" has the same meaning as in 
+29
+Title 16, section 703, subsection 4.
+30
+4.  Dissemination.  "Dissemination" has the same meaning as in Title 16, section 703, 
+31
+subsection 6.
+32
+5.  Eligible criminal conviction.  "Eligible criminal conviction" means:
+33
+A. A conviction for a current or former Class E crime, except a conviction for a current 
+34
+or former Class E crime under Title 17-A, chapter 11; 
+35
+B. A conviction for a current or former Class D crime, except: 
+36
+(1) A conviction for a current or former Class D crime under Title 17-A, chapter 
+37
+11 or 12; 
+
+Page 2 - 132LR2382(01)
+1
+(2) A conviction for violation of condition of release under section 1092, 
+2
+committed while the defendant was on preconviction or post-conviction bail for a 
+3
+crime under Title 17-A, chapter 11 or 12; 
+4
+(3) A conviction for a current or former Class D crime under Title 17-A, section 
+5
+852, 853 or 855; 
+6
+(4) A conviction for assault under Title 17-A, section 207 if the defendant was or 
+7
+could have been charged with a crime under Title 17-A, chapter 11 or 12 arising 
+8
+out of the same course of conduct; 
+9
+(5) A conviction for stalking under Title 17-A, section 210-A or domestic violence 
+10
+stalking under Title 17-A, section 210-C; 
+11
+(6) Unless a sentence has been commuted, a conviction involving a crime of 
+12
+domestic violence or a crime involving domestic violence, as defined in section 
+13
+1003, subsection 3-A; 
+14
+(7) A violation of a protective order, as specified in section 321, subsection 6; Title 
+15
+5, section 4659, subsection 1; Title 17-A, section 506-B; Title 19-A, former section 
+16
+4011, subsection 3; Title 19-A, former section 4012, subsection 5; or Title 19-A, 
+17
+section 4113, subsection 1; 
+18
+(8) A conviction for cruelty to animals under Title 17, section 1031; 
+19
+(9) A conviction for a crime against a family or household member, as defined in 
+20
+Title 19-A, former section 4002, subsection 4, regardless of whether the 
+21
+relationship was an element of that crime, if less than 20 years have passed since 
+22
+the judgment of conviction was entered; or
+23
+(10) A conviction for the crime of violation of a condition of release, pursuant to 
+24
+section 1092, committed while the defendant is released on preconviction or post-
+25
+conviction bail for a charge that involves a crime against a family or household 
+26
+member, as defined in Title 19-A, former section 4002, subsection 4, regardless of 
+27
+whether the relationship was an element of that crime, if less than 20 years have 
+28
+passed since the judgment of conviction was entered; 
+29
+C. Unlawful possession of scheduled drugs under Title 17-A, section 1107-A or Title 
+30
+17-A, former section 1107; 
+31
+D. A conviction for any other crime under Title 17-A, chapter 45 not otherwise 
+32
+specified in paragraph C, except for a conviction for a Class A crime under section 
+33
+1105-A or a conviction for a crime that involved the use of a firearm; and
+34
+E. A conviction for a crime committed prior to January 30, 2017 for: 
+35
+(1) Aggravated trafficking, furnishing or cultivation of scheduled drugs under Title 
+36
+17-A, former section 1105 when the person was convicted of cultivating scheduled 
+37
+drugs, that scheduled drug was marijuana and the underlying crime was a Class D 
+38
+or Class E crime; 
+39
+(2) Aggravated cultivating of marijuana under Title 17-A, section 1105-D, 
+40
+subsection 1, paragraph A, subparagraph (4); 
+41
+(3) Aggravated cultivating of marijuana under Title 17-A, section 1105-D, 
+42
+subsection 1, paragraph B-1, subparagraph (4); 
+
+Page 3 - 132LR2382(01)
+1
+(4) Aggravated cultivating of marijuana under Title 17-A, section 1105-D, 
+2
+subsection 1, paragraph C, subparagraph (4); or 
+3
+(5) Aggravated cultivating of marijuana under Title 17-A, section 1105-D, 
+4
+subsection 1, paragraph D, subparagraph (4). 
+5
+§2402.  Prerequisites for automatic sealing of criminal history record information
+6
+Criminal history record information relating to one or more specific criminal 
+7
+convictions may be sealed under this chapter only if: 
+8
+1.  Eligible criminal conviction.  The criminal conviction is: 
+9
+A. An eligible criminal conviction that is a Class D or Class E crime and 5 years have 
+10
+passed since the date of conviction; or 
+11
+B. An eligible criminal conviction that is a Class A, Class B or Class C crime and 10 
+12
+years have passed since the date of conviction, and the person who is the subject of the 
+13
+criminal history record information has completed the person's sentence, including any 
+14
+period of supervised release; 
+15
+2.  Other convictions in this State.  Since the time at which the person who is the 
+16
+subject of the criminal history record information fully satisfied each of the sentencing 
+17
+alternatives imposed under Title 17-A, section 1502, subsection 2 for the person's most 
+18
+recent eligible criminal conviction up until the time the bureau submits the criminal history 
+19
+record information related to that eligible criminal conviction to the Administrative Office 
+20
+of the Courts under section 2403, subsection 2, the person has not been convicted of a crime 
+21
+in this State and has not had a criminal charge dismissed as a result of a deferred disposition 
+22
+pursuant to Title 17-A, former chapter 54-F or Title 17-A, chapter 67, subchapter 4; and 
+23
+3.  Pending criminal charges.  The person who is the subject of the criminal history 
+24
+record information does not have any pending criminal charges in this State. 
+25
+§2403.  Automatic sealing of criminal history record information
+26
+Criminal history record information for an eligible criminal conviction must be sealed 
+27
+in accordance with this section if the eligible criminal conviction and the conduct of the 
+28
+person who is the subject of the criminal history record information satisfy the requirements 
+29
+of section 2402. 
+30
+1.  Monthly examination of records.  Beginning January 1, 2027, the Administrative 
+31
+Office of the Courts shall examine electronic case records at least once per month and 
+32
+compile a list of criminal history record information that meets the requirements of section 
+33
+2402. 
+34
+2.  Sealing orders.  The Administrative Office of the Courts shall forward the list 
+35
+compiled under subsection 1 to the court with jurisdiction over the underlying criminal 
+36
+proceedings.  The courts within that judicial district shall promptly issue sealing orders 
+37
+based on the received list. 
+38
+3.  Notice to bureau.  Upon issuing a sealing order under subsection 2, the court shall 
+39
+electronically transmit notice of the order to the bureau.  Within 14 days of receipt, the 
+40
+bureau shall update its records to reflect that the criminal history record information related 
+41
+to the eligible criminal conviction is sealed and that its dissemination is governed by section 
+42
+2265. 
+
+Page 4 - 132LR2382(01)
+1
+4.  Cooperation.  The Administrative Office of the Courts; Department of Public 
+2
+Safety, Bureau of State Police; Department of Corrections; judicial branch; and criminal 
+3
+justice agencies that collect, maintain or disseminate criminal history record information 
+4
+shall cooperate with the bureau and assist it with carrying out the purposes and duties of 
+5
+this section. 
+6
+§2404.  Limited disclosure of sealed eligible criminal conviction
+7
+A person whose eligible criminal conviction is the subject of a sealing order under 
+8
+section 2403 may respond to inquiries from persons other than criminal justice agencies 
+9
+and other entities that are authorized to obtain the sealed criminal history record 
+10
+information under section 2265 by not disclosing the existence of the eligible criminal 
+11
+conviction without being subject to any sanctions under the laws of this State.  Other than 
+12
+when responding to criminal justice agencies or when under oath while being prosecuted 
+13
+for a subsequent crime, a person whose eligible criminal conviction is the subject of a 
+14
+sealing order does not violate Title 17-A, section 451, 452 or 453 by failing to disclose the 
+15
+eligible criminal conviction. 
+16
+§2405.  Motion to seal criminal history record information
+17
+This chapter may not be construed to prevent a person from filing a written motion 
+18
+seeking a court order to seal the person's criminal history record information relating to a 
+19
+specific criminal conviction in accordance with section 2263.
+20
+SUMMARY
+21
+This bill establishes a system for automatically sealing criminal history record 
+22
+information associated with criminal convictions for certain crimes, provided that certain 
+23
+conditions are met.  Automatic sealing refers to the process established by the bill by which 
+24
+criminal history record information related to qualifying convictions must be sealed and 
+25
+the dissemination of that information limited consistent with the requirements of the Maine 
+26
+Revised Statutes, Title 15, section 2265, without the need to file a petition to seal the 
+27
+information.  Under the bill, the Administrative Office of the Courts must routinely 
+28
+examine electronic case records and compile a list of criminal history record information 
+29
+that qualifies for automatic sealing under this legislation and provide that list to the 
+30
+appropriate courts to issue a sealing order. 
+31
+The bill provides a list of criminal convictions for which automatic sealing may be 
+32
+available.  The underlying crimes include all Class E crimes except for sexual offenses; all 
+33
+Class D crimes except for certain crimes, such as certain violent crimes or certain offenses 
+34
+against a family member; certain Class D or Class E drug crimes committed prior to 
+35
+January 30, 2017; and other specified drug crimes. 
+36
+The bill provides that for an eligible criminal conviction to be automatically sealed, 5 
+37
+years must have passed since the date of conviction for a Class D or Class E crime.  For a 
+38
+Class A, Class B or Class C crime, 10 years must have passed since the date of conviction 
+39
+and the person who is the subject of the criminal history record information must have 
+40
+completed the person's sentence, including any period of supervised release.  The criminal 
+41
+history record information is not eligible for sealing if the person who is the subject of the 
+42
+criminal history record information has been convicted of any other crimes in the time 
+43
+elapsed since the person satisfied the sentencing requirements of the eligible criminal 
+44
+conviction.
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30

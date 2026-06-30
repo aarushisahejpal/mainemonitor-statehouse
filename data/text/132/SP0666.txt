@@ -1,0 +1,200 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1713
+S.P. 666
+In Senate, April 17, 2025
+An Act to Prohibit Certain Provisions in Health Care Provider 
+Contracts with Insurance Carriers
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BAILEY of York.
+Cosponsored by Senator: BALDACCI of Penobscot, Representatives: BOYER of Cape 
+Elizabeth, MASTRACCIO of Sanford.
+
+Page 1 - 132LR2102(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  22 MRSA §1730-A is enacted to read:
+3
+§1730-A.  Health care provider contract requirements
+4
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings.
+6
+A.  "All-or-nothing clause" means a provision in a contract that:
+7
+(1)  Requires a carrier to include all members of a provider in a network plan;
+8
+(2)  Requires a carrier to enter into any additional contract with any or all affiliates 
+9
+of a provider as a condition of entering into a contract with that provider; or
+10
+(3)  Requires a carrier to agree to payment rates or other terms for an affiliate or 
+11
+individual facility that is not party to the contract.
+12
+B.  "Anti-steering clause" means a provision in a contract that restricts the ability of a 
+13
+carrier to direct or steer an enrollee to obtain a health care service from another 
+14
+provider, including offering incentives to encourage enrollees to use specific providers.
+15
+C.  "Anti-tiering clause" means a provision in a contract that:
+16
+(1)  Restricts the ability of a carrier to introduce or modify a tiered network plan or 
+17
+assign providers into tiers; 
+18
+(2)  Requires a carrier or health plan administrator to place all members of a 
+19
+provider in the same tier of a tiered network plan; or
+20
+(3)  Restricts the ability of a carrier to introduce or assign providers to a particular 
+21
+network.
+22
+D.  "Carrier" has the same meaning as in Title 24-A, section 4301-A, subsection 3.
+23
+E.  "Enrollee" has the same meaning as in Title 24-A, section 4301-A, subsection 5.
+24
+F.  "Health plan" has the same meaning as in Title 24-A, section 4301-A, subsection 7.
+25
+G.  "Provider" has the same meaning as in Title 24-A, section 4301-A, subsection 16.
+26
+2.  Contract requirements.  Beginning January 1, 2026, a provider, or a person acting 
+27
+on the provider's behalf, may not offer, solicit, request, amend, renew or enter into a 
+28
+contract with a carrier that would directly or indirectly include any of the following 
+29
+provisions:
+30
+A.  An anti-steering clause;
+31
+B.  An anti-tiering clause; or
+32
+C.  An all-or-nothing clause.
+33
+3.  Unenforceable.  A person may not enforce any contract provision, written policy, 
+34
+written procedure or agreement contrary to the provisions set forth in this section.
+35
+4.  Enforcement.  The following provisions apply to enforcement of this section.
+36
+A.  A carrier may institute a civil action against a provider to enforce the provisions of 
+37
+subsection 2, including specific performance, injunctive or declaratory relief, and any 
+38
+other relief the court considers appropriate.
+
+Page 2 - 132LR2102(01)
+1
+B.  The Attorney General may:
+2
+(1)  Subpoena any records necessary to enforce this section or to investigate 
+3
+suspected violations of this section; and
+4
+(2)  Institute proceedings on behalf of the State or as parens patriae of the persons 
+5
+residing in this State for:
+6
+(a)  Injunctive relief to prevent and restrain a violation of this section, 
+7
+including, but not limited to, a temporary restraining order, preliminary 
+8
+injunction or permanent injunction;
+9
+(b)  Civil penalties for violations of this section not to exceed $100,000 per 
+10
+violation; or
+11
+(c)  Other equitable relief for violations of this section.
+12
+Sec. 2.  24-A MRSA §4308-A is enacted to read:
+13
+§4308-A.  Health care provider contract requirements
+14
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+15
+following terms have the following meanings.
+16
+A.  "All-or-nothing clause" means a provision in a contract that:
+17
+(1)  Requires a carrier to include all members of a provider in a network plan;
+18
+(2)  Requires a carrier to enter into any additional contract with any or all affiliates 
+19
+of a provider as a condition of entering into a contract with that provider; or
+20
+(3)  Requires a carrier to agree to payment rates or other terms for an affiliate or 
+21
+individual facility that is not party to the contract.
+22
+B.  "Anti-steering clause" means a provision in a contract that restricts the ability of a 
+23
+carrier to direct or steer an enrollee to obtain a health care service from another 
+24
+provider, including offering incentives to encourage enrollees to use specific providers.
+25
+C.  "Anti-tiering clause" means a provision in a contract that:
+26
+(1)  Restricts the ability of a carrier to introduce or modify a tiered network plan or 
+27
+assign providers into tiers; 
+28
+(2)  Requires a carrier to place all members of a provider in the same tier of a tiered 
+29
+network plan; or
+30
+(3)  Restricts the ability of a carrier to introduce or assign providers to a particular 
+31
+network.
+32
+2.  Contract requirements.  Beginning January 1, 2026, a carrier, or a person acting 
+33
+on the carrier's behalf, may not offer, solicit, request, amend, renew or enter into a contract 
+34
+with a provider that would directly or indirectly include any of the following provisions:
+35
+A.  An anti-steering clause;
+36
+B.  An anti-tiering clause; or
+37
+C.  An all-or-nothing clause.
+38
+3.  Unenforceable.  A person may not enforce any contract provision, written policy, 
+39
+written procedure or agreement contrary to the provisions set forth in this section.
+
+Page 3 - 132LR2102(01)
+1
+4.  Enforcement.  A carrier may institute a civil action to enforce the provisions of this 
+2
+section, including specific performance, injunctive or declaratory relief, and any other 
+3
+relief the court considers appropriate.
+4
+SUMMARY
+5
+Beginning January 1, 2026, this bill prohibits contractual agreements between health 
+6
+insurance carriers and health care providers that include:
+7
+1. Provisions restricting the ability of a health insurance carrier to encourage enrollees 
+8
+to use specific health care providers or to use tiering as part of a carrier's provider network; 
+9
+or 
+10
+2. Provisions requiring a health insurance carrier to include all members or affiliates of 
+11
+a health care provider in a carrier's network.
+5
+6

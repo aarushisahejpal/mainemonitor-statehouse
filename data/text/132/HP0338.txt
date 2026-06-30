@@ -1,0 +1,194 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 520
+H.P. 338
+House of Representatives, February 11, 2025
+An Act to Ensure Choices in Health Insurance Markets by 
+Modifying the Provisions of Law Governing Clear Choice Design 
+Health Plans
+Received by the Clerk of the House on February 7, 2025.  Referred to the Committee on 
+Health Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered 
+printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MORRIS of Turner.
+Cosponsored by Representatives: CIMINO of Bridgton, FLYNN of Albion, FOLEY of Wells, 
+OLSEN of Raymond, Senator: HAGGAN of Penobscot.
+
+Page 1 - 132LR1960(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  24-A MRSA §2792, sub-§1, as amended by PL 2021, c. 361, §1, is further 
+3
+amended to read:
+4
+1.  Pooled market established.  Subject to the requirements of subsection 5, all 
+5
+individual and small group health plans offered in this State with effective dates of coverage 
+6
+on or after January 1, 2023 must be offered through a pooled market.  A health insurance 
+7
+carrier offering an individual health plan subject to this section shall make the plan 
+8
+available to all eligible small employers within the plan's approved service area, and a 
+9
+health insurance carrier offering a small group health plan subject to this section shall make 
+10
+the plan available to all eligible individuals residing within the plan's approved service area.  
+11
+This subsection does not require the Maine Health Insurance Marketplace established in 
+12
+Title 22, chapter 1479 to offer identical choices of health plans to individuals and to small 
+13
+employers under Title 22, chapter 1479.
+14
+Sec. 2.  24-A MRSA §2792, sub-§2, as enacted by PL 2019, c. 653, Pt. B, §2, is 
+15
+amended to read:
+16
+2.  Premium rates.  Premium rates for a health plan offered in the pooled market 
+17
+described in subsection 1 may not vary based on whether the plan is issued to an individual 
+18
+or to a small employer.  Rate filings and review for the pooled market are subject to the 
+19
+provisions of sections 2736 to 2736‑C.  For health plans that are issued on other than a 
+20
+calendar year basis, rates applicable on and after January 1st of any plan year must be the 
+21
+approved rates for the most similar plan offered during the new calendar year, adjusted by 
+22
+a factor, approved by the superintendent as part of the rating plan, that appropriately 
+23
+accounts for any differences in plan design.
+24
+Sec. 3.  24-A MRSA §2793, as amended by PL 2021, c. 361, §3, is further amended 
+25
+to read:
+26
+§2793.  Clear choice designs
+27
+The superintendent shall develop clear choice designs for health plans in order to 
+28
+reduce consumer confusion and provide meaningful choices for consumers by promoting 
+29
+a level playing field on which carriers compete on the basis of price and quality.  The 
+30
+superintendent shall develop separate clear choice designs for individual and small group 
+31
+health plans.
+32
+1.  Clear choice design.  For the purposes of this section, "clear choice design" means 
+33
+a set of annual copayments, coinsurance and deductibles for all or a designated subset of 
+34
+the essential health benefits. An individual health plan subject to section 2736‑C or a pooled 
+35
+market health plan subject to section 2792 must conform to one of the clear choice designs 
+36
+developed pursuant to this section unless it is approved as an alternative plan under 
+37
+subsection 4.
+38
+2.  Development of clear choice designs.  The superintendent shall develop clear 
+39
+choice designs in consultation with working groups consisting of consumers, carriers, 
+40
+health policy experts and other interested persons. The superintendent shall adopt rules for 
+41
+clear choice designs, taking into consideration the ability of plans to conform to actuarial 
+42
+value ranges, consumer needs and promotion of benefits with high value and return on 
+43
+investment.  The superintendent shall develop at least one clear choice design for each tier 
+
+Page 2 - 132LR1960(01)
+44
+of health insurance plan designated as bronze, silver, gold and platinum in accordance with 
+45
+the federal Affordable Care Act. Rules adopted pursuant to this subsection are routine 
+46
+technical rules as defined in Title 5, chapter 375, subchapter 2‑A. Clear choice designs 
+47
+apply to all individual health plans offered in this State with effective dates of coverage on 
+48
+or after January 1, 2022 and to all small group health plans offered through the pooled 
+49
+market under section 2792.  No later than January 31st of each year, the superintendent 
+50
+shall release the proposed clear choice designs to be used in the following plan year for 
+51
+review and comment by stakeholders.
+9
+3.  Annual review.  The superintendent shall consider annually whether to revise, 
+10
+discontinue or add any clear choice designs for use by carriers in the following calendar 
+11
+year, including but not limited to considering whether deductible and copayment levels 
+12
+should be changed to reflect medical inflation and conform with actuarial value and annual 
+13
+maximum out-of-pocket limits.
+14
+4.  Alternative plan designs.  In addition to one or more health plans that include cost-
+15
+sharing parameters consistent with a clear choice design developed pursuant to this section, 
+16
+a carrier may offer up to 3 individual health plan designs and up to 3 small group health 
+17
+plan designs that modify one or more specific cost-sharing parameters in a clear choice 
+18
+design if the carrier submits an actuarial certification to the satisfaction of the 
+19
+superintendent that the alternative plan design offers significant consumer benefits and 
+20
+does not result in adverse selection.  An alternative plan design may be offered only in a 
+21
+service area where the carrier offers at least one clear choice design plan at the same tier.
+22
+SUMMARY
+23
+This bill amends the provisions of the Maine Insurance Code related to pooled market 
+24
+and clear choice design. 
+25
+The bill eliminates the requirement that health insurance carriers offering individual 
+26
+health plans must make those plans available to all eligible small employers within the 
+27
+plan's approved service area. It also eliminates the requirement that health insurance 
+28
+carriers offering small group health plans make those plans available to all eligible 
+29
+individuals residing within the plan's approved service area. 
+30
+The bill eliminates requirements related to premium rate adjustments for health plans 
+31
+that are issued on other than a calendar year basis. 
+32
+The bill requires the Superintendent of Insurance to develop separate clear choice 
+33
+designs for individual health plans and small group health plans and requires that on 
+34
+January 31st of each year, the superintendent must release the proposed clear choice 
+35
+designs to be used in the following plan year for review and comment by stakeholders. The 
+36
+bill modifies provisions related to alternative designs to allow carriers to offer up to 3 
+37
+alternative individual health plan designs and up to 3 alternative small group health plan 
+38
+designs.
+1
+2
+3
+4
+5
+6
+7
+8
+23
+24

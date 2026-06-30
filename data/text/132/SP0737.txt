@@ -1,0 +1,353 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1867
+S.P. 737
+In Senate, May 5, 2025
+An Act to Prohibit Financial Institutions from Using Merchant 
+Category Codes to Identify or Track Firearm Purchases or Disclose 
+Firearm Purchase Records
+Received by the Secretary of the Senate on May 1, 2025.  Referred to the Committee on 
+Judiciary pursuant to Joint Rule 308.2 and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator HARRINGTON of York.
+Cosponsored by Senators: BENNETT of Oxford, HAGGAN of Penobscot, STEWART of 
+Aroostook.
+
+Page 1 - 132LR1112(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  10 MRSA c. 239 is enacted to read:
+3
+CHAPTER 239
+4
+IDENTIFYING AND TRACKING FIREARM PURCHASES
+5
+§1500-X. Identifying and tracking firearm purchases
+6
+1.  Definitions.  As used in this chapter, unless the context otherwise indicates, the 
+7
+following terms have the following meanings.
+8
+A.  "Ammunition" means ammunition or a cartridge case, primer, bullet or propellant 
+9
+powder designed for use in a firearm.
+10
+B.  "Assign" or "assignment," with respect to a financial institution's or payment 
+11
+network's policy, process or practice, means that the policy, process or practice labels, 
+12
+links or otherwise associates a firearms code with a merchant or payment card 
+13
+transaction in a manner that allows the financial institution, payment network or any 
+14
+other entity facilitating or processing the payment card transaction to identify whether 
+15
+a merchant is a firearms dealer or whether a transaction involves the sale of firearms 
+16
+or ammunition.
+17
+C.  "Customer" means a person engaged in a payment card transaction that a financial 
+18
+institution facilitates or processes and any person or the person's duly authorized 
+19
+representative who has transacted business with or has used the services of a financial 
+20
+institution or for whom a financial institution has acted as a fiduciary in relation to an 
+21
+account maintained in that person's name.
+22
+D.  "Disclosure" means the transfer, publication or distribution of protected financial 
+23
+information to another person for any purpose other than to process or facilitate a 
+24
+payment card transaction.
+25
+E.  "Financial institution" means:
+26
+(1)  A bank, savings and loan association, trust company or credit union chartered 
+27
+pursuant to any state or federal law, regulated consumer lender, money services 
+28
+business, payment card issuer or other institution that is by law under the 
+29
+jurisdiction and supervision of the Department of Professional and Financial 
+30
+Regulation, Bureau of Financial Institutions or the Federal Deposit Insurance 
+31
+Corporation; or
+32
+(2)  An entity involved in facilitating or processing a payment card transaction, 
+33
+including a bank, payment network or payment card issuer.
+34
+F.  "Financial record" means:
+35
+(1)  The original or a copy of any record or document held by a payment network 
+36
+pertaining to a customer of a financial institution using the payment network, 
+37
+including any record of a transaction conducted by means of a customer bank 
+38
+communication terminal or other electronic device;
+
+Page 2 - 132LR1112(01)
+1
+(2)  A financial record held by a payment network related to a payment card 
+2
+transaction that the financial institution has processed or facilitated; or
+3
+(3)  Any information derived from such records or documents.
+4
+G.  "Firearm" means any weapon that will, is designed to or may readily be converted 
+5
+to expel a projectile by the action of an explosive.
+6
+H.  "Firearm accessory or component" means:
+7
+(1)  A device specifically adapted to enable the wearing or carrying or the storage 
+8
+or mounting in or on any conveyance of a firearm and any attachment or device 
+9
+specifically adapted to be inserted into or affixed onto any firearm to enable, alter 
+10
+or improve the functioning or capabilities of the firearm;
+11
+(2)  An item that is used in conjunction with or mounted upon a firearm, including 
+12
+a telescopic or laser sight, a magazine, a flash or sound suppressor, a folding or 
+13
+aftermarket stock or grip, a speedloader, a brace, an ammunition carrier or a light 
+14
+for target illumination; or
+15
+(3)  A component for making ammunition, reloading materials and equipment, 
+16
+machinery or a tool for manufacturing ammunition.
+17
+I.  "Firearms code" means a code or other indicator a payment network assigns to a 
+18
+merchant or to a payment card transaction that identifies whether a merchant is a 
+19
+firearms dealer or whether the payment card transaction involves the purchase of a 
+20
+firearm, firearm accessories or components or ammunition. "Firearms code" includes 
+21
+a merchant category code assigned to a retailer by a payment network or other financial 
+22
+institution.
+23
+J.  "Firearms dealer" means a person engaged in the lawful business of selling or trading 
+24
+firearms or antique firearms, as defined in 18 United States Code, Section 921, or 
+25
+ammunition to be used in a firearm or an antique firearm.
+26
+K.  "Government entity" means any state or local government agency or instrumentality 
+27
+located in the State.
+28
+L.  "Merchant" means a person or entity that accepts payment cards from customers 
+29
+for the purchase of goods or services. "Merchant" includes a firearms dealer that 
+30
+accepts payment cards for the lawful purchase of firearms, firearm accessories or 
+31
+components or ammunition.
+32
+M.  "Money services business" means a money services business as defined in 31 Code 
+33
+of Federal Regulations, Section 1010.100.
+34
+N.  "Payment card" means a credit card, charge card, debit card or any other card that 
+35
+is issued to an authorized card user and that allows the user to purchase goods or 
+36
+services from a merchant.
+37
+O.  "Payment network" means a debit or credit network through which funds may be 
+38
+transferred, such as a credit card association, an electronic funds transfer network or 
+39
+another organization or association that issues or sponsors a financial transaction 
+40
+device. 
+41
+P.  "Protected financial information" means a record of a sale, purchase, return or 
+42
+refund involving a payment card that is retrieved, characterized, generated, labeled, 
+
+Page 3 - 132LR1112(01)
+43
+sorted or grouped based on the assignment of a firearms code. A customer's protected 
+44
+financial information refers to protected financial information appearing in the 
+45
+financial records of that customer.
+4
+2.  Prohibition on keeping or using firearms records.  Except for a record kept 
+5
+during the regular course of a criminal investigation and prosecution or as otherwise 
+6
+required by law, a government entity or official, agent or employee of a government entity 
+7
+or any other person, other than the owner or owner's representative, may not knowingly 
+8
+and willfully keep or cause to be kept a list, record or registry of a privately owned firearm 
+9
+or any list, record or registry of the owners of that firearm.
+10
+3.  Financial institutions.  A financial institution or its agent may not:
+11
+A.  Require the use of a firearms code in a way that distinguishes a firearms dealer 
+12
+located in the State from general merchandise retailers or sporting goods retailers 
+13
+located in the State;
+14
+B.  Discriminate against a firearms dealer by:
+15
+(1)  Declining a lawful payment card transaction based solely on the assignment or 
+16
+nonassignment of a firearms code to the merchant or transaction;
+17
+(2)  Limiting business or declining to do business with a customer, potential 
+18
+customer or merchant based on the assignment or nonassignment of a firearms 
+19
+code to a previous lawful transaction involving the customer, potential customer 
+20
+or merchant;
+21
+(3)  Charging a higher transaction or interchange fee to any merchant or for a lawful 
+22
+transaction based on the assignment or nonassignment of a firearms code; or
+23
+(4)  Otherwise taking an action against a customer or merchant that is intended to 
+24
+suppress lawful commerce involving a firearm, a firearm accessory or component 
+25
+or ammunition, if the action is based solely or in part on the customer's or 
+26
+merchant's business involving a firearm, a firearm accessory or component or 
+27
+ammunition; or
+28
+C.  Except as otherwise required by law, disclose a financial record, including a 
+29
+firearms code that was collected in violation of this section.
+30
+4.  Written notice to cease by Attorney General.  The Attorney General may 
+31
+investigate an alleged violation of this section and, upon finding a violation, shall provide 
+32
+written notice to a person believed to be in violation of this section giving the person 30 
+33
+days to cease the violation. Written notice to a commercial entity must be made to the 
+34
+entity's corporate clerk or registered agent or, if there is no corporate clerk or registered 
+35
+agent, a person authorized to accept service of process for the entity. At the Attorney 
+36
+General's discretion, a person may be granted up to an additional 120 days to cease the 
+37
+violation of this section.
+38
+5.  Complaint by firearms dealer or customer.  A firearms dealer located within the 
+39
+State whose business is the subject of an alleged violation of this section or a customer who 
+40
+transacted at a firearms dealer located in the State whose business is the subject of an 
+41
+alleged violation of this section may petition the Attorney General to investigate the alleged 
+42
+violation. If the Attorney General does not commence an action within 90 days of receiving 
+43
+a petition pursuant to this subsection, the firearms dealer or customer may file an action in 
+1
+2
+3
+
+Page 4 - 132LR1112(01)
+44
+a court of competent jurisdiction to enjoin the person allegedly in violation of this section 
+45
+from violating this section.
+3
+6.  Violation.  If a person is found to be in violation of this section and fails to comply 
+4
+with this section after the expiration of the period for compliance determined by the 
+5
+Attorney General under subsection 4, the Attorney General shall pursue an injunction 
+6
+against the person. The Attorney General shall pursue the injunction in a court of competent 
+7
+jurisdiction in the judicial district where the alleged violation occurred against the person 
+8
+alleged to be in violation of this section.
+9
+A.  If a court finds that a person continues to be in violation of this section after the 
+10
+expiration of the period for compliance determined by the Attorney General under 
+11
+subsection 4 or after a finding by the court of a violation of this section, the court shall 
+12
+enjoin the person from continuing to violate this section.
+13
+B.  If a person knowingly and willfully fails to comply with an injunction under this 
+14
+section within 30 days after being served with the injunction, the court shall impose a 
+15
+penalty in an amount not to exceed $10,000 per violation.  In assessing a penalty under 
+16
+this paragraph, the court shall consider factors including the financial resources of the 
+17
+violator and the harm or risk of harm to another person's rights under the United States 
+18
+Constitution, Amendment II resulting from the violation. An order assessing a penalty 
+19
+for a violation of this section must be stayed pending appeal of the order.
+20
+C.  In addition to the remedies provided in this section, the Attorney General or a 
+21
+petitioner who prevails in an action under this section is entitled to costs, reasonable 
+22
+attorney's fees and any other remedy the court determines appropriate.
+23
+7.  Disclosure of information to federal government entity.  It is not a defense to an 
+24
+action filed pursuant to this section that a disclosure of information or other action in 
+25
+violation of this section was made to a federal government entity unless the disclosure or 
+26
+action was based on a good faith conclusion that the disclosure or action was required by 
+27
+federal law or regulation.
+28
+SUMMARY
+29
+This bill prohibits keeping or using a list, record or registry of firearms purchases or 
+30
+firearms owners or distinguishing a firearms dealer or discriminating against a firearms 
+31
+dealer by using a product code for firearms or firearms purchases separate from general 
+32
+merchandise or sporting goods retailers in the State.  The bill allows the Attorney General 
+33
+or a complainant if the Attorney General fails to act to seek an injunction against a person 
+34
+in violation of the bill's provisions or a penalty up to $10,000 if the injunction is not 
+35
+followed.
+1
+2
+29
+30
+31
+32
+33
+34
+35

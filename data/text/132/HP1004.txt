@@ -1,0 +1,532 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1519
+H.P. 1004
+House of Representatives, April 8, 2025
+An Act to Create a Stewardship Program for Electronic Smoking 
+Devices and Related Products
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative GRAMLICH of Old Orchard Beach.
+Cosponsored by Senator TEPLER of Sagadahoc and
+Representatives: BELL of Yarmouth, BRIDGEO of Augusta, DOUDERA of Camden, OSHER 
+of Orono, RIELLY of Westbrook.
+
+Page 1 - 132LR2253(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  38 MRSA §1617 is enacted to read:
+3
+§1617.  Stewardship program for electronic smoking devices
+4
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings.
+6
+A.  "Brand" means a name, symbol, word or mark that identifies an electronic smoking 
+7
+device, rather than its components, and attributes the device to the owner of the brand.
+8
+B.  "Electronic smoking device" or "device" means any device that may be used to 
+9
+deliver any aerosolized or vaporized substance to a person inhaling from the device, 
+10
+including, but not limited to, an electronic cigarette, electronic cigar, electronic pipe, 
+11
+so-called vape pen or electronic hookah.  "Electronic smoking device" includes any 
+12
+component, part or accessory of the device and any substance that may be aerosolized 
+13
+or vaporized by that device, whether or not the substance contains nicotine.  "Electronic 
+14
+smoking device" does not include drugs, devices or combination products authorized 
+15
+for sale by the United States Food and Drug Administration, as those terms are defined 
+16
+in the Federal Food, Drug, and Cosmetic Act.
+17
+C.  "Electronic smoking device stewardship organization" or "stewardship 
+18
+organization" means a corporation, nonprofit organization or other legal entity created 
+19
+by a producer or group of producers pursuant to this section to implement an electronic 
+20
+smoking device stewardship program.
+21
+D.  "Electronic smoking device stewardship plan" or "stewardship plan" means a plan 
+22
+to establish an electronic smoking device stewardship program to be submitted to the 
+23
+department for review pursuant to subsection 6.
+24
+E.  "Electronic smoking device stewardship program" or "program" means the program 
+25
+established under this section to provide for the collection, transportation, reuse and 
+26
+recycling or disposal, or both, of unwanted electronic smoking devices.
+27
+F.  "Producer" means a person that:
+28
+(1)  Has legal ownership of the brand of an electronic smoking device sold in or 
+29
+into the State;
+30
+(2)  Imports an electronic smoking device branded by a person that meets the 
+31
+requirements of paragraph A and has no physical presence in the United States; or
+32
+(3)  Sells an electronic smoking device in the State at wholesale or retail, does not 
+33
+have legal ownership of the brand of the device and elects to fulfill the 
+34
+responsibilities of the producer for that device.
+35
+G.  "Proprietary information" has the same meaning as in Title 38, section 1771, 
+36
+subsection 6-A.
+37
+H.  "Recycling" has the same meaning as in Title 38, section 1771, subsection 7.
+38
+I.  "Reuse" has the same meaning as in Title 38, section 1771, subsection 8.
+39
+J.  "Unwanted electronic smoking device" means an electronic smoking device that is 
+40
+no longer wanted by its owner or that has been abandoned or discarded or is intended 
+41
+to be discarded by its owner.  
+
+Page 2 - 132LR2253(01)
+1
+2.  Program.  Pursuant to this section, a producer that sells an electronic smoking 
+2
+device in the State shall, individually, collectively or through a stewardship organization, 
+3
+implement and finance an electronic smoking device stewardship program to manage, in 
+4
+accordance with the priorities in section 2101, unwanted electronic smoking devices sold 
+5
+by the producer at the end of the device's life. 
+6
+A.  The program must include a collection system for unwanted electronic smoking 
+7
+devices that is convenient and adequate to serve the needs of persons in both rural and 
+8
+urban areas.  No later than one year following commencement of the collection of 
+9
+electronic smoking devices by the program's collection system, the collection system 
+10
+must include permanent collection locations located within 15 miles of 90% of the 
+11
+residents of the State unless the department determines that the requirements of this 
+12
+paragraph are not practicable due to geographical constraints or that an alternative 
+13
+collection system that does not meet the requirements of this paragraph will result in 
+14
+equivalent and more efficient collection.
+15
+B.  The program must provide for effective education and outreach to promote the use 
+16
+of the program and to ensure that collection options are understood by the public.
+17
+C.  A producer or stewardship organization, including a producer's or stewardship 
+18
+organization's officers, members, employees and agents that organize an electronic 
+19
+device stewardship program under this section, is immune from liability for the 
+20
+producer's or stewardship organization's conduct under state laws relating to antitrust, 
+21
+restraint of trade, unfair trade practices and other regulation of trade or commerce only 
+22
+to the extent necessary to plan and implement the producer's or stewardship 
+23
+organization's chosen organized collection or recycling system.
+24
+D.  The program must include at a minimum a half-time employee or contracted agent 
+25
+whose job duties are dedicated to implementing the program in the State unless the 
+26
+department determines that a lesser staffing requirement is adequate to provide the 
+27
+administrative oversight, training and ongoing technical support to collection locations, 
+28
+education and outreach efforts, program performance assessment and reporting 
+29
+necessary for program implementation.
+30
+3.  Requirement for sale.  One hundred eighty days after a stewardship plan submitted 
+31
+to the department pursuant to subsection 6 is approved by the department in accordance 
+32
+with subsection 7, a producer may not sell or offer for sale in the State an electronic 
+33
+smoking device unless the producer participates in an electronic smoking device 
+34
+stewardship program under this section in accordance with an approved stewardship plan.
+35
+4.  No fee.  An electronic smoking device stewardship program may not charge a person 
+36
+a fee at the time an unwanted electronic smoking device is delivered or collected for 
+37
+recycling or disposal under the program.
+38
+5.  Costs.  Producers participating in an electronic smoking device stewardship 
+39
+program shall finance the collection, transportation and reuse, recycling or disposition of 
+40
+unwanted electronic smoking devices; effective education and outreach related to the 
+41
+program; program assessment; program reporting; any incentives necessary to achieve 
+42
+program goals; payment of reasonable fees to the department for review of the producers' 
+43
+stewardship plan and any proposed amendments; and payment of annual fees to the 
+44
+department to cover the department's actual costs for the program for annual report review, 
+45
+oversight, administration and enforcement, which may not exceed $100,000 per year per 
+
+Page 3 - 132LR2253(01)
+46
+program and which must be properly documented and provided by the department to the 
+47
+program prior to or at the time that such payment is required.
+3
+6.  Requirement to submit stewardship plan.  On or before November 1, 2026, a 
+4
+producer of electronic smoking devices, individually, collectively or through a stewardship 
+5
+organization, shall submit a stewardship plan to the department for approval.  The 
+6
+stewardship plan must include:
+7
+A.  Identification and contact information for:
+8
+(1)  The individual or entity submitting the stewardship plan;
+9
+(2)  All producers participating in the program;
+10
+(3)  The owners of the brands covered by the program; and
+11
+(4)  The stewardship organization, if using a stewardship organization, including a 
+12
+description of the stewardship organization and the tasks to be performed by the 
+13
+stewardship organization.  The description must include information on how the 
+14
+stewardship organization is organized, including administration of the stewardship 
+15
+organization and management of the stewardship organization;  
+16
+B.  A description of the collection system to be implemented under the program, 
+17
+including:
+18
+(1)  The types of locations or other collection services to be used;
+19
+(2)  How all electronic smoking devices covered under the program will be 
+20
+collected in all counties of the State; and
+21
+(3)  How the collection system will be convenient and adequate to serve the needs 
+22
+of all persons seeking to use the program for the management of unwanted 
+23
+electronic smoking devices;  
+24
+C.  The names and locations of recyclers, processors and disposal facilities that may be 
+25
+used by the program;
+26
+D.  Information on how the unwanted electronic smoking devices will be safely and 
+27
+securely transported, tracked and handled from collection through final disposition;
+28
+E.  A description of the methods to be used to reuse, deconstruct and recycle the 
+29
+unwanted electronic smoking devices to ensure that the device components are 
+30
+transformed or remanufactured to the extent feasible;
+31
+F.  A description of how the convenience and adequacy of the collection system will 
+32
+be monitored and maintained;
+33
+G.  A description of how the amount of unwanted electronic smoking devices collected, 
+34
+recycled, processed, reused and disposed of will be measured;
+35
+H.  A description of the education and outreach methods that will be used to recruit, 
+36
+train and monitor collection locations and to encourage participation in the program on 
+37
+an ongoing basis by collection locations and by persons throughout the State;
+38
+I.  A description of how education and outreach methods will be evaluated, including, 
+39
+at a minimum, completion of an annual consumer awareness survey to assess consumer 
+40
+knowledge regarding management options and collection locations for unwanted 
+1
+2
+
+Page 4 - 132LR2253(01)
+41
+electronic smoking devices.  The survey questions and methodology must be approved 
+42
+by the department, and the survey must be administered by a qualified 3rd party;
+3
+J.  A description of how program performance will be assessed, including performance 
+4
+goals to show success of the program.  When a performance goal is expressed as a 
+5
+recycling rate or a diversion from disposal rate, the stewardship plan must include a 
+6
+description of the methodology and the relevant historic sales data used to develop the 
+7
+rate.  Sales information submitted to the department pursuant to this paragraph that is 
+8
+identified by the producer or stewardship organization as proprietary information is 
+9
+confidential and must be handled by the department in accordance with subsection 11.  
+10
+The performance goals under this paragraph must include, at a minimum, one of the 
+11
+following:
+12
+(1)  That at least 50% of the residents of the State will be aware of the program by 
+13
+no later than the end of the 3rd year of program implementation and at least 70% 
+14
+of the residents of the State will be aware of the program by no later than the end 
+15
+of the 6th year of program implementation;
+16
+(2)  That a diversion from disposal rate of at least 50% will be achieved by the 
+17
+program by no later than the end of the 4th year of program implementation; or
+18
+(3)  An alternative performance goal that does not meet the criteria in subparagraph 
+19
+(1) or (2) as long as sufficient evidence is provided to the department to justify that 
+20
+alternative performance goal;  
+21
+K.  A description of how the program will be financed.  If the program is financed by 
+22
+a per unit assessment paid by the consumer at the point of sale, a plan for an annual 
+23
+3rd-party audit to ensure revenue from the assessment does not exceed the costs of 
+24
+implementing the program must be included;
+25
+L.  An anticipated annual budget for the program that includes identification of specific 
+26
+anticipated administrative, collection, transportation, disposition and communication 
+27
+costs for the program.  The anticipated annual budget must be sufficient to fund the 
+28
+program staffing required under subsection 2, paragraph D and the reimbursement by 
+29
+the producer or stewardship organization of the department's actual costs incurred in 
+30
+annual report review and in overseeing, administering and enforcing the program.  The 
+31
+anticipated annual budget may not include costs for legal fees or costs related to 
+32
+legislative efforts that have been or will be incurred by the producer or stewardship 
+33
+organization; and
+34
+M.  Any other information required by the department.
+35
+7.  Department review and approval.  Within 120 days after receipt of a proposed 
+36
+stewardship plan, or a proposed amendment to a previously approved stewardship plan, the 
+37
+department shall determine whether the stewardship plan complies with this section.  If the 
+38
+stewardship plan is approved, the department shall notify the person that submitted the plan 
+39
+in writing.  If the department rejects the stewardship plan, the department shall notify the 
+40
+person that submitted the plan in writing stating the reason for rejecting the stewardship 
+41
+plan.
+42
+8.  Stewardship plan availability.  Within 30 days of approval by the department of 
+43
+a stewardship plan submitted pursuant to subsection 7, or approval of an amendment to a 
+1
+2
+
+Page 5 - 132LR2253(01)
+44
+previously approved stewardship plan submitted pursuant to subsection 9, the department 
+45
+shall place the approved stewardship plan on the department's publicly accessible website.
+3
+9.  Stewardship plan amendments.  In accordance with the provisions of this 
+4
+subsection, a producer or stewardship organization or the department may initiate changes 
+5
+to an approved electronic smoking device stewardship plan.
+6
+A.  A change to an approved stewardship plan by a producer or stewardship 
+7
+organization operating the program implemented under the stewardship plan must be 
+8
+submitted to the department for review and approval prior to the implementation of 
+9
+that change, except that if the producer or stewardship organization determines that the 
+10
+change is not substantive, such as the addition of or a change to collection locations, or 
+11
+if an additional producer joins the program, the producer or stewardship organization 
+12
+must inform the department of the change within 14 days of implementing the change 
+13
+but need not receive department approval unless the department determines that the 
+14
+change is substantive.  The department shall review and approve stewardship plan 
+15
+amendments in accordance with subsection 7.
+16
+B.  If the department determines that a program has failed to make adequate progress 
+17
+toward achieving the program's performance goals described in the approved 
+18
+stewardship plan pursuant to subsection 6, paragraph J, the department shall notify the 
+19
+producer or stewardship organization operating the program in writing regarding its 
+20
+determination and may direct the producer or stewardship organization to implement 
+21
+specific changes to the stewardship plan within 6 months of the written notification, 
+22
+which may include, but are not limited to, improvements to the convenience of the 
+23
+collection system or to the education and outreach efforts under the program to improve 
+24
+program performance.  The department may also recommend in its annual report under 
+25
+section 1772, subsection 1 that the program be amended to require financial incentives 
+26
+or, if appropriate, implementation of a deposit and refund system.
+27
+10.  Annual report.  By March 1st of the calendar year after the calendar year in which 
+28
+an approved stewardship plan is implemented, and annually thereafter, the producer or 
+29
+stewardship organization operating the program shall submit to the department a report on 
+30
+the program for the previous calendar year.  The report must include:
+31
+A.  The amount of unwanted electronic smoking devices collected at each collection 
+32
+location;
+33
+B.  A description of the methods used to collect, transport and process the electronic 
+34
+smoking devices;
+35
+C.  An evaluation of program performance, including, if possible, diversion and 
+36
+recycling rates together with certificates of recycling or similar confirmations and an 
+37
+evaluation of the convenience of the collection system implemented under the 
+38
+program;
+39
+D.  A description of the methods used for education and outreach efforts and an 
+40
+evaluation of the effectiveness of those efforts.  The report must include the results of 
+41
+an assessment of the methods used for and effectiveness of education and outreach 
+42
+efforts.  The assessment must be completed by a qualified 3rd party;
+1
+2
+
+Page 6 - 132LR2253(01)
+1
+E.  If applicable, the report of the 3rd-party audit conducted to ensure that revenue 
+2
+collected from the assessment does not exceed implementation costs pursuant to 
+3
+subsection 6, paragraph K;
+4
+F.  Any recommendations for changes to the program and to the approved goals for the 
+5
+program to improve convenience of collection, consumer education and program 
+6
+evaluation;
+7
+G.  A financial report on the program, including the total cost of implementing the 
+8
+program as determined by a 3rd-party audit that includes identification of specific 
+9
+administrative, collection, transportation, disposition and communication costs for the 
+10
+program, and an anticipated budget for the program for the next program year; and
+11
+H.  Any other information required by the department.
+12
+The department shall include the information reported by a producer or stewardship 
+13
+organization pursuant to this subsection in the department's annual report under section 
+14
+1772, subsection 1.
+15
+11.  Proprietary information.  Proprietary information submitted to the department 
+16
+in a stewardship plan, in an amendment to a stewardship plan or pursuant to reporting 
+17
+requirements of this section that is identified by the submittor as proprietary information is 
+18
+confidential and must be handled by the department in the same manner as confidential 
+19
+information is handled under section 1310‑B.
+20
+12.  Administration and enforcement; rules.  The department shall enforce this 
+21
+section and may adopt rules as necessary for the purposes of implementing, administering 
+22
+and enforcing this section.  Rules adopted pursuant to this subsection are routine technical 
+23
+rules as defined in Title 5, chapter 375, subchapter 2‑A.
+24
+SUMMARY
+25
+This bill requires that, on or before November 1, 2026, a producer of electronic 
+26
+smoking devices, individually, collectively or through a stewardship organization, must 
+27
+submit to the Department of Environmental Protection for review and approval a plan for 
+28
+the establishment of a stewardship program to manage unwanted electronic smoking 
+29
+devices sold by the producer at the end of the device's life.  One hundred eighty days after 
+30
+a stewardship plan is approved by the department, a producer of electronic smoking devices 
+31
+may not sell or offer for sale in the State an electronic smoking device unless the producer 
+32
+participates, individually, collectively or through a stewardship organization, in an 
+33
+approved electronic smoking device stewardship program.
+25
+26
+27
+28
+29
+30
+31
+32
+33

@@ -1,0 +1,206 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 720
+H.P. 459
+House of Representatives, February 25, 2025
+An Act to Protect Federal Home Loan Banks That Lend Money to 
+Insurer Members That Become Delinquent
+Received by the Clerk of the House on February 20, 2025.  Referred to the Committee on 
+Health Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered 
+printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative FOLEY of Wells.
+Cosponsored by Senator HAGGAN of Penobscot and
+Representatives: FLYNN of Albion, MORRIS of Turner, OLSEN of Raymond, Senator: 
+BAILEY of York.
+
+Page 1 - 132LR1054(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  24-A MRSA §4353, sub-§22 is enacted to read:
+3
+22.  Federal home loan bank.  "Federal home loan bank" means an institution 
+4
+established under the Federal Home Loan Bank Act, 12 United States Code, Sections 1421 
+5
+to 1449.
+6
+Sec. 2.  24-A MRSA §4353, sub-§23 is enacted to read:
+7
+23.  Insurer member.  "Insurer member" means an insurer that is a member of a federal 
+8
+home loan bank.
+9
+Sec. 3.  24-A MRSA §4362, sub-§4 is enacted to read:
+10
+4.  Notwithstanding subsections 1, 2 or 3 or any provision of this chapter to the 
+11
+contrary, a person may not for more than 10 days be restrained, enjoined or prohibited from 
+12
+exercising or enforcing any right or cause of action under any pledge, security, credit, 
+13
+collateral, loan, advance, reimbursement, guarantee agreement or arrangement or any 
+14
+similar agreement, arrangement or other credit enhancement to which a federal home loan 
+15
+bank is a party.
+16
+Sec. 4.  24-A MRSA §4362, sub-§5 is enacted to read:
+17
+5.  A federal home loan bank exercising its rights regarding collateral pledged by an 
+18
+insurer member of the federal home loan bank shall, within 7 days of receiving a 
+19
+redemption request made by the insurer member, repurchase the insurer member's 
+20
+outstanding capital stock in excess of the amount the insurer member must hold as a 
+21
+minimum investment.  The federal home loan bank shall repurchase the excess outstanding 
+22
+capital stock only to the extent that the federal home loan bank determines in good faith 
+23
+that the repurchase is:
+24
+A.  Permissible under federal law, federal regulation and the federal home loan bank's 
+25
+capital plan; and
+26
+B.  Consistent with the capital stock practices currently applicable to the federal home 
+27
+loan bank's entire membership.
+28
+Sec. 5.  24-A MRSA §4362, sub-§6 is enacted to read:
+29
+6.  No later than 10 days after the date of appointment of a receiver in a proceeding 
+30
+under this chapter involving an insurer member of a federal home loan bank, the federal 
+31
+home loan bank shall provide to the superintendent a process and a timeline for the 
+32
+following:
+33
+A.  The release of any collateral held by the federal home loan bank that exceeds the 
+34
+amount that is required to support the secured obligations of the insurer member and is 
+35
+remaining after any repayment of loans as determined under any applicable agreement 
+36
+between the federal home loan bank and the insurer member;
+37
+B.  The release of any collateral of the insurer member remaining in the federal home 
+38
+loan bank's possession following repayment in full of all outstanding secured 
+39
+obligations of the insurer member;
+
+Page 2 - 132LR1054(01)
+1
+C.  The payment of fees owed by the insurer member and the operation, maintenance, 
+2
+closure or disposition of deposits and other accounts of the insurer member, as mutually 
+3
+agreed upon by the superintendent and the federal home loan bank; and
+4
+D.  Any redemption or repurchase of federal home loan bank stock or excess stock of 
+5
+any class that the insurer member is required to own under any agreement between the 
+6
+federal home loan bank and the insurer member.
+7
+Sec. 6.  24-A MRSA §4362, sub-§7 is enacted to read:
+8
+7.  Upon the request of the superintendent in a proceeding under this chapter involving 
+9
+an insurer member of a federal home loan bank, the federal home loan bank shall provide 
+10
+to the superintendent any available option for the insurer member to renew or restructure a 
+11
+loan. In determining any available option, the federal home loan bank may consider market 
+12
+conditions, the terms of any loans outstanding to the insurer member, the applicable 
+13
+policies of the federal home loan bank and the federal laws and regulations applicable to 
+14
+the federal home loan bank.
+15
+Sec. 7.  24-A MRSA §4375-A, sub-§6 is enacted to read:
+16
+6.  Avoidance of transfers.  Notwithstanding subsection 1, 2, 3 or 4 or any provision 
+17
+of this chapter to the contrary, a receiver, rehabilitator, liquidator or any other person may 
+18
+not:
+19
+A.  Avoid any transfer of or any obligation to transfer money or other property arising 
+20
+under or in connection with any pledge, security, credit, collateral, loan, advance, 
+21
+reimbursement or guarantee agreement or arrangement or any similar agreement, 
+22
+arrangement or other credit enhancement to which a federal home loan bank is a party 
+23
+that is made, incurred or assumed prior to or after the filing of a successful petition for 
+24
+rehabilitation or liquidation under this chapter, or otherwise would be subject to 
+25
+avoidance under this section, except the avoidance of a transfer under this section if 
+26
+the transfer was made with actual intent to hinder, delay or defraud the insurer, a 
+27
+receiver appointed for the insurer or an existing or future creditor; and
+28
+B.  Avoid any preference arising under or in connection with any pledge, security, 
+29
+credit, collateral, loan, advance, reimbursement or guarantee agreement or arrangement 
+30
+or any similar agreement, arrangement or other credit enhancement to which a federal 
+31
+home loan bank is a party.
+32
+SUMMARY
+33
+This bill protects federal home loan banks that lend money to an insurer and the insurer 
+34
+enters into a receivership, including:
+35
+1. Limiting to no more than 10 days restraining, enjoining or otherwise preventing a 
+36
+person from enforcing the person's rights or cause of action under any pledge, security, 
+37
+credit, loan or other similar arrangement to which the federal home loan bank is a party;
+38
+2. Requiring the federal home loan bank to repurchase any excess federal home loan 
+39
+bank capital stock held by an insurer within 7 days of receiving a redemption request from 
+40
+the insurer, subject to certain conditions;
+41
+3. Requiring the federal home loan bank within 10 days of the appointment of a receiver 
+42
+to provide the Superintendent of Insurance a process and timeline to release certain 
+33
+34
+
+Page 3 - 132LR1054(01)
+43
+collateral held by the federal home loan bank, payment of certain fees owed by the insurer 
+44
+and redeem or repurchase any excess federal home loan bank stock held by an insurer;
+3
+4. Requiring the federal home loan bank to provide to the superintendent any available 
+4
+options to renew or restructure the insurer's loan; and
+5
+5. Preventing the avoidance of any transfer of property or preference arising under or 
+6
+in connection to any pledge, security, credit, collateral, loan or other similar arrangement 
+7
+to which the federal home loan bank is a party, except for transfers made with actual intent 
+8
+to hinder, delay or defraud.
+1
+2

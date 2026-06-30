@@ -1,0 +1,214 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1471
+H.P. 963
+House of Representatives, April 3, 2025
+An Act to Require Energy Efficiency Disclosure Statements and 
+Energy Efficiency Standards for Certain Rental Housing in the 
+State
+Reference to the Committee on Judiciary suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative EDER of Waterboro.
+Cosponsored by Representatives: JULIA of Waterville, SACHS of Freeport.
+
+Page 1 - 132LR1021(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  14 MRSA §6030-C, sub-§3 is enacted to read:
+3
+3.  Failure to provide energy efficiency disclosure statement.  Beginning January 1, 
+4
+2030, a tenant under subsection 2 who does not receive a signed energy efficiency 
+5
+disclosure statement as required by this section may terminate the tenant’s lease by 
+6
+providing the landlord a 30-day written notice. Except as provided in section 6033, a 
+7
+landlord may not retain a security deposit or a portion of a security deposit for a lease or 
+8
+tenancy at will terminated as a result of a failure to provide a signed energy efficiency 
+9
+disclosure statement in accordance with this section.
+10
+Sec. 2.  14 MRSA §6030-C, sub-§4 is enacted to read:
+11
+4.  Failure to meet insulation standards.  Beginning January 1, 2035, a tenant under 
+12
+subsection 2 whose rental dwelling unit does not meet the insulation standards under the 
+13
+suggested energy efficiency standards under Title 35-A, section 10117, subsection 2 may:
+14
+A. Terminate the tenant's lease by providing the landlord a 30-day written notice. 
+15
+Except as provided in section 6033, a landlord may not retain a security deposit or a 
+16
+portion of a security deposit for a lease or tenancy at will terminated as a result of a 
+17
+failure to provide adequate insulation in the tenant's dwelling unit in accordance with 
+18
+this subsection; or
+19
+B. If the tenant pays for the heat, receive an amount equal to 50% of the tenant's 
+20
+monthly heating bill from the landlord until the insulation standards of the tenant's 
+21
+dwelling unit under Title 35-A, section 10117, subsection 2 are met. If the tenant's 
+22
+utility bill for the dwelling unit's heat includes charges for other uses or services, the 
+23
+portion of the tenant's utility bill representing the cost for heating must be reasonably 
+24
+estimated.
+25
+Sec. 3.  14 MRSA §6030-C, sub-§5 is enacted to read:
+26
+5.  Exemptions.  Subsection 4 does not apply to an owner-occupied building of 3 
+27
+dwelling units or less, a short-term rental of less than 30 days or a dwelling unit that is 
+28
+rented less than 2 years out of any 5-year period.  A landlord may be exempt from 
+29
+subsection 4, paragraph B if the landlord demonstrates that meeting the insulation standard 
+30
+under Title 35-A, section 10117, subsection 2 for the dwelling unit is impractical or subjects 
+31
+the landlord to undue economic burden or hardship.
+32
+Sec. 4.  14 MRSA §6030-C, sub-§6 is enacted to read:
+33
+6.  Rebuttable presumption of retaliation.  In any action of forcible entry and 
+34
+detainer under section 6001, there is a rebuttable presumption that the action was 
+35
+commenced in retaliation against the tenant if, within 6 months before the commencement 
+36
+of the action, the tenant has asserted the tenant's rights pursuant to this section. The 
+37
+rebuttable presumption of retaliation does not apply unless the tenant asserted that tenant's 
+38
+rights pursuant to this section prior to being served with the eviction notice. There is no 
+39
+presumption of retaliation if the action for forcible entry and detainer is brought for failure 
+40
+to pay rent or for causing substantial damage to the premises.
+41
+Sec. 5.  14 MRSA §6030-C, sub-§7 is enacted to read:
+
+Page 2 - 132LR1021(01)
+1
+7.  Rules.  The Public Utilities Commission shall adopt rules to carry out the purposes 
+2
+of this section.  Rules adopted pursuant to this subsection are routine technical rules under 
+3
+Title 5, chapter 375, subchapter 2-A.
+4
+Sec. 6.  35-A MRSA §10117, sub-§1, as amended by PL 2023, c. 259, §1, is further 
+5
+amended to read:
+6
+1.  Residential rental energy efficiency disclosure statement.  The trust and the 
+7
+Maine State Housing Authority shall prepare a residential rental energy efficiency 
+8
+disclosure statement form for landlords and other lessors of residential properties to use to 
+9
+disclose to tenants and lessees information about the energy efficiency of the property in 
+10
+order to comply with Title 14, section 6030‑C. The trust, the commission and the Maine 
+11
+State Housing Authority shall post and maintain the statement form required by this 
+12
+subsection on the Internet in a format that is easily accessible by the public and distribute 
+13
+the form to tenants' rights organizations, elderly advocacy organizations and other entities 
+14
+determined relevant by the trust, the commission and the Maine State Housing Authority.
+15
+Sec. 7.  35-A MRSA §10117, sub-§2, as amended by PL 2023, c. 259, §1, is further 
+16
+amended to read:
+17
+2.  Suggested energy efficiency standards for residential rental properties.  The 
+18
+trust and the Maine State Housing Authority commission shall prepare and update 
+19
+suggested energy efficiency standards for landlords and other lessors of residential rental 
+20
+property that is used by a tenant or lessee as a primary residence.  The trust, the commission 
+21
+and the Maine State Housing Authority shall post and maintain the standards required by 
+22
+this subsection on the Internet in a format that is easily accessible by the public. and 
+23
+distribute the standards to tenants' rights organizations, elderly advocacy organizations and 
+24
+other entities determined relevant by the trust, the commission and the Maine State Housing 
+25
+Authority. The energy efficiency standards under this subsection must list at a minimum 
+26
+standards for:
+27
+A.  Heating systems, including tested heating system efficiency;
+28
+B.  Insulation for walls, ceilings, floors over unheated areas and basement walls;
+29
+C.  Windows and doors; and
+30
+D.  Appliances, including refrigerators and gas stoves.
+31
+The standards under this subsection must be listed on the residential rental energy 
+32
+efficiency disclosure statement form under subsection 1.
+33
+SUMMARY
+34
+This bill allows, beginning January 1, 2030, a tenant to terminate the tenant’s lease if 
+35
+the landlord fails to provide a signed energy efficiency disclosure statement required to be 
+36
+provided by landlords under current law. The bill allows, beginning January 1, 2035, a 
+37
+tenant to terminate the tenant’s lease if the tenant’s dwelling unit does not meet the 
+38
+minimum insulation standards for residential units prepared by the Public Utilities 
+39
+Commission or, if the tenant pays for the dwelling unit’s heat, require the landlord to pay 
+40
+the tenant an amount equal to half of the monthly heating bill until the dwelling unit is 
+41
+insulated to minimum insulation standards, with exceptions. The bill requires the Public 
+42
+Utilities Commission to prepare and update minimum energy efficiency standards for 
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+Page 3 - 132LR1021(01)
+43
+residential units and requires the Public Utilities Commission, the Efficiency Maine Trust 
+44
+and the Maine State Housing Authority to post the energy efficiency disclosure statement 
+45
+form and the minimum energy efficiency standards on their publicly accessible websites 
+46
+and to distribute the forms and the standards to tenants' rights organizations, elderly 
+47
+advocacy organizations and other entities determined relevant by the Public Utilities 
+48
+Commission, the Efficiency Maine Trust and the Maine State Housing Authority.
+1
+2
+3
+4
+5
+6

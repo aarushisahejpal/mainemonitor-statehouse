@@ -1,0 +1,114 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1431
+H.P. 940
+House of Representatives, April 3, 2025
+An Act to Implement an Interstate Voter Registration Cross-check 
+Program
+Reference to the Committee on Veterans and Legal Affairs suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative BAGSHAW of Windham.
+Cosponsored by Senator LIBBY of Cumberland and
+Representatives: BOYER of Poland, CIMINO of Bridgton, HAGGAN of Hampden, HEPLER 
+of Woolwich, LANCE of Paris, SMITH of Palermo, Senators: MARTIN of Oxford, 
+STEWART of Aroostook.
+
+Page 1 - 132LR1193(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  21-A MRSA §197 is enacted to read:
+3
+§197.  Interstate voter registration cross-check program
+4
+1. Interstate voter registration cross-check program.  The Secretary of State may 
+5
+implement and maintain an interstate voter registration cross-check program, referred to in 
+6
+this section as "the program," to identify a duplicate voter registration in more than one 
+7
+state or jurisdiction.  The program may cooperate with other states and jurisdictions to 
+8
+develop a system, referred to in this section as "the system," to routinely exchange public 
+9
+voter registration lists with other states and jurisdictions to compare voters and voter 
+10
+histories.
+11
+2. Private sector data system. The Secretary of State may identify and contract with 
+12
+a provider of a private sector data system that has a demonstrated ability to work with a 
+13
+system to identify and match registered voters to support maintenance of voter registration 
+14
+information under section 161, subsection 2-A.
+15
+3. Program reporting requirements. The Secretary of State shall record all 
+16
+maintenance of voter registration conducted as a result of the program and the system use. 
+17
+The Secretary of State shall submit the information recorded under this subsection to the 
+18
+Legislature no later than the first day of each quarter of the fiscal year.
+19
+4. Voter data privacy protections. The Secretary of State may not record or disclose 
+20
+information or personally identifying data in the program or the system that is not 
+21
+accessible under section 196-A, including a voter's name, residence address, mailing 
+22
+address, year of birth, enrollment status, electoral district, voter status, date of registration, 
+23
+date of change of the voter record if applicable, voter participation history, voter record 
+24
+number and any special designation indicating uniformed service voters, overseas voters 
+25
+or township voters.
+26
+5. Contract for voter registration information. A contract for services to carry out 
+27
+maintenance of voter registration under subsection 2 may not require any additional duty 
+28
+of or any additional disclosure of data by the Secretary of State beyond what is required in 
+29
+this section.
+30
+6. Cost of program and system. The cost to implement and maintain the program and 
+31
+the system may not exceed the funds allocated to the Secretary of State for maintenance of 
+32
+voter registration.
+33
+7. Compliance with federal law. The program must comply with the National Voter 
+34
+Registration Act of 1993, 52 United States Code, sections 20501 to 20511 and the federal 
+35
+Help America Vote Act of 2002, 52 United States Code, sections 20901 to 21145.
+36
+SUMMARY
+37
+This bill authorizes the Secretary of State to collaborate and cross-check voter 
+38
+registration data with other states to identify voters who may have moved out of the State 
+39
+and registered in another state. The bill also authorizes the Secretary of State to contract 
+40
+with a private sector data system provider to support a program for maintenance of voter 
+41
+registration. The bill also ensures that the personally identifying data and other information 
+37
+38
+39
+40
+41
+
+Page 2 - 132LR1193(01)
+42
+of the voters of the State are protected when exchanging data with other states and with a 
+43
+private sector data provider.
+1
+2

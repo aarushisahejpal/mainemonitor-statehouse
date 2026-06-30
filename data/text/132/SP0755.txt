@@ -1,0 +1,689 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1937
+S.P. 755
+In Senate, May 6, 2025
+An Act to Require Hospitals and Hospital-affiliated Providers to 
+Provide Financial Assistance Programs for Medical Care
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TALBOT ROSS of Cumberland.
+Cosponsored by Speaker FECTEAU of Biddeford and
+Senators: BAILEY of York, BALDACCI of Penobscot, INGWERSEN of York, ROTUNDO 
+of Androscoggin, Representatives: GATTINE of Westbrook, MEYER of Eliot, SHAGOURY 
+of Hallowell, STOVER of Boothbay.
+
+Page 1 - 132LR0979(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  22 MRSA §1715, as amended by PL 2017, c. 475, Pt. A, §29, is further 
+3
+amended to read:
+4
+§1715.  Access requirements applicable to certain health care providers
+5
+1.  Access requirements.  Any person, including, but not limited to, an affiliated 
+6
+interest as defined in former section 396‑L, that is subject to the requirements of this 
+7
+subsection, shall provide the services listed in paragraph C to individuals who are eligible 
+8
+for charity care in accordance with a charity care policy adopted by the affiliate or provider 
+9
+that is consistent with rules requirements applicable to hospitals under section 1716 1716-A 
+10
+and any rules adopted pursuant to section 1716-A.  A person is subject to this subsection if 
+11
+that person:
+12
+A.  Is either a direct provider of major ambulatory service, as defined in former section 
+13
+382, subsection 8‑A, or is or has been required to obtain a certificate of need under 
+14
+section 329 or former section 304 or 304-A;
+15
+B.  Provides outpatient services as defined in former section 382, subsection 9‑A; and
+16
+C.  Provides one or more of the following services:
+17
+(1)  Imaging services, including, but not limited to, magnetic resonance imaging, 
+18
+computerized tomography, mammography and radiology.  For purposes of this 
+19
+section, imaging services do not include:
+20
+(a)  Screening procedures that are not related to the diagnosis or treatment of a 
+21
+specific condition; or
+22
+(b)  Services when:
+23
+(i)  The services are owned by a community health center, a physician or 
+24
+group of physicians;
+25
+(ii)  The services are offered solely to the patients of that center, physician 
+26
+or group of physicians; and
+27
+(iii)  Referrals for the purpose of performing those services are not 
+28
+accepted from other physicians;
+29
+(2)  Laboratory services performed by a hospital or by a medical laboratory 
+30
+licensed in accordance with the Maine Medical Laboratory Commission, by the 
+31
+department or licensed by an equivalent out-of-state licensing authority, excluding 
+32
+those licensed laboratories owned by community health centers, by a physician or 
+33
+by a group of physicians where at which the laboratory services are offered solely 
+34
+to the patients of that center, physician or group of physicians;
+35
+(3)  Cardiac diagnostic services, including, but not limited to, cardiac 
+36
+catheterization and angiography but excluding electrocardiograms and 
+37
+electrocardiograph stress testing;
+38
+(4)  Lithotripsy services;
+39
+(5)  Services provided by free-standing ambulatory surgery facilities certified to 
+40
+participate in the Medicare program; or
+
+Page 2 - 132LR0979(01)
+1
+(6)  Any other service performed in an out-patient setting requiring the purchase 
+2
+of medical equipment costing in the aggregate $500,000 or more and for which the 
+3
+charge per unit of service is $250 or more.
+4
+2.  Enforcement.  The requirements of subsection 1 are enforced through the following 
+5
+mechanisms.
+6
+A.  Any person who knowingly violates any provision of this section or any valid order 
+7
+or rule made or adopted pursuant to section 1716 1716-A, or who willfully fails, 
+8
+neglects or refuses to perform any of the duties imposed under this section, commits a 
+9
+civil violation for which a forfeiture of not less than $200 and not more than $500 per 
+10
+patient may be adjudged with respect to each patient denied access unless specific 
+11
+penalties are elsewhere provided.  Any forfeiture imposed under this section may not 
+12
+exceed $5,000 in the case of the first judgment under this section against the provider, 
+13
+$7,500 in the case of a 2nd judgment against the provider or $10,000 in the case of the 
+14
+3rd or subsequent judgment against the provider.  The Attorney General is authorized 
+15
+to prosecute the civil violations.
+16
+B.  Upon application of the Attorney General or any affected patient, the Superior Court 
+17
+or District Court has full jurisdiction to enforce the performance by providers of health 
+18
+care of all duties imposed upon them by this section and any valid rules adopted 
+19
+pursuant to section 1716 1716-A.
+20
+C.  In any civil action under this section, the court, in its discretion, may allow the 
+21
+prevailing party, other than the Attorney General, reasonable attorney's fees and costs 
+22
+and the Attorney General is liable for attorney's fees and costs in the same manner as a 
+23
+private person.
+24
+D.  It is an affirmative defense to any legal action brought under this section that the 
+25
+person subject to this section denied access to services on the grounds that the 
+26
+economic viability of the facility or practice would be jeopardized by compliance with 
+27
+this section.
+28
+Sec. 2.  22 MRSA §1716, as enacted by PL 1995, c. 653, Pt. B, §7 and affected by 
+29
+§8 and enacted by c. 696, Pt. A, §36, is repealed.
+30
+Sec. 3.  22 MRSA §1716-A is enacted to read:
+31
+§1716-A.  Charity care and financial assistance programs provided by hospitals
+32
+This section applies to financial assistance programs provided by hospitals to 
+33
+qualifying patients, including program requirements specific to charity care.
+34
+1. Definitions.  As used in this section, unless the context otherwise indicates, the 
+35
+following terms have the following meanings.
+36
+A. "Charity care" means free health care services provided by hospitals to patients in 
+37
+accordance with the requirements under subsection 2.
+38
+B.  "Family income" means the cumulative income of a patient and the patient's family. 
+39
+"Family income" does not include the income of any individual residing in a patient's 
+40
+household who is not a member of the patient's family. For the purposes of this 
+41
+paragraph, "family" means a group of 2 or more persons related by birth, marriage or 
+42
+adoption who reside together and among whom there are legal responsibilities for 
+43
+support. All such related persons are considered one family.
+
+Page 3 - 132LR0979(01)
+1
+C. "Federal poverty level" has the same meaning as in section 3762, subsection 1, 
+2
+paragraph C.
+3
+D. "Financial assistance program" means a program administered by a hospital to 
+4
+provide patients with free or reduced-cost health care services and includes, but is not 
+5
+limited to, charity care.
+6
+E. "Income" means modified adjusted gross income as determined using the 
+7
+methodology described in 42 Code of Federal Regulations, Section 435.603(e).
+8
+F.  "State resident" means a person:
+9
+(1)  Living in the State with the intent to remain in the State indefinitely; or
+10
+(2)  Who enters the State with a permanent, temporary, seasonal or other job 
+11
+commitment or who is seeking employment.
+12
+"State resident" does not include a person who is in the State temporarily as a tourist 
+13
+or visitor.
+14
+2.  Hospital to provide charity care.  A hospital shall, in accordance with rules 
+15
+adopted by the department, provide free health care services to eligible patients who are 
+16
+state residents in accordance with this section. Upon admission of a patient, or in cases of 
+17
+emergency admission before discharge of a patient, a hospital shall investigate the coverage 
+18
+of the patient by any insurance or state or federal programs of medical assistance. A hospital 
+19
+shall provide free, medically necessary services for patients whose family income is equal 
+20
+to or less than 200% of the federal poverty level.
+21
+3.  Applications and eligibility requirements for financial assistance programs 
+22
+generally.  The following requirements apply to financial assistance programs provided by 
+23
+a hospital, including charity care except as otherwise provided in subsection 4. A hospital, 
+24
+in accordance with rules adopted by the department:
+25
+A.  May use an application form developed by the department pursuant to subsection 
+26
+12;
+27
+B.  May not require notarization of any application materials or supporting documents 
+28
+required for an application. However, a hospital may include on an application for a 
+29
+financial assistance program:
+30
+(1) A requirement for an applicant to attest to the accuracy of the information 
+31
+submitted;
+32
+(2) A statement that any information submitted that is determined to be false will 
+33
+result in a denial of financial assistance and that the applicant will bear financial 
+34
+responsibility for charges for services provided by the hospital; and
+35
+(3) A statement informing the applicant that knowingly submitting false 
+36
+information is unlawful;
+37
+C.  Shall accept documentation specified by the department by rule that may be used 
+38
+as proof that the applicant is a state resident;
+39
+D.  Shall determine eligibility based upon the applicant's family income at the time the 
+40
+application is submitted;
+
+Page 4 - 132LR0979(01)
+1
+E.  Shall, within 15 days of receiving an application, notify the applicant to clearly 
+2
+explain what additional information or documentation, if any, is necessary to complete 
+3
+the application. The hospital shall provide the patient with a reasonable amount of time 
+4
+that is no less than 30 days following notification to the patient of any information 
+5
+needed to complete the application before denying the application based on incomplete 
+6
+information. The hospital shall determine eligibility and inform the patient of the 
+7
+eligibility determination within 30 days from the date a completed application is 
+8
+submitted; and
+9
+F.  Shall provide interpretation services to patients with limited English proficiency 
+10
+and patients who are deaf or hard of hearing. This requirement applies to patients 
+11
+applying for or receiving assistance under a financial assistance program.
+12
+4.  Applications and eligibility requirements specific to charity care. In addition to 
+13
+the requirements of subsection 3, and notwithstanding any provision of subsection 3 to the 
+14
+contrary, the following requirements apply to charity care. A hospital, in accordance with 
+15
+rules adopted by the department:
+16
+A.  May not solicit from an applicant for charity care provided in accordance with this 
+17
+section information regarding any assets or income that are not used to calculate 
+18
+modified adjusted gross income as described in 42 Code of Federal Regulations, 
+19
+Section 435.603(e);
+20
+B.  Shall provide versions of the charity care application and the summary described 
+21
+in subsection 5, paragraph A translated into any language spoken by 5% of the 
+22
+population of the State or 1,000 people in the State, whichever is less, as well as any 
+23
+additional languages spoken by 5% of the community served by the hospital or 1,000 
+24
+people in the community served by the hospital, whichever is less;
+25
+C.  Shall determine that an applicant is unable to pay for hospital services and is eligible 
+26
+for charity care when the family income of the patient, as calculated by either of the 
+27
+methods described in subparagraphs (1) and (2), is equal to or less than 200% of the 
+28
+federal poverty level. Eligibility may be calculated by:
+29
+(1)  Multiplying by 4 the patient's family income for the 3 months preceding the 
+30
+determination of eligibility; or
+31
+(2)  Using the patient's actual family income for the 12 months preceding the 
+32
+determination of eligibility.
+33
+If one method of calculation is inapplicable, the other method must be applied prior to 
+34
+determining an applicant's eligibility for charity care;
+35
+D.  Shall provide each applicant who requests charity care and is denied it, in whole or 
+36
+in part, a written and dated statement of the reasons for the denial when the denial is 
+37
+made; and
+38
+E.  Shall provide to an applicant who is denied charity care, in whole or in part, 
+39
+information regarding the right to request a fair hearing from the department regarding 
+40
+the patient's eligibility for charity care.
+41
+5.  Notice and publication requirements.  In accordance with rules adopted by the 
+42
+department, a hospital shall widely publicize its financial assistance programs within the 
+43
+community served by the hospital, including by:
+
+Page 5 - 132LR0979(01)
+1
+A. Publishing a summary of the financial assistance programs written in plain 
+2
+language, including a summary of services not covered by financial assistance 
+3
+programs;
+4
+B. Providing physical copies of the plain language summary under paragraph A, the 
+5
+financial assistance program application and any application instructions in 
+6
+conspicuous locations within the hospital, including admission, registration and 
+7
+waiting areas;
+8
+C. Posting a full, accessible and downloadable version of the financial assistance 
+9
+program application on the hospital's publicly accessible website;
+10
+D. Including on all plain language summaries and financial assistance program 
+11
+application instructions, excluding billing statements except as otherwise provided in 
+12
+paragraph E and subsection 6, information regarding the hospital's financial assistance 
+13
+program and information regarding the availability of no-cost assistance with applying 
+14
+for financial assistance and health coverage programs through the Health Insurance 
+15
+Consumer Assistance Program established in Title 24-A, section 4326; and
+16
+E. Providing on all billing statements sent to a patient information on the availability 
+17
+of financial assistance, including how to apply for the financial assistance program, the 
+18
+address of a publicly accessible website from which a patient may download a copy of 
+19
+the application and a telephone number that a patient may call to request a paper copy 
+20
+of the application.
+21
+6. Individual written notice of charity care availability. A hospital shall provide a 
+22
+patient with individual written notice of the availability of charity care according to the 
+23
+following.
+24
+A. With respect to inpatient services, the hospital shall provide individual written 
+25
+notice of the availability of charity care to each patient upon admission, or in the case 
+26
+of emergency admission before discharge.
+27
+B. With respect to outpatient services, the hospital shall either include with the patient's 
+28
+bill a copy of an individual notice of the availability of charity care or provide a copy 
+29
+of the individual notice at the time service is provided.
+30
+The individual notice provided pursuant to this subsection must include the information 
+31
+required pursuant to subsection 5, paragraph D, a telephone number to request a paper 
+32
+charity care application, the website address where a patient can submit an online 
+33
+application pursuant to subsection 10, the income guidelines to qualify for charity care and 
+34
+any other information specified by the department by rule.
+35
+7.  Patient notified of noncovered services; consequences for failing to notify.  In 
+36
+accordance with rules adopted by the department, a hospital shall inform a patient who is 
+37
+determined to be eligible for financial assistance if any part of a medical service, treatment, 
+38
+procedure or test provided or administered to the patient in the hospital is not covered by 
+39
+the hospital's financial assistance programs. A hospital may not bill a patient for a medical 
+40
+service, treatment, procedure or test if the hospital failed to provide the patient with advance 
+41
+notice that a medical service, treatment, procedure or test is not covered under the hospital's 
+42
+financial assistance programs. A hospital may bill a patient's health insurance carrier for a 
+43
+medical service, treatment, procedure or test for which the hospital is prohibited from 
+44
+billing the patient under this subsection.
+
+Page 6 - 132LR0979(01)
+1
+8.  Reasonable payment plans; maximum out-of-pocket payments.  In accordance 
+2
+with rules adopted by the department, a hospital shall offer a patient with a documented 
+3
+family income that does not exceed 400% of the federal poverty level a payment plan that 
+4
+requires monthly out-of-pocket payments that do not exceed 3% of the patient's monthly 
+5
+family income that is not exempt from attachment or garnishment under state law.
+6
+9. Bill disputes. A hospital shall include on a billing statement sent to a patient 
+7
+information regarding how to dispute a charge. If the contact information for disputing a 
+8
+charge is distinct from the contact information for paying or otherwise settling a bill, the 
+9
+contact information for the individual or entity charged with handling disputed charges 
+10
+must be provided.
+11
+10. Online application for charity care. A hospital shall provide an online option 
+12
+through which an applicant may file an application for charity care. The online option must 
+13
+provide for an e-mail response to the applicant that the application has been received. The 
+14
+hospital shall provide an option for a patient to request that an application be mailed to the 
+15
+patient.
+16
+11.  Enforcement.  This subsection governs enforcement of this section.
+17
+A. The department shall:
+18
+(1) Establish a process for a patient to submit a complaint of hospital 
+19
+noncompliance with this section;
+20
+(2) Conduct a review within 30 days of receiving a complaint from a patient 
+21
+regarding noncompliance with this section; and
+22
+(3) Require a corrective action of a hospital, if the department determines that the 
+23
+hospital is not in compliance with this section, which may include:
+24
+(a) Measures to inform the patient about the noncompliance; and
+25
+(b) Adjusting any amount billed to the patient in violation of this section.
+26
+B. If the department determines that a hospital knowingly or willfully violated this 
+27
+section or engaged in a pattern of noncompliance with this section, the department may, 
+28
+through the Office of the Attorney General, bring a civil action against the hospital for 
+29
+a penalty not to exceed $1,000.
+30
+12. Application developed by department. The department shall develop an 
+31
+application for patients to apply for financial assistance programs, including charity care, 
+32
+consistent with the requirements of subsections 3 and 4, as applicable. The department shall 
+33
+translate any application it develops into any language spoken by 5% of the population of 
+34
+the State or 1,000 people in the State, whichever is less.
+35
+13. Rulemaking.  The department shall adopt rules to carry out the purposes of this 
+36
+section. Rules adopted pursuant to this section must be consistent with the requirements of 
+37
+the United States Internal Revenue Code of 1986, Section 501(r) and any federal 
+38
+regulations implementing those requirements. Rules adopted pursuant to this subsection 
+39
+are routine technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+40
+Sec. 4.  22 MRSA §4313, sub-§1, as amended by PL 1995, c. 696, Pt. A, §40, is 
+41
+further amended to read:
+
+Page 7 - 132LR0979(01)
+1
+1.  Emergency care.  In the event of an admission of an eligible person to the hospital, 
+2
+the hospital shall notify the overseer of the liable municipality within 5 business days of 
+3
+the person's admission.  In no event may hospital services to a person who If the person 
+4
+meets the financial eligibility guidelines adopted pursuant to section 1716 requirements for 
+5
+charity care under section 1716-A, hospital services may not be billed to the patient person 
+6
+or to a municipality.
+7
+Sec. 5.  32 MRSA §11013, sub-§11, as enacted by PL 2021, c. 245, Pt. E, §1, is 
+8
+amended to read:
+9
+11.  Collection action prohibited on debt from medical expenses if eligible for free 
+10
+or charity care.  If a debt collector has been notified, orally or in writing, by a creditor or 
+11
+the consumer of the consumer’s actual or potential qualification for free or charity care 
+12
+under guidelines adopted pursuant to Title 22, section 1716 1716-A, a debt collector may 
+13
+not collect or attempt to collect a debt for medical expenses against a consumer who has 
+14
+been determined to be qualified for free or charity care under guidelines adopted pursuant 
+15
+to Title 22, section 1716 1716-A or against a consumer who would have been determined 
+16
+to be qualified for free or charity care under guidelines adopted pursuant to Title 22, section 
+17
+1716 1716-A but did not apply for good cause. If the notification is provided to a debt 
+18
+collector, the debt collector shall suspend collection efforts until the creditor has notified 
+19
+the debt collector and the consumer that the consumer is not qualified for free or charity 
+20
+care and, in that case, the debt collector may renew debt collection efforts.
+21
+Sec. 6. Department of Health and Human Services to adopt rules.  By June 
+22
+30, 2026, the Department of Health and Human Services shall adopt rules pursuant to the 
+23
+Maine Revised Statutes, Title 22, section 1716-A, subsection 13 to implement the 
+24
+requirements of this Act.  The rules must include a provision limiting a patient's right to 
+25
+request an administrative hearing to within 60 days after the date of the written notification 
+26
+of the action under section 1716-A that the patient wishes to appeal.
+27
+Sec. 7.  Effective date. This Act takes effect January 1, 2026.
+28
+SUMMARY
+29
+The bill eliminates the existing law that requires the Department of Health and Human 
+30
+Services to adopt guidelines governing charity care and replaces it with a more 
+31
+comprehensive law governing charity care and other financial assistance programs 
+32
+provided by hospitals to patients to cover charges for services provided by that hospital. 
+33
+The bill does the following.
+34
+1. It requires that hospitals provide charity care or free health care services to patients 
+35
+who are state residents and whose family income is equal to or less than 200% of the federal 
+36
+poverty level.
+37
+2. It establishes requirements with respect to hospital-provided financial assistance 
+38
+programs and specific requirements applying only to charity care that hospitals must follow 
+39
+in accordance with rules adopted by the department concerning the application process, 
+40
+language interpretation, eligibility determinations, notification of eligibility determinations 
+41
+and, in the case of charity care, rights to a hearing following a denial. 
+42
+3. It requires that hospitals widely publicize their financial assistance programs within 
+43
+the community served by the hospital, including by publishing a summary of the programs 
+29
+30
+31
+32
+33
+
+Page 8 - 132LR0979(01)
+44
+written in plain language; by providing physical copies of the summary, application and 
+45
+application instructions in conspicuous locations within the hospital; and by posting a full, 
+46
+accessible and downloadable version of the application on the hospital's publicly accessible 
+47
+website.
+5
+4. It requires that a hospital provide individual written notice of the availability of 
+6
+charity care to each patient. For inpatient services, the notice must be provided upon 
+7
+admission, or in the case of emergency admission before discharge. For outpatient services, 
+8
+individual notice must be included with the patient's bill or at the time service is provided.
+9
+5. It requires that a hospital notify a patient who is determined to be eligible for 
+10
+financial assistance if any part of the services provided are not covered by the hospital's 
+11
+financial assistance program. A hospital that fails to provide this notice is prohibited from 
+12
+charging the patient for those services, but is permitted to charge the patient's health 
+13
+insurance carrier for those services. 
+14
+6. It provides that a hospital must offer, for patients with family incomes that do not 
+15
+exceed 400% of the federal poverty level, a payment plan that requires monthly out-of-
+16
+pocket payments that do not exceed 3% of the patient's monthly family income that is not 
+17
+exempt from attachment or garnishment under Maine law.
+18
+7. It requires hospitals to include on a patient's bill information concerning the process 
+19
+for disputing charges. 
+20
+8. It requires that hospitals provide an online option for applying for charity care. 
+21
+9. It requires the department to enforce the provisions of this bill. The department must 
+22
+establish a process to receive patient complaints for hospital noncompliance, conduct 
+23
+reviews of those complaints and require a corrective action when a hospital is found to be 
+24
+noncompliant.
+25
+10. It establishes a civil penalty not to exceed $1,000 for hospitals that knowingly or 
+26
+willfully violate the provisions of this bill or engage in a pattern of noncompliance with 
+27
+these provisions. 
+28
+11. It requires the department to adopt rules by June 30, 2026 to carry out the purposes 
+29
+of this bill.
+1
+2
+3
+4

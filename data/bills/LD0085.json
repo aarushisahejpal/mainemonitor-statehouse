@@ -1,0 +1,84 @@
+{
+  "ld": 85,
+  "paper": "HP0049",
+  "paper_display": "HP 49",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095622",
+  "title": "An Act to Revitalize the Maine Temporary Assistance for Needy Families Advisory Council",
+  "committee": "Health and Human Services",
+  "status_summary": "",
+  "final_disposition": "Enacted, Mar 21, 2025",
+  "governor_action": "Signed, Mar 21, 2025",
+  "chaptered_law": "ACTPUB, Chapter 5",
+  "chapter": "5",
+  "became_law": true,
+  "last_house_action": "3/11/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/18/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Michele MEYER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Eliot"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "TEMPORARY ASSIST TO NEEDY FAMILIES",
+      "minor": "PROVISIONS",
+      "detail": "ADVISORY COUNCIL"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-06",
+      "date_raw": "1/6/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on January 6, 2025. The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2025-02-25",
+      "date_raw": "2/25/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED, in concurrence. READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-03-11",
+      "date_raw": "3/11/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0049&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0049&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0049",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0049&SessionID=16",
+  "scraped_at": "2026-06-30T17:35:58Z"
+}

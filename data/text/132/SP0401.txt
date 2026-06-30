@@ -1,0 +1,78 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 911
+S.P. 401
+In Senate, March 11, 2025
+An Act to Modify Ranked-choice Voting with Regard to Candidates 
+Who Withdraw from an Election
+Received by the Secretary of the Senate on March 5, 2025.  Referred to the Committee on 
+Veterans and Legal Affairs pursuant to Joint Rule 308.2 and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator TIPPING of Penobscot.
+
+Page 1 - 132LR2208(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  21-A MRSA §723-A, sub-§2, as amended by PL 2023, c. 628, §2, is further 
+3
+amended to read:
+4
+2.  Procedures.  Except as provided in subsections 3, 4 and, 7, and 8 the following 
+5
+procedures are used to determine the winner of an election determined by ranked-choice 
+6
+voting.  The ranked‑choice voting count must proceed in rounds.  In each round, the number 
+7
+of votes for each continuing candidate must be counted.  Each continuing ballot counts as 
+8
+one vote for its highest-ranked continuing candidate for that round.  Exhausted ballots are 
+9
+not counted for any continuing candidate.  The round then ends with one of the following 
+10
+2 potential outcomes.
+11
+A.  If there are 2 or fewer continuing candidates, the candidate with the most votes is 
+12
+declared the winner of the election.
+13
+B.  If there are more than 2 continuing candidates, the last-place candidate is removed 
+14
+from consideration and a new round begins.
+15
+Sec. 2.  21-A MRSA §723-A, sub-§8 is enacted to read:
+16
+8.  Withdrawn candidate or nominee.  If a candidate or a candidate for nomination 
+17
+in an election determined by ranked-choice voting withdraws from that election under 
+18
+chapter 5, subchapter 3 and the name of the candidate remains on that election ballot, any 
+19
+vote in each round for that candidate may not be counted in that round and instead the next 
+20
+highest-ranked continuing candidate must be counted in that round. Each subsequent round 
+21
+must be adjusted in the same manner.
+22
+SUMMARY
+23
+This bill modifies the ranked-choice voting procedures. In instances where a candidate 
+24
+or a candidate for nomination in an election determined by ranked-choice voting withdraws 
+25
+from the election but the candidate's name remains on the election ballot, a vote for the 
+26
+candidate that has withdrawn may not be counted in any round and instead the next highest-
+27
+ranked continuing candidate must be counted. Each subsequent round must be adjusted in 
+28
+the same manner.
+23
+24
+25
+26
+27
+28

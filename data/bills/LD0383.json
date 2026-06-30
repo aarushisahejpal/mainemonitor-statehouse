@@ -1,0 +1,165 @@
+{
+  "ld": 383,
+  "paper": "SP0149",
+  "paper_display": "SP 149",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280096055",
+  "title": "An Act to Facilitate the Consolidation of the Department of Environmental Protection and the Maine Land Use Planning Commission into a Single Combined Entity",
+  "committee": "Environment and Natural Resources",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 29, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/29/2025 - Reports READ . On motion of Representative GRAMLICH of Old Orchard Beach, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )",
+  "last_senate_action": "5/28/2025 - Reports Read. On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED. Sent down for concurrence.",
+  "sponsors": [
+    {
+      "name": "Joseph MARTIN",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Oxford"
+    },
+    {
+      "name": "Scott CYRWAY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Kennebec"
+    },
+    {
+      "name": "Rachel HENDERSON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Rumford"
+    },
+    {
+      "name": "Michael LANCE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Paris"
+    },
+    {
+      "name": "Joshua MORRIS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Turner"
+    },
+    {
+      "name": "Michael SOBOLESKI",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Phillips"
+    },
+    {
+      "name": "Peter WOOD",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Norway"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ENVIRONMENTAL PROTECTION DEPT",
+      "minor": "ADMINISTRATION",
+      "detail": "CONSOLIDATION"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "Senate",
+      "description": "Committee on HOUSING AND ECONOMIC DEVELOPMENT suggested and ordered printed REFERENCE to the Committee on HOUSING AND ECONOMIC DEVELOPMENT Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-02-04",
+      "date_raw": "2/4/2025",
+      "chamber": "House",
+      "description": "Committee on HOUSING AND ECONOMIC DEVELOPMENT suggested and ordered printed. The Bill was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES . In NON-CONCURRENCE and sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-02-11",
+      "date_raw": "2/11/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland Tabled until Later in Today's Session, pending CONSIDERATION Unfinished Business"
+    },
+    {
+      "date": "2025-02-25",
+      "date_raw": "2/25/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-03-04",
+      "date_raw": "3/4/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President On motion by Senator DUSON of Cumberland The Senate RECEDED From REFERENCE to the Committee on HOUSING AND ECONOMIC DEVELOPMENT On motion by Same Senator the bill was REFERENCED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY In NON-CONCURRENCE Sent down for concurrence"
+    },
+    {
+      "date": "2025-03-11",
+      "date_raw": "3/11/2025",
+      "chamber": "House",
+      "description": "The House INSISTED on REFERENCE to the Committee on ENVIRONMENT AND NATURAL RESOURCES . ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-18",
+      "date_raw": "3/18/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland The Senate RECEDED and CONCURRED With The Bill REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES in concurrence"
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "Reports Read. On motion by Senator TEPLER of Sagadahoc the Majority Ought Not to Pass Report ACCEPTED. Sent down for concurrence."
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative GRAMLICH of Old Orchard Beach, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-170 )",
+      "new_title": "",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0149&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0149&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0149",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0149&SessionID=16",
+  "scraped_at": "2026-06-30T18:01:05Z"
+}

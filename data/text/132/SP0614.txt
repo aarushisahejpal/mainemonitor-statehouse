@@ -1,0 +1,196 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1530
+S.P. 614
+In Senate, April 8, 2025
+An Act to Improve the Sustainability of Emergency Medical 
+Services in Maine
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator CURRY of Waldo.
+
+Page 1 - 132LR1615(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  24-A MRSA §4303-F, as amended by PL 2023, c. 468, §2 and c. 591, §§3 
+3
+and 4, is further amended by amending the section headnote to read:
+4
+§4303-F.  Reimbursement for ambulance services and nontransporting emergency 
+5
+medical services; participation of ambulance and nontransporting emergency 
+6
+medical service providers in carrier networks
+7
+Sec. 2.  24-A MRSA §4303-F, sub-§1, as amended by PL 2023, c. 591, §3, is 
+8
+further amended to read:
+9
+1.  Reimbursement for ambulance and nontransporting emergency medical 
+10
+services.  With respect to a bill for covered services rendered by an ambulance service or 
+11
+nontransporting emergency medical service provider, a carrier shall reimburse the 
+12
+ambulance service or nontransporting emergency medical service provider or enrollee, as 
+13
+applicable, as follows.
+14
+A.  If the ambulance service or nontransporting emergency medical service provider 
+15
+participates in the carrier's network, the carrier shall reimburse at the ambulance service 
+16
+provider's or nontransporting emergency medical service provider's rate or 200% of the 
+17
+Medicare rate for that service, whichever is less, plus any adjustment required by 
+18
+paragraph C.
+19
+B.  If the ambulance service or nontransporting emergency medical service provider is 
+20
+an out-of-network provider, the carrier shall reimburse at the ambulance service 
+21
+provider's or nontransporting emergency medical services provider's rate or 180% of 
+22
+the Medicare rate for that service, whichever is less, plus any adjustment required by 
+23
+paragraph C.
+24
+C.  If the ambulance service or nontransporting emergency medical service provider is 
+25
+located in a rural or super rural area as designated by the federal Department of Health 
+26
+and Human Services, Centers for Medicare and Medicaid Services and eligible for 
+27
+additional Medicare reimbursement for services that were provided to a Medicare 
+28
+enrollee, the carrier shall increase the reimbursement to that ambulance service 
+29
+provider or nontransporting emergency medical service provider in the same amount 
+30
+as the additional Medicare reimbursement.
+31
+D.  If, on the effective date of this subsection in the case of an ambulance service 
+32
+provider or on October 1, 2025 in the case of a nontransporting emergency medical 
+33
+service provider, an ambulance service provider's or a nontransporting emergency 
+34
+medical service provider's charge for ambulance services is below 200% of the 
+35
+Medicare rate for that service, the ambulance service provider or nontransporting 
+36
+emergency medical service provider may not increase the charge for that service by 
+37
+more than 5% annually.
+38
+E.  A carrier may not require a ground ambulance service provider or nontransporting 
+39
+emergency medical service provider to obtain prior authorization before transporting 
+40
+an enrollee to a hospital, between hospitals or from a hospital to a nursing home, 
+41
+hospice care facility or other health care facility, as defined in Title 22, section 328, 
+42
+subsection 8.  A carrier may not require an air ambulance service provider to obtain 
+
+Page 2 - 132LR1615(01)
+43
+prior authorization before transporting an enrollee to a hospital or between hospitals 
+44
+for urgent care.
+3
+Notwithstanding this subsection, a carrier is not required to reimburse an ambulance service 
+4
+provider at the reimbursement rates required in this subsection for covered services 
+5
+delivered through community paramedicine in accordance with Title 32, section 84, 
+6
+subsection 4 and a carrier may require an ambulance service provider to obtain prior 
+7
+authorization before providing services through community paramedicine.
+8
+As used in this subsection, "nontransporting emergency medical service" has the same 
+9
+meaning as in Title 32, section 83, subsection 14.
+10
+Sec. 3.  32 MRSA §86, sub-§2-A, as amended by PL 2019, c. 627, Pt. B, §9, is 
+11
+further amended to read:
+12
+2-A.  Treatment.  When an ambulance service or nontransporting emergency medical 
+13
+service is present at an accident or other situation in which a person or persons require 
+14
+emergency medical treatment, the medical treatment of the patients must be carried out in 
+15
+accordance with any rules adopted under this chapter, any protocols as defined in section 
+16
+83, subsection 19 and any orders given by online medical control; and is reimbursable care 
+17
+under Title 24-A, section 4303-F when provided on scene regardless of transport to another 
+18
+facility, except that:
+19
+A.  When a patient is already under the supervision of a personal physician or physician 
+20
+assistant or a nurse practitioner supervised by the physician and the physician, 
+21
+physician assistant or nurse practitioner assumes the care of the patient, then for as long 
+22
+as the physician, physician assistant or nurse practitioner remains with the patient, the 
+23
+patient must be cared for as the physician, physician assistant or nurse practitioner 
+24
+directs.  The emergency medical services persons shall assist to the extent that their 
+25
+licenses and protocol allow; and
+26
+B.  A patient is not required to accept treatment to which the patient does not consent.
+27
+Sec. 4.  32 MRSA §86, sub-§4, as amended by PL 2023, c. 161, §6, is further 
+28
+amended to read:
+29
+4.  Naloxone hydrochloride or another opioid overdose-reversing medication.  An 
+30
+ambulance service or a nontransporting emergency medical service licensed under this 
+31
+chapter may dispense naloxone hydrochloride or another opioid overdose-reversing 
+32
+medication as reimbursable care under Title 24-A, section 4303-F in accordance with Title 
+33
+22, section 2353, subsection 2‑A and the rules adopted and protocols developed for 
+34
+ambulance services and nontransporting emergency medical services under this chapter. 
+35
+An opioid overdose-reversing medication referenced in this subsection must be approved 
+36
+by the federal Food and Drug Administration.
+37
+SUMMARY
+38
+This bill provides that care that is provided at the scene of an emergency medical 
+39
+services event by an ambulance service or nontransporting emergency medical service is 
+40
+reimbursable care regardless of whether a patient is transported to another facility.  This 
+41
+includes the administration of overdose-reversing medications that do not result in patient 
+42
+transport to a facility.  Additionally, the bill requires reimbursement for certain services 
+43
+provided through community paramedicine.
+1
+2
+38
+39
+40
+41
+42
+43

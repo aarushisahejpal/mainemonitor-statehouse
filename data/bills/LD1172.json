@@ -1,0 +1,65 @@
+{
+  "ld": 1172,
+  "paper": "HP0777",
+  "paper_display": "HP 777",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097663",
+  "title": "An Act to Enact the Passamaquoddy Fisheries and Workforce Development Act",
+  "committee": "Marine Resources",
+  "status_summary": "",
+  "final_disposition": "Automatic Withdrawal Pursuant to Joint Rule 305.6, May 21, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/21/2025 - Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+  "last_senate_action": "5/21/2025 - Pursuant to Joint Rule 305.6, Placed in Legislative Files ( DEAD ).",
+  "sponsors": [],
+  "subjects": [
+    {
+      "major": "NATIVE AMERICANS",
+      "minor": "PASSAMAQUODDY TRIBE",
+      "detail": "FISHERIES AND WORKFORCE DEVELOPMEN"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "Committee on JUDICIARY suggested and ordered printed. On motion of Representative KUHN of Falmouth, the Bill was REFERRED to the Committee on MARINE RESOURCES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on MARINE RESOURCES . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 305.6, Placed in Legislative Files ( DEAD )."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0777&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0777",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0777&SessionID=16",
+  "scraped_at": "2026-06-30T19:01:34Z"
+}

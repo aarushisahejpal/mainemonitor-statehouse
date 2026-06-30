@@ -1,0 +1,486 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2174
+H.P. 1462
+House of Representatives, January 27, 2026
+An Act to Replace the Maine Waterway Development and 
+Conservation Act with the Maine Renewable Energy and Associated 
+Transmission Development and Conservation Act
+(EMERGENCY)
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Reference to the Committee on Environment and Natural Resources suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative KESSLER of South Portland.
+
+Page 1 - 132LR2930(01)
+1
+Emergency preamble.  Whereas, acts and resolves of the Legislature do not 
+2
+become effective until 90 days after adjournment unless enacted as emergencies; and
+3
+Whereas, electricity prices in Maine are increasing significantly and financial 
+4
+incentives for renewable energy deployment are decreasing, which is negatively impacting 
+5
+economic vitality throughout the State; and
+6
+Whereas, current permitting requirements are a significant impediment to renewable 
+7
+energy deployment, which requires expediency in order to be financially viable as well as 
+8
+competitive with neighboring states that have recently enacted permitting reform for 
+9
+renewable energy development and the needed supporting transmission; and
+10
+Whereas, Maine has long been a national leader in working to address the climate 
+11
+crisis, with both the Legislature and Governor having set ambitious decarbonization targets 
+12
+and comprehensive plans to achieve these targets; and
+13
+Whereas, to achieve its emissions targets and promote new economic development 
+14
+and long-term employment, the State must build more clean energy generation 
+15
+infrastructure and at a much quicker pace than it has been built to date, while also upgrading 
+16
+and building out its transmission and distribution grids to accommodate this generation and 
+17
+increased electricity demand; and
+18
+Whereas, the Maine Waterway Development and Conservation Act, a 1983 law, is 
+19
+out of date in that hydropower is no longer Maine's only major source of renewable energy, 
+20
+and permitting can be streamlined for more than just hydropower projects to save time and 
+21
+cost while increasing more consistent and certain regulatory review without risking harm 
+22
+to the natural environment; and
+23
+Whereas, unless obstacles to the use of the State's substantial renewable energy 
+24
+resources are removed, Maine will not be able to realize substantial direct and near-term 
+25
+benefits but instead will increasingly risk other states capitalizing on Maine's renewable 
+26
+resources; and
+27
+Whereas, in the judgment of the Legislature, these facts create an emergency within 
+28
+the meaning of the Constitution of Maine and require the following legislation as 
+29
+immediately necessary for the preservation of the public peace, health and safety; now, 
+30
+therefore,
+31
+Be it enacted by the People of the State of Maine as follows:
+32
+Sec. 1.  38 MRSA §489-E, first ¶, as repealed and replaced by PL 2011, c. 359, §4, 
+33
+is amended to read:
+34
+Rules adopted by the department pursuant to this article are routine technical rules as 
+35
+defined in Title 5, chapter 375, subchapter 2-A, including rules to establish a permit-by-
+36
+rule process in accordance with section 344, subsection 7, except that rules adopted by the 
+37
+department after January 1, 2010 pursuant to section 484, subsections 1, 3, 4, 4‑A, 5, 6 and 
+38
+7 are major substantive rules as defined in Title 5, chapter 375, subchapter 2‑A.
+39
+Sec. 2.  38 MRSA §574, sub-§3 is enacted to read:
+40
+3.  Beneficial electrification.  "Beneficial electrification" has the same meaning as in 
+41
+Title 35-A, section 10102, subsection 3-A.
+
+Page 2 - 132LR2930(01)
+1
+Sec. 3.  38 MRSA §574, sub-§4 is enacted to read:
+2
+4.  Renewable or clean energy project.  "Renewable or clean energy project" means 
+3
+any development that uses a 5-megawatt or greater clean resource, as defined in Title 35-A, 
+4
+section 3210, subsection 2, paragraph A-4, for the purpose of generating electrical power. 
+5
+"Renewable or clean energy project" includes all energy storage systems, as defined in Title 
+6
+35-A, section 3481, subsection 6, powerhouses, dams, water conduits, turbines or other in-
+7
+stream power devices, generators, associated transmission lines, water impoundments, 
+8
+roads and other appurtenant works and structures that are part of the development. 
+9
+Sec. 4.  38 MRSA §579-A is enacted to read:
+10
+§579-A.  Renewable energy and associated transmission development and 
+11
+conservation
+12
+1.  Short title.  This section may be cited as "the Maine Renewable Energy and 
+13
+Associated Transmission Development and Conservation Act."
+14
+2.  Policy.  The Legislature declares that it is the policy of the State to support and 
+15
+encourage the development of hydropower, wind power, biomass, solar and other types of 
+16
+renewable or clean energy projects and the necessary transmission development activities 
+17
+needed to serve such projects by simplifying and clarifying requirements for permits, while 
+18
+ensuring reasonable protection of natural resources and the public interest. It is the purpose 
+19
+of this section to require a single application and permit for the construction of all such 
+20
+projects, with the permit application process administered by the department.
+21
+It further is the policy of the State to encourage the attraction of appropriately sited 
+22
+renewable or clean energy project development, including any additional transmission and 
+23
+other energy infrastructure needed to transport such energy to market, consistent with all 
+24
+state environmental standards; the permitting and siting of renewable or clean energy 
+25
+projects; and the permitting, siting, financing and construction of energy research and 
+26
+manufacturing facilities.
+27
+3.  Prohibition; permit required; exceptions.  Beginning March 1, 2027, a person 
+28
+may not initiate construction, reconstruction or expansion of a renewable or clean energy 
+29
+project without first obtaining a permit from the department in accordance with this section.
+30
+This section does not apply to activities for which, prior to the effective date of this Act, a 
+31
+permit or permits have been issued.
+32
+4.  Permit requirements; coordinated review; applications.  An application for a 
+33
+permit for a renewable or clean energy project under this section is governed by this 
+34
+subsection. 
+35
+A.  An application for a permit for a renewable or clean energy project required by 
+36
+subsection 3 must be made on forms provided by the commissioner and filed with the 
+37
+commissioner. Public notice of the filing must be made as required by the board. 
+38
+B.  Within 10 working days of receiving the completed application for a permit for a 
+39
+renewable or clean energy project, the commissioner shall notify the applicant of the 
+40
+official date on which the application was accepted. The commissioner shall also notify 
+41
+the applicant that the department needs to retain one or more expert consultants 
+42
+necessary to assist in the review of the project’s compliance with the governing 
+
+Page 3 - 132LR2930(01)
+43
+standards and, following that notice, the department shall employ a consultant or 
+44
+consultants at the expense of the applicant. 
+3
+C.  The commissioner shall circulate the application for a permit among the department, 
+4
+the Department of Agriculture, Conservation and Forestry, the Department of Inland 
+5
+Fisheries and Wildlife, the Department of Marine Resources, the Department of 
+6
+Transportation, the Maine Historic Preservation Commission, the Department of 
+7
+Energy Resources, the Public Utilities Commission and the municipal officials of each 
+8
+municipality in which the renewable or clean energy project is located, inviting timely 
+9
+submission of any comments for consideration by the department, as the sole 
+10
+coordinating permitting state agency, in its review of the project’s compliance with the 
+11
+relevant provisions of the Natural Resources Protection Act, the site location of 
+12
+development laws, chapter 3, subchapter 1, article 6, the protection of agricultural soils 
+13
+from solar energy development laws, chapter 35, the land use regulation laws in Title 
+14
+12, chapter 206-A and any of the provisions set forth in subsection 7. 
+15
+(1)  The Department of Energy Resources and the Public Utilities Commission 
+16
+shall submit written comments to the department under subsection 7, paragraph D.
+17
+(2)  Each municipality in which the renewable or clean energy project is located 
+18
+shall file comments regarding the environmental and economic impacts of the 
+19
+proposed renewable or clean energy project on that municipality within time limits 
+20
+set by the department so as not to delay the department’s timely issuance of a 
+21
+decision.  Notwithstanding any provision of law to the contrary, a municipality 
+22
+may not enact a moratorium that delays local review of the renewable or clean 
+23
+energy project, enact or enforce a land use ordinance that prohibits siting of the 
+24
+proposed development or enact a land use ordinance or ordinance provision that 
+25
+includes standards or criteria more strict than those of state law or that would 
+26
+frustrate the purpose of any state law. 
+27
+D.  A person intending to file an application for a permit for a renewable or clean 
+28
+energy project to remove an existing dam or decommission a renewable or clean energy 
+29
+project shall attend a preapplication meeting with the department and hold a public 
+30
+informational meeting prior to filing the application. The preapplication meeting and 
+31
+the public informational meeting must be held in accordance with the department's 
+32
+rules on the processing of applications.
+33
+5.  Department decision.  Upon receipt of a properly completed application for a 
+34
+permit for a renewable or clean energy project, the department shall:
+35
+A.  Approve the permit for the proposed renewable or clean energy project in writing 
+36
+upon such terms and conditions as are appropriate and reasonable to protect and 
+37
+preserve the environment and the public's health, safety and general welfare, including 
+38
+the public interest in replacing fossil fuels, particularly oil, with renewable or clean 
+39
+energy and cost-effectively achieving the State's emissions reduction goals under 
+40
+section 576-A through beneficial electrification;
+41
+B.  Disapprove the permit for the proposed renewable or clean energy project in writing 
+42
+setting forth the reasons for the disapproval; or
+43
+C.  Schedule a hearing on the proposed renewable or clean energy project. The hearing 
+44
+must follow the notice requirements and procedures for an adjudicatory hearing under 
+1
+2
+
+Page 4 - 132LR2930(01)
+45
+Title 5, chapter 375, subchapter 4. Within 45 days after the hearing is held, the 
+46
+department shall make findings of facts and issue an order approving or disapproving 
+47
+the permit for the proposed renewable or clean energy project as provided in paragraphs 
+48
+A and B.
+5
+6.  Time limits for processing applications.  Whenever the commissioner receives a 
+6
+properly completed application for a permit for a proposed renewable or clean energy 
+7
+project under subsection 5, the department shall make a decision within 105 working days, 
+8
+except that decisions delegated to the commissioner by the board must be made within 60 
+9
+working days. Following one extension of up to 25 working days, the commissioner may 
+10
+waive the time limit requirements of this subsection only at the request of the applicant. 
+11
+The permit for a proposed renewable or clean energy project is deemed approved if the 
+12
+department does not notify the applicant of a decision within the applicable review period.
+13
+7.  Approval criteria.  The department shall approve a permit for a proposed 
+14
+renewable or clean energy project under subsection 5 when it finds that the applicant has 
+15
+demonstrated that in addition to meeting the criteria in chapter 3, subchapter 1, articles 5-A 
+16
+and 6, the following criteria have been met:
+17
+A.  The renewable or clean energy project will result in significant economic benefits 
+18
+to the public, including, but not limited to, creation of employment opportunities for 
+19
+workers in the State;
+20
+B.  For a renewable or clean energy project within the jurisdiction of the Maine Land 
+21
+Use Planning Commission, the renewable or clean energy project is consistent with 
+22
+zoning adopted by the commission;
+23
+C.  The applicant has made reasonable provisions to realize the environmental benefits 
+24
+of the renewable or clean energy project, if any, and to mitigate its adverse 
+25
+environmental impacts;
+26
+D.  The renewable or clean energy project will result in significant renewable or clean 
+27
+resource energy benefits, including the increase in generating capacity and annual 
+28
+energy output resulting from the renewable or clean energy project or indirectly from 
+29
+the associated transmission of the renewable or clean energy project, the amount of 
+30
+nonrenewable fuels the renewable or clean energy project would wholly or partly 
+31
+replace and the provision of material benefits to ratepayers in the State, whether in 
+32
+lower electricity costs, increases in sustainable employment or enhanced reliability of 
+33
+noncarbon energy generation;
+34
+E.  For a proposed electricity transmission project, the project will enable the increase 
+35
+of significant renewable or clean resource energy benefits under paragraph D while 
+36
+also meeting the other criteria in this subsection; and
+37
+F.  For a proposed new or reconstructed renewable or clean energy project, there is 
+38
+reasonable assurance that the renewable or clean energy project will not violate 
+39
+applicable state water quality standards, including the provisions of section 464, 
+40
+subsection 4, paragraph F as required for water quality certification under the United 
+41
+States Water Pollution Control Act, Section 401. This finding is required for any 
+42
+proposed impoundment and any affected classified water bodies downstream of the 
+43
+proposed impoundment.
+1
+2
+3
+4
+
+Page 5 - 132LR2930(01)
+1
+The department shall make written findings of facts with respect to the nature and 
+2
+magnitude of the impact of the renewable or clean energy project on the criteria under 
+3
+paragraphs D and E and a written explanation of the department's use of these criteria in 
+4
+reaching its decision.
+5
+8.  Rescission of approved permit.  After a permit for a renewable or clean energy 
+6
+project has been approved by the department, absent a court ruling vacating that approval 
+7
+or the department determining that the applicant has violated one or more permit conditions 
+8
+warranting rescission of the permit, the approved permit may not be revoked.
+9
+9.  Appeal of approved project.  A final decision by the commissioner approving a 
+10
+permit for a proposed renewable or clean energy project may be appealed to the board or 
+11
+to the Superior Court only by an abutter or an intervenor in the underlying department 
+12
+proceeding. If the appeal is to the board, the board shall expedite its review of the appeal 
+13
+and render a final decision on the appeal within 60 working days of the filing of the appeal.  
+14
+If the appeal is to the Superior Court, the appeal must be advanced on the docket and receive 
+15
+priority over other cases.
+16
+Sec. 5.  38 MRSA c. 5, sub-c. 1, art. 1, sub-art. 1-B, as amended, is repealed.
+17
+Sec. 6.  Rulemaking to establish permit-by-rule process for renewable or 
+18
+clean energy projects. Within 60 days after the effective date of this Act, the Department 
+19
+of Environmental Protection shall initiate rulemaking to establish, under the site location 
+20
+of development laws, the Maine Revised Statutes, Title 38, chapter 3, subchapter 1, article 
+21
+6, a permit-by-rule process in accordance with Title 38, section 344, subsection 7 for 
+22
+renewable or clean energy projects. Such rulemaking by the department is routine technical 
+23
+rulemaking, as defined in Title 5, chapter 375, subchapter 2-A.
+24
+Sec. 7.  Revisor's review; cross-references.  The Revisor of Statutes shall review 
+25
+the Maine Revised Statutes and include in the inconsistencies, conflicts and errors bill 
+26
+submitted to the First Regular Session of the 133rd Legislature pursuant to Title 1, section 
+27
+94 any sections necessary to correct and update any cross-references in the statutes to 
+28
+provisions of law repealed in this Act.
+29
+Emergency clause.  In view of the emergency cited in the preamble, this legislation 
+30
+takes effect when approved.
+31
+SUMMARY
+32
+This bill repeals the Maine Waterway Development and Conservation Act, which 
+33
+governs permits and certifications for hydropower projects. The bill enacts the Maine 
+34
+Renewable Energy and Associated Transmission Development and Conservation Act, 
+35
+which prohibits the construction, reconstruction or expansion of a renewable or clean 
+36
+energy project without first obtaining a permit from the Department of Environmental 
+37
+Protection. It defines "renewable or clean energy project" as any development that uses a 
+38
+5-megawatt or greater clean resource for the purpose of generating electrical power.  The 
+39
+bill directs the department to, within 60 days after the effective date of this legislation, 
+40
+initiate rulemaking to establish, under the site location of development laws, a permit-by-
+41
+rule process for renewable or clean energy projects.
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+
+Page 6 - 132LR2930(01)
+1
+The bill also specifies that rules adopted by the Department of Environmental 
+2
+Protection to establish permit-by-rule processes under the site location of development laws 
+3
+are routine technical rules.
+4
+Other than the repeal of the Maine Waterway Development and Conservation Act, this 
+5
+bill does not include amendments to or repeal of sections of the Maine Revised Statutes 
+6
+that may be necessary to administer and implement the Maine Renewable Energy and 
+7
+Associated Transmission Development and Conservation Act. It also does not include 
+8
+amendments to or repeal of sections of the Maine Revised Statutes necessary to correct and 
+9
+update any cross-references in the statutes to provisions of law repealed in this bill.

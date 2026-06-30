@@ -1,0 +1,442 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2196
+H.P. 1475
+House of Representatives, February 3, 2026
+An Act to Lower Health Insurance Costs, Reduce Barriers to Health 
+Care and Ensure Fair Prices for Health Care
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative GATTINE of Westbrook.
+Cosponsored by Senator INGWERSEN of York and
+Representatives: Speaker FECTEAU of Biddeford, MEYER of Eliot, MOONEN of Portland, 
+Senators: BAILEY of York, President DAUGHTRY of Cumberland.
+
+Page 1 - 132LR2841(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+PART A
+3
+Sec. A-1.  5 MRSA §3122, sub-§3, ¶F, as enacted by PL 2021, c. 459, §3, is 
+4
+amended to read:
+5
+F.  Develop proposals for consideration by the legislative oversight committee on 
+6
+potential methods to improve consumer experience with the health care system, 
+7
+including the provision of a consumer advocacy function on health care matters not 
+8
+addressed by the Health Insurance Consumer Assistance Program established in Title 
+9
+24‑A, section 4326 or the Department of Professional and Financial Regulation, 
+10
+Bureau of Insurance, Consumer Health Care Division established in Title 24‑A, section 
+11
+4321; and
+12
+Sec. A-2.  5 MRSA §3122, sub-§3, ¶G, as enacted by PL 2021, c. 459, §3, is 
+13
+amended to read:
+14
+G.  Provide staffing assistance to the Maine Prescription Drug Affordability Board 
+15
+established in chapter 167.;
+16
+Sec. A-3.  5 MRSA §3122, sub-§3, ¶H is enacted to read:
+17
+H.  Based on financial data reported by a hospital to the Maine Health Data 
+18
+Organization in accordance with Title 22, section 8709, determine whether a hospital 
+19
+is financially distressed for the purposes of Title 22, section 1730-B, subsection 4, 
+20
+paragraph C; 
+21
+Sec. A-4.  5 MRSA §3122, sub-§3, ¶I is enacted to read:
+22
+I.  Monitor compliance with Title 22, section 1730-B.  In carrying out this duty, the 
+23
+office may request from a hospital or an insurer information necessary to review and 
+24
+audit compliance and, upon request, an insurer or hospital shall provide any requested 
+25
+information. Any proprietary information requested by the office under this paragraph 
+26
+is confidential.  For the purposes of this paragraph, "proprietary information" means 
+27
+information that is a trade secret or production, commercial or financial information 
+28
+the disclosure of which would impair the competitive position of the hospital or insurer 
+29
+submitting the information and would make available information not otherwise 
+30
+publicly available; and
+31
+Sec. A-5.  5 MRSA §3122, sub-§3, ¶J is enacted to read:
+32
+J.  Monitor the impact of the implementation of Title 22, section 1730-B on the quality 
+33
+and accessibility of hospital care in this State and on the costs of nonhospital services.  
+34
+The office may adopt rules pursuant to subsection 10 as necessary to address its duties 
+35
+under this paragraph.
+36
+Sec. A-6.  22 MRSA §1730-B is enacted to read:
+37
+§1730-B.  Hospital facility price growth ceiling; maximum and minimum pricing 
+38
+requirements for services
+39
+1.  Definitions.  For the purposes of this section, unless the context otherwise indicates, 
+40
+the following terms have the following meanings. 
+41
+A.  "General hospital" has the same meaning as in section 7932, subsection 2-A. 
+
+Page 2 - 132LR2841(01)
+1
+B.  "Hospital facility price" means the total amount a hospital expects to receive for 
+2
+health care services, including both the amount paid to a hospital by any insurer or plan 
+3
+sponsor and any payment received directly from an insured or uninsured individual for 
+4
+institutional services. 
+5
+C.  "Insurer" has the same meaning as in Title 24-A, section 3952, subsection 6. 
+6
+D.  "Plan sponsor" means any person, other than an insurer, that establishes or 
+7
+maintains a health plan covering residents of this State, including, but not limited to, 
+8
+plans established or maintained by 2 or more employers or jointly by one or more 
+9
+employers and one or more employee organizations, associations, committees, joint 
+10
+boards of trustees or other similar groups of representatives of the parties that establish 
+11
+or maintain the plan.  "Plan sponsor" does not include the MaineCare program; the 
+12
+federal Medicare program; the Civilian Health and Medical Program for the Uniformed 
+13
+Services, known as TRICARE; the Federal Employees Health Benefits Program; the 
+14
+United States Department of Health and Human Services, Indian Health Service; or 
+15
+any program providing health benefits administered by the United States Department 
+16
+of Veterans Affairs. 
+17
+2.  Hospital facility price growth ceiling.  Beginning January 1, 2028 and annually 
+18
+thereafter, the annual growth of hospital facility prices in this State is limited to a 
+19
+percentage equal to the inpatient prospective payment system hospital market basket 
+20
+established by the federal Medicare program.  Beginning January 1, 2028, a general 
+21
+hospital may not: 
+22
+A.  Enter into a contract with any insurer or plan sponsor in which the growth of the 
+23
+allowed amount for any inpatient or outpatient facility service exceeds the hospital 
+24
+facility price growth ceiling for that plan year; or 
+25
+B.  Charge or collect payment for any inpatient or outpatient facility service in an 
+26
+amount that exceeds the prior year's price for that same service by more than the 
+27
+hospital facility price growth ceiling for that plan year, including any amount charged 
+28
+to or collected from an insurer, plan sponsor or individual or any other source with 
+29
+respect to the service. 
+30
+3.  Maximum price for inpatient and outpatient services.  Except as otherwise 
+31
+provided in subsection 4, beginning January 1, 2028, a general hospital may not: 
+32
+A.  Charge or collect payment from any insurer, plan sponsor or patient for any 
+33
+inpatient or outpatient facility service in an amount that exceeds 200% of the Medicare 
+34
+rate for the same service in the same geographic area.  If a general hospital has an 
+35
+aggregate average commercial price that exceeds 225% of the Medicare rate on January 
+36
+1, 2028, the hospital may comply with this paragraph by reducing the aggregate 
+37
+average commercial price relative to the rate paid by Medicare by 25 percentage points 
+38
+annually until the hospital's charge for any inpatient or outpatient service does not 
+39
+exceed 200% of the Medicare rate; 
+40
+B.  Enter into a contract with any insurer or plan sponsor in which the allowed amount 
+41
+paid for any inpatient or outpatient facility service exceeds 200% of the Medicare rate 
+42
+for the same service in the same geographic area; or 
+43
+C.  Charge or collect payment for any amount exceeding the allowed amount for a 
+44
+covered health care service pursuant to this subsection, except for any applicable 
+
+Page 3 - 132LR2841(01)
+45
+in-network coinsurance, deductible or copayment amount, including any amount 
+46
+charged to or collected from an insurer, plan sponsor or individual or any other source 
+47
+with respect to the service. 
+4
+4.  Exceptions.  The maximum prices required by subsection 3 do not apply to: 
+5
+A.  Charges for services to a critical access hospital; 
+6
+B.  Charges for services made under a contract with an insurer or plan sponsor unless 
+7
+the insurer or plan sponsor complies with the requirements for utilization review and 
+8
+prior authorization in Title 24-A, sections 4304, 4304-A and 4304-B and for the 
+9
+minimum allowed amount for primary care and behavioral health care services in Title 
+10
+24-A, section 4320-A, subsection 3-C; or 
+11
+C.  Charges for services made to a general hospital determined to be financially 
+12
+distressed by the Office of Affordable Health Care.  A determination of financial 
+13
+distress is valid for a period of no less than one year. 
+14
+5.  Enforcement.  A hospital that fails to comply with the requirements of subsection 
+15
+2 or 3 commits a civil violation for which a fine equal to at least 110%, and no more than 
+16
+200%, of any charge exceeding the caps set forth in subsection 2 or 3 may be adjudged.
+17
+6.  Self-insured health benefit plans.  This section may not be construed to apply to 
+18
+an entity providing or administering a self-insured health benefit plan that is subject to the 
+19
+federal Employee Retirement Income Security Act of 1974, 29 United States Code, 
+20
+Sections 1001 to 1461 (1988), except as provided in subsection 4, paragraph B for such an 
+21
+entity that elects to be subject to the provisions of this section.  An entity providing or 
+22
+administering a self-insured health benefit plan that elects to be subject to the requirements 
+23
+for utilization review and prior authorization in Title 24-A, sections 4304, 4304-A and 
+24
+4304-B and for the minimum negotiated charge for in-network primary care service and 
+25
+behavioral health care evaluation and management service as provided in Title 24-A, 
+26
+section 4320-A, subsection 3-C shall provide notice, on an annual basis, to the Office of 
+27
+Affordable Health Care, on a form and in a manner prescribed by the office, attesting to 
+28
+the entity's election to be subject to those provisions.  The entity shall amend the entity's 
+29
+health benefit plan, coverage policy, contract and any other plan documents to reflect that 
+30
+the provisions of this section apply to the health benefit plan's members.
+31
+PART B
+32
+Sec. B-1.  24-A MRSA §4304-B is enacted to read:
+33
+§4304-B.  Prior authorization for treatment of chronic conditions
+34
+1.  Chronic condition defined.  For the purposes of this section, "chronic condition" 
+35
+means a medical condition diagnosed by a health care provider that is expected to last 6 
+36
+months or more and that: 
+37
+A. Requires ongoing medical attention by a health care provider to effectively manage 
+38
+the condition or to prevent an adverse health event; or 
+39
+B. Limits one or more activities of daily living, as defined in Title 22, section 1717, 
+40
+subsection 1, paragraph A.
+41
+2.  Length of prior authorization for treatment of chronic conditions.  If a carrier 
+42
+requires a prior authorization for health care services for the treatment of a chronic 
+1
+2
+3
+
+Page 4 - 132LR2841(01)
+43
+condition, an approved prior authorization remains valid for one year.  If health care 
+44
+services for the treatment of a chronic condition are necessary for more than one year, a 
+45
+carrier may not require the renewal of the prior authorization more frequently than once 
+46
+every 2 years, except when a new treatment protocol is introduced for the chronic condition.  
+47
+The prior authorization approval is valid from the date the enrollee receives the notice of 
+48
+the approval. 
+7
+3.  Length of prior authorization for diagnostic procedures or tests related to 
+8
+treatment of chronic conditions.  A prior authorization for a diagnostic procedure or test 
+9
+related to the treatment of a chronic condition remains valid for subsequent, necessary 
+10
+recurring orders of the diagnostic procedure or test for one year.  A carrier may not require 
+11
+the renewal of a prior authorization more frequently than once every 2 years for a diagnostic 
+12
+procedure or test that continues for more than one year, and the prior authorization approval 
+13
+remains valid from the date the enrollee receives notice of the approval. 
+14
+4.  Coverage restriction prohibition; notice.  A carrier may not restrict coverage for 
+15
+a health care service, diagnostic procedure or test used in the treatment of a chronic 
+16
+condition under this section, including coverage for a prescription, that received prior 
+17
+authorization approval under a previous carrier within 90 days of enrollment in the carrier's 
+18
+health plan by an enrollee if that enrollee's health care provider determines that the enrollee 
+19
+should continue receiving that health care service, diagnostic procedure, test or prescribed 
+20
+drug as determined by a health care provider and, with respect to a prescribed drug, if the 
+21
+prescribed drug is included on the health plan's formulary at the time of that enrollee's 
+22
+enrollment.  The carrier shall provide the enrollee with at least 90 days' notice prior to 
+23
+restricting coverage pursuant to this subsection.
+24
+PART C
+25
+Sec. C-1.  24-A MRSA §2736-C, sub-§2, ¶K is enacted to read:
+26
+K.  For each rate filing submitted for the 2028 plan year and each plan year thereafter, 
+27
+a carrier shall provide in a format determined by the superintendent detailed 
+28
+information on the experience period and projected trend in both utilization and per-
+29
+unit payment by benefit category and by hospital.
+30
+Sec. C-2.  24-A MRSA §2808-B, sub-§2-A, ¶D is enacted to read:
+31
+D.  For each rate filing submitted for the 2028 plan year and each plan year thereafter, 
+32
+a carrier shall provide in a format determined by the superintendent detailed 
+33
+information on the experience period and projected trend in both utilization and per-
+34
+unit payment by benefit category and by hospital.
+35
+Sec. C-3.  24-A MRSA §4320-A, sub-§3-C is enacted to read:
+36
+3-C.  Minimum negotiated charge for in-network primary care service or 
+37
+behavioral health care evaluation and management service.  The minimum negotiated 
+38
+charge of a carrier for any in-network primary care service or behavioral health care 
+39
+evaluation and management service may not be less than 110% of the Medicare rate for the 
+40
+same service in the same geographic area.
+1
+2
+3
+4
+5
+6
+
+Page 5 - 132LR2841(01)
+1
+SUMMARY
+2
+Part A of this bill limits, beginning January 1, 2028 and annually thereafter, the annual 
+3
+aggregate growth in hospital prices to a percentage equal to the inpatient prospective 
+4
+payment system hospital market basket established by the federal Medicare program.  Part 
+5
+A also limits the maximum amount that a hospital may charge or collect for any inpatient 
+6
+or outpatient facility service to no more than 200% of the Medicare rate for the same service 
+7
+in the same geographic area beginning January 1, 2028 subject to certain exceptions.  An 
+8
+insurer or health plan sponsor must comply with statutory requirements related to 
+9
+utilization review and prior authorization in order to access the caps on maximum prices 
+10
+charged by hospitals.  Part A authorizes the Office of Affordable Health Care to fine 
+11
+hospitals if they do not comply with these requirements. 
+12
+Part B of the bill requires that a prior authorization for health care services for the 
+13
+treatment of a chronic condition and for diagnostic procedures or tests related to the 
+14
+treatment of a chronic condition remains valid for one year.  It prohibits a health insurance 
+15
+carrier from requiring the renewal of a prior authorization more frequently than once every 
+16
+2 years for treatment of a chronic condition that is necessary for more than one year.  It 
+17
+also prohibits a health plan from restricting coverage for a health care service or a 
+18
+prescription that was approved under a previous health plan within 90 days of an enrollee's 
+19
+enrollment in the new health plan if the prescribed drug is included on the health plan's 
+20
+formulary at the time of that enrollee's enrollment and requires a health plan to provide at 
+21
+least 90 days' notice to an enrollee prior to restricting coverage of a previously approved 
+22
+health care service or prescription.
+23
+Part C of the bill requires each rate filing submitted by a carrier for the 2028 plan year 
+24
+and for each plan year thereafter to provide detailed information to the Superintendent of 
+25
+Insurance within the Department of Professional and Financial Regulation related to the 
+26
+experience period and projected trends in utilization and per-unit payment by benefit 
+27
+category and by hospital.  Part C also requires that the minimum negotiated charge of a 
+28
+health insurance carrier for in-network primary care or behavioral health care services may 
+29
+not be less than 110% of the Medicare rate for the same service in the same geographic 
+30
+area.
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11

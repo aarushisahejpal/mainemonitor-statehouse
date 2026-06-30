@@ -1,0 +1,977 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1810
+H.P. 1211
+House of Representatives, April 29, 2025
+An Act to Formalize a Process for Reviewing the Conduct of Judges 
+and Justices
+Received by the Clerk of the House on April 25, 2025.  Referred to the Committee on 
+Judiciary pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative LEE of Auburn.
+Cosponsored by Senator BAILEY of York and
+Representatives: ARATA of New Gloucester, BOYER of Poland, CARUSO of Caratunk, 
+FAULKINGHAM of Winter Harbor, HASENFUS of Readfield, SATO of Gorham, 
+SINCLAIR of Bath, Senator: BENNETT of Oxford.
+
+Page 1 - 132LR0937(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  4 MRSA §9-B, as amended by PL 1999, c. 547, Pt. B, §3 and affected by 
+3
+§80, is repealed.
+4
+Sec. 2.  4 MRSA c. 1, sub-c. 3 is enacted to read:
+5
+SUBCHAPTER 3
+6
+COMMISSION ON JUDICIAL CONDUCT
+7
+§71. Definitions
+8
+As used in this subchapter, unless the context otherwise indicates, the following terms 
+9
+have the following meanings.
+10
+1.  Commission.  "Commission" means the Commission on Judicial Conduct 
+11
+established by Title 5, section 12004-G, subsection 23-B and described in section 72.
+12
+2.  Grounds for discipline.  "Grounds for discipline" has the same meaning as 
+13
+described in section 73, subsection 5.
+14
+3.  Independent source.  "Independent source" means a person other than a member 
+15
+of the commission, commission staff or the judge.
+16
+4.  Judge.  "Judge" or "the judge" means the active or active retired Probate Court 
+17
+Judge, District Court Judge, Superior Court Justice or Justice of the Supreme Judicial Court 
+18
+who is the subject of allegations in a proceeding initiated under section 75, subsection 1 or 
+19
+section 77, subsection 1.
+20
+§72. Commission on Judicial Conduct
+21
+1.  Membership.  The Commission on Judicial Conduct, established by Title 5, section 
+22
+12004-G, subsection 23-B, consists of 9 members appointed as follows:
+23
+A.  An active Superior Court Justice, appointed by the Chief Justice of the Supreme 
+24
+Judicial Court;
+25
+B.  An active District Court Judge, appointed by the Chief Justice of the Supreme 
+26
+Judicial Court;
+27
+C.  An active Probate Court Judge, appointed by the Chief Justice of the Supreme 
+28
+Judicial Court;
+29
+D.  Three members who are attorneys licensed to practice law in this State and members 
+30
+in good standing of the bar of this State, appointed by the Chief Justice of the Supreme 
+31
+Judicial Court; and
+32
+E.  Three members of the public, who may not be members of the bar of this State, 
+33
+appointed by the Governor.
+34
+2.  Alternate members.  The appointing authority under subsection 1, paragraphs A 
+35
+to E shall appoint one alternative member in that membership category, who serves on the 
+36
+commission in the event that a commission member from the same membership category 
+
+Page 2 - 132LR0937(01)
+37
+is, pursuant to the rules adopted by the commission, disqualified from participating in a 
+38
+particular proceeding before the commission.
+3
+3.  Terms.  Members are appointed for 6-year terms.  A member may not serve more 
+4
+than one term in office consecutively, except that a member appointed to fill a vacancy 
+5
+under subsection 4 may thereafter be reappointed to serve a single term after the expiration 
+6
+of the term for which the member filled the vacancy.
+7
+4.  Vacancies.  In the event of a vacancy during an unexpired term of a member, the 
+8
+appointing authority may fill the vacancy for the remainder of the term.
+9
+5.  Chair.  Every 3 years, or sooner if there is a vacancy in the office of chair, the 
+10
+commission members shall elect one member to serve as chair for at least one 3-year term.
+11
+§73. Scope of authority
+12
+1.  Scope of authority.  The commission's authority over judicial conduct is governed 
+13
+by this subsection.
+14
+A.  The commission may receive information, investigate, conduct hearings and make 
+15
+recommendations to the Supreme Judicial Court concerning allegations that a judge 
+16
+has engaged in actions or omissions that constitute grounds for discipline and 
+17
+allegations of mental or physical disability affecting the judicial performance of all 
+18
+Justices of the Supreme Judicial Court, Justices of the Superior Court, Judges of the 
+19
+District Court and Judges of the Probate Court, including any active retired justice or 
+20
+judge.
+21
+B.  The commission's authority in paragraph A applies to the conduct of a Justice of 
+22
+the Supreme Judicial Court, Justice of the Superior Court, Judge of the District Court 
+23
+or Judge of the Probate Court during the judge's term of office and to the judge's 
+24
+conduct as an attorney at law before or during the judge's term of office.
+25
+2.  Other authority unaffected.  This subchapter may not be construed to limit or 
+26
+abrogate the inherent authority of the Supreme Judicial Court to supervise and discipline 
+27
+judges; the authority of the Legislature to remove a judge by impeachment; the authority 
+28
+of the Governor to remove a judge upon the address of both branches of the Legislature; or 
+29
+any supervisory authority provided by law or court rule of the Chief Justice of the Superior 
+30
+Court or the Chief Judge of the District Court.
+31
+3.  Precedent.  In exercising its authority under this subchapter, the commission shall 
+32
+give substantial weight to any relevant decisions of the Supreme Judicial Court or a 
+33
+grievance panel of the Board of Overseers of the Bar.
+34
+4.  Limitations period.  The commission may not consider complaints arising out of 
+35
+acts or omissions occurring more than one year prior to the date commission proceedings 
+36
+are initiated under section 75, subsection 1 or section 77, subsection 1 unless:
+37
+A.  The complaint alleges a pattern of recurring conduct, the most recent occurrence of 
+38
+which occurred within the one-year period described in this subsection; or
+39
+B.  The commission determines that good cause supports consideration of additional 
+40
+conduct predating the one-year period described in this subsection.
+41
+5.  Grounds for discipline.  In the absence of fraud, corrupt motive, bad faith or a clear 
+42
+indication that a judge's conduct violates the Maine Code of Judicial Conduct, the 
+1
+2
+
+Page 3 - 132LR0937(01)
+43
+commission may not take action against a judge based on the judge's findings of fact, 
+44
+conclusions of law or application of the law as understood by the judge.  The commission 
+45
+may take action against a judge based on the judge's:
+4
+A.  Conviction of murder or a Class A, Class B or Class C crime;
+5
+B.  Willful misconduct in office;
+6
+C.  Willful misconduct that, although not related to judicial duties, brings the judicial 
+7
+office into disrepute;
+8
+D.  Conduct prejudicial to the administration of justice or conduct unbecoming a 
+9
+judicial officer, whether conduct in office or conduct outside of judicial duties that 
+10
+brings the judicial office into disrepute; or
+11
+E.  Conduct that constitutes a violation of the Maine Code of Judicial Conduct or the 
+12
+Maine Rules of Professional Conduct.
+13
+§74. Commission responsibilities; executive director; immunity
+14
+1.  Commission; powers and duties.  In addition to any other powers or duties 
+15
+specified in this subchapter, the commission has the following powers and duties.
+16
+A.  The commission shall receive complaints and may conduct investigations and 
+17
+hearings and make recommendations concerning allegations that a judge has engaged 
+18
+in actions or omissions that constitute grounds for discipline and allegations of mental 
+19
+or physical disability affecting a judge's judicial performance.
+20
+B.  The commission shall hire an executive director who serves at the pleasure of the 
+21
+commission.  The executive director must be an attorney licensed to practice law in 
+22
+this State and a member in good standing of the bar of this State but may not be engaged 
+23
+in the active practice of law while employed as the executive director. 
+24
+C.  The commission shall adopt rules to carry out the purposes of this subchapter, 
+25
+including rules establishing reasonable time limits for all stages of commission 
+26
+proceedings and standards for extending those time limits.  Rules adopted pursuant to 
+27
+this paragraph are exempt from the requirements of Title 5, chapter 375, subchapter 2-
+28
+A but must be approved by the Supreme Judicial Court.
+29
+2.  Executive director; powers and duties.  In addition to any powers and duties 
+30
+prescribed by the commission, the executive director of the commission hired pursuant to 
+31
+subsection 1, paragraph B has the following powers and duties.
+32
+A.  The executive director may receive information, allegations and complaints on 
+33
+behalf of the commission; make preliminary evaluations of and screen complaints; 
+34
+conduct investigations; and recommend dispositions to the commission.
+35
+B.  The executive director may, with the approval of the commission, employ special 
+36
+counsel, private investigators or other experts and clerical staff as necessary to 
+37
+investigate and process matters before the commission and before the Supreme Judicial 
+38
+Court.  The executive director may not employ persons employed by the Attorney 
+39
+General or any law enforcement officers for these purposes.
+40
+C.  The executive director shall maintain the commission's records; maintain statistics 
+41
+concerning the operation of the commission; prepare the commission's budget for 
+1
+2
+3
+
+Page 4 - 132LR0937(01)
+42
+approval by the commission and administer its funds; and prepare the annual report of 
+43
+the commission's activities required by subsection 4 for the commission's approval.
+3
+3.  Absolute immunity.  Commission members, the executive director, other 
+4
+commission staff and hearing officers appointed by the Supreme Judicial Court are immune 
+5
+from suit for all conduct in the course of their official duties under this subchapter.  
+6
+4.  Annual report.  By January 15th of each year, the commission shall submit to the 
+7
+Chief Justice of the Supreme Judicial Court and the joint standing committee of the 
+8
+Legislature having jurisdiction over judiciary matters an annual report of the commission's 
+9
+activities together with any recommendations for improving judicial oversight in the State, 
+10
+including recommendations for amending court rules and procedures and state laws 
+11
+governing judicial oversight.  The joint standing committee of the Legislature having 
+12
+jurisdiction over judiciary matters may report out legislation on matters related to the report 
+13
+to any regular or special session of the Legislature.
+14
+§75.  Prehearing procedures
+15
+1.  Initiation of proceedings.  Commission proceedings may be initiated by oral or 
+16
+written complaint alleging facts that, if true, would be grounds for discipline.  Commission 
+17
+proceedings may also be initiated by the commission's own motion when the commission 
+18
+receives reasonable information, including reports in the news media, regarding conduct 
+19
+that would be grounds for discipline.  Upon receipt of such a complaint or approval of the 
+20
+commission's own motion, the commission shall conduct a prompt inquiry, investigation 
+21
+and evaluation.
+22
+2.  Notice.  The commission shall promptly notify the judge of the proceedings and the 
+23
+subject matter of any complaint received or motion approved under subsection 1 regarding 
+24
+the judge unless one of the following is true:
+25
+A.  The commission determines that, due to the nature of the allegations supporting the 
+26
+complaint or motion,  delay is necessary to preserve evidence.  Notice may be delayed 
+27
+by the commission under this paragraph until the evidence to be preserved is obtained, 
+28
+the proceedings are dismissed or a sworn complaint or statement of allegations is 
+29
+served on the judge pursuant to subsection 7; or
+30
+B.  The commission determines that the identity of the complainant can be readily 
+31
+determined by the judge and there is a danger of reprisal against the complainant.  
+32
+Notice may be delayed by the commission under this paragraph until the danger of 
+33
+reprisal ends, the proceedings are dismissed or a sworn complaint or statement of 
+34
+allegations is served on the judge pursuant to subsection 7.  If the commission 
+35
+determines that there is an ongoing danger of reprisal, the notice provided under this 
+36
+subsection and the sworn complaint or statement of allegations served under subsection 
+37
+7 may be drafted in a manner that conceals the identity of the complainant.
+38
+3.  Screening.  The commission shall discourage and promptly dismiss complaints that 
+39
+the commission determines are frivolous, unfounded or not within the commission's 
+40
+jurisdiction.  The commission shall notify the judge and the complainant, if any, of the 
+41
+dismissal and of the reason for the dismissal.
+42
+4.  Subpoena power; oaths.  At any stage of the proceeding, the commission may, 
+43
+within the time limits established by the commission by rule, compel by subpoena the 
+44
+attendance and testimony of witnesses, including the judge who is the subject of the 
+1
+2
+
+Page 5 - 132LR0937(01)
+45
+proceeding, and the inspection or production of documents, books, accounts, written or 
+46
+electronically recorded statements and other records; administer oaths; and examine any 
+47
+person under oath.
+4
+5.  Evaluation; decision to proceed.  After conducting a thorough inquiry, 
+5
+investigation and evaluation, the executive director shall recommend to the commission 
+6
+and the commission shall decide by majority vote whether there is adequate reason to 
+7
+proceed to the preparation of a detailed complaint or statement of allegations.  
+8
+6.  Detailed complaint or statement of allegations.  If a majority of the commission 
+9
+votes in favor of proceeding to the preparation of a detailed complaint or statement of 
+10
+allegations, the commission shall request that the complainant file with the commission a 
+11
+detailed, sworn complaint against the judge.  If a sworn complaint cannot be obtained, the 
+12
+executive director shall prepare a detailed statement of the allegations against the judge.  
+13
+The detailed complaint or statement of allegations must clearly set forth each alleged action 
+14
+or omission that constitutes grounds for discipline, the facts alleged in support of the 
+15
+allegation and each provision of law, the Maine Code of Judicial Conduct or the Maine 
+16
+Rules of Professional Conduct allegedly violated.  
+17
+7.  Service; answer; personal appearance.  The judge must be promptly served with 
+18
+a copy of the detailed complaint or statement of allegations.  Within 21 days after receiving 
+19
+the detailed complaint or statement of allegations, the judge shall file a written answer and 
+20
+any request for personal appearance with the commission.
+21
+8.  Process prior to formal charges.  The judge may be represented by counsel and, 
+22
+within the time limits established by the commission by rule before the issuance of formal 
+23
+charges under subsection 11, may compel by subpoena the attendance and testimony of 
+24
+witnesses through depositions and the inspection or production of documents, books, 
+25
+accounts, written or electronically recorded statements and other records.  The judge may 
+26
+file written materials for commission consideration before the issuance of formal charges 
+27
+under subsection 11.  If the judge requests a personal appearance before the commission 
+28
+before the issuance of formal charges under subsection 11, the judge's statement and any 
+29
+statement of the judge's counsel must be recorded.  
+30
+9.  Insufficient cause to proceed.  If, at any time prior to the issuance of formal charges 
+31
+under subsection 11, the commission determines that it lacks sufficient cause to proceed, 
+32
+the commission must close the investigation, dismiss the complaint or statement of 
+33
+allegations and notify the judge and any complainant in writing that the commission has 
+34
+found insufficient cause to proceed.  Information obtained by the commission in the course 
+35
+of an investigation closed prior to the issuance of formal charges under subsection 11 may 
+36
+not be used in a subsequent commission proceeding unless:
+37
+A.  The subsequent proceeding involves similar allegations against the judge that 
+38
+suggest a pattern of recurring conduct constituting grounds for discipline;
+39
+B.  The subsequent proceeding involves an allegation that the judge violated the 
+40
+conditions of an informal adjustment pursuant to section 79 arising out of the closed 
+41
+investigation; or
+42
+C.  Information about the closed investigation is used solely for purposes of 
+43
+determining the appropriate sanction to be imposed in the subsequent proceeding.
+1
+2
+3
+
+Page 6 - 132LR0937(01)
+1
+10.  Amendment of complaint or statement of allegations; response.  Upon notice 
+2
+to the judge, the commission may amend the complaint or statement of allegations prior to 
+3
+the issuance of formal charges  under subsection 11.  If the complaint or statement of 
+4
+allegations is amended, the judge may, within 21 days after receiving the amended 
+5
+complaint or statement of allegations, amend the judge's written response and, within the 
+6
+time established by the commission by rule, submit additional written material for the 
+7
+commission's consideration pursuant to the procedures set forth in subsection 8. 
+8
+11.  Issuance of formal charges.  After the expiration of the time established by the 
+9
+commission by rule for the judge to submit written materials and personally appear before 
+10
+the commission under subsection 8 in response to a complaint or statement of allegations 
+11
+or an amended complaint or statement of allegations, the commission shall decide whether 
+12
+a preponderance of the credible evidence supports a finding that the judge's conduct 
+13
+constitutes grounds for discipline. If a majority of all commission members votes in favor 
+14
+of a finding of sufficient cause, the commission shall issue formal charges stating the 
+15
+allegations for which sufficient cause is found.  A copy of the formal charges must be 
+16
+served promptly on the judge who may, within 10 days after receiving service, file a written 
+17
+response with the commission. 
+18
+12.  Appointment of hearing officer.  Immediately after expiration of the 10-day 
+19
+response period described in subsection 11, the commission shall file a copy of the formal 
+20
+charges and of any written response by the judge with the Supreme Judicial Court, which 
+21
+shall promptly appoint a hearing officer.
+22
+§76. Hearing; recommendations; attorney's fees
+23
+1.  Notice of hearing.  After appointment of a hearing officer under section 75, 
+24
+subsection 12, the commission shall schedule the hearing and provide notice of the date 
+25
+and time of the hearing to the judge and all counsel who have entered an appearance in the 
+26
+proceeding.  The hearing must be scheduled without undue delay and in a manner that 
+27
+affords the judge ample opportunity to prepare for the hearing.
+28
+2.  Amendment of formal charges or response.  The hearing officer shall permit the 
+29
+judge to amend the judge's written response to the formal charges within the time limit 
+30
+provided by the commission by rule.  After commencement of the hearing, the formal 
+31
+charges may be amended by leave of the hearing officer or with the consent of the judge 
+32
+only if the amendment is technical in nature and the judge is afforded adequate time to 
+33
+prepare a response or provide evidence in response to the amendment.
+34
+3.  Discovery; process.  Within the time limits provided by the commission by rule, 
+35
+the judge and the commission may conduct the same types of discovery available in civil 
+36
+proceedings in this State.  The judge and the commission may, within the time limits 
+37
+established by the commission by rule, compel by subpoena the attendance and testimony 
+38
+of witnesses and the inspection or production of documents, books, accounts, written or 
+39
+electronically recorded statements and other records.
+40
+4.  Enforcement of process.  The Supreme Judicial Court may enforce subpoenas and 
+41
+other legal process in commission proceedings under this section and section 75 or may 
+42
+delegate the power to enforce legal process to another appropriate court. 
+43
+5.  Procedure and evidence.  The hearing officer appointed by the Supreme Judicial 
+44
+Court under section 75, subsection 12 shall preside at the hearing, which must be open to 
+
+Page 7 - 132LR0937(01)
+45
+the public, recorded and transcribed and conducted so as to provide due process to the 
+46
+judge.  All testimony received at the hearing must be under oath. The Maine Rules of 
+47
+Evidence, including all rules governing privilege that are applicable in civil proceedings 
+48
+apply, except that, if the judge raises the judge's own physical or mental condition as a 
+49
+defense to the formal charges, the judge is deemed to have waived any applicable privilege 
+50
+between the judge as a patient and a health care professional or mental health care 
+51
+professional.
+8
+6.  Burden of proof.  The formal charges must be prosecuted by a member of 
+9
+commission staff, who must be an attorney, or by special counsel retained by the 
+10
+commission for this purpose.  The commission bears the burden of demonstrating the 
+11
+grounds for discipline by clear and convincing evidence.
+12
+7.  Proposed findings and recommendations; objections.  At the conclusion of the 
+13
+hearing, the hearing officer shall submit to the commission and the judge a written 
+14
+statement of proposed findings and recommendations along with a transcript of the 
+15
+testimony and all exhibits presented at the hearing.  The judge and counsel for the 
+16
+commission may submit written objections to the hearing officer's findings and 
+17
+recommendations within 20 days after receiving a copy of those findings and 
+18
+recommendations.   Any objections by the judge or counsel for the commission must be 
+19
+included in the record submitted to the commission.
+20
+8.  Commission hearing and decision.  After receipt of the hearing officer's proposed 
+21
+findings and recommendations, the record and any objections, the commission shall 
+22
+conduct a public hearing at which the judge and the complainant, if any, are afforded an 
+23
+opportunity to be heard.  Notwithstanding any provision of law to the contrary, the 
+24
+commission shall conduct its deliberations in executive session.  If a majority of the 
+25
+commission votes in favor of finding that the grounds for discipline have been 
+26
+demonstrated by clear and convincing evidence and in favor of recommending that a 
+27
+sanction be imposed, the commission shall issue a written decision containing sufficient 
+28
+findings and recommendations to inform the judge and the Supreme Judicial Court of the 
+29
+reasons for reaching its findings and recommendations.
+30
+9.  Referral to Supreme Judicial Court.  Within 90 days of the date of the 
+31
+commission hearing, the commission's written decision under subsection 8 must be 
+32
+transmitted to the Supreme Judicial Court along with the record of the proceedings, which 
+33
+must include the transcript of and evidence presented at the hearing before the hearing 
+34
+officer; the hearing officer's findings and proposed recommendations; any objections by 
+35
+the judge or counsel for the commission to the hearing officer's findings and proposed 
+36
+recommendations; the transcript of the hearing before the commission; and the findings 
+37
+and recommendations of any dissenting members of the commission.   The commission 
+38
+may extend the 90-day period for good cause.
+39
+10.  Dismissal.  If a majority of the members of the commission vote in favor of finding 
+40
+that the grounds for discipline have not been demonstrated by clear and convincing 
+41
+evidence or vote in favor of not recommending the imposition of a sanction, the formal 
+42
+charges must be dismissed and the judge and the complainant, if any, must be notified of 
+43
+the dismissal by the commission.
+44
+11.  Informal adjustment.  This section may not be construed to prohibit the 
+45
+commission from disposing of the matter by informal adjustment pursuant to section 79 at 
+1
+2
+3
+4
+5
+6
+7
+
+Page 8 - 132LR0937(01)
+46
+any time prior to submission of the matter to the Supreme Judicial Court under subsection 
+47
+9.
+3
+12.  Expenses.  The following provisions govern expenses in proceedings under this 
+4
+subchapter.
+5
+A.  Witnesses are entitled to the same remuneration for fees and expenses as witnesses 
+6
+in civil actions in state court.  The party calling the witnesses is responsible for 
+7
+remuneration of the witness unless:
+8
+(1)  The mental or physical ability of the judge is in issue, in which case the 
+9
+commission is responsible for paying all witnesses, including witnesses called by 
+10
+the judge, whose testimony relates to the judge's mental or physical ability; or
+11
+(2)  The Supreme Judicial Court determines that the imposition of expert witness 
+12
+fees would cause a financial hardship or injustice on the judge, in which case the 
+13
+commission is responsible for paying those fees.
+14
+B.  The judge is entitled to receive, without cost, a transcript of all proceedings under 
+15
+this subchapter.
+16
+C.  Except as provided in this paragraph, the judge is responsible for payment of the 
+17
+judge's attorney's fees. With the approval of the Supreme Judicial Court, the judge is 
+18
+entitled to an award of the judge's reasonable attorney's fees by the State if the matter 
+19
+is dismissed by the commission at any stage after the filing of a detailed complaint or 
+20
+statement of allegations; the Supreme Judicial Court disagrees with a recommendation 
+21
+by the commission to impose discipline; or the Supreme Judicial Court determines that 
+22
+justice would be served by reimbursement of the judge's reasonable attorney's fees.
+23
+§77. Physical or mental disability affecting judicial performance
+24
+1.  Initiation of proceedings.  Commission proceedings may be initiated by oral or 
+25
+written complaint containing allegations of mental or physical disability affecting the 
+26
+judge's judicial performance.  Commission proceedings may also be initiated by the 
+27
+commission's own motion when the commission receives reasonable information, 
+28
+including reports in the news media, that may be grounds for concluding that the judge has 
+29
+a mental or physical disability affecting the judge's judicial performance.  Upon receipt of 
+30
+such a complaint or approval of the commission's own motion, the commission shall 
+31
+conduct a prompt inquiry, investigation and evaluation.
+32
+2.  Provisions of subchapter applicable.  The provisions of section 72, subsection 4 
+33
+and sections 75, 76, 79 and 80 apply, as far as possible, to proceedings involving allegations 
+34
+of a mental or physical disability affecting a judge's judicial performance, except as 
+35
+provided in this subsection.
+36
+A.  If the judge denies an allegation of a mental or physical disability affecting the 
+37
+judge's judicial performance:
+38
+(1)  The judge is deemed to have waived any applicable privilege between the judge 
+39
+as a patient and a health care professional or mental health care professional; 
+40
+(2)  The judge is deemed to have consented to a physical or mental examination by 
+41
+a qualified health care professional designated by the commission.  Copies of any 
+42
+report prepared by the designated health care professional must be provided to both 
+43
+the judge and the commission; and
+1
+2
+
+Page 9 - 132LR0937(01)
+1
+(3)  The commission shall require the judge to produce all relevant medical records.
+2
+B.  The commission shall reimburse the judge for the reasonable expenses of any 
+3
+witnesses called by the judge whose testimony relates to the judge's alleged mental or 
+4
+physical disability.
+5
+C.  If the judge is not represented by counsel, the commission shall appoint an attorney 
+6
+to represent the judge at public expense.
+7
+§78. Proceedings involving Supreme Judicial Court Justice
+8
+If a majority of the commission votes in favor of imposing discipline and submits a 
+9
+matter to the Supreme Judicial Court under section 76, subsection 9 and the matter involves 
+10
+the conduct of or the physical or mental disability of an Associate Justice of the Supreme 
+11
+Judicial Court, the Associate Justices of the Supreme Judicial Court may not participate in 
+12
+the resolution of the proceeding.  The Chief Justice of the Supreme Judicial Court shall 
+13
+identify, from among all Justices of the Superior Court and all Judges of the District Court, 
+14
+the 6 judges or justices with the most judicial experience and shall appoint those 6 judges 
+15
+or justices to serve in place of the associate justices.
+16
+§79. Dismissal; informal adjustment; recommended sanction
+17
+1.  Dismissal.  The commission may dismiss a proceeding under section 75, 76 or 77 
+18
+as unjustified or unfounded at any time prior to submission of the matter to the Supreme 
+19
+Judicial Court under section 76, subsection 9.
+20
+2.  Informal adjustment.  At any time prior to submission of the matter to the Supreme 
+21
+Judicial Court under section 76, subsection 9, the commission may, with the agreement of 
+22
+the judge, terminate the matter and either accept the judge's voluntary retirement or impose 
+23
+one or more of the following types of discipline on a judge:
+24
+A.  Issuing a private reprimand;
+25
+B.  Admonishing the judge that the judge's conduct is or may be grounds for discipline; 
+26
+or
+27
+C.  Imposing conditions on the judge's future conduct.
+28
+3.  Recommended sanction.  The hearing officer may propose and a majority of the 
+29
+commission may recommend that the Supreme Judicial Court impose one or more of the 
+30
+following types of discipline on a judge:
+31
+A.  Removal; 
+32
+B.  Retirement;
+33
+C.  Imposition of attorney discipline under the Maine Rules of Professional Conduct;
+34
+D.  Imposition of limitations or conditions on the performance of judicial duties;
+35
+E.  Public or private reprimand or censure;
+36
+F.  Imposition of a fine;
+37
+G.  Assessment of costs and expenses; or
+38
+H.  Imposition of any other sanction that is reasonable and lawful.
+39
+§80. Confidentiality
+
+Page 10 - 132LR0937(01)
+1
+1.  Confidentiality prior to filing formal charges.  Notwithstanding any provision of 
+2
+law to the contrary and except as provided in subsection 2, all commission proceedings are 
+3
+confidential until formal charges have been filed with the Supreme Judicial Court under 
+4
+section 75, subsection 12.  The commission shall establish by rule procedures for ensuring 
+5
+that commission members and staff maintain the confidentiality required by this 
+6
+subsection.
+7
+2.  Exceptions.  Notwithstanding the provisions of subsection 1, commission 
+8
+proceedings are not confidential in the following circumstances.
+9
+A.  Information obtained by the commission in the course of an investigation closed 
+10
+prior to the issuance of formal charges may be used in a subsequent commission 
+11
+proceeding pursuant to section 75, subsection 9.
+12
+B.  If the judge waives the confidentiality of the proceeding or the subject matter 
+13
+becomes public through an independent source, the commission may confirm the 
+14
+pendency of the proceeding, clarify procedural aspects of the proceeding, explain the 
+15
+judge's right to a fair hearing and indicate whether the judge has denied the allegations 
+16
+in the proceeding.
+17
+C.  If the proceeding was initiated as a result either of notoriety or because the conduct 
+18
+at issue is a matter of public record and the proceeding is subsequently terminated 
+19
+before the issuance of formal charges, the commission may release information 
+20
+concerning its decision to terminate the proceeding.
+21
+D.  In accordance with procedures established by the commission by rule, which must 
+22
+require reasonable notice to the judge unless the judge has signed a written waiver of 
+23
+the right to such notice, the commission may disclose information about proceedings:
+24
+(1)  To any federal or state agency or body established for screening candidates for 
+25
+judicial appointment if that agency or body seeks information or written materials 
+26
+from the commission in connection with the selection or appointment of the judge 
+27
+for a judicial position; or
+28
+(2)  To the Chief Justice of the Supreme Judicial Court, the Chief Justice of the 
+29
+Superior Court or the Chief Judge of the District Court if the Chief Justice or Chief 
+30
+Judge seeks information or written materials from the commission in connection 
+31
+with the assignment of the judge for duties as an Active Retired Justice or Active 
+32
+Retired Judge.
+33
+3.  Confidentiality after filing formal charges.  Notwithstanding any provision of 
+34
+law to the contrary, commission proceedings may remain confidential after formal charges 
+35
+have been filed with the Supreme Judicial Court only if the judge, a majority of the 
+36
+commission and the complainant, if any, all agree in writing based on the nature of the 
+37
+formal charges or as necessary to protect public safety.
+38
+§81. Advisory committee
+39
+The Chief Justice of the Supreme Judicial Court may establish an advisory committee 
+40
+with the authority, in response to the request of a judge or on the advisory committee's own 
+41
+motion, to issue advisory opinions interpreting the Maine Code of Judicial Conduct.
+42
+Sec. 3.  5 MRSA §12004-B, sub-§8, as enacted by PL 1993, c. 381, §2, is repealed.
+43
+Sec. 4.  5 MRSA §12004-G, sub-§23-B is enacted to read:
+
+Page 11 - 132LR0937(01)
+1
+23-B.
+Judiciary
+Commission on Judicial Conduct
+Expenses only
+4 MRSA §72 
+2
+Sec. 5.  Staggered terms.  Notwithstanding the Maine Revised Statutes, Title 4, 
+3
+section 72, subsection 3, an appointing authority for the original appointments of members 
+4
+of the Commission on Judicial Conduct shall designate 1/3 of the authority's appointments 
+5
+for 6-year terms, 1/3 of the authority's appointments for 4-year terms and 1/3 of the 
+6
+authority's appointments for 2-year terms. An initial term of 2 or 4 years may not be 
+7
+considered a full term for purposes of limiting the number of terms for which a member 
+8
+may serve.
+10
+SUMMARY
+11
+This bill establishes the Commission on Judicial Conduct, comprised of 3 judicial 
+12
+officers appointed by the Chief Justice of the Supreme Judicial Court, one each from the 
+13
+Superior Court, the District Court and the Probate Court; 3 licensed attorneys appointed by 
+14
+the Chief Justice; and 3 members of the public appointed by the Governor.  The bill charges 
+15
+the commission with receiving and investigating complaints, conducting hearings and 
+16
+making findings and recommendations to the Supreme Judicial Court concerning 
+17
+allegations that an Active or Active Retired Judge or Justice of the Supreme Judicial Court, 
+18
+the Superior Court, the District Court or a county Probate Court has either engaged in 
+19
+actions or omissions that constitute grounds for discipline or has a mental or physical 
+20
+disability affecting the judge's or justice's judicial performance.  
+21
+The bill also directs the commission to hire an executive director to assist the 
+22
+commission in performing its duties, including by screening complaints and recommending 
+23
+dispositions to the commission; employing counsel, private investigators, hearing officers 
+24
+and other staff; administering the commission's budget; and preparing an annual report to 
+25
+the Chief Justice of the Supreme Judicial Court and the joint standing committee of the 
+26
+Legislature with jurisdiction over judiciary matters. 
+27
+Finally, the bill authorizes the Supreme Judicial Court to establish an advisory 
+28
+committee with the authority to issue advisory opinions interpreting the Maine Code of 
+29
+Judicial Conduct.
+2
+3
+4
+5
+6
+7
+8
+9
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20

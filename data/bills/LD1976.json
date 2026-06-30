@@ -1,0 +1,90 @@
+{
+  "ld": 1976,
+  "paper": "HP1320",
+  "paper_display": "HP 1320",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099294",
+  "title": "Resolve, Regarding Legislative Review of Chapter 379: Compensation for Impacts to High-Value Agricultural Land from Solar Energy Development, a Late-filed Major Substantive Rule of the Department of Environmental Protection",
+  "committee": "Environment and Natural Resources",
+  "status_summary": "",
+  "final_disposition": "Emergency Finally Passed, Jun 9, 2025",
+  "governor_action": "Emergency Signed, Jun 9, 2025",
+  "chaptered_law": "RESLV, Chapter 51",
+  "chapter": "51",
+  "became_law": true,
+  "last_house_action": "5/29/2025 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "6/2/2025 - FINALLY PASSED - Emergency - 2/3 Elected Required, in concurrence.",
+  "sponsors": [
+    {
+      "name": "Lori GRAMLICH",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Orchard Beach"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "ENVIRONMENTAL PROTECTION DEPT",
+      "minor": "RULES",
+      "detail": "IMPACTS TO HIGH-VALUE LAND"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "House",
+      "description": "Representative GRAMLICH for the Department of Environmental Protection pursuant to the Maine Revised Statutes, Title 5, section 8072 and approved for introduction by a majority of the Legislative Council, reports that the Resolve be REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES and ordered printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Resolve was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES and ordered printed pursuant to Joint Rule 218. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. On motion by Senator Tepler of Sagadahoc REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES and ordered printed pursuant to Joint Rule 218, in concurrence."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Resolve was PASSED TO BE ENGROSSED. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-28",
+      "date_raw": "5/28/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED, in concurrence. READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED , in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-05-29",
+      "date_raw": "5/29/2025",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. FINALLY PASSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-06-02",
+      "date_raw": "6/2/2025",
+      "chamber": "Senate",
+      "description": "FINALLY PASSED - Emergency - 2/3 Elected Required, in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1320&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1320&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1320",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1320&SessionID=16",
+  "scraped_at": "2026-06-30T20:03:38Z"
+}

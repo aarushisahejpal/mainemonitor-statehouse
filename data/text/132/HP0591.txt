@@ -1,0 +1,171 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 926
+H.P. 591
+House of Representatives, March 11, 2025
+An Act to Promote Research and Development in the State by 
+Amending the Research Expense Tax Credit
+Received by the Clerk of the House on March 5, 2025.  Referred to the Committee on 
+Taxation pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SAYRE of Kennebunk.
+Cosponsored by Senator PIERCE of Cumberland and
+Representatives: CROCKETT of Portland, MALON of Biddeford, RIELLY of Westbrook, 
+ROBERTS of South Berwick, SARGENT of York.
+
+Page 1 - 132LR2165(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  36 MRSA §5219-K, sub-§1, as amended by PL 2007, c. 627, §91, is further 
+3
+amended to read:
+4
+1.  Credit allowed.  A taxpayer is allowed a credit against the tax due under this Part 
+5
+equal to the sum of 5% 10% of the excess, if any, of the qualified research expenses for the 
+6
+taxable year over the base amount and 7.5% 15% of the basic research payments 
+7
+determined under the Code, Section 41(e)(1)(A).  The term "base amount" means 50% of 
+8
+the average amount per year spent on qualified research expenses over the previous 3 
+9
+taxable years by the taxpayer.  As used in this section, unless the context otherwise 
+10
+indicates, the terms "qualified research expenses," "qualified organization base period 
+11
+amount," "basic research" and any other terms affecting the calculation of the credit have 
+12
+the same meanings as under the Code, Section 41, but apply only to expenditures for 
+13
+research conducted in this State.  In determining the amount of the credit allowable under 
+14
+this section, the State Tax Assessor may aggregate the activities of all corporations that are 
+15
+members of a controlled group of corporations, as defined by the Code, Section 41(f)(1)(A) 
+16
+and in addition may aggregate the activities of all entities, whether or not incorporated, that 
+17
+are under common control, as defined by the Code, Section 41(f)(1)(B).
+18
+Sec. 2.  36 MRSA §5219-K, sub-§3, as amended by PL 2023, c. 360, Pt. B, §11, is 
+19
+further amended to read:
+20
+3.  Limitation on credit allowed.  The credit allowed under this section is limited to 
+21
+100% of a corporation's first $25,000 $50,000 of tax due, as determined before the 
+22
+allowance of any credits, plus 75% of the corporation's tax due, as determined in excess of 
+23
+$25,000 $50,000.  The assessor may adopt rules similar to those authorized under the Code, 
+24
+Section 38(c)(6)(B).
+25
+Sec. 3.  36 MRSA §5219-K, sub-§8 is enacted to read:
+26
+8.  Annual report.  On or before December 31st annually, beginning in 2027, the 
+27
+assessor shall report to the Department of Economic and Community Development the 
+28
+following information for expenditures that receive credit pursuant to this section for the 
+29
+taxable year ending during the immediately preceding calendar year:
+30
+A.  The absolute value of research and development expenditures in the State by 
+31
+calendar year and research and development expenditures as a percentage of the State's 
+32
+gross domestic product;
+33
+B.  The dollar value of the credits claimed and the number of individuals and 
+34
+corporations claiming the credits; and
+35
+C.  A list of industry sectors in which credit recipients operate, the absolute value and 
+36
+rate of growth of annual gross domestic product of those industry sectors in the State 
+37
+and the absolute value and rate of growth of annual payroll in those industry sectors in 
+38
+the State.
+39
+On or before March 1st annually, beginning in 2027, the department shall report to the joint 
+40
+standing committees of the Legislature having jurisdiction over taxation matters and 
+41
+economic development matters information on the credit under this section, including any 
+42
+information reported by the assessor under this subsection.
+
+Page 2 - 132LR2165(01)
+1
+Sec. 4.  36 MRSA §5219-K, sub-§9 is enacted to read:
+2
+9.  Evaluation; public policy objective; performance measures.  The credit provided 
+3
+under this section is subject to legislative review in accordance with Title 3, section 999. 
+4
+In developing evaluation parameters to perform the review, the Office of Program 
+5
+Evaluation and Government Accountability, the joint legislative committee established to 
+6
+oversee program evaluation and government accountability matters and the joint standing 
+7
+committee of the Legislature having jurisdiction over taxation matters shall consider:
+8
+A.  The specific public policy objectives of the credit provided under this section to 
+9
+stimulate research and development investment, to create high-quality jobs by 
+10
+encouraging investment in research and development and to encourage the recruitment 
+11
+and training of employees and improve the overall economy of the State by expanding 
+12
+the number of businesses conducting and investing in research and development; and
+13
+B.  Performance measures, including, but not limited to:
+14
+(1)  The amount of the tax expenditure credited;
+15
+(2)  The absolute value of research and development investment in the State and 
+16
+the rate of increase relative to other New England states and the United States;
+17
+(3)  The growth in the number of employees at corporations that receive this tax 
+18
+credit;
+19
+(4)  The growth in the number of employees earning high wages, measured as those 
+20
+employees earning 125% or more of the median annual income of the county in 
+21
+which the recipient operates; and
+22
+(5)  The absolute value of the State's gross domestic product and the rate of increase 
+23
+relative to other New England states and the United States.
+24
+SUMMARY
+25
+This bill increases the research expense tax credit by increasing the amount of 
+26
+expenditures eligible for the credit, doubling the rate by which the credit is calculated, 
+27
+doubling the maximum amount of the credit that may be claimed and halving the base 
+28
+amount used to determine the credit. The bill also establishes an annual reporting 
+29
+requirement and considerations that must be taken into account when developing 
+30
+evaluation parameters to perform a review of the tax credit.
+25
+26
+27
+28
+29
+30

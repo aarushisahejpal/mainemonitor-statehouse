@@ -1,0 +1,365 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2092
+H.P. 1407
+House of Representatives, January 7, 2026
+An Act to Update Certain Terms and References Regarding 
+Information Technology and Cybersecurity
+Submitted by the Department of Administrative and Financial Services pursuant to Joint 
+Rule 203.
+Reference to the Committee on State and Local Government suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative SALISBURY of Westbrook.
+
+Page 1 - 132LR2678(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA §1825-B, sub-§2, ¶F, as amended by PL 2023, c. 516, Pt. A, §1, 
+3
+is further amended to read:
+4
+F.  The procurement of goods or services involves expenditures of $25,000 or less, in 
+5
+which case the Director of the Bureau of General Services may accept informal written 
+6
+quotes or bids; or
+7
+Sec. 2.  5 MRSA §1825-B, sub-§2, ¶G, as amended by PL 1999, c. 105, §3, is 
+8
+further amended to read:
+9
+G.  The procurement of goods or services involves expenditures of $10,000 or less, and 
+10
+procurement from a single source is the most economical, effective and appropriate 
+11
+means of fulfilling a demonstrated need.;
+12
+Sec. 3.  5 MRSA §1825-B, sub-§2, ¶H is enacted to read:
+13
+H.  The Chief Information Officer, after reasonable investigation, has determined that 
+14
+the procurement of information technology products or services through the 
+15
+procurement offerings to state and local governments from the United States General 
+16
+Services Administration is in the best interest of the State; or
+17
+Sec. 4.  5 MRSA §1825-B, sub-§2, ¶I is enacted to read:
+18
+I.  The Chief Information Officer, after reasonable investigation, has determined that 
+19
+the procurement of information security or cybersecurity products or services on a 
+20
+retainer basis is necessary to detect, prevent and respond to cyberattacks.
+21
+Sec. 5.  5 MRSA §1971, sub-§2, as enacted by PL 2005, c. 12, Pt. SS, §9, is 
+22
+amended to read:
+23
+2.  Provide services.  Direct and oversee the provision of information technology and 
+24
+enterprise services in data processing and telecommunications throughout State 
+25
+Government in a manner that prioritizes the confidentiality, integrity and availability of the 
+26
+information transacted, stored or processed by information and communications 
+27
+technology infrastructure, systems or services affecting the enterprise, whether physical or 
+28
+nonphysical.
+29
+Sec. 6.  5 MRSA §1972, sub-§2, as amended by PL 2005, c. 12, Pt. SS, §10, is 
+30
+further amended to read:
+31
+2.  Chief Information Officer.  "Chief Information Officer" means the person who 
+32
+holds the lead information technology position within the executive branch that directs, 
+33
+coordinates and oversees information technology policy making, planning, architecture and 
+34
+standardization.  The Chief Information Officer is also responsible for the provision of 
+35
+information technology and enterprise services in data processing and telecommunications 
+36
+throughout State Government.
+37
+Sec. 7.  5 MRSA §1972, sub-§4-A is enacted to read:
+38
+4-A.  Cyberattack.  "Cyberattack" has the same meaning as in Title 37-B, section 703, 
+39
+subsection 1-A.
+40
+Sec. 8.  5 MRSA §1972, sub-§4-B is enacted to read:
+
+Page 2 - 132LR2678(01)
+1
+4-B.  Cybersecurity.  "Cybersecurity" means the protection of information and 
+2
+communications technology infrastructure, systems and services affecting the enterprise 
+3
+and the State's critical infrastructure, whether physical or nonphysical, by detecting, 
+4
+preventing and responding to cyberattacks.
+5
+Sec. 9.  5 MRSA §1972, sub-§7-A is enacted to read:
+6
+7-A.  Information security.  "Information security" means the ability to protect or 
+7
+defend the information and communications technology infrastructure, systems or services 
+8
+affecting the enterprise or the State's critical infrastructure, whether physical or 
+9
+nonphysical, from unauthorized access, use, disclosure, disruption, modification or 
+10
+destruction to provide confidentiality, integrity and availability.
+11
+Sec. 10.  5 MRSA §1973, sub-§1, ¶A, as enacted by PL 2001, c. 388, §14, is 
+12
+amended to read:
+13
+A.  Provide central leadership and vision in the use of information technology, 
+14
+information security and telecommunications technology on a statewide basis to 
+15
+safeguard the confidentiality, integrity and availability of the information transacted, 
+16
+stored or processed by information and communications technology infrastructure, 
+17
+systems or services affecting the enterprise or the State's critical infrastructure, whether 
+18
+physical or nonphysical;
+19
+Sec. 11.  5 MRSA §1973, sub-§5, ¶B, as enacted by PL 2001, c. 388, §14, is 
+20
+amended to read:
+21
+B.  Approve the Division of Purchases' standards and evaluation procedures of the 
+22
+division of purchases within the Department of Administrative and Financial Services, 
+23
+Bureau of General Services for standard information and telecommunications 
+24
+technology acquisitions and contracts.
+25
+Sec. 12.  5 MRSA §1974, sub-§1, as enacted by PL 2001, c. 388, §14, is amended 
+26
+to read:
+27
+1.  Approve the acquisition and use of equipment.  The Chief Information Officer, 
+28
+or the Chief Information Officer's designee, working with the Division of Purchases 
+29
+division of purchases within the Department of Administrative and Financial Services, 
+30
+Bureau of General Services and in accordance with written standards established by this 
+31
+chapter, shall approve acquisition and use of all data processing information technology 
+32
+products, hardware, software and telecommunications services, equipment and systems by 
+33
+state agencies.
+34
+Sec. 13.  5 MRSA §1974, sub-§2, as enacted by PL 2001, c. 388, §14, is amended 
+35
+to read:
+36
+2.  Develop training and development programs in data processing information 
+37
+technology, information security and enterprise services.  The Chief Information 
+38
+Officer, or the Chief Information Officer's designee, is responsible for developing training 
+39
+and development programs for state employees in data processing information technology, 
+40
+information security and enterprise services and for the implementation of these programs.
+41
+Sec. 14.  5 MRSA §1974, sub-§3, as amended by PL 2005, c. 12, Pt. SS, §12, is 
+42
+further amended to read:
+
+Page 3 - 132LR2678(01)
+1
+3.  Develop and administer written standards for data processing information 
+2
+technology enterprise services and telecommunications.  The Chief Information Officer, 
+3
+or the Chief Information Officer's designee, shall develop and administer written standards 
+4
+for data processing information technology enterprise services and telecommunications.  
+5
+These written standards pertain to:
+6
+A.  Acquisition of equipment;
+7
+B.  Acquisition of computer software and systems;
+8
+C.  Development of computer systems and computer programs;
+9
+D.  Computer operations; and
+10
+D-1.  Information security and cybersecurity policies, procedures and related 
+11
+operations; and
+12
+E.  Any other standards determined necessary by the Chief Information Officer and the 
+13
+board.
+14
+Sec. 15.  5 MRSA §1975, as amended by PL 2005, c. 12, Pt. SS, §15, is further 
+15
+amended to read:
+16
+§1975.  Noncompliance
+17
+The purchase of data processing information technology equipment, hardware, 
+18
+software or services or internal systems development efforts may not be made except in 
+19
+accordance with this chapter.  An agency may not purchase any data processing information 
+20
+technology equipment, hardware, software or services without that are out of compliance 
+21
+with the office's policies and procedures. All such purchases require the prior written 
+22
+approval of the commissioner or the Chief Information Officer or the Chief Information 
+23
+Officer's designee.  The State Controller may not authorize payment for data processing 
+24
+information technology equipment, hardware, software or services without evidence of 
+25
+prior approval of the purchases by the commissioner or the Chief Information Officer or 
+26
+the Chief Information Officer's designee.
+27
+1.  Noncompliance defined.  A state agency is in noncompliance with this chapter if 
+28
+the agency:
+29
+A.  Purchases data processing information technology equipment, hardware, software 
+30
+or services in noncompliance with this chapter; or
+31
+B.  Fails to adhere to the data processing information security or cybersecurity 
+32
+standards established by the commissioner and the Chief Information Officer or the 
+33
+Chief Information Officer's designee.
+34
+2.  Penalty.  Any A state agency found to be in noncompliance as defined described in 
+35
+this section is prohibited from acquiring or purchasing data processing equipment, 
+36
+information technology equipment, hardware, software and services until the commissioner 
+37
+or the Chief Information Officer determines that the state agency is in compliance with this 
+38
+chapter.
+39
+Notwithstanding the provisions of this section, the commissioner or the Chief Information 
+40
+Officer may act to acquire or purchase data processing equipment, information technology 
+41
+equipment, hardware, software and services to maintain or meet the emergency needs of a 
+42
+state agency.
+
+Page 4 - 132LR2678(01)
+1
+3.  Cybersecurity services.  Notwithstanding the requirements of sections 1553 and 
+2
+1825-B, or any other statutory or regulatory provisions to the contrary, the Chief 
+3
+Information Officer, after reasonable investigation, may procure cybersecurity services on 
+4
+a retainer basis when determined necessary to ensure the State is prepared to detect, prevent 
+5
+and respond to cyberattacks.
+6
+Sec. 16.  5 MRSA §1981, first ¶, as enacted by PL 2005, c. 12, Pt. SS, §16, is 
+7
+amended to read:
+8
+The mission of the Office of Information Technology includes providing high-quality, 
+9
+responsive, 
+cost-effective 
+information 
+technology 
+services 
+to 
+the 
+agencies, 
+10
+instrumentalities and political subdivisions of State Government to ensure the 
+11
+confidentiality, integrity and availability of the information transacted, stored or processed 
+12
+by information and communications technology infrastructure, systems or services 
+13
+affecting the enterprise, whether physical or nonphysical.  These services include, but are 
+14
+not limited to, information security, cybersecurity, voice and data computer and networking 
+15
+services, applications development and maintenance and desktop support, centralized 
+16
+geographic information systems and data and security advice to services for customers.
+17
+Sec. 17.  5 MRSA §1981, sub-§2, as enacted by PL 2005, c. 12, Pt. SS, §16, is 
+18
+amended to read:
+19
+2.  Duties of office.  The office shall provide the major data processing and 
+20
+telecommunications information technology enterprise services in State Government, 
+21
+including computer operations and programming and applications systems.  The office, as 
+22
+authorized by the commissioner, shall work to ensure consistency in programming services, 
+23
+stability in data processing functions, reliability in the operation and maintenance of 
+24
+systems throughout State Government and responsiveness and flexibility to react to 
+25
+changing situations and needs. The office shall establish information security and 
+26
+cybersecurity standards and policies to ensure the protection of information and 
+27
+communications technology infrastructure, systems and services affecting the enterprise, 
+28
+whether physical or nonphysical, against emerging cybersecurity risks and cyberattacks.
+29
+SUMMARY
+30
+This bill makes necessary technical changes to update the statutes governing the 
+31
+Department of Administrative and Financial Services, Office of Information Technology 
+32
+to align with recent statutory updates and best practices. The bill does the following.
+33
+1. It allows the Chief Information Officer to have an authorized designee in certain 
+34
+instances.
+35
+2. It includes certain definitions to align with the recently enacted definition of 
+36
+"cyberattack" and updates terminology to reflect national best practices for cybersecurity 
+37
+and information security.
+38
+3. It updates language regarding the mission of the office to reflect the bill's 
+39
+terminology changes.
+40
+4. It updates a provision of statute regarding competitive bidding to allow the office to 
+41
+procure information technology products or services necessary to detect, prevent and 
+42
+respond to cyberattacks.
+30
+31
+32

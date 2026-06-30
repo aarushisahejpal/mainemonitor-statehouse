@@ -1,0 +1,89 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1727
+H.P. 1154
+House of Representatives, April 17, 2025
+An Act to Ensure Transparency in Consumer Transactions 
+Involving Artificial Intelligence
+Reference to the Committee on Housing and Economic Development suggested and 
+ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative KUHN of Falmouth.
+Cosponsored by Senator CARNEY of Cumberland and
+Representatives: LEE of Auburn, POIRIER of Skowhegan, SATO of Gorham, SAYRE of 
+Kennebunk.
+
+Page 1 - 132LR2313(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  10 MRSA c. 239 is enacted to read:
+3
+CHAPTER 239
+4
+COMMUNICATIONS WITH CONSUMERS VIA ARTIFICIAL INTELLIGENCE
+5
+§1500-Y. Use of artificial intelligence chatbot to conduct commercial transactions 
+6
+prohibited
+7
+1.  Use of artificial intelligence chatbot to conduct commercial transactions 
+8
+prohibited.  A person may not use an artificial intelligence chatbot or any other computer 
+9
+technology to engage in a commercial transaction or trade practice with a consumer in a 
+10
+manner that may mislead or deceive a reasonable consumer into believing that the 
+11
+consumer is engaging with a human being if:
+12
+A. The consumer is not notified in a clear and conspicuous manner that the consumer 
+13
+is not engaging with a human being; or
+14
+B. The consumer reasonably believes that the consumer is engaging with a human 
+15
+being.
+16
+For the purposes of this section, "artificial intelligence chatbot" means a software 
+17
+application, web interface or computer program that simulates human-like conversation 
+18
+and interaction through textual or aural communications. 
+19
+2.  Violation; remedies.  A violation of subsection 1 is considered a violation of the 
+20
+Maine Unfair Trade Practices Act and is subject to penalties pursuant to Title 5, section 
+21
+212.  The Attorney General may seek injunctive relief against a person who violates 
+22
+subsection 1.
+23
+SUMMARY
+24
+This bill prohibits a person from using a software application, web interface or 
+25
+computer program that simulates human-like conversation and interaction through textual 
+26
+or aural communications to engage in a commercial transaction or trade practice with a 
+27
+consumer in a manner that may mislead or deceive a reasonable consumer into believing 
+28
+that the consumer is engaging with a human being if the consumer is not notified that the 
+29
+consumer is not engaging with a human being or the consumer reasonably believes that the 
+30
+consumer is engaging with a human being.  The bill makes a violation of the prohibition a 
+31
+violation of the Maine Unfair Trade Practices Act.
+24
+25
+26
+27
+28
+29
+30
+31

@@ -1,0 +1,1211 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1883
+H.P. 1254
+House of Representatives, May 5, 2025
+An Act to Enact the All Maine Health Act
+Received by the Clerk of the House on May 1, 2025.  Referred to the Committee on Health 
+Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered printed 
+pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MASTRACCIO of Sanford.
+
+Page 1 - 132LR1436(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA §12004-G, sub-§14-K is enacted to read:
+3
+14-K.   
+Health Care
+All Maine Health Board
+Compensation 
+determined under 24-A 
+MRSA §7810, sub-§3
+24-A MRSA 
+§7810 
+4
+Sec. 2.  24-A MRSA c. 103 is enacted to read:
+8
+CHAPTER 103
+9
+ALL MAINE HEALTH ACT
+10
+§7801.  Short title
+11
+This chapter may be known and cited as "the All Maine Health Act."
+12
+§7802.  All Maine Health Plan
+13
+1.  All Maine Health established.  All Maine Health is established as an independent 
+14
+executive agency to oversee planning and implementation of the All Maine Health Plan, 
+15
+which, once fully implemented, provides comprehensive health care services to residents 
+16
+of this State in accordance with this chapter.  The exercise by All Maine Health of the 
+17
+powers conferred by this chapter is deemed and held to be the performance of essential 
+18
+governmental functions.  
+19
+2.  Implementation.  All Maine Health may not be fully implemented to provide 
+20
+comprehensive health care services through the All Maine Health Plan unless:
+21
+A. The fiscal analysis required under section 7810, subsection 5 has been completed 
+22
+and approved by the All Maine Health Board and the Legislature; and 
+23
+B. The Secretary of the United States Department of Health and Human Services has 
+24
+approved the waiver requests submitted pursuant to section 7810, subsection 5.  
+25
+3.  Definitions.  As used in this chapter, unless the context otherwise indicates, the 
+26
+following terms have the following meanings.
+27
+A.  "All Maine Health Board" or "board" means the All Maine Health Board as 
+28
+established in section 7810. 
+29
+B.  "All Maine Health Fund" or "fund" means the All Maine Health Fund as established 
+30
+pursuant to section 7806. 
+31
+C.  "All Maine Health Plan" or "plan" means the All Maine Health Plan as described 
+32
+in subsection 1. 
+33
+D.  "Institutional provider" means an inpatient hospital, nursing facility, rehabilitation 
+34
+facility or other health care facility that provides overnight care. 
+35
+E.  "Noninstitutional provider" means an individual provider, group practice, clinic, 
+36
+outpatient surgical center, imaging center or other health care facility that does not 
+37
+provide overnight care.
+4
+5
+6
+7
+
+Page 2 - 132LR1436(01)
+1
+§7803.  Eligibility
+2
+1.  Residency.  All residents of this State are eligible for the All Maine Health Plan.
+3
+2.  Enrollment; identification.  The All Maine Health Board shall establish a 
+4
+procedure to enroll residents in the plan and provide each resident enrolled in the plan with 
+5
+identification that may be used by health care providers to confirm eligibility for services.  
+6
+The application for enrollment must be no more than 2 pages.
+7
+3.  Residents temporarily out of state.  The All Maine Health Plan must provide 
+8
+health care coverage to residents of this State who are temporarily out of the State and 
+9
+intend to return and reside in the State.  Coverage for emergency care obtained out of the 
+10
+State must be at prevailing local rates.  Coverage for nonemergency care obtained out of 
+11
+the State must be according to rates and conditions established by the board.  The board 
+12
+may require that a resident be transported back to the State when prolonged treatment of 
+13
+an emergency condition is necessary and when that transport will not adversely affect a 
+14
+patient's care or condition.
+15
+4.  Visitors.  Nonresidents visiting the State must be billed by the board for all services 
+16
+received under the All Maine Health Plan.  The board may enter into intergovernmental 
+17
+arrangements or contracts with other states and countries to provide reciprocal coverage 
+18
+for temporary visitors.
+19
+5.  Nonresidents employed in State.  The board shall extend eligibility for the plan to 
+20
+nonresidents employed in this State under a premium schedule set by the board.
+21
+6.  Businesses outside of State employing residents of State.  The board shall apply 
+22
+for a federal waiver to collect the employer contribution from businesses located outside 
+23
+of this State that employ residents of this State.
+24
+7.  Retiree benefits.  All persons who are eligible for retiree medical benefits under an 
+25
+employer-employee contract remain eligible for those benefits as long as the contractually 
+26
+mandated payments for those benefits are made to the All Maine Health Fund, which 
+27
+assumes financial responsibility for care provided under the terms of the contract along 
+28
+with additional health care benefits covered by the All Maine Health Plan.  Retirees who 
+29
+elect to reside out of the State are eligible for benefits under the terms and conditions of the 
+30
+retirees' employer-employee contract.  The board may establish financial arrangements 
+31
+with other states and countries in order to facilitate meeting the terms of the contracts 
+32
+described in this subsection.  Payments for care provided by providers out of the State to 
+33
+retirees of this State enrolled in the plan must be reimbursed at rates established by the All 
+34
+Maine Health Board.  Providers who accept any payment from the All Maine Health Plan 
+35
+for a covered service may not bill the patient for the covered service.
+36
+8.  Presumptive eligibility.  The following provisions regarding eligibility for the plan 
+37
+apply.
+38
+A.  An individual is presumed eligible for coverage under the All Maine Health Plan if 
+39
+the individual arrives at a health care facility unconscious, comatose or otherwise 
+40
+unable, because of the individual's physical or mental condition, to document eligibility 
+41
+or to act on the individual's own behalf.  If the individual is a minor, the individual is 
+42
+presumed eligible, and the health care facility shall provide care as if the individual 
+43
+were eligible.
+
+Page 3 - 132LR1436(01)
+1
+B.  An individual is presumed eligible for coverage under the All Maine Health Plan 
+2
+when brought to a health care facility licensed in this State for emergency care and 
+3
+treatment in accordance with any provision of law providing for involuntary care and 
+4
+treatment.
+5
+C.  An individual involuntarily committed to an acute psychiatric facility or to a 
+6
+hospital with psychiatric beds in accordance with any provision of law providing for 
+7
+involuntary commitment is presumed eligible for coverage under the All Maine Health 
+8
+Plan.
+9
+D.  All health care facilities subject to state and federal provisions governing 
+10
+emergency medical treatment shall comply with those provisions.
+11
+9.  Data.  Data collected because an individual applies for or is enrolled in the All 
+12
+Maine Health Plan is confidential, but may be released to:
+13
+A.  Providers for purposes of confirming enrollment and processing payments for 
+14
+benefits; or
+15
+B.  The State Auditor for purposes of the duties of the Office of the State Auditor.
+16
+Aggregate data that does not identify an individual who applies for or is enrolled in the All 
+17
+Maine Health Plan may be made available to the public for the purposes of health care 
+18
+research and analysis.
+19
+§7804.  Benefits
+20
+1.  General provisions.  Any eligible individual may choose to receive services under 
+21
+the All Maine Health Plan from any participating provider.
+22
+2.  Covered benefits.  Covered health care benefits in this chapter include all medically 
+23
+necessary care, subject to the limitations specified in this chapter.  Covered health care 
+24
+benefits for All Maine Health Plan enrollees include:
+25
+A.  Inpatient and outpatient health care facility services;
+26
+B.  Inpatient and outpatient professional provider services;
+27
+C.  Diagnostic imaging, laboratory services and other diagnostic and evaluative 
+28
+services;
+29
+D.  Medical equipment, appliances and assistive technology, including prosthetics, 
+30
+eyeglasses and hearing aids and repair, technical support and customization needed for 
+31
+individual use;
+32
+E.  Inpatient and outpatient rehabilitative care;
+33
+F.  Emergency care services, including ambulance services and other services whether 
+34
+or not transport to a hospital occurs;
+35
+G.  Emergency transportation;
+36
+H.  Necessary transportation for health care services for persons with disabilities or 
+37
+who may qualify as persons with low income;
+38
+I.  Child and adult immunizations and preventive care;
+39
+J.  Health and wellness education;
+40
+K.  Hospice and palliative care;
+
+Page 4 - 132LR1436(01)
+1
+L.  Care in a skilled nursing facility;
+2
+M.  Home health care, including health care provided in an assisted living facility;
+3
+N.  Mental health services;
+4
+O.  Substance use disorder treatment;
+5
+P.  Dental care;
+6
+Q.  Vision care;
+7
+R.  Hearing care;
+8
+S.  Prescription drugs;
+9
+T.  Podiatric care;
+10
+U.  Chiropractic care;
+11
+V.  Acupuncture;
+12
+W.  Blood and blood products;
+13
+X.  Dialysis;
+14
+Y.  Rehabilitative and habilitative services;
+15
+Z.  Remote monitoring and telehealth services;
+16
+AA. Gender-affirming health care;
+17
+BB.  Case management and care coordination; and
+18
+CC.  Language interpretation and translation for health care services, including sign 
+19
+language and Braille or other services needed for individuals with communication 
+20
+barriers.
+21
+3.  Benefits expansion.  The All Maine Health Board may expand health care benefits 
+22
+beyond the minimum benefits described in this section when expansion meets the intent of 
+23
+this chapter and when there are sufficient funds to cover the expansion.
+24
+4.  Exclusions.  Health care services determined by the board to have no medical 
+25
+benefit may be excluded from coverage by the All Maine Health Plan.
+26
+5.  Services not covered; private insurance.  An eligible individual may purchase an 
+27
+insurance policy to provide coverage for services not covered under this chapter or may 
+28
+self-pay for those services.
+29
+§7805.  Patient care
+30
+1.  Primary care.  All patients covered by the plan are entitled to have a primary care 
+31
+provider and have access to care coordination.
+32
+2.  Prior authorization and referrals not required.  Prior authorization may not be 
+33
+required for any covered service under the plan, and referrals are not required for a patient 
+34
+to see a health care specialist.  If a patient sees a specialist and does not have a primary care 
+35
+provider, the plan may assist with choosing a primary care provider.
+36
+3.  Electronic registry.  The board may establish an electronic registry to assist patients 
+37
+covered by the plan in identifying appropriate providers.
+38
+§7806.  All Maine Health Fund
+
+Page 5 - 132LR1436(01)
+1
+1.  Fund established; general provisions.  The board shall establish the All Maine 
+2
+Health Fund to implement the All Maine Health Plan and to receive premiums and other 
+3
+sources of revenue.  The fund must be administered by a director hired by the All Maine 
+4
+Health Board.
+5
+A.  All money collected, received and transferred according to this chapter must be 
+6
+deposited in the All Maine Health Fund.
+7
+B.  Money deposited in the All Maine Health Fund must be used to finance the All 
+8
+Maine Health Plan.
+9
+C.  All claims for health care services rendered must be made to the All Maine Health 
+10
+Fund.
+11
+D.  All payments made for health care services must be disbursed from the All Maine 
+12
+Health Fund.
+13
+E.  Premiums and other revenues collected each year must be sufficient to cover that 
+14
+year's projected costs.
+15
+2.  Accounts.  The All Maine Health Fund must have start-up, operating, capital and 
+16
+reserve accounts pursuant to subsections 3 to 6.
+17
+3.  Start-up account.  The start-up account in the All Maine Health Fund must be used 
+18
+to support the initial start-up, implementation and operations of All Maine Health, 
+19
+including the displaced worker support program required under section 7810, subsection 4, 
+20
+paragraph P.
+21
+4.  Operating account.  The operating account in the All Maine Health Fund comprises 
+22
+the accounts specified in this subsection.
+23
+A.  The medical services account must be used to provide for all medical services and 
+24
+benefits covered under the All Maine Health Plan.
+25
+B.  The prevention account must be used to establish and maintain primary community 
+26
+prevention programs, including preventive screening tests.
+27
+C.  The plan administration, evaluation, planning and assessment account must be used 
+28
+to monitor and improve the plan's effectiveness and operations.  The board may 
+29
+establish grant programs, including demonstration projects, for this purpose.
+30
+D.  The training and development account must be used to incentivize the training and 
+31
+development of health care providers and the health care workforce needed to meet the 
+32
+health care needs of the population.
+33
+E.  The health service research account must be used to support research and innovation 
+34
+as determined by the All Maine Health Board.
+35
+5.  Capital account.  The capital account in the All Maine Health Fund must be used 
+36
+to pay for capital expenditures for institutional providers and professional providers as 
+37
+approved by the board and pursuant to Title 22, chapter 103-A.
+38
+6.  Reserve account.  The All Maine Health Plan must at all times hold in the reserve 
+39
+account an amount estimated in the aggregate to provide for at least 10% of budgeted and 
+40
+anticipated expenditures and to provide for at least the initial response to epidemics and 
+41
+other extraordinary public health threats.  Money held in reserve by state, county and 
+42
+municipal health programs must be transferred to the All Maine Health Fund when the All 
+
+Page 6 - 132LR1436(01)
+43
+Maine Health Plan replaces those programs.  The board shall adopt rules to insure the All 
+44
+Maine Health Plan against unforeseen expenditures or revenue shortfalls not covered by 
+45
+the reserve account.  The board may borrow money to cover temporary shortfalls.
+4
+§7807.  Revenue sources
+5
+1.  All Maine Health Plan premium.  The All Maine Health Board shall:
+6
+A.  Determine the aggregate cost of providing health care according to this chapter;
+7
+B.  Develop an equitable and affordable premium structure based on income, including 
+8
+unearned income, and a business health tax based on payroll;
+9
+C.  In consultation with the State Tax Assessor, develop an efficient means of collecting 
+10
+premiums and the business health tax developed under paragraph B;
+11
+D.  Coordinate with existing, ongoing funding sources from federal and state programs;
+12
+E.  Base the premium structure developed under paragraph B on ability to pay; and
+13
+F.  Before implementation, submit to the Governor and the Legislature a report on the 
+14
+premium structure and business health tax developed under paragraph B to finance the 
+15
+All Maine Health Plan.
+16
+2.  Federal funds.  All federal funding received by the State, including the premium 
+17
+subsidies under the federal Affordable Care Act, is appropriated to the All Maine Health 
+18
+Fund to be used to administer the All Maine Health Plan under this chapter.  Federal 
+19
+funding that is received for implementing and administering the All Maine Health Plan 
+20
+must be used to provide health care for residents of this State.
+21
+3.  Funds from outside sources.  Institutional providers operating under All Maine 
+22
+Health Plan operating budgets may raise and expend funds from sources other than the All 
+23
+Maine Health Plan, including private donors. 
+24
+4.  Governmental payments.  The Governor and, if required under federal law, the 
+25
+Commissioner of Health and Human Services and the Commissioner of Economic and 
+26
+Community Development shall seek all necessary waivers, exemptions, agreements and 
+27
+legislation so that all applicable federal payments to the State, including the premium tax 
+28
+credits under the federal Affordable Care Act, are paid directly to the All Maine Health 
+29
+Fund.  When all required waivers, exemptions, agreements and legislation are obtained, the 
+30
+All Maine Health Plan assumes responsibility for all health care benefits and health care 
+31
+services previously paid for with federal funds.  In obtaining the waivers, exemptions, 
+32
+agreements or legislation, the Governor and, if required, commissioners shall seek from the 
+33
+Federal Government a contribution for health care services in the State that reflects: 
+34
+medical inflation, the state gross domestic product, the size and age of the population of 
+35
+the State, the number of residents of the State living below the poverty level and the number 
+36
+of individuals in this State eligible for Medicare and services from the United States 
+37
+Department of Veterans Affairs and that does not decrease in relation to the federal 
+38
+contributions to other states as a result of the waivers, exemptions, agreements or savings 
+39
+from implementation of the All Maine Health Plan.
+40
+5.  Federal preemption.  The board shall seek to secure a repeal or a waiver of any 
+41
+provision of federal law that preempts any provision of this chapter.  The Commissioner of 
+42
+Health and Human Services shall provide all necessary assistance in this matter.  In the 
+43
+application for an innovation waiver under Section 1332 of the federal Affordable Care 
+1
+2
+3
+
+Page 7 - 132LR1436(01)
+44
+Act, the board shall request to waive any provisions of the federal Social Security Act and 
+45
+any of the following provisions of the federal Affordable Care Act to the extent necessary 
+46
+to implement this Act:
+4
+A.  In 42 United States Code, Sections 18021 to 18024;
+5
+B.  In 42 United States Code, Sections 18031 to 18033;
+6
+C.  In 42 United States Code, Section 18071; and
+7
+D.  In 26 United States Code, Sections 36B and 5000A.
+8
+The request for a waiver of the federal Social Security Act must seek authorization for the 
+9
+All Maine Health Plan to operate as a Medicare Advantage plan for eligible individuals.
+10
+If a repeal or a waiver of law or regulations cannot be secured, the board shall adopt rules, 
+11
+or seek conforming state legislation or state plan amendments, consistent with federal law, 
+12
+in an effort to best fulfill the purposes of this chapter.
+13
+6.  Secondary to federal government programs.  The All Maine Health Plan's 
+14
+responsibility for providing care is secondary to existing federal government programs for 
+15
+health care services to the extent that funding for these programs is not transferred to the 
+16
+All Maine Health Fund or that the transfer is delayed beyond the date on which initial 
+17
+benefits are provided under the All Maine Health Plan.
+18
+7.  Minimal cost sharing.  The board may impose a minimal deductible, copayment, 
+19
+coinsurance or other cost-sharing requirement with respect to covered benefits.
+20
+§7808.  Subrogation
+21
+1.  Collateral source.  If coverage of an individual by other payers for health care has 
+22
+been terminated, All Maine Health shall seek to collect the cost of medical services 
+23
+provided to the individual that are, or may be, covered services under a policy of insurance 
+24
+from any other collateral source available to that individual, or to collect the cost of medical 
+25
+services when the individual has a right of action for compensation for those services under 
+26
+law.
+27
+A.  As used in this section, "collateral source" includes:
+28
+(1)  Health insurance policies and the medical components of automobile, 
+29
+homeowner's and other forms of insurance;
+30
+(2)  Medical components of workers' compensation;
+31
+(3)  Pension plans;
+32
+(4)  Employer plans;
+33
+(5)  Employee benefit contracts;
+34
+(6)  Government benefit programs;
+35
+(7)  A judgment for damages for personal injury;
+36
+(8)  The state of last domicile for individuals moving to the State for medical care 
+37
+who have extraordinary medical needs; and
+38
+(9)  Any 3rd party who is or may be liable to an individual for health care services 
+39
+or costs.
+1
+2
+3
+
+Page 8 - 132LR1436(01)
+1
+B.  As used in this section, "collateral source" does not include:
+2
+(1)  A contract or plan that is subject to federal preemption; or
+3
+(2)  Any governmental unit, agency or service to the extent that subrogation is 
+4
+prohibited by law.  An entity described in paragraph A is not excluded from the 
+5
+obligations imposed by this section by virtue of a contract or relationship with a 
+6
+governmental unit, agency or service.
+7
+C.  The board shall negotiate waivers, seek federal legislation or make other 
+8
+arrangements to incorporate collateral sources into the All Maine Health Plan.
+9
+2.  Notification.  When an individual who receives health care services under the All 
+10
+Maine Health Plan is entitled to coverage, reimbursement, indemnity or other 
+11
+compensation from a collateral source, the individual shall notify the health care provider 
+12
+and provide information identifying the collateral source, the nature and extent of coverage 
+13
+or entitlement and other relevant information.  The health care provider shall forward this 
+14
+information to the board.  The individual entitled to coverage, reimbursement, indemnity 
+15
+or other compensation from a collateral source shall provide additional information as 
+16
+requested by the board.
+17
+3.  Reimbursement.  The All Maine Health Board shall seek reimbursement from the 
+18
+collateral source for services provided to the individual and may institute appropriate 
+19
+action, including legal proceedings, to recover the reimbursement.  Upon demand, the 
+20
+collateral source shall pay to the All Maine Health Fund the sums it would have paid or 
+21
+expended on behalf of the individual for the health care services provided by the All Maine 
+22
+Health Plan.
+23
+A.  In addition to any other right to recovery provided in this section, the board has the 
+24
+same right to recover the reasonable value of health care benefits from a collateral 
+25
+source as provided to the Commissioner of Health and Human Services.
+26
+B.  If a collateral source is exempt from subrogation or the obligation to reimburse the 
+27
+All Maine Health Plan, the board may require that an individual who is entitled to 
+28
+medical services from the source first seek those services from that source before 
+29
+seeking those services from the All Maine Health Plan.
+30
+C.  To the extent permitted by federal law, the board has the same right of subrogation 
+31
+over contractual retiree health care benefits provided by employers as other contracts, 
+32
+allowing the All Maine Health Plan to recover the cost of health care services provided 
+33
+to individuals covered by the retiree benefits, unless arrangements are made to transfer 
+34
+the revenues of the health care benefits directly to the All Maine Health Fund.
+35
+4.  Defaults, underpayments and late payments.  Default, underpayment or late 
+36
+payment of any tax or other obligation imposed by this chapter results in the remedies and 
+37
+penalties provided by law, except as provided in this section.  Eligibility for health care 
+38
+benefits under this chapter may not be impaired by any default, underpayment or late 
+39
+payment of any premium or other obligation imposed by this chapter.
+40
+§7809.  Provider payments
+41
+1.  General provisions.  All health care providers licensed to practice in this State, and 
+42
+other providers as determined by the board, may participate in the All Maine Health Plan.  
+43
+A participating health care provider shall comply with all federal laws and regulations 
+
+Page 9 - 132LR1436(01)
+44
+governing referral fees and fee splitting, including, but not limited to, 42 United States 
+45
+Code, Sections 1320a-7b and 1395nn, whether reimbursed by federal funds or not.  A fee 
+46
+schedule or financial incentive may not adversely affect the care a patient receives or the 
+47
+care a health care provider recommends.
+5
+2.  Payments to noninstitutional providers.  The All Maine Health Board shall 
+6
+establish and oversee a fair and efficient payment system for noninstitutional providers in 
+7
+accordance with this subsection.
+8
+A.  The board shall pay noninstitutional providers based on rates negotiated with 
+9
+providers.  Rates must take into account the need to address provider shortages.
+10
+B.  The board shall establish payment criteria and methods of payment for care 
+11
+coordination for patients, especially those with chronic illness and complex medical 
+12
+needs.
+13
+C.  Providers who accept any payment from the All Maine Health Plan for a covered 
+14
+health care service may not bill the patient for the covered health care service except 
+15
+as provided under a federal program.
+16
+D.  Providers must be paid in a timely manner for claims filed in accordance with 
+17
+procedures established by the board.
+18
+3.  Payments to institutional providers.  The board shall set annual budgets for 
+19
+institutional providers.  These budgets must consist of an operating budget and a capital 
+20
+budget.  An institution's annual budget must be set to cover its anticipated health care 
+21
+services costs for the next year based on past performance and projected changes in prices 
+22
+and health care service levels.  The annual budget for each institutional provider must be 
+23
+set separately.  The board may not set a joint budget for a group of more than one 
+24
+institutional provider or for a parent corporation that owns or operates one or more 
+25
+institutional providers.
+26
+4.  No balance billing.  Providers who accept any payment from the All Maine Health 
+27
+Plan for a covered health care service may not bill the patient for the covered health care 
+28
+service except as provided under a federal program.
+29
+5.  Capital investment plan.  The board shall periodically develop a capital investment 
+30
+plan that will serve as a guide in determining the annual budgets of institutional providers 
+31
+and in deciding whether to approve applications for approval of capital expenditures by 
+32
+noninstitutional providers in accordance with the criteria described in Title 22, section 327.  
+33
+The board may alter the threshold expenditure level that triggers the requirement to submit 
+34
+information on capital expenditures.  Institutional providers shall propose these 
+35
+expenditures and submit the required information as part of the annual budget they submit 
+36
+to the board.  Noninstitutional providers shall submit applications for approval of these 
+37
+expenditures to the board.  The board shall respond to capital expenditure applications in a 
+38
+timely manner.
+39
+§7810.  All Maine Health Board
+40
+1.  Establishment.  The All Maine Health Board is established under Title 5, section 
+41
+12004-G, subsection 14-K to oversee All Maine Health and supervise the All Maine Health 
+42
+Plan.
+1
+2
+3
+4
+
+Page 10 - 132LR1436(01)
+1
+2.  Board composition.  The board consists of 20 members, appointed by the Governor 
+2
+and subject to review by the joint standing committee of the Legislature having jurisdiction 
+3
+over health coverage matters and to confirmation by the Legislature, as follows: 
+4
+A. Ten members that include 4 patient members, at least one of whom must be 65 years 
+5
+of age or older, one of whom must represent federally recognized Indian tribes in this 
+6
+State and one of whom must represent rural areas in this State; one attorney; one health 
+7
+care economist; one member with expertise in public health; and 3 employers, at least 
+8
+one of whom must be an employer with more than 100 employees and one of whom 
+9
+must be an employer with less than 50 employees; and 
+10
+B. Ten members that are providers: 3 physicians, at least one of whom must be a 
+11
+primary care provider; one advanced practice provider; one registered nurse; one 
+12
+mental health care provider; one dentist; one pharmacist; one direct care worker; and 
+13
+one member representing hospitals.
+14
+3.  Terms and compensation; selection of chair.  Board members serve 3-year terms 
+15
+and may not serve more than 3 terms.  Board members may continue to serve an expired 
+16
+term until a replacement member is appointed.  A vacancy for an unexpired term must be 
+17
+filled in accordance with subsection 2, paragraph A or B.  Board members shall set the 
+18
+board's compensation at an amount not to exceed the compensation of Public Utilities 
+19
+Commission members.  The board shall select the chair from its membership.
+20
+4.  General duties.  The board shall:
+21
+A.  Ensure that all of the requirements of this chapter are met;
+22
+B.  Hire a chief executive officer for the All Maine Health Plan to administer all aspects 
+23
+of the plan as directed by the board;
+24
+C.  Hire a director for the All Maine Health Fund;
+25
+D.  Conduct necessary investigations and inquiries and require the submission of 
+26
+information, documents and records the board considers necessary to carry out the 
+27
+purposes of this chapter;
+28
+E.  Establish a process for the board to receive the concerns, opinions, ideas and 
+29
+recommendations of the public regarding all aspects of the All Maine Health Plan and 
+30
+establish the means of addressing those concerns;
+31
+F.  Establish regional planning boards to assist the board in carrying out its duties;
+32
+G.  Establish an ombudsman position to represent the interests of consumers of health 
+33
+care and to advocate on behalf of consumers;
+34
+H.  Establish a grievance process for complaints by enrollees in the All Maine Health 
+35
+Plan;
+36
+I.  Conduct activities the board considers necessary to carry out the purposes of this 
+37
+chapter;
+38
+J.  Collaborate with the Maine Health Data Organization, the Maine Quality Forum and 
+39
+the Department of Health and Human Services, Office of Data, Research and Vital 
+40
+Statistics to assist the board in carrying out the purposes of this chapter;
+
+Page 11 - 132LR1436(01)
+1
+K.  Collaborate with the agencies that license health care facilities to ensure that facility 
+2
+performance is monitored and that deficient practices are recognized and corrected in 
+3
+a timely manner;
+4
+L.  Adopt rules as necessary to carry out the duties assigned under this chapter.  Rules 
+5
+adopted pursuant to this paragraph are routine technical rules as defined in Title 5, 
+6
+chapter 375, subchapter 2-A;
+7
+M.  Establish conflict-of-interest standards prohibiting providers from any financial 
+8
+benefit from their medical decisions outside of board reimbursement;
+9
+N.  Establish conflict-of-interest standards related to pharmaceutical marketing to 
+10
+providers;
+11
+O.  Require that all electronic health records used by providers be fully interoperable 
+12
+with the open-source electronic health records system used by the United States 
+13
+Department of Veterans Affairs; 
+14
+P.  Develop and implement a displaced worker support program to provide financial 
+15
+help and assistance in retraining and job placement to workers in the State who may be 
+16
+displaced because of the administrative efficiencies of the All Maine Health Plan.  To 
+17
+alleviate staffing displacements in the medical field, the displaced worker support 
+18
+program must emphasize retraining and placement into health care-related positions if 
+19
+appropriate.  As residents of this State, all displaced workers must be covered under 
+20
+the All Maine Health Plan; and
+21
+Q.  Develop and implement a program to negotiate prices paid by the All Maine Health 
+22
+Plan for covered pharmaceuticals, medical supplies, including biological products, and 
+23
+medically necessary assistive equipment at the lowest possible cost on an annual basis.
+24
+5.  Waiver request duties.  Before submitting an application for an innovation waiver 
+25
+under Section 1332 of the federal Affordable Care Act, the board shall do the following, as 
+26
+required by federal law:
+27
+A.  Conduct or contract for any necessary actuarial analyses and actuarial certifications 
+28
+needed to support the board's estimates that the waiver will comply with the 
+29
+comprehensive coverage, affordability and scope of coverage requirements in federal 
+30
+law;
+31
+B.  Conduct or contract for any necessary economic analyses needed to support the 
+32
+board's estimates that the waiver will comply with the comprehensive coverage, 
+33
+affordability, scope of coverage and federal deficit requirements in federal law.  These 
+34
+analyses must include:
+35
+(1)  A detailed 10-year budget plan; and
+36
+(2)  A detailed analysis regarding the estimated impact of the waiver on health 
+37
+insurance coverage in the State;
+38
+C.  Establish a detailed draft implementation timeline for the waiver; and
+39
+D.  Establish quarterly, annual and cumulative targets for the comprehensive coverage, 
+40
+affordability, scope of coverage and federal deficit requirements in federal law.
+41
+6.  Financial duties.  The board shall:
+
+Page 12 - 132LR1436(01)
+1
+A.  Establish and collect premiums and the business health tax according to this 
+2
+chapter;
+3
+B.  Approve statewide and regional budgets that include budgets for accounts in 
+4
+accordance with this chapter;
+5
+C.  Negotiate and establish payment rates for providers;
+6
+D.  Monitor compliance with all budgets and payment rates;
+7
+E.  Pay claims for medical products or services as negotiated and issue requests for 
+8
+proposals from nonprofit organizations and business corporations in the State for a 
+9
+contract to process claims;
+10
+F.  Seek federal approval to bill other states for health care coverage provided to 
+11
+residents from out of the State who come to the State for long-term care or other costly 
+12
+treatment when the resident's home state fails to provide such coverage, unless a 
+13
+reciprocal agreement with those states to provide similar coverage to residents of this 
+14
+State relocating to those states is negotiated;
+15
+G.  Administer the All Maine Health Fund;
+16
+H.  Annually determine the appropriate level for the All Maine Health Plan reserve 
+17
+account under section 7806, subsection 6 and implement policies needed to establish 
+18
+the appropriate reserve;
+19
+I.  Implement fraud prevention measures necessary to protect the operation of the All 
+20
+Maine Health Plan; and
+21
+J.  Work to ensure appropriate cost control by:
+22
+(1)  Instituting aggressive public health measures, early intervention and preventive 
+23
+care, health and wellness education and promotion of personal health 
+24
+improvement;
+25
+(2)  Making changes in the delivery of health care services and administration that 
+26
+improve efficiency and care quality;
+27
+(3)  Minimizing administrative costs;
+28
+(4)  Ensuring that the delivery system does not contain excess capacity; and
+29
+(5)  Negotiating the lowest possible prices for prescription drugs, medical 
+30
+equipment and medical services.
+31
+If the board determines that there will be a revenue shortfall despite the cost control 
+32
+measures mentioned in paragraph J, the board shall implement measures to correct the 
+33
+shortfall, including an increase in premiums and other revenues.  The board shall report to 
+34
+the Legislature on the causes of the shortfall, reasons for the inadequacy of cost controls 
+35
+and measures taken to correct the shortfall.
+36
+7.  Management duties.  The board shall:
+37
+A.  Develop and implement enrollment procedures for the All Maine Health Plan;
+38
+B.  Implement eligibility standards for the All Maine Health Plan;
+39
+C.  Arrange for health care to be provided at convenient locations, including ensuring 
+40
+the availability of school nurses so that all students have access to health care, 
+
+Page 13 - 132LR1436(01)
+41
+immunizations and preventive care at public schools and encouraging providers to 
+42
+open small health clinics at larger workplaces and retail centers;
+3
+D.  Establish an electronic claims and payments system for the All Maine Health Plan;
+4
+E.  Monitor the operation of the All Maine Health Plan through consumer surveys and 
+5
+regular data collection and evaluation activities, including evaluations of the adequacy 
+6
+and quality of services provided under the plan, the need for changes in the benefit 
+7
+package, the cost of each type of service and the effectiveness of cost control measures 
+8
+under the plan;
+9
+F.  Disseminate information and establish a publicly accessible health care website to 
+10
+provide information to the public about the All Maine Health Plan;
+11
+G.  Collaborate with public health agencies, schools and community clinics;
+12
+H.  Ensure that All Maine Health Plan policies and providers, including public health 
+13
+providers, support all residents of this State in achieving and maintaining optimum 
+14
+physical and mental health; and
+15
+I.  Annually report to the joint standing committee of the Legislature having jurisdiction 
+16
+over health coverage matters on the performance of the All Maine Health Plan, the 
+17
+fund's fiscal condition and any need for payment adjustments, recommendations for 
+18
+statutory changes, receipt of revenue from all sources, whether current year goals and 
+19
+priorities are being met, future goals and priorities, major new technology or 
+20
+prescription drugs and other circumstances that may affect the cost or quality of health 
+21
+care.
+22
+8.  Policy duties.  The board shall:
+23
+A.  Develop and implement cost control and quality assurance procedures;
+24
+B.  Implement policies to ensure strong public health services, including education and 
+25
+community-based preventive health care and clinical services;
+26
+C.  Implement policies to ensure a continuum of coordinated high-quality primary to 
+27
+tertiary care to all residents of this State; and
+28
+D.  Implement policies to ensure that all residents of this State receive culturally and 
+29
+linguistically competent care.
+30
+9.  Self-insurance.  The board shall determine the feasibility of self-insuring providers 
+31
+for malpractice and shall establish a self-insurance system and create a special fund for 
+32
+payment of losses incurred if the board determines self-insuring providers would reduce 
+33
+costs.
+34
+10.  Audit.  The All Maine Health Plan must be audited annually by the State Auditor.  
+35
+A copy of the audit must be made available to the public and provided to the State 
+36
+Controller, to the joint standing committee of the Legislature having jurisdiction over 
+37
+appropriations and financial affairs and to the joint standing committee of the Legislature 
+38
+having jurisdiction over health coverage matters.
+39
+11.  Meetings.  The board shall meet monthly beginning no later than 30 days following 
+40
+appointment of all members by the Governor in accordance with subsection 2.  The board 
+41
+may also meet at other times at the call of the chair. All meetings of the board are public 
+42
+proceedings within the meaning of Title 1, chapter 13, subchapter 1.
+1
+2
+
+Page 14 - 132LR1436(01)
+1
+12.  Immunity of board members.  The board members and the board staff are 
+2
+immune from suit on any tort claims seeking recovery of damages to the same extent as 
+3
+governmental entities under the Maine Tort Claims Act.
+4
+§7811.  Construction
+5
+This chapter may not be construed to: 
+6
+1.  Supervision or control over practice of medicine.  Authorize All Maine Health 
+7
+to exercise supervision or control over the practice of medicine other than monitoring for 
+8
+fraud, setting limited and medically appropriate coverage requirements and denying claims 
+9
+for medical services that are not covered by the All Maine Health Plan; 
+10
+2.  Assist in investigation or enforcement based on religion, national origin, 
+11
+ethnicity or immigration status.  Authorize the use of any funds, facility, property, 
+12
+equipment or employee of All Maine Health to investigate, enforce or assist in the 
+13
+investigation or enforcement of any criminal, civil or administrative violation or warrant 
+14
+for a violation of any requirement that individuals register with the Federal Government or 
+15
+any federal agency based on religion, national origin, ethnicity or immigration status; or
+16
+3.  Employer right to self-insure.  Limit or restrict the right of any employer to 
+17
+self-insure health coverage for its employees under an employee benefit plan established 
+18
+in accordance with the federal Employee Retirement Income Security Act of 1974.
+19
+Sec. 3.  Staggered terms.  Notwithstanding the Maine Revised Statutes, Title 24-A, 
+20
+section 7810, subsection 3, with regard to the initial appointments of the members of the 
+21
+All Maine Health Board, within 60 days of the effective date of this Act, the Governor shall 
+22
+appoint 5 members for a one-year term, 6 members for a 2-year term and the 9 remaining 
+23
+members for a 3-year term.
+24
+Sec. 4.  Transition and implementation.  Within 60 days of the effective date of 
+25
+this Act, the State Controller shall transfer the funding amounts necessary for start-up and 
+26
+implementation of All Maine Health to the All Maine Health Fund established pursuant to 
+27
+the Maine Revised Statutes, Title 24-A, section 7806.  Once all initial appointments have 
+28
+been made by the Governor pursuant to this Act and confirmed by the Legislature, the All 
+29
+Maine Health Board shall promptly schedule its first meeting in accordance with Title 
+30
+24-A, section 7810, subsection 11 to fulfill its duties to implement All Maine Health 
+31
+pursuant to Title 24-A, chapter 103.  The Office of Affordable Health Care shall provide 
+32
+temporary staff support to the All Maine Health Board until a chief executive officer is 
+33
+hired.
+34
+SUMMARY
+35
+This bill establishes All Maine Health as an independent executive agency to oversee 
+36
+planning and implementation of the All Maine Health Plan, which, once fully implemented, 
+37
+provides comprehensive health care services to residents of this State with public funding.  
+38
+The bill provides that the plan may not be fully implemented to provide benefits to residents 
+39
+of the State until a fiscal analysis of the costs of the plan is approved by the Legislature and 
+40
+the Secretary of the United States Department of Health and Human Services has approved 
+41
+a waiver required under federal law pursuant to the federal Patient Protection and 
+42
+Affordable Care Act.
+35
+36
+37
+38
+39
+40
+41
+42

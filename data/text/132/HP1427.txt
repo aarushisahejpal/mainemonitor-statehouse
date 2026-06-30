@@ -1,0 +1,260 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2112
+H.P. 1427
+House of Representatives, January 7, 2026
+An Act to Authorize Municipalities to Form Community Choice 
+Aggregation Programs to Procure Electricity
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative RUNTE of York.
+Cosponsored by Representative: SACHS of Freeport, Senator: LAWRENCE of York.
+
+Page 1 - 132LR2849(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  35-A MRSA §3218 is enacted to read:
+3
+§3218.  Community choice aggregation program
+4
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings. 
+6
+A.  "Aggregator" means an electric distribution utility engaged by a municipality or 
+7
+group of municipalities to aggregate customers under a community choice aggregation 
+8
+program approved under subsection 2. 
+9
+B.  "Community choice aggregation program" means a program through which a 
+10
+municipality or group of municipalities engage an aggregator to aggregate the electric 
+11
+load of its residents, businesses and municipal accounts to procure electricity on their 
+12
+behalf. 
+13
+C.  "Default service" means the standard-offer service provided by an electric 
+14
+distribution utility to a customer that does not choose a competitive electricity provider. 
+15
+D.  "Electric distribution utility" means an investor-owned transmission and 
+16
+distribution utility that owns and operates the infrastructure for delivering electricity to 
+17
+customers. 
+18
+E.  "Purchase of receivables program" means a program in which an electric 
+19
+distribution utility purchases the accounts receivable of a community choice 
+20
+aggregation program at a discount rate and assumes the risk of customer nonpayment. 
+21
+2.  Community choice aggregation program plan.  A municipality or group of 
+22
+municipalities with a community choice aggregation program plan that has been approved 
+23
+by the commission pursuant to this subsection may engage an aggregator to aggregate the 
+24
+customers within the municipality's or group of municipalities' boundaries that do not opt 
+25
+out of the community choice aggregation program or that consent to being included in the 
+26
+community choice aggregation program.  The municipality or group of municipalities must 
+27
+agree to adopt a plan under this subsection by majority vote of the municipal legislative 
+28
+body or governing board.  The commission, through rulemaking described in subsection 
+29
+11, shall establish the procedures necessary for a municipality or group of municipalities 
+30
+to establish a community choice aggregation program and obtain plan approval from the 
+31
+commission. 
+32
+Upon receiving plan approval from the commission, all eligible customers on default 
+33
+service within the municipality's or group of municipalities' jurisdiction must be 
+34
+automatically enrolled in the community choice aggregation program unless they 
+35
+affirmatively opt out. 
+36
+3.  Customer notification.  A municipality or group of municipalities that receives 
+37
+approval for a community choice aggregation program plan under subsection 2 shall send 
+38
+customers at least one written notice via first-class mail and publish one newspaper notice 
+39
+informing the customers of the following: 
+40
+A.  The program details; 
+41
+B.  The right to opt out of the program without penalty; and
+42
+C.  The process and deadline for opting out of the program. 
+
+Page 2 - 132LR2849(01)
+1
+4.  Customer protections.  Customers under a community choice aggregation program 
+2
+share the same protections currently established for those customers that receive electricity 
+3
+from competitive electricity providers under section 3203.
+4
+5.  Protections for low-income and electric assistance program customers.  The 
+5
+following protections apply to low-income customers and electric assistance program 
+6
+customers enrolled in a community choice aggregation program. 
+7
+A.  Enrollment in a community choice aggregation program does not affect a 
+8
+customer's eligibility for or receipt of benefits under an electric assistance program or 
+9
+any other low-income assistance program. 
+10
+B.  All discounts, credits and protections afforded to low-income customers under 
+11
+electric distribution utility-administered programs continue to apply without 
+12
+interruption or modification. 
+13
+C.  Low-income customers may not be subject to any additional fees, charges or 
+14
+penalties as a result of participation in a community choice aggregation program. 
+15
+D.  Community choice aggregation programs must include targeted outreach to low-
+16
+income and vulnerable populations to ensure awareness of their rights, benefits and 
+17
+opt-out options. 
+18
+6.  Purchase of receivables program.  The commission shall require each electric 
+19
+distribution utility to implement a purchase of receivables program applicable to a 
+20
+community choice aggregation program.  Under the purchase of receivables program, 
+21
+electric distribution utilities shall purchase receivables from community choice aggregation 
+22
+programs at a discount rate approved by the commission.  The purchase rates must reflect: 
+23
+A.  Historical rates of uncollectible accounts; 
+24
+B.  Administrative costs; and
+25
+C.  Risk-adjusted capital costs. 
+26
+7.  Billing and collection.  With regard to billing and collection under a community 
+27
+choice aggregation program plan approved under subsection 2, an electric distribution 
+28
+utility shall: 
+29
+A.  Include supply charges on consolidated utility bills; 
+30
+B.  Remit payments to a community choice aggregation program on a monthly basis, 
+31
+net of a discount rate pursuant to a purchase of receivables program; 
+32
+C.  Assume responsibility for collections and bad debt; and
+33
+D.  Provide a section on the monthly invoice for the community choice aggregation 
+34
+program to provide information, including the specific name of any related municipal 
+35
+programs next to the supply charge. 
+36
+Transmission and distribution services remain with the electric distribution utilities, which 
+37
+must be paid for such services according to rate schedules approved by the applicable 
+38
+regulatory authority. 
+39
+8.  Cost recovery.  An electric distribution utility may recover costs related to the 
+40
+purchase of receivables program through a mandatory charge approved by the commission 
+41
+that applies to all customers. 
+
+Page 3 - 132LR2849(01)
+1
+9.  Transparency.  An electric distribution utility shall file an annual report with the 
+2
+commission detailing: 
+3
+A.  The total receivables purchased pursuant to subsection 6; 
+4
+B.  Any discount rates applied under subsection 6; and
+5
+C.  Collection performance pursuant to subsection 7, paragraph C. 
+6
+10.  Regulation of aggregators.  The following provisions apply to aggregators. 
+7
+A.  An aggregator shall treat customer data as confidential information that is not 
+8
+subject to public disclosure.
+9
+B.  An aggregator that supplies electricity is considered a competitive electricity 
+10
+provider under section 3203 for the purpose of access to the electric distribution utility's 
+11
+load data and for the purpose of ceasing operations.
+12
+11.  Rulemaking.  The commission shall adopt rules for the implementation of this 
+13
+section no later than January 1, 2027, including, but not limited to: 
+14
+A.  Standardized customer opt-out procedures; 
+15
+B.  Purchase of receivables program design and discount rate methodology; and
+16
+C.  Consumer protection and transparency requirements.
+17
+Rules adopted pursuant to this subsection are routine technical rules as defined in Title 5, 
+18
+chapter 375, subchapter 2-A. 
+19
+SUMMARY
+20
+This bill authorizes municipalities and groups of municipalities to establish community 
+21
+choice aggregation programs. Under a community choice aggregation program with a plan 
+22
+approved by the Public Utilities Commission, eligible customers are automatically enrolled 
+23
+in the community choice aggregation program unless they choose to opt out.  The bill 
+24
+establishes requirements for customer notifications and protections and directs the 
+25
+commission to adopt rules for community choice aggregation program authorization, 
+26
+standardized opt-out procedures and consumer safeguards.  The bill also requires electric 
+27
+distribution utilities to implement a purchase of receivables program requiring utilities to 
+28
+purchase community choice aggregation program receivables at a discount rate approved 
+29
+by the commission, consolidate billing, assume collection responsibility and report to the 
+30
+commission annually.  
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30

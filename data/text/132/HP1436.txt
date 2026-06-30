@@ -1,0 +1,381 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2121
+H.P. 1436
+House of Representatives, January 7, 2026
+An Act to Enhance the Safety of Judicial and Elected Officials, 
+Constitutional Officers and the State Auditor by Allowing Certain 
+Personal Information to Be Removed from Designated Public 
+Records
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Reference to the Committee on Judiciary suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative FAIRCLOTH of Bangor.
+Cosponsored by Senator BAILEY of York and
+Representatives: ABDI of Lewiston, DHALAC of South Portland, Speaker FECTEAU of 
+Biddeford, MOONEN of Portland, Senator: President DAUGHTRY of Cumberland.
+
+Page 1 - 132LR2650(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA §90-J is enacted to read:
+3
+§90-J.  Information privacy
+4
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings.
+6
+A.  "Authorized person" means a covered person or any of the following persons 
+7
+authorized to submit or revoke a request for the redaction or nondisclosure of a home 
+8
+address on behalf of a covered person:
+9
+(1)  On behalf of any federal judge, a designee of the United States Department of 
+10
+Justice, United States Marshals Service or of the clerk of any United States District 
+11
+Court, as long as the designee submits the affirmation required under this section 
+12
+signed by the federal judge for whom a request or revocation is made;
+13
+(2)  On behalf of any covered person who is deceased or medically or 
+14
+psychologically incapacitated, a person acting on behalf of the covered person as 
+15
+a designated trustee, as an estate executor or personal representative or pursuant to 
+16
+a written power of attorney or other legal instrument, as long as the person signs 
+17
+and submits the affirmation required under this section on behalf of the covered 
+18
+person; and
+19
+(3)  On behalf of any immediate family member who is a minor and who is 
+20
+otherwise entitled to address redaction or nondisclosure pursuant to this section, 
+21
+the parent or legal guardian of that minor.
+22
+B.  "Covered person" means an active, formerly active or retired judicial officer, 
+23
+member of Congress, state Legislator, Attorney General, Secretary of State, Treasurer 
+24
+of State or State Auditor and an immediate family member.
+25
+C.  "Director" means the director of the Office of Information Privacy.
+26
+D.  "Immediate family member" means a spouse, child or parent of, or any other family 
+27
+member related by blood or by law to, an active, formerly active or retired judicial 
+28
+officer, member of Congress, state Legislator, Attorney General, Secretary of State, 
+29
+Treasurer of State or State Auditor and who resides in the same household as that 
+30
+person.
+31
+E.  "Office" means the Office of Information Privacy established in subsection 2.
+32
+2.  Office of Information Privacy; director.  The Office of Information Privacy is 
+33
+established in the Department of the Secretary of State. The office is led by a director, who 
+34
+must be appointed by and serves at the pleasure of the Secretary of State and who may hire 
+35
+staff as necessary.
+36
+A.  The director shall establish:
+37
+(1)  A secure electronic portal through which an authorized person may submit or 
+38
+revoke a request for the redaction or nondisclosure of a covered person's home 
+39
+address from certain records and publicly available online resources, as provided 
+40
+in this section. Such a request is not subject to disclosure under any statute or rule 
+41
+governing disclosure of public information;
+
+Page 2 - 132LR2650(01)
+1
+(2)  A process by which an authorized person may petition the director for 
+2
+reconsideration of a denial of a request for the redaction or nondisclosure of a 
+3
+covered person's home address or revocation of such a request under subparagraph 
+4
+(1);
+5
+(3)  A process by which a person or entity may request a record that does not 
+6
+contain a redaction or a nondisclosure; and
+7
+(4)  A process for the evaluation of any exceptions other than those under this 
+8
+paragraph to the requirement for redaction or nondisclosure pursuant to this 
+9
+section, whether categorical or individualized. The director may grant an exception 
+10
+to any person or entity for the receipt of the unredacted records or information 
+11
+pursuant to this process.
+12
+B.  The director shall evaluate and either approve or deny a request submitted pursuant 
+13
+to paragraph A or a revocation of a request submitted pursuant to paragraph A.
+14
+C.  The director may enter into any agreement or contract necessary to effectuate the 
+15
+purposes of this section.
+16
+D.  The director may issue any guidance, guidelines or decisions or adopt rules 
+17
+necessary to effectuate the purposes of this section in accordance with the provisions 
+18
+of the Maine Administrative Procedure Act. Rules adopted pursuant to this paragraph 
+19
+are routine technical rules as described in chapter 375, subchapter 2-A.
+20
+3.  Information redaction, nondisclosure request; enforcement.  An authorized 
+21
+person seeking the redaction or nondisclosure of the home address of any covered person 
+22
+from certain records and publicly available online resources shall submit a request in 
+23
+accordance with this section to the office through the secure electronic portal established 
+24
+under subsection 2, paragraph A. The address is subject to redaction or nondisclosure only 
+25
+if a request is submitted to and approved by the director.
+26
+A.  A state, county or municipal government, or a department or agency of a state, 
+27
+county or municipal government, shall redact or cease to disclose, respectively, the 
+28
+home address of a covered person approved by the office not later than 30 days 
+29
+following the approval. A state, county or municipal government, or a department or 
+30
+agency of a state, county or municipal government, also shall discontinue the redaction 
+31
+or nondisclosure of the home address of any covered person for whom a revocation 
+32
+request has been approved not later than 30 days following the revocation approval.
+33
+B.  A custodian of records of a government, department or agency listed in paragraph 
+34
+A who makes a reasonable effort to comply with this subsection must be presumed to 
+35
+have acted without willful, purposeful or reckless disregard of the law.
+36
+C.  An immediate family member who sought and received approval for redaction or 
+37
+nondisclosure and who no longer resides with the covered person shall submit through 
+38
+the portal a revocation request not later than 30 days from the date on which the 
+39
+immediate family member no longer resided with the covered person.
+40
+D.  An authorized person submitting a request for redaction or nondisclosure pursuant 
+41
+to this subsection shall affirm in writing that the covered person understands that 
+42
+certain rights, duties and obligations are affected because of the request, including:
+
+Page 3 - 132LR2650(01)
+1
+(1)  The signing of petitions related to the nomination or election of a candidate to 
+2
+public office or related to any public question;
+3
+(2)  The eligibility or requirements related to seeking or accepting the nomination 
+4
+for election or election to public office, or the appointment to any public position;
+5
+(3)  The sale or purchase of a home or other property, recordation of a judgment, 
+6
+lien or other encumbrance on real or other property and any relief granted based 
+7
+on the sale or purchase of a home or other property or recordation of a judgment, 
+8
+lien or other encumbrance on real or other property;
+9
+(4)  The ability to be notified of any class action suit or settlement; and
+10
+(5)  Any other legal, promotional or official notice that would otherwise be 
+11
+provided to the person but for the redaction or nondisclosure of the person's home 
+12
+address pursuant to this subsection.
+13
+4. Exceptions.  The following exceptions apply to the requirement to redact, and the 
+14
+prohibition against the disclosure of, a home address pursuant to subsection 3.
+15
+A.  Copies of voter registration files maintained in the central voter registration system 
+16
+as defined in Title 21-A, section 1, subsection 6-A must be provided as redacted 
+17
+pursuant to this section, but copies of the files as unredacted must be provided to the 
+18
+following individuals, upon the individual's signing of an affidavit attesting to the 
+19
+individual's qualifying status:
+20
+(1)  The chair of the state, county or municipal committee of a political party, or a 
+21
+designee of the chair, for distribution to any person authorized to serve as a 
+22
+challenger in an election;
+23
+(2)  A candidate acting as a challenger in an election;
+24
+(3)  A vendor, contractor or organization carrying out a function of a municipality 
+25
+or county or of the State concerning the administration or conduct of elections; and
+26
+(4)  A person who has the right to obtain a copy of voter registration files pursuant 
+27
+to an order of a Justice of the Superior Court after a finding that the unredacted 
+28
+copy is necessary to determine the merits of a pending case.
+29
+B.  Except as provided in paragraph C, subparagraph (3), a document affecting the title 
+30
+to real property, recorded and indexed by a register of deeds or as otherwise held or 
+31
+maintained by the Department of Administrative and Financial Services, Bureau of 
+32
+Revenue Services, a county board of commissioners, a county official responsible for 
+33
+tax administration or a county or municipal tax assessor, that contains a home address 
+34
+subject to redaction or nondisclosure consistent with this section may instead or in 
+35
+addition include the redaction and nondisclosure of the names or other information of 
+36
+covered persons, as specified by the State Tax Assessor.  The redaction and 
+37
+nondisclosure may include masking of the covered person's names or other 
+38
+information, and the document must be provided as unredacted to the following 
+39
+persons when requested in the person's ordinary course of business:
+40
+(1)  A title insurance company, a title insurance agent or an attorney;
+41
+(2)  A mortgage guarantee insurance company;
+42
+(3)  A mortgage loan originator;
+
+Page 4 - 132LR2650(01)
+1
+(4)  An entity that performs title searches;
+2
+(5)  A real estate broker or a real estate salesperson; and
+3
+(6)  An individual or business that has made or received an offer for the purchase 
+4
+of real estate or real property, or any portion of real estate or real property, to or 
+5
+from a covered person.
+6
+C.  The following are not subject to redaction or nondisclosure pursuant to subsection 
+7
+3:
+8
+(1)  Records and documents, including Uniform Commercial Code filings and 
+9
+financing statements, maintained by the Department of the Secretary of State, 
+10
+bureau of corporations, elections and commissions, division of corporations, 
+11
+uniform commercial code and commissions;
+12
+(2)  Petitions naming candidates for office;
+13
+(3)  Records evidencing any lien, judgment or other encumbrance upon real or 
+14
+other property; and
+15
+(4)  Records pertaining to property that is presumed abandoned under the Maine 
+16
+Revised Unclaimed Property Act.
+17
+D.  A public agency may share unredacted information with a vendor, contractor or 
+18
+organization to carry out the purposes for which the public agency entered into an 
+19
+agreement with the vendor, contractor or organization. The vendor, contractor or 
+20
+organization may not use such information in any manner other than as necessary to 
+21
+carry out the purposes of the agreement.
+22
+E.  For the purposes of the calculation of property tax benefits and the administration 
+23
+of property tax credits for covered persons, a municipality may share unredacted 
+24
+property tax information with the State Tax Assessor, and the State Tax Assessor may 
+25
+provide to a municipality the property tax credits to be applied against property tax 
+26
+bills of covered persons who are eligible claimants.
+27
+5.  Information shared with governmental entity.  This section may not be construed 
+28
+to require redaction or nondisclosure of any information in any document, record or 
+29
+database shared with or otherwise provided to any other governmental entity.
+30
+6.  Register of deeds returning document.  This section may not be construed to 
+31
+prohibit a register of deeds from returning a document as unredacted to any person who 
+32
+submitted the document for recordation.
+33
+7.  Information provided upon court order.  Information otherwise subject to 
+34
+redaction or nondisclosure pursuant to this section may be provided as unredacted upon 
+35
+order of a Justice of the Superior Court or of any other court of competent jurisdiction.
+36
+8.  Availability of records.  This section may not be construed to require a record to 
+37
+be made available that is not otherwise required to be made available under any other law 
+38
+or rule.
+39
+9.  State Tax Assessor may issue guidance or adopt rules.  The State Tax Assessor 
+40
+may issue any guidance or guidelines or adopt rules necessary to effectuate the purposes of 
+41
+this section. Rules adopted pursuant to this subsection are routine technical rules as 
+42
+described in chapter 375, subchapter 2-A.
+
+Page 5 - 132LR2650(01)
+1
+SUMMARY
+2
+This bill allows specified public officials, and their immediate family members, to 
+3
+request that certain personal information, including residential addresses, be removed from 
+4
+public records and publicly available online resources maintained by state, county and 
+5
+municipal government agencies.  The bill establishes the Office of Information Privacy in 
+6
+the Department of the Secretary of State to administer the provisions of the bill.
+2
+3
+4
+5
+6

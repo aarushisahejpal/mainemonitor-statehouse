@@ -1,0 +1,67 @@
+{
+  "ld": 1909,
+  "paper": "SP0750",
+  "paper_display": "SP 750",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099069",
+  "title": "Resolve, to Provide a Comprehensive Analysis of Criminal Legal System Data",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 20, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/6/2025 - The Resolve was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY . In concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/20/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Rachel TALBOT ROSS",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CRIMINAL PROCEDURE",
+      "minor": "RECORDS",
+      "detail": "DATA TRANSPARENCY"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "Senate",
+      "description": "Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY suggested and ordered printed REFERENCE to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "The Resolve was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0750&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0750",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0750&SessionID=16",
+  "scraped_at": "2026-06-30T19:58:11Z"
+}

@@ -1,0 +1,290 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1674
+H.P. 1109
+House of Representatives, April 17, 2025
+An Act to Require Insurers to Address Climate Risk in Their 
+Business Activities
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative WARREN of Scarborough.
+Cosponsored by Senator GROHOSKI of Hancock and
+Representatives: BECK of South Portland, FRIEDMANN of Bar Harbor, OSHER of Orono.
+
+Page 1 - 132LR1810(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  24-A MRSA c. 101 is enacted to read:
+3
+CHAPTER 101
+4
+INSURING OUR COMMUNITIES ACT
+5
+§7801.  Short title
+6
+This Act may be known and cited as "the Insuring Our Communities Act."
+7
+§7802.  Definitions
+8
+As used in this chapter, unless the context indicates otherwise, the following terms 
+9
+have the following meanings.
+10
+1.  New fossil fuel project.  "New fossil fuel project" means a project designed to 
+11
+facilitate the production of fossil fuels in excess of what is in development as of September 
+12
+15, 2025, including production of new coal infrastructure, power plants or mines.  "New 
+13
+fossil fuel project" includes projects that support exploring new oil and gas fields or 
+14
+otherwise expanding oil and gas reserves; examples of such projects include, but are not 
+15
+limited to, the construction of new wells, pipelines, terminals or gas power plants.
+16
+2.  Precautionary principle.  "Precautionary principle" means an approach taken to 
+17
+regulation that mandates that, when activities under consideration may lead to unacceptably 
+18
+serious or irreversible harm that is scientifically plausible but uncertain, actions must be 
+19
+taken to avoid or diminish that harm.
+20
+3.  Reporting year.  "Reporting year" means a 12-month period of time for which a 
+21
+company reports its financial performance.
+22
+§7803.  Climate risk mitigation for insurers
+23
+1.  Precautionary principle; new fossil fuel project underwriting restrictions.  The 
+24
+bureau shall:
+25
+A.  Integrate the precautionary principle into its regulation and supervision of insurers 
+26
+by:
+27
+(1)  Incorporating measures to anticipate, prevent or minimize the effects of climate 
+28
+risk and its adverse effects; and
+29
+(2)  Implementing cost-effective measures to address the climate risk exposure of 
+30
+insurers, even in the absence of full economic or scientific certainty;
+31
+B.  Require insurers, as a condition of doing business in the State, to annually submit 
+32
+a report on their progress on plans to align their investment and underwriting activities 
+33
+with science-based climate risk mitigation targets that are based on absolute 
+34
+greenhouse gas emissions reduction targets and do not rely on carbon offsets or 
+35
+unproven technology;
+36
+C.  Require insurers to annually submit a commitment to not invest or underwrite new 
+37
+fossil fuel projects; and
+
+Page 2 - 132LR1810(01)
+1
+D.  Align insurer investment and underwriting activities with science-based climate 
+2
+risk mitigation targets by prohibiting underwriting for any new fossil fuel project and 
+3
+directing insurers to phase out existing underwriting for exploration, extraction, 
+4
+processing, exporting and transporting and any other significant action with respect to 
+5
+oil, natural gas, coal or any byproduct thereof.
+6
+2.  Investments and underwriting reporting.  No later than September 15, 2026 and 
+7
+annually thereafter, insurers subject to the requirements of this section pursuant to 
+8
+subsection 4 shall submit a report to the bureau disclosing the information required under 
+9
+this subsection for the preceding reporting year.  The report must disclose:
+10
+A.  The insurer's investments in:
+11
+(1)  Any company that derives 10% or more of its revenue from exploration, 
+12
+extraction, processing, exporting, transporting and any other significant action with 
+13
+respect to oil, natural gas, coal or any byproduct thereof;
+14
+(2)  Any project intended to facilitate or expand exploration, extraction, processing, 
+15
+exporting, transporting and any other significant action with respect to oil, natural 
+16
+gas, coal or any byproduct thereof; and
+17
+(3)  Any project intended to construct any infrastructure related to projects 
+18
+described under subparagraph (2), such as wells, pipelines, terminals and 
+19
+refineries;
+20
+B.  The greenhouse gas emissions associated with insurers' financing and investment 
+21
+activities from all of the insurer's investments;
+22
+C.  The insurer's gross premium underwriting for:
+23
+(1)  Any company that derives 10% or more of its revenue from exploration, 
+24
+extraction, processing, exporting, transporting and any other significant action with 
+25
+respect to oil, natural gas, coal or any byproduct thereof;
+26
+(2)  Any project intended to facilitate or expand exploration, extraction, processing, 
+27
+exporting, transporting and any other significant action with respect to oil, natural 
+28
+gas, coal or any byproduct thereof; and
+29
+(3)  Any project intended to construct any infrastructure related to projects 
+30
+described under subparagraph (2), such as wells, pipelines, terminals and 
+31
+refineries;
+32
+D.  The greenhouse gas emissions associated with the insurer's issuance of insurance 
+33
+or reinsurance policies from all of the insurer's underwriting; and
+34
+E.  Any other information the bureau considers necessary to effectively implement and 
+35
+enforce any rule adopted pursuant to this chapter.
+36
+The superintendent shall develop and implement criteria for reporting under this subsection 
+37
+that enable the superintendent to post the information reported pursuant to this subsection 
+38
+on the bureau's publicly accessible website.
+39
+Within 3 months of receiving a report required pursuant to this subsection, the 
+40
+superintendent shall compile and post the information in the report on the bureau's publicly 
+41
+accessible website.
+
+Page 3 - 132LR1810(01)
+1
+3.  Consultants.  The superintendent may engage the services of attorneys, actuaries, 
+2
+accountants and other experts not otherwise a part of the superintendent's staff, at the 
+3
+reporting insurer's expense, as is reasonably necessary to assist in the review of an insurer's 
+4
+report submitted pursuant to subsection 2.  A person engaged pursuant to this subsection 
+5
+must be under the direction and control of the superintendent and must act in a purely 
+6
+advisory capacity.
+7
+4.  Application.  The superintendent shall subject an insurer to the requirements of this 
+8
+section if:
+9
+A.  The insurer reports over $10,000,000 of direct premiums written in the State on its 
+10
+annual filing of the so-called Schedule T form, or successor form, with the National 
+11
+Association of Insurance Commissioners;
+12
+B.  The insurer's activities or investments may expose the insurer to a heightened level 
+13
+of risk due to climate change; or
+14
+C.  The superintendent otherwise determines that disclosure is in the public interest.
+15
+§7804.  Divestiture
+16
+No later than September 15, 2030, the superintendent shall require any insurer doing 
+17
+business in the State to certify that the insurer has divested from:
+18
+1.  Fossil fuel revenue.  Any company that derives 10% or more of its revenue from 
+19
+exploration, extraction, processing, exporting, transporting and any other significant action 
+20
+with respect to oil, natural gas, coal or any byproduct thereof;
+21
+2.  Fossil fuel projects.  Any project intended to facilitate or expand exploration, 
+22
+extraction, processing, exporting, transporting and any other significant action with respect 
+23
+to oil, natural gas, coal or any byproduct thereof; and
+24
+3.  Infrastructure projects.  Any project intended to construct any infrastructure 
+25
+related to projects under subsection 2, such as wells, pipelines, terminals or refineries.
+26
+§7805.  Reporting
+27
+No later than September 15, 2026, and once every 2 years thereafter, the superintendent 
+28
+shall submit a report to the Legislature and the Governor pursuant to this subsection.  The 
+29
+initial report must disclose for the preceding calendar year, and the biennial report must 
+30
+disclose for the preceding 2 calendar years:
+31
+1.  Efforts to implement this chapter.  The bureau's efforts to implement this chapter;
+32
+2.  Regulatory and supervisory actions taken.  The bureau's regulatory and 
+33
+supervisory actions taken, if any, to bolster the resilience of insurers to the physical effects 
+34
+of climate change;
+35
+3.  Affordability and availability of insurance for disadvantaged communities.  
+36
+The effects, if any, that the insurers' efforts to address climate risk have had on the 
+37
+affordability and availability of insurance for disadvantaged communities;
+38
+4.  Readiness for climate change and energy transition.  Insurers' and the insurance 
+39
+market's readiness for climate change and any related energy transition;
+40
+5.  Major sources of climate risk.  Major sources of climate risk faced by the insurers;
+
+Page 4 - 132LR1810(01)
+1
+6.  Gaps to address.  Any gaps in insurers' response to climate risk that the bureau 
+2
+intends to address; and
+3
+7.  Legislative action.  Any legislative action that must be taken in order to allow the 
+4
+bureau to address climate risk.
+5
+The report must be made available to the public and posted on the bureau's publicly 
+6
+accessible website.  
+7
+The report must include the bureau's planned regulatory and supervisory actions, if any, 
+8
+to bolster the resilience of insurers to the physical effects of climate change.
+9
+§7806.  Rules
+10
+The superintendent may adopt rules to implement this chapter.  Rules adopted pursuant 
+11
+to this section are routine technical rules as defined in Title 5, chapter 375, subchapter 2-A.
+12
+SUMMARY
+13
+This bill establishes the Insuring Our Communities Act, which requires insurers to 
+14
+address climate risk in their business activities.
+13
+14

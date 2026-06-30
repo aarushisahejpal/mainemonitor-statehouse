@@ -1,0 +1,213 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1875
+H.P. 1246
+House of Representatives, May 5, 2025
+An Act to Create Equity in Maine's Highway Funding by Imposing 
+a Road Use Fee for Electric Vehicles
+Received by the Clerk of the House on May 1, 2025.  Referred to the Committee on 
+Taxation pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ARDELL of Monticello.
+
+Page 1 - 132LR1205(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  36 MRSA c. 456 is enacted to read:
+3
+CHAPTER 456
+4
+ELECTRIC VEHICLE ROAD USE FEES
+5
+§3051.  Road use fee for electric vehicles
+6
+In addition to the annual fee for registration of motor vehicles pursuant to Title 29-A, 
+7
+section 501, registration of electric vehicles is subject to this section. 
+8
+1.  Definitions.  As used in this chapter, unless the context otherwise indicates, the 
+9
+following terms have the following meanings. 
+10
+A.  "Battery electric vehicle" has the same meaning as in Title 35-A, section 10126, 
+11
+subsection 1, paragraph A. 
+12
+B.  "Electric vehicle" means a battery electric vehicle and a plug-in hybrid electric 
+13
+vehicle. 
+14
+C.  "Fund" means the Electric Vehicle Road Use Fee Fund established in subsection 5. 
+15
+D. "Gasoline tax" means the excise tax imposed on internal combustion engine fuel 
+16
+used or sold in this State pursuant to section 2903. 
+17
+E.  "Mileage registration form" means the form completed by a person registering an 
+18
+electric vehicle pursuant to subsection 2. 
+19
+F.  "Plug-in hybrid electric vehicle" has the same meaning as in Title 35-A, section 
+20
+10126, subsection 1, paragraph D. 
+21
+2.  Mileage registration form.  Beginning January 1, 2026, a person registering an 
+22
+electric vehicle pursuant to Title 29-A, section 501 shall complete, at the same time, a 
+23
+mileage registration form provided by the bureau stating the mileage of the electric vehicle 
+24
+at the time of registration.  A person who knowingly misrepresents the actual mileage of 
+25
+the electric vehicle at the time of registration on the mileage registration form commits 
+26
+forgery and is in violation of Title 17-A, section 703.  The assessor shall make the mileage 
+27
+registration form available to municipalities and on the bureau's publicly accessible 
+28
+website. 
+29
+3.  Return of forms to bureau.  A municipality that receives a completed mileage 
+30
+registration form shall forward that form to the bureau within 30 days of receipt of the 
+31
+mileage registration form. 
+32
+4.  Calculation and levy of fee.  The bureau, based on the mileage stated on a mileage 
+33
+registration form, shall calculate the fee due from each registrant of an electric vehicle 
+34
+pursuant to this subsection. 
+35
+A. The bureau shall subtract from the mileage stated on the most recently received 
+36
+mileage reimbursement form the mileage stated on the mileage reimbursement form 
+37
+filed for that electric vehicle for the immediately prior year.  This is the net mileage. 
+38
+B.  The bureau shall multiple the net mileage under paragraph A by: 
+
+Page 2 - 132LR1205(01)
+1
+(1) For battery electric vehicles, 1.0¢; and
+2
+(2) For plug-in hybrid electric vehicles, 0.5¢. 
+3
+This amount is the electric vehicle road use fee. 
+4
+C.  The bureau shall notify the registrant of the electric vehicle of the amount of the 
+5
+electric vehicle road use fee under paragraph B, that the registrant has 45 days to pay 
+6
+the electric vehicle road use fee and that failure to pay will result in the suspension of 
+7
+the registration of the electric vehicle for which the fee is due. 
+8
+D.  A registrant shall pay the electric vehicle road use fee within 45 days of receipt of 
+9
+notice provided pursuant to paragraph C.  Payment must be made to the bureau. 
+10
+E.  Notwithstanding paragraph B, if the amount of the gasoline tax changes from 30.0¢ 
+11
+per gallon, the assessor shall adjust the multipliers specified in paragraph B, 
+12
+subparagraphs (1) and (2) to obtain an equivalent increase or decrease in the electric 
+13
+vehicle road use fee. 
+14
+F.  All fees collected pursuant to this chapter must be deposited into the fund.
+15
+5.  Electric Vehicle Road Use Fee Fund.  The Electric Vehicle Road Use Fee Fund is 
+16
+established as a nonlapsing fund within the bureau. 
+17
+6.  Use of fees for gasoline tax suspension; determination of dates; proclamation.  
+18
+Fees collected pursuant to this chapter must be used to establish a suspension from the 
+19
+gasoline tax as provided in this subsection. 
+20
+A.  Beginning January 15, 2027 and annually thereafter, the assessor shall determine 
+21
+the amount of funds in the fund as of the end of the immediately preceding calendar 
+22
+year and the amount of revenue collected from the gasoline tax imposed for that same 
+23
+time period. 
+24
+B.  Using the amounts determined pursuant to paragraph A, the assessor shall divide 
+25
+the amount of funds in the fund by the amount of revenue received from the gasoline 
+26
+tax.  The result must be multiplied by the number of days in the calendar year. 
+27
+C.  The result of the calculation performed pursuant to paragraph B, rounded to the 
+28
+nearest whole number, is the number of days that the gasoline tax must be suspended 
+29
+in the calendar year in which the calculation is performed. 
+30
+D.  The assessor shall inform the Governor and the joint standing committees of the 
+31
+Legislature having jurisdiction over transportation matters and taxation matters of the 
+32
+number of days of suspension of the gasoline tax required pursuant to paragraph C. 
+33
+E.  The Governor shall determine the date or dates on which the gasoline tax is 
+34
+suspended, which must occur in the same calendar year in which the assessor informs 
+35
+the Governor pursuant to paragraph D, and by proclamation shall announce the date or 
+36
+dates of the suspension, notwithstanding section 2903. 
+37
+7.  Rules.  The assessor shall adopt routine technical rules in accordance with Title 5, 
+38
+chapter 375, subchapter 2-A to implement this chapter. 
+39
+SUMMARY
+40
+This bill imposes a road use fee on battery electric vehicles and plug-in hybrid electric 
+41
+vehicles based on the number of miles the vehicle is driven in a year.  A person registering 
+40
+41
+
+Page 3 - 132LR1205(01)
+42
+an electric vehicle is required to complete at the same time a form stating the mileage of 
+43
+the electric vehicle and submit the form to the municipality in which the electric vehicle is 
+44
+registered.  The Department of Administrative and Financial Services, Bureau of Revenue 
+45
+Services is required, based on the mileage accumulated by that electric vehicle during the 
+46
+prior registration period, to assess the person registering that electric vehicle a fee, which 
+47
+for battery electric vehicles is 1.0¢ per mile and for plug-in hybrid electric vehicles is 0.5¢ 
+48
+per mile.  The per mile rate is tied to the gasoline tax rate imposed on internal combustion 
+49
+engine fuel of 30.0¢ per gallon; if that rate changes, the per mile electric vehicle rate also 
+50
+changes.
+10
+Revenue collected from the electric vehicle road use fee is used to temporarily suspend 
+11
+the gasoline tax for the number of days equivalent to a ratio of fees to total gasoline tax 
+12
+revenue.  The Governor is required to determine and announce the dates of the suspension.
+1
+2
+3
+4
+5
+6
+7
+8
+9

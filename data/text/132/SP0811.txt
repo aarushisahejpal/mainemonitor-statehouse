@@ -1,0 +1,153 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 1998
+S.P. 811
+In Senate, December 5, 2025
+An Act to Authorize Registration of Certain Cash-dispensing 
+Machines Through the Nationwide Mortgage Licensing System and 
+Registry and to Limit the Use of Certain Cash-dispensing Machines 
+as Virtual Currency Kiosks
+Submitted by the Department of Professional and Financial Regulation pursuant to Joint 
+Rule 203.
+Received by the Secretary of the Senate on December 3, 2025.  Referred to the Committee 
+on Health Coverage, Insurance and Financial Services pursuant to Joint Rule 308.2 and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BAILEY of York.
+
+Page 1 - 132LR2811(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  32 MRSA §6152, sub-§2, as enacted by PL 1999, c. 229, §2, is amended to 
+3
+read:
+4
+2.  Limitations.  A cash-dispensing machine:
+5
+A.  May not accept deposits or loan payments or effectuate account transfers other than 
+6
+those transfers between the customer's accounts in the same financial institution; and
+7
+B.  Must be operated in such a way as to comply with the Electronic Funds Transfer 
+8
+Act, 15 United States Code, Section 1693 et seq. or regulations adopted under that Act.; 
+9
+and
+10
+C.  May not operate as a virtual currency kiosk as defined in section 6164, subsection 
+11
+3 unless the virtual currency kiosk operator is licensed as a money transmitter pursuant 
+12
+to section 6165.
+13
+Sec. 2.  32 MRSA §6153, sub-§1, ¶B, as enacted by PL 1999, c. 229, §2, is 
+14
+amended to read:
+15
+B.  A registration fee of $50 for the first cash-dispensing machine location operator and 
+16
+$25 for each additional location, payable to the Treasurer of State cash-dispensing 
+17
+machine.
+18
+Sec. 3.  32 MRSA §6153, sub-§1-A is enacted to read:
+19
+1-A.  Nationwide mortgage licensing system and registry.  The administrator may 
+20
+require registration under this section through the nationwide mortgage licensing system 
+21
+and registry as defined in Title 9‑A, section 13‑102, subsection 8. The administrator is 
+22
+authorized to participate in the nationwide mortgage licensing system and registry.  
+23
+Sec. 4.  32 MRSA §6153, sub-§1-B is enacted to read:
+24
+1-B.  Registration requirements.  In all cases, whether registration is through the 
+25
+nationwide mortgage licensing system and registry or otherwise, the administrator may 
+26
+establish, by rule, requirements for registration, including but not limited to:  
+27
+A. Background checks for:  
+28
+(1) Criminal history through fingerprint or other databases;
+29
+(2) Civil or administrative records;
+30
+(3) Credit history; or
+31
+(4) Any other information determined necessary by the nationwide mortgage 
+32
+licensing system and registry;
+33
+B. The payment of fees to apply for or renew registration. If registration is through the 
+34
+nationwide mortgage licensing system and registry, an applicant must also pay a 
+35
+nationwide mortgage licensing system and registry processing fee in an amount to be 
+36
+determined by the administrators of the nationwide mortgage licensing system and 
+37
+registry. Renewal applications received after the due date are subject to an additional 
+38
+fee of $100;
+39
+C. The setting or resetting as necessary of renewal or reporting dates; and
+
+Page 2 - 132LR2811(01)
+1
+D. Other requirements for application for, amendment of or revocation of a registration 
+2
+or any other such activities as the administrator considers necessary.
+3
+The aggregate of registration fees and other fees and assessments provided for by this 
+4
+section is appropriated for the use of the administrator. Any balance of these funds does 
+5
+not lapse but must be carried forward to be expended for the same purpose in the following 
+6
+fiscal year.
+7
+Sec. 5.  32 MRSA §6153, sub-§6, as enacted by PL 1999, c. 229, §2, is amended to 
+8
+read:
+9
+6.  Fine.  The administrator may impose a fine of $5 $25 per day on any person failing 
+10
+to comply with the requirements of this section.
+11
+Sec. 6.  32 MRSA §6154, sub-§1, ¶A-1 is enacted to read:
+12
+A-1.  If registration is through the nationwide mortgage licensing system and registry, 
+13
+the operator’s unique identifier as defined in Title 9-A, section 13-102, subsection 15;
+14
+SUMMARY
+15
+This bill authorizes the Superintendent of Consumer Credit Protection within the 
+16
+Department of Professional and Financial Regulation to require registration of certain cash-
+17
+dispensing machines through the nationwide mortgage licensing system and registry. In all 
+18
+cases, whether registration is through the nationwide mortgage licensing system and 
+19
+registry or otherwise, the bill authorizes the superintendent to establish, by rule, 
+20
+requirements for registration of certain cash-dispensing machines. The bill provides that 
+21
+certain cash-dispensing machines may not operate as virtual currency kiosks unless the 
+22
+virtual currency kiosk operator is licensed as a money transmitter. 
+15
+16
+17
+18
+19
+20
+21
+22

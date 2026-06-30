@@ -1,0 +1,123 @@
+{
+  "ld": 2233,
+  "paper": "HP1509",
+  "paper_display": "HP 1509",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101952",
+  "title": "An Act to Combine the Board of Licensure in Medicine and Board of Osteopathic Licensure into a Single Licensing Board for All Physicians and Physician Associates",
+  "committee": "Health Coverage, Insurance and Financial Services",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 16, 2026",
+  "governor_action": "Signed, Apr 16, 2026",
+  "chaptered_law": "ACTPUB, Chapter 738",
+  "chapter": "738",
+  "became_law": true,
+  "last_house_action": "4/13/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/13/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Kristi MATHIESON",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Kittery"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "HEALTH CARE PERSONNEL",
+      "minor": "LICENSING",
+      "detail": "COMBINED BOARDS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-12",
+      "date_raw": "3/12/2026",
+      "chamber": "House",
+      "description": "Representative MATHIESON for the Joint Standing Committee on Health Coverage, Insurance and Financial Services pursuant to Joint Order 2025, H.P. 1486 reports that the Bill be REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES and printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. Bill and accompanying papers REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES , in concurrence."
+    },
+    {
+      "date": "2026-04-08",
+      "date_raw": "4/8/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-1025) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-13",
+      "date_raw": "4/13/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED. READ ONCE Committee Amendment \"A\" (H-1025) READ. On motion by Senator BAILEY of York Senate Amendment \"A\" (S-659) to Committee Amendment \"A\" (H-1025) READ and ADOPTED Committee Amendment \"A\" (H-1025) as Amended by Senate Amendment \"A\" (S-659) thereto ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-1025) as Amended by Senate Amendment \"A\" (S-659) thereto In NON-CONCURRENCE Sent down for concurrence"
+    },
+    {
+      "date": "2026-04-13",
+      "date_raw": "4/13/2026",
+      "chamber": "House",
+      "description": "The House RECEDED and CONCURRED to PASSAGE TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-1025) as Amended by Senate Amendment \"A\" (S-659) thereto. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-13",
+      "date_raw": "4/13/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-13",
+      "date_raw": "4/13/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-1025 )",
+      "new_title": "",
+      "house_action": "Adopted on 4/13/2026",
+      "senate_action": "Adopted on 4/13/2026",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "S \"A\" (S-659 ) to C \"A\" (H-1025 )",
+      "new_title": "",
+      "house_action": "Adopted on 4/13/2026",
+      "senate_action": "Adopted on 4/13/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1509&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1509&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1509&item=4&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1509&item=5&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1509",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1509&SessionID=16",
+  "scraped_at": "2026-06-30T20:24:21Z"
+}

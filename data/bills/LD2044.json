@@ -1,0 +1,106 @@
+{
+  "ld": 2044,
+  "paper": "SP0837",
+  "paper_display": "SP 837",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100926",
+  "title": "An Act to Make the Biofuel Commercial Production and Commercial Use Tax Credit and the Renewable Chemicals Tax Credit Refundable",
+  "committee": "Taxation",
+  "status_summary": "",
+  "final_disposition": "Died On Adjournment, Apr 29, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/8/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/29/2026 - Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)",
+  "sponsors": [
+    {
+      "name": "Teresa PIERCE",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Ryan FECTEAU",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Speaker",
+      "district": "Biddeford"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "INCOME TAX",
+      "minor": "CREDITS",
+      "detail": "BIOFUEL AND RENEWABLE CHEMICALS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-09",
+      "date_raw": "12/9/2025",
+      "chamber": "Senate",
+      "description": "Received by the Secretary of the Senate on December 9, 2025 and REFERRED to the Committee on TAXATION pursuant to Joint Rule 308.2"
+    },
+    {
+      "date": "2026-04-07",
+      "date_raw": "4/7/2026",
+      "chamber": "Senate",
+      "description": "Reports READ. On motion by Senator GROHOSKI of Hancock The Majority Ought to Pass As Amended Report ACCEPTED. READ ONCE Committee Amendment \"A\" (S-639) READ and ADOPTED. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (S-639) Sent down for concurrence."
+    },
+    {
+      "date": "2026-04-08",
+      "date_raw": "4/8/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SAYRE of Kennebunk, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (S-639) was READ and ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-639) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-08",
+      "date_raw": "4/8/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-08",
+      "date_raw": "4/8/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending PASSAGE TO BE ENACTED , in concurrence."
+    },
+    {
+      "date": "2026-04-29",
+      "date_raw": "4/29/2026",
+      "chamber": "Senate",
+      "description": "Died in Possession of the Senate when the Legislature adjourned Sine Die and was PLACED IN THE LEGISLATIVE FILES . (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-639 )",
+      "new_title": "An Act to Make the Biofuel Commercial Production and Commercial Use Tax Credit and the Renewable Chemicals Tax Credit Refundable",
+      "house_action": "Adopted on 4/8/2026",
+      "senate_action": "Adopted on 4/7/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0837&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0837&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0837",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0837&SessionID=16",
+  "scraped_at": "2026-06-30T20:08:58Z"
+}

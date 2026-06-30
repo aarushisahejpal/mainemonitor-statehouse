@@ -1,0 +1,104 @@
+{
+  "ld": 2193,
+  "paper": "SP0894",
+  "paper_display": "SP 894",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101471",
+  "title": "An Act to Extend the Requirement That the Maine Commission on Public Defense Services Compensate Certain Private Attorneys Appointed to Provide Indigent Legal Services",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Emergency Enacted, Apr 3, 2026",
+  "governor_action": "Emergency Signed, Apr 3, 2026",
+  "chaptered_law": "ACTPUB, Chapter 607",
+  "chapter": "607",
+  "became_law": true,
+  "last_house_action": "3/26/2026 - This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/30/2026 - PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence.",
+  "sponsors": [
+    {
+      "name": "Anne CARNEY",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "LEGAL SERVICES",
+      "minor": "INDIGENT",
+      "detail": "PRIVATE ATTORNEYS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "date_raw": "2/3/2026",
+      "chamber": "Senate",
+      "description": "Reported that the same be REFERRED to the Committee on JUDICIARY , pursuant to Public Law, chapter 40, section 5. Report READ and ACCEPTED . Bill and accompanying papers REFERRED to the Committee on JUDICIARY. Sent down for concurrence."
+    },
+    {
+      "date": "2026-02-10",
+      "date_raw": "2/10/2026",
+      "chamber": "House",
+      "description": "Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on JUDICIARY In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-24",
+      "date_raw": "3/24/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED . READ ONCE . Committee Amendment \"A\" (S-562) READ and ADOPTED . Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (S-562). Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2026-03-25",
+      "date_raw": "3/25/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (S-562) . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-26",
+      "date_raw": "3/26/2026",
+      "chamber": "House",
+      "description": "This being an emergency measure, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-30",
+      "date_raw": "3/30/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (S-562 )",
+      "new_title": "",
+      "house_action": "Adopted on 3/25/2026",
+      "senate_action": "Adopted on 3/24/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0894&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0894&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0894&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0894",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0894&SessionID=16",
+  "scraped_at": "2026-06-30T20:20:53Z"
+}

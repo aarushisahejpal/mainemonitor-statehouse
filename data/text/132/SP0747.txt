@@ -1,0 +1,310 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1906
+S.P. 747
+In Senate, May 6, 2025
+An Act to Improve Accountability and Understanding of Data in 
+Insurance Transactions
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BAILEY of York.
+Cosponsored by Representative MORRIS of Turner and
+Senator: President DAUGHTRY of Cumberland, Representatives: BOYER of Cape Elizabeth, 
+Speaker FECTEAU of Biddeford, FOLEY of Wells, GATTINE of Westbrook, GRAMLICH of 
+Old Orchard Beach, MATHIESON of Kittery, OLSEN of Raymond.
+
+Page 1 - 132LR0896(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  24-A MRSA §1914 is enacted to read:
+3
+§1914.  Plan sponsor access to claims data; right to audit
+4
+1.  Ownership of claims data.  Any contract between an administrator and a plan 
+5
+sponsor to provide health coverage must provide that the plan sponsor owns the claims data 
+6
+relating to the contract.
+7
+2.  High-cost claims data.  Upon request of a plan sponsor, an administrator shall 
+8
+provide data on a high-cost claim within 20 business days of a request so that a plan sponsor 
+9
+may perform an audit to ensure compliance with the plan sponsor's contract prior to 
+10
+payment of the high-cost claim.  The data must include itemized billing statements and 
+11
+medical records associated with the claim.  For the purposes of this subsection, "high-cost 
+12
+claim" means any claim related to an individual provided health coverage by a plan sponsor 
+13
+in which the aggregate for an episode of care exceeds $50,000.
+14
+3.  Claims data; right to audit.  An administrator that contracts with a plan sponsor 
+15
+to provide health coverage shall permit a plan sponsor to perform a post-payment audit of 
+16
+all claims paid to ensure compliance with the contract at least once in a calendar year as 
+17
+long as the request is not earlier than 6 months following a previously requested audit.  
+18
+Upon request of a plan sponsor as part of an audit, an administrator shall disclose the 
+19
+following information specific to the plan sponsor or, if requested by the plan sponsor, to 
+20
+the plan sponsor's delegated business associate, within 20 business days:
+21
+A. Claims data, including electronic claims transactions, received by the administrator 
+22
+on any current standardized claim form approved by the Federal Government for 
+23
+professional services or institutional services.  The form or transaction may be 
+24
+modified as necessary to comply with the federal Health Insurance Portability and 
+25
+Accountability Act of 1996, Public Law 104-191; 
+26
+B. Claims payments, electronic funds transfers or remittance advice notices provided 
+27
+by the administrator as electronic files compliant with the federal Health Insurance 
+28
+Portability and Accountability Act of 1996, Public Law 104-191, including, but not 
+29
+limited to, electronic claims transactions for both the billed amount and the paid 
+30
+amount for professional services and both the billed amount and the paid amount for 
+31
+institutional services.  The files may be modified only as necessary to comply with the 
+32
+federal Health Insurance Portability and Accountability Act of 1996, Public Law 
+33
+104-191.  In the event that paper claims are provided, the administrator shall convert 
+34
+the paper claims to an electronic format; 
+35
+C. Any fees charged to the plan sponsor related to plan administration and claims 
+36
+processing, including renegotiation fees, access fees, repricing fees or enhanced review 
+37
+fees; 
+38
+D. Any out-of-network fees or out-of-network negotiated discounts, aligned incentive 
+39
+program fees, pay-for-performance payments and recoveries, cost-containment 
+40
+program fees, overpayment recovery program fees, subrogation fees and any other 
+41
+special program fees and discounts; and
+42
+E.  Itemized billing statements and medical records associated with a specific claim if 
+43
+requested by the plan sponsor or plan sponsor's auditor.
+
+Page 2 - 132LR0896(01)
+1
+4.  No conditions or fees on audit.  An administrator may not impose on a plan 
+2
+sponsor: 
+3
+A. Any fees for requesting an audit under this section that exceed the direct expenses 
+4
+properly and actually incurred by the administrator to provide the data; 
+5
+B. Any fees associated with selecting an auditor other than an auditor designated by 
+6
+the administrator; or
+7
+C. Any conditions that would restrict a plan sponsor's right to conduct an audit under 
+8
+this section, including, but not limited to, restrictions on: 
+9
+(1) The time period covered by the audit; 
+10
+(2) The number of claims analyzed; 
+11
+(3) The type of analysis conducted; 
+12
+(4) The data elements used in the analysis; 
+13
+(5) The plan sponsor's choice of auditor; or 
+14
+(6) The means by which an auditor is compensated by a plan sponsor. 
+15
+5.  Compliance with federal Health Insurance Portability and Accountability Act 
+16
+of 1996.  Information provided by an administrator to a plan sponsor in accordance with 
+17
+this section must comply with any applicable requirements of the federal Health Insurance 
+18
+Portability and Accountability Act of 1996, Public Law 104-191. 
+19
+6.  Application.  This section applies to any contract between an administrator and a 
+20
+plan sponsor that is entered into, issued, amended or renewed on or after January 1, 2026, 
+21
+and an administrator may not enter into, issue, amend or renew any contract on or after 
+22
+January 1, 2026 that contains any provision that violates this section. 
+23
+Sec. 2.  24-A MRSA §4347, sub-§18-A is enacted to read:
+24
+18-A.  Plan sponsor.  "Plan sponsor" has the same meaning as in section 1901, 
+25
+subsection 8.
+26
+Sec. 3.  24-A MRSA §4349-A is enacted to read:
+27
+§4349-A.  Plan sponsor access to claims data; right to audit
+28
+1.  Ownership of claims data.  Any contract between a pharmacy benefits manager 
+29
+and a plan sponsor to provide health coverage must provide that the plan sponsor owns the 
+30
+claims data relating to the contract.
+31
+2.  Prescription drug data.  Within 20 business days of a request from a plan sponsor, 
+32
+a pharmacy benefits manager shall provide data to the plan sponsor regarding the actual 
+33
+amounts directly or indirectly paid by the pharmacy benefits manager to a pharmacy or 
+34
+pharmacist on behalf of the plan sponsor for a prescription drug and for the pharmacy 
+35
+services associated with dispensing that drug. 
+36
+3.  Claims data; right to audit.  Notwithstanding section 4350-C, a pharmacy benefits 
+37
+manager that contracts with a plan sponsor to provide prescription drug coverage shall 
+38
+permit a plan sponsor to perform a post-payment audit of claims paid to ensure compliance 
+39
+with the contract at least once in a calendar year as long as the request is not earlier than 6 
+40
+months following a previously requested audit.  Upon request of a plan sponsor as part of 
+
+Page 3 - 132LR0896(01)
+41
+an audit, a pharmacy benefits manager shall disclose to the plan sponsor or, if requested by 
+42
+the plan sponsor, to the plan sponsor's designated business associate the following 
+43
+information specific to the plan sponsor within 20 business days:
+4
+A. Rebate amounts, identified by the drug and therapeutic category, secured on 
+5
+prescription drugs provided by a pharmaceutical manufacturer that are generated by 
+6
+claims processed through the plan maintained by the plan sponsor;
+7
+B. Prescription drug and medical device claims, including electronic claims 
+8
+transactions, received by the pharmacy benefits manager on any current standardized 
+9
+claim form approved by the Federal Government for these services.  The form or 
+10
+transaction may be modified as necessary to comply with the federal Health Insurance 
+11
+Portability and Accountability Act of 1996, Public Law 104-191 as long as claims 
+12
+information is not withheld from a plan sponsor who has demonstrated compliance 
+13
+with the use and disclosure requirements of 45 Code of Federal Regulations, Section 
+14
+164.504(f); 
+15
+C. Prescription drug and medical device claims payments, electronic funds transfers or 
+16
+remittance advice notices provided by the pharmacy benefits manager as electronic 
+17
+files.  The files may be modified only as necessary to comply with the federal Health 
+18
+Insurance Portability and Accountability Act of 1996, Public Law 104-191.  In the 
+19
+event that paper claims are provided, the pharmacy benefits manager shall convert the 
+20
+paper claims to an electronic format; and
+21
+D. Any other revenue and fees derived by the pharmacy benefits manager from the 
+22
+contract, including all direct or indirect remuneration from pharmaceutical 
+23
+manufacturers regardless of whether the remuneration is classified as a rebate, fee or 
+24
+other classification.  
+25
+4.  No conditions or fees on audit.  A pharmacy benefits manager may not impose on 
+26
+a plan sponsor: 
+27
+A. Any fees for requesting an audit under this section that exceed the direct expenses 
+28
+properly and actually incurred by the pharmacy benefits manager to provide the data; 
+29
+B. Any fees associated with selecting an auditor other than an auditor designated by 
+30
+the pharmacy benefits manager; or
+31
+C. Any conditions that would restrict a plan sponsor's right to conduct an audit under 
+32
+this section, including, but not limited to, restrictions on:
+33
+(1) The time period covered by the audit;
+34
+(2) The number of claims analyzed;
+35
+(3) The type of analysis conducted;
+36
+(4) The data elements used in the analysis; 
+37
+(5) The plan sponsor's choice of auditor; or
+38
+(6) The means by which an auditor is compensated by a plan sponsor. 
+39
+5.  Compliance with federal Health Insurance Portability and Accountability Act 
+40
+of 1996.  Information provided by a pharmacy benefits manager to a plan sponsor in 
+41
+accordance with this section must comply with any applicable requirements of the federal 
+42
+Health Insurance Portability and Accountability Act of 1996, Public Law 104-191.
+1
+2
+3
+
+Page 4 - 132LR0896(01)
+1
+6.  Application.  This section applies to any contract between a pharmacy benefits 
+2
+manager and a plan sponsor that is entered into, issued, amended or renewed on or after 
+3
+January 1, 2026, and an administrator may not enter into, issue, amend or renew any 
+4
+contract on or after January 1, 2026 that contains any provision that violates this section. 
+5
+SUMMARY
+6
+This bill requires administrators and pharmacy benefits managers that provide health 
+7
+coverage or prescription drug coverage under a contract with a plan sponsor, including any 
+8
+person that offers health coverage or prescription drug coverage to its employees or 
+9
+members through a self-funded health benefit plan, to provide certain claims information 
+10
+to a plan sponsor upon request.  The bill also gives a plan sponsor the right to request an 
+11
+audit to ensure compliance with a contract at least once every calendar year as long as the 
+12
+request is at least 6 months after a previously requested audit.
+6
+7
+8
+9
+10
+11
+12

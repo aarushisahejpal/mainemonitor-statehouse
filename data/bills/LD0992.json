@@ -1,0 +1,86 @@
+{
+  "ld": 992,
+  "paper": "SP0426",
+  "paper_display": "SP 426",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097338",
+  "title": "An Act to Protect Consumers from Hidden Fees and Ensure Transparent Pricing for Live Event Tickets and Short-term Lodging",
+  "committee": "Housing and Economic Development",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 22, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/22/2025 - Reports READ . On motion of Representative GERE of Kennebunkport, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )",
+  "last_senate_action": "5/20/2025 - Reports Read On motion by Senator CURRY of Waldo the Majority Ought Not to Pass Report ACCEPTED . Ordered sent down forthwith for concurrence",
+  "sponsors": [
+    {
+      "name": "Timothy NANGLE",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    },
+    {
+      "name": "Matthea DAUGHTRY",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "President",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "BUSINESS PRACTICES",
+      "minor": "SALES",
+      "detail": "JUNK FEES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-11",
+      "date_raw": "3/11/2025",
+      "chamber": "Senate",
+      "description": "Committee on HOUSING AND ECONOMIC DEVELOPMENT suggested and ordered printed REFERENCE to the Committee on HOUSING AND ECONOMIC DEVELOPMENT Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-03-11",
+      "date_raw": "3/11/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-21",
+      "date_raw": "3/21/2025",
+      "chamber": "Senate",
+      "description": "CARRIED OVER , in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator CURRY of Waldo the Majority Ought Not to Pass Report ACCEPTED . Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-05-22",
+      "date_raw": "5/22/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative GERE of Kennebunkport, the Majority Ought Not to Pass Report was ACCEPTED . In concurrence. ORDERED SENT FORTHWITH. Placed in the Legislative Files. ( DEAD )"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0426&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0426",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0426&SessionID=16",
+  "scraped_at": "2026-06-30T18:47:15Z"
+}

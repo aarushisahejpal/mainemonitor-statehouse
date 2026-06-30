@@ -1,0 +1,320 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 130
+S.P. 66
+In Senate, January 8, 2025
+An Act to Establish the PFAS Response Program and to Modify the 
+Fund To Address PFAS Contamination
+Submitted by the Department of Agriculture, Conservation and Forestry pursuant to Joint 
+Rule 204.
+Reference to the Committee on Agriculture, Conservation and Forestry suggested and 
+ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator INGWERSEN of York.
+
+Page 1 - 132LR0151(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  7 MRSA §320-K, sub-§4, as enacted by PL 2021, c. 635, Pt. XX, §2, is 
+3
+amended by enacting at the end a new blocked paragraph to read:
+4
+Health care information obtained by the department in the course of providing services 
+5
+related to paragraphs A and B, including billing information, must be treated as confidential 
+6
+pursuant to Title 22, section 1711-C.  For purposes of this section, "health care information" 
+7
+has the same meaning as in Title 22, section 1711-C, subsection 1, paragraph E.
+8
+Sec. 2.  7 MRSA §320-K, sub-§5, as enacted by PL 2021, c. 635, Pt. XX, §2, is 
+9
+repealed and the following enacted in its place:
+10
+5.  Administration and authority.  The administration of the fund and the authority 
+11
+to administer the fund is as follows.
+12
+A.  The department shall administer the fund allocations in accordance with a plan that 
+13
+establishes funding priorities, administration and oversight and with the review and 
+14
+advice of the advisory committee.  The department may use funds for personnel 
+15
+services and to contract for professional services to carry out the purposes of this 
+16
+section.
+17
+B.  The commissioner or the commissioner's designee is authorized to sell, grant, lease, 
+18
+transfer or otherwise convey any real or personal property acquired under subsection 
+19
+4, paragraph D. Proceeds from the sale or lease of property and the disposal of all other 
+20
+interests in real property including timber sales and revenue generated from solar 
+21
+development must be deposited into the Department of Agriculture, Conservation and 
+22
+Forestry, Office of the Commissioner program, Fund To Address PFAS 
+23
+Contamination, Other Special Revenue Funds account.
+24
+Sec. 3.  7 MRSA §320-L, sub-§2, as enacted by PL 2021, c. 635, Pt. XX, §2, is 
+25
+repealed and the following enacted in its place:
+26
+2.  Chairs.  The advisory committee shall select 2 chairs from among its members, 
+27
+each to serve a term of 2 years. Chairs may serve consecutive terms.
+28
+Sec. 4.  7 MRSA §320-L, sub-§3, as amended by PL 2023, c. 212, §4, is further 
+29
+amended to read:
+30
+3.  Proceedings of the advisory committee.  The advisory committee shall hold at 
+31
+least 2 one public hearings meeting annually to seek input from the public on efforts to 
+32
+meet the purposes of the fund.  All proceedings of the advisory committee are public 
+33
+proceedings within the meaning of Title 1, chapter 13, subchapter 1.  Notwithstanding Title 
+34
+1, section 403, subsection 6, all records of proceedings of the advisory committee are public 
+35
+and subject to the requirements of Title 1, section 403, subsection 2.
+36
+Sec. 5.  7 MRSA c. 10-E is enacted to read:
+37
+CHAPTER 10-E
+38
+PFAS RESPONSE PROGRAM
+39
+§341.  PFAS Response Program
+
+Page 2 - 132LR0151(01)
+1
+1.  Definitions.  As used in this chapter, unless the context otherwise indicates, the 
+2
+following terms have the following meanings.
+3
+A. "Agricultural land" has the same meaning as in section 32, subsection 2.
+4
+B.  "Commercial farm" means a farm that produces any farm product with the intent 
+5
+that the farm product be sold or otherwise disposed of to generate income.  
+6
+C. "Farm product" means those plants and animals useful to humans and includes, but 
+7
+is not limited to, forages and sod crops, grains and food crops, dairy products, poultry 
+8
+and poultry products, bees, livestock and livestock products and fruits, berries, 
+9
+vegetables, flowers, seeds, grasses, Christmas trees and other similar products.
+10
+D. "On-farm mitigation efforts" means activities intended to reduce the impact of 
+11
+perfluoroalkyl and polyfluoroalkyl substances contamination on a commercial farm's 
+12
+production of farm products. 
+13
+E.  "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS" has the same meaning 
+14
+as in Title 32, section 1732, subsection 5‑A.  
+15
+F.  "Program" means the PFAS Response Program.
+16
+2.  Program established; purpose.  The PFAS Response Program is established to 
+17
+effectively respond to and address PFAS contamination affecting agricultural producers in 
+18
+the State, to assist commercial farms affected by PFAS contamination and to safeguard 
+19
+public health. The commissioner shall develop, implement and administer the program for 
+20
+the purpose of abating, cleaning up and mitigating threats and hazards posed by PFAS that 
+21
+affect agricultural producers in the State and that affect the food supply; providing support 
+22
+to affected commercial farms; supporting critical PFAS research; and allowing for the 
+23
+department to strategically and effectively respond to PFAS concerns and issues as they 
+24
+arise. The program may include but is not limited to:
+25
+A. Establishing maximum levels for PFAS in farm products in consultation with the 
+26
+Department of Health and Human Services, Maine Center for Disease Control and 
+27
+Prevention. When a maximum level is exceeded, the department may prohibit the 
+28
+commercial sale of the product affected and require the PFAS-impacted agricultural 
+29
+producer to incorporate on-farm mitigation efforts as a prerequisite for any future 
+30
+authorization from the department to resume commercial sale of the product affected;
+31
+B. Providing testing support, including conducting initial sampling and ongoing 
+32
+monitoring, to assist agricultural producers in understanding the extent of PFAS 
+33
+contamination on their commercial farms. Testing may include but is not limited to 
+34
+testing of groundwater, surface water, soil, animal tissue, animal blood and serum, 
+35
+plant tissue, animal feed, eggs, milk, manure and compost;
+36
+C. Providing technical assistance to interpret test results, craft recommendations for 
+37
+on-farm mitigation efforts to reduce the risk of PFAS contamination and implement 
+38
+modifications to ensure the safety of farm products and ongoing farm viability; 
+39
+D. Providing financial assistance to PFAS-impacted agricultural producers, including 
+40
+but not limited to self-testing reimbursement, agricultural water filtration equipment 
+41
+and maintenance costs, livestock depopulation, compensation for unmarketable 
+42
+processed livestock, equipment and input cost coverage, clean feed support and 
+43
+infrastructure support;
+
+Page 3 - 132LR0151(01)
+1
+E. Establishing baseline criteria that agricultural producers must adhere to in order to 
+2
+receive technical and financial assistance, which includes granting property access 
+3
+sufficient to conduct appropriate and required PFAS investigations, cooperating with 
+4
+program staff by providing timely and complete information regarding product types, 
+5
+feed sources and other relevant management practices and adhering to animal welfare 
+6
+and nutrient management recommendations.
+7
+An agricultural producer must have an opportunity to request a hearing before the 
+8
+department pursuant to Title 5, chapter 375, subchapter 4 regarding the program's 
+9
+decision to deny, cease or modify financial support based on the criteria established 
+10
+according to this subsection. The department shall inform the agricultural producer of 
+11
+the opportunity to request a hearing in the written communication notifying the 
+12
+agricultural producer of the program's decision to deny, cease or modify financial 
+13
+support; and
+14
+F. Undertaking or supporting research efforts necessary to advance scientific 
+15
+understanding of PFAS and their movement and effect in agricultural systems that 
+16
+inform on-farm management recommendations or regulatory decisions. These efforts 
+17
+may be accomplished by department staff or state agency partners or contracted to 
+18
+qualified 3rd parties. 
+19
+3.  Administration.  The Bureau of Agriculture, Food and Rural Resources within the 
+20
+department shall administer the program. The department may also partner with state 
+21
+agencies or contract with 3rd parties to effectuate the purposes of this chapter. The program 
+22
+is distinct from the Fund To Address PFAS Contamination established in section 320-K. 
+23
+The program enforces maximum levels of PFAS in farm products, provides direct on-farm 
+24
+assistance, including but not limited to testing, analysis and on-farm mitigation strategy 
+25
+recommendations, in addition to providing specific financial support that is integral to 
+26
+commercial farms making changes necessary to adapt to and mitigate on-farm PFAS risk. 
+27
+4.  Rules.  The department may adopt rules to implement this chapter.  Rules adopted 
+28
+pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, 
+29
+subchapter 2‑A.
+30
+SUMMARY
+31
+This bill requires the Department of Agriculture, Conservation and Forestry to establish 
+32
+the PFAS Response Program for the purpose of abating, cleaning up and mitigating threats 
+33
+and hazards posed by PFAS that affect agricultural producers in the State and the food 
+34
+supply; providing support to affected commercial farms; supporting critical PFAS research; 
+35
+and allowing for the department to strategically and effectively respond to PFAS concerns 
+36
+and issues as they arise. The program includes establishing maximum PFAS levels in farm 
+37
+products in consultation with the Department of Health and Human Services, Maine Center 
+38
+for Disease Control and Prevention and, when maximum levels are being exceeded, 
+39
+prohibiting commercial sale of the products affected. The program may provide testing 
+40
+support and technical and financial assistance to PFAS-impacted producers while 
+41
+establishing baseline criteria for producers to adhere to for the receipt of such assistance. 
+42
+The program may also undertake research efforts via department staff, state agency partners 
+43
+or contracted 3rd parties that inform on-farm management recommendations or regulatory 
+44
+decisions. The Bureau of Agriculture, Food and Rural Resources within the department 
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+
+Page 4 - 132LR0151(01)
+45
+must administer the program. The department may adopt routine technical rules and shall 
+46
+report annually to the Legislature about the program's activities. 
+3
+The bill modifies the Fund To Address PFAS Contamination by authorizing the 
+4
+Commissioner of Agriculture, Conservation and Forestry to sell, grant, lease, transfer or 
+5
+otherwise convey any real or personal property acquired under its existing authority to buy 
+6
+and sell agricultural land found to be contaminated by PFAS, and to deposit the proceeds 
+7
+of such transactions into the Fund To Address PFAS Contamination. Additionally, the bill 
+8
+updates the requirement that the Advisory Committee on the Fund To Address PFAS 
+9
+Contamination hold 2 hearings annually to require one public meeting annually. The bill 
+10
+also requires that the cochairs of the advisory committee are drawn from the committee's 
+11
+members.
+12
+The bill also specifies that health care information obtained by the department in the 
+13
+course of providing access to health services under its existing authority must be treated as 
+14
+confidential.
+1
+2

@@ -1,0 +1,922 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 1149
+I.B. 1
+House of Representatives, March 20, 2025
+An Act to Require an Individual to Present Photographic 
+Identification for the Purpose of Voting
+Transmitted to the Clerk of the 132nd Maine Legislature by the Secretary of State on 
+March 19, 2025 and ordered printed.
+ROBERT B. HUNT
+Clerk
+
+Page 1 - 132LR2495(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  21-A MRSA §671, sub-§1, as amended by PL 2019, c. 371, §20, is further 
+3
+amended to read:
+4
+1.  Name announced.  A voter who wishes to vote must present photographic 
+5
+identification and state the voter's name and residence address to an election clerk, who 
+6
+shall announce the name in a loud, clear voice.  If the voter's stated residence address is 
+7
+different from the residence address listed on the incoming voting list, the voter must be 
+8
+directed to complete an updated voter registration application before voting.
+9
+Sec. 2.  21-A MRSA §671, sub-§9 is enacted to read:
+10
+9.  Challenged ballots for voters without photographic identification.  The 
+11
+following provisions govern voters who do not present photographic identification 
+12
+pursuant to subsection 1.
+13
+A.  If a voter does not have or is unable to present photographic identification to an 
+14
+election clerk, an election official shall challenge the voter's right to vote under section 
+15
+673 and the voter may cast a ballot pursuant to section 673.
+16
+B.  Notwithstanding section 673, for a challenged ballot to be eligible to be counted 
+17
+when it is cast by an individual who does not have photographic identification because 
+18
+the individual has a religious objection to being photographed, the individual must 
+19
+complete an affidavit of religious objection.  An election official shall attach the 
+20
+affidavit to the individual's challenged ballot envelope.  If the individual does not 
+21
+complete the affidavit at the time of casting the challenged ballot, the individual may 
+22
+appear before the registrar within 4 days after the date of the election and complete the 
+23
+affidavit.
+24
+(1)  The Secretary of State shall prescribe the form of the affidavit of religious 
+25
+objection, which must be substantially as follows:
+26
+"Affidavit of Religious Objection
+27
+I, …………………………………………. (first and last name of individual), 
+28
+declare under penalty of unsworn falsification that I do not have photographic 
+29
+identification because I have a sincere religious objection to being photographed.
+30
+The last 4 digits of my Social Security number are:………………………………
+31
+……………………………………………………………………………………..
+32
+(Signature of individual)
+33
+WHOEVER COMMITS UNSWORN FALSIFICATION COMMITS A CLASS D 
+34
+CRIME."
+35
+(2)  Upon receiving a completed affidavit of religious objection, the registrar shall 
+36
+transmit the information in the affidavit to the Secretary of State. The Secretary of 
+37
+State shall consult the database of the Department of the Secretary of State, Bureau 
+38
+of Motor Vehicles to determine whether the Secretary of State issued a currently 
+39
+unexpired photographic identification to the individual and shall notify the 
+40
+registrar of the result.
+
+Page 2 - 132LR2495(01)
+1
+(3)  An affidavit of religious objection is not valid if the last 4 digits of the 
+2
+individual's social security number as provided on the affidavit are different from 
+3
+the last 4 digits of the individual's social security number in the statewide voter 
+4
+registration database or if the Secretary of State has issued a currently unexpired 
+5
+photographic identification to the individual.
+6
+C.  Notwithstanding section 673 and except as provided under paragraph B, for a 
+7
+challenged ballot to be eligible to be counted when it is cast by an individual who does 
+8
+not have or is unable to present photographic identification to the election clerk, the 
+9
+individual who cast that ballot, within 4 days after the date of the election, must appear 
+10
+before the registrar and present photographic identification.
+11
+Sec. 3.  21-A MRSA §671, sub-§10 is enacted to read:
+12
+10.  Provision of free nondriver identification cards for photographic 
+13
+identification.  Notwithstanding Title 29-A, section 1410, the Secretary of State may not 
+14
+impose a fee for the issuance of a nondriver identification card when an individual does not 
+15
+have a valid Maine driver's license and will be at least 18 years of age by the next general, 
+16
+municipal or special election. The Secretary of State shall establish procedures through 
+17
+rulemaking for the issuance of nondriver identification cards pursuant to this subsection. 
+18
+Rules adopted pursuant to this subsection are major substantive rules under Title 5, chapter 
+19
+375, subchapter 2-A.
+20
+Sec. 4.  21-A MRSA §671, sub-§11 is enacted to read:
+21
+11.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+22
+following terms have the following meanings.
+23
+A. "Driver's license" means a license or permit issued by the Secretary of State under 
+24
+Title 29-A, chapter 11 that authorizes an individual to operate a motor vehicle. 
+25
+"Driver's license" includes a driver's license, commercial driver's license, restricted 
+26
+license, motorcycle operator's license or learner's permit. 
+27
+B. "Interim identification form" means a document issued by the Secretary of State to 
+28
+an applicant for a driver's license or nondriver identification card that contains all of 
+29
+the information otherwise found on the license or card and that an applicant may use 
+30
+as a form of identification until the physical license or card arrives in the mail.
+31
+C. "Nondriver identification card" means a card issued by the Secretary of State under 
+32
+Title 29-A, section 1410. 
+33
+D. "Photographic identification" means one of the following documents that includes 
+34
+the individual's name and photograph and is not expired:
+35
+(1) A Maine driver's license, Maine nondriver identification card or Maine interim 
+36
+identification form;
+37
+(2) A United States passport or United States passport card; or
+38
+(3) A United States military identification card, Maine National Guard 
+39
+identification card or United States Department of Veterans Affairs identification 
+40
+card.
+41
+Sec. 5.  21-A MRSA §673, sub-§1, ¶A, as corrected by RR 2011, c. 2, §21, is 
+42
+amended by amending subparagraph (8) to read:
+
+Page 3 - 132LR2495(01)
+1
+(8)  Communicated with someone as prohibited by section 754‑A, subsection 1, 
+2
+paragraph B or subsection 3, paragraph B or D;
+3
+Sec. 6.  21-A MRSA §673, sub-§1, ¶A, as corrected by RR 2011, c. 2, §21, is 
+4
+amended by amending subparagraph (11) to read:
+5
+(11)  Committed any other specified violation of this Title; or
+6
+Sec. 7.  21-A MRSA §673, sub-§1, ¶A, as corrected by RR 2011, c. 2, §21, is 
+7
+amended by amending subparagraph (12) to read:
+8
+(12)  Voted using the wrong ballot for the appropriate electoral district or political 
+9
+party, if applicable.;
+10
+Sec. 8.  21-A MRSA §673, sub-§1, ¶A, as corrected by RR 2011, c. 2, §21, is 
+11
+amended by enacting a new subparagraph (13) to read:
+12
+(13)  Did not present photographic identification, as defined in section 671, 
+13
+subsection 11, paragraph D;
+14
+Sec. 9.  21-A MRSA §673, sub-§1, ¶A, as corrected by RR 2011, c. 2, §21, is 
+15
+amended by enacting a new subparagraph (14) to read:
+16
+(14)  Submitted an absentee ballot with a signature that does not correspond with 
+17
+the person's registration signature; or
+18
+Sec. 10.  21-A MRSA §673, sub-§1, ¶A, as corrected by RR 2011, c. 2, §21, is 
+19
+amended by enacting a new subparagraph (15) to read:
+20
+(15)  Submitted an absentee ballot without the identification required under section 
+21
+754-A, subsection 1-A.
+22
+Sec. 11.  21-A MRSA §752-B, sub-§2, as enacted by PL 2021, c. 273, §12, is 
+23
+amended to read:
+24
+2.   Secured drop boxes authorized.  A municipality may obtain and install a secured 
+25
+drop box that meets the requirements of this section.  The secured drop box may be used 
+26
+by voters who are authorized to return absentee ballots in a secured drop box pursuant to 
+27
+section 754‑A, subsection 1 1-A, paragraph D C.
+28
+Sec. 12.  21-A MRSA §752-B, sub-§3, as enacted by PL 2021, c. 273, §12, is 
+29
+amended to read:
+30
+3.  Location and number of secured drop boxes.  The secured drop box must be 
+31
+located outside the municipal office building or the building where in-person absentee 
+32
+voting takes place before an election of the registrar, on the property on which the office 
+33
+of the registrar is located.  If the secured drop box is positioned within or against an outside 
+34
+wall of the municipal office building, it must be bolted or otherwise securely fastened to 
+35
+the wall or to the deck or landing to prevent its removal by an unauthorized person.  
+36
+Otherwise, the secured drop box must be securely affixed to a post that is sunk into the 
+37
+ground, affixed to a post that is set into a concrete pad or bolted or otherwise securely 
+38
+affixed to a platform or other structure in a manner that prevents removal of the drop box 
+39
+by an unauthorized person.
+40
+A municipality may seek approval from the Secretary of State to obtain and install an 
+41
+additional secured drop box or boxes at other locations within the municipality by 
+
+Page 4 - 132LR2495(01)
+42
+certifying to the Secretary of State at least 90 days before the election that the additional 
+43
+secured drop box or boxes meet all of the requirements of this section, other than the 
+44
+requirement that the secured drop box be located outside of the municipal office building 
+45
+or the building where in-person absentee voting takes place before an election have only 
+46
+one secured drop box.
+6
+Sec. 13.  21-A MRSA §752-B, sub-§7, as enacted by PL 2021, c. 273, §12, is 
+7
+amended to read:
+8
+7.  Use and access during absentee voting period.  The secured drop box must be 
+9
+used only for the return of absentee ballots and not for the deposit of other municipal office 
+10
+filings during the absentee voting period.  During the absentee voting period, only the 
+11
+municipal clerk or designees bipartisan team of election officials under subsection 8 may 
+12
+possess the key to the secured drop box or have access to the contents of the secured 
+13
+collection box.  If items other than returned absentee ballots are deposited in the secured 
+14
+drop box during the absentee voting period, the municipal clerk or designees bipartisan 
+15
+team of election officials shall deliver those items to the appropriate municipal official.
+16
+Sec. 14.  21-A MRSA §752-B, sub-§8, as enacted by PL 2021, c. 273, §12, is 
+17
+amended to read:
+18
+8.  Periodic retrieval of ballots.  During the absentee voting period, the municipal 
+19
+clerk or a team of 2 people designated by the clerk a bipartisan team of election officials 
+20
+shall periodically remove absentee ballots from each secured drop box and deliver the 
+21
+absentee ballots to the clerk's office to be stored in a secure manner.  At a minimum, 
+22
+absentee ballots must be removed from each secured drop box by the clerk or team of 2 
+23
+designees bipartisan team of election officials:
+24
+A.  At least once on each day that the clerk's office is open during the absentee voting 
+25
+period;
+26
+B.  At all additional times necessary to ensure that additional absentee ballots deposited 
+27
+in the secured drop box fit within the secured collection box and are not accessible to 
+28
+unauthorized persons; and
+29
+C.  At 8 p.m. on election day.  
+30
+The identity of the persons who remove the absentee ballots from each secured drop box 
+31
+and the date and time that the absentee ballots are removed must be recorded on a form 
+32
+designed by the Secretary of State and initialed or signed by the clerk or team of 2 designees 
+33
+bipartisan team of election officials who removed the absentee ballots.
+34
+Sec. 15.  21-A MRSA §752-B, sub-§9, as enacted by PL 2021, c. 273, §12, is 
+35
+amended to read:
+36
+9.   Locking of secured drop boxes when polls close.  The municipal clerk or team of 
+37
+2 designees bipartisan team of election officials under subsection 8 shall lock the secured 
+38
+drop box at 8 p.m. on election day to prevent the deposit of additional absentee ballots in 
+39
+the secured drop box.
+40
+Sec. 16.  21-A MRSA §753-A, sub-§3, as amended by PL 2021, c. 273, §13, is 
+41
+repealed and the following enacted in its place:
+1
+2
+3
+4
+5
+
+Page 5 - 132LR2495(01)
+1
+3.  Request for absentee ballot.  Except as otherwise provided in chapter 3, 
+2
+subchapters 2 and 3 and in section 780, a voter desiring an absentee ballot for an election 
+3
+shall deliver a written application for that ballot, either in person or by mail, to the registrar 
+4
+of the municipality in which the voter's voting residence is located.
+5
+A.  Except as otherwise permitted under section 780, the application must be on a form 
+6
+prescribed by the Secretary of State and must contain all of the following:
+7
+(1) The voter's name;
+8
+(2) The voter's signature;
+9
+(3) The address at which the voter is registered to vote;
+10
+(4) The voter's date of birth;
+11
+(5) One of the following:
+12
+(a) The voter's Maine driver's license or nondriver identification card number; 
+13
+or
+14
+(b) A copy of the voter's photographic identification as defined in section 671, 
+15
+subsection 11, paragraph D;
+16
+(6) A statement identifying the election for which an absentee ballot is requested;
+17
+(7) A statement that the person requesting the absentee ballot is a voter;
+18
+(8) If the request is for an absentee ballot for a primary election, the voter's party 
+19
+affiliation; and
+20
+(9) If the voter desires an absentee ballot to be mailed to the voter, the address to 
+21
+which that absentee ballot must be mailed.
+22
+B. If the voter needs assistance pursuant to subsection 5, the following information, in 
+23
+addition to the information required in paragraph A, must be provided in order for the 
+24
+application or written request to be accepted by the clerk:
+25
+(1) The printed name and signature of the person who helped the voter; and 
+26
+(2) A statement that the aide helped the voter by either reading or signing the 
+27
+application, or both.
+28
+C. If the voter wishes to have the ballot delivered or returned by a 3rd person, the 
+29
+following information, in addition to the information required in paragraph A, must be 
+30
+provided in order for the application or written request to be accepted by the clerk:
+31
+(1) The name of the 3rd person whom the voter has designated. A 3rd person may 
+32
+only be designated in an application or written request that is signed by the voter.
+33
+D. Notwithstanding paragraph A, if a voter is certified by the Secretary of State as a 
+34
+program participant in the Address Confidentiality Program, as described in Title 5, 
+35
+section 90-B and Title 21-A, section 753-C, that voter may provide the voter's program 
+36
+participant designated address instead of the address at which the voter is registered to 
+37
+vote.
+38
+E. An application to receive an absentee ballot must be delivered to the registrar not 
+39
+earlier than the first day of January of the year of the election for which the absentee 
+40
+ballot is requested or not earlier than 90 days before the day of the election at which 
+
+Page 6 - 132LR2495(01)
+41
+the absentee ballot is to be cast, whichever is earlier, and not later than the close of 
+42
+business on the 7th day before the day of the election at which the absentee ballot is to 
+43
+be cast. 
+4
+F. The Secretary of State shall adopt rules to implement this subsection.  Rules adopted 
+5
+pursuant to this paragraph are major substantive rules under Title 5, chapter 375, 
+6
+subchapter 2-A.
+7
+Sec. 17.  21-A MRSA §753-A, sub-§4, as amended by PL 2003, c. 447, §29, is 
+8
+repealed.
+9
+Sec. 18.  21-A MRSA §753-A, sub-§6, as amended by PL 2021, c. 273, §14, is 
+10
+further amended to read:
+11
+6.  Application by electronic means.  A municipal clerk shall accept absentee ballot 
+12
+applications by the electronic means authorized by the Secretary of State.    The Secretary 
+13
+of State shall design or approve the form of the absentee ballot application to be submitted 
+14
+by electronic means, and the form must require all of the information required under 
+15
+subsection 3.
+16
+A voter may make an application for the voter's own ballot by electronic means using the 
+17
+form designed or approved by the Secretary of State.  The voter may not designate an 
+18
+immediate family member or a 3rd person to deliver the ballot on the voter's behalf.  An 
+19
+electronic application must be accepted by the clerk if it contains the voter’s name, the 
+20
+voter’s date of birth, the voter’s residence address or other address sufficient to identify the 
+21
+voter and, if applicable, a different address to which the applicant requests the ballot be 
+22
+sent or delivered all of the information required under subsection 3.  The clerk shall verify 
+23
+that it is the voter who is requesting the ballot by confirming the voter's residence address 
+24
+and, date of birth and identification information provided under subsection 3, paragraph A, 
+25
+subparagraph (5) with the information in the voter's record.  The clerk shall print the 
+26
+electronically submitted application and write "electronic request" on the application.
+27
+Sec. 19.  21-A MRSA §753-A, sub-§8, as amended by PL 2023, c. 304, Pt. A, §24 
+28
+and affected by §§37 and 39 and amended by c. 404, §1 and affected by §2, is repealed.
+29
+Sec. 20.  21-A MRSA §753-B, sub-§1, as amended by PL 2021, c. 398, Pt. UUUU, 
+30
+§5 and affected by PL 2023, c. 304, Pt. A, §37, is repealed and the following enacted in its 
+31
+place:
+32
+1.  Issuance of absentee ballots.  If a clerk receives an application for an absentee 
+33
+ballot that does not contain all of the required information or is not submitted on an 
+34
+appropriate form, the clerk promptly shall notify the applicant of the additional information 
+35
+required to be provided by the applicant to complete that application, direct the applicant 
+36
+to use an appropriate form, or both, as applicable.
+37
+A. Upon receipt by the clerk of an application for an absentee ballot that contains all 
+38
+of the required information and is submitted on an appropriate form, as provided by 
+39
+section 753-A, the clerk, if the clerk finds that the applicant is a voter, shall deliver to 
+40
+the applicant in person or mail directly to the applicant by special delivery mail, air 
+41
+mail or regular mail, an absentee ballot. The clerk shall deliver or mail with the 
+42
+absentee ballot an unsealed identification envelope upon the face of which must be 
+43
+printed a form substantially as follows:
+1
+2
+3
+
+Page 7 - 132LR2495(01)
+1
+"Identification Envelope Statement of Voter
+2
+I, ………………………………. (Name of voter), declare under penalty of 
+3
+unsworn falsification that the within ballot or ballots contained no voting 
+4
+marks of any kind when I received them, and I caused the ballot or ballots to 
+5
+be marked, enclosed in the identification envelope, and sealed in that envelope.
+6
+My voting residence in Maine is
+7
+…………………………………………………………………………………
+8
+(Street and Number, if any, or Rural Route and Number)
+9
+of ……………………………………….. (City, Town, or Township), Maine.
+10
+If I have a confidential voter registration record, I am providing my program 
+11
+participant 
+designated 
+address 
+instead 
+of 
+my 
+residence 
+address: 
+12
+………………………………
+13
+The primary election ballots, if any, within this envelope are primary election 
+14
+ballots of the …………………. Party.
+15
+Ballots contained within this envelope are to be voted at the ………… 
+16
+(general, 
+special, 
+or 
+primary) 
+election 
+to 
+be 
+held 
+on 
+the 
+17
+…………………………………. day of ………………………………, …….
+18
+My date of birth is …………………. (Month and Day), ……………. (Year).
+19
+(Voter must provide one of the following:)
+20
+My Maine driver's license or nondriver identification card number is 
+21
+…………………… (Driver's license or nondriver identification card number).
+22
+………. In lieu of providing a driver's license or nondriver identification card 
+23
+number, I am enclosing a copy of my photographic identification in the return 
+24
+envelope in which this identification envelope will be mailed.
+25
+I hereby declare, under penalty of unsworn falsification, that the statements 
+26
+above are true, as I verily believe.
+27
+…………………………………..
+28
+(Signature of Voter)
+29
+WHOEVER COMMITS UNSWORN FALSIFICATION COMMITS A 
+30
+CLASS D CRIME."
+31
+B. The clerk shall mail with the absentee ballot and the unsealed identification envelope 
+32
+an unsealed return envelope upon the face of which must be printed the address of the 
+33
+clerk. In the upper left corner on the face of the return envelope, several blank lines 
+34
+must be printed upon which the voter may write the voter's name and return address. 
+35
+The return envelope must be of such size that the identification envelope can be placed 
+36
+within it for returning the identification envelope to the clerk.
+37
+A public office, or public official or employee who is acting in an official capacity, 
+38
+may not prepay the return postage for an absentee ballot.
+39
+Except as otherwise provided in this subsection and in section 672, an election official 
+40
+may not fill out any portion of an identification envelope statement of a voter or an 
+
+Page 8 - 132LR2495(01)
+41
+absentee ballot on behalf of a voter. A clerk may preprint only a voter's name and 
+42
+address on an identification envelope statement of a voter before mailing an absentee 
+43
+ballot to a voter, except that if the voter is certified by the Secretary of State as a 
+44
+program participant in the Address Confidentiality Program pursuant to Title 5, section 
+45
+90‑B, the clerk may not preprint the voter's address on the identification envelope 
+46
+statement of the voter.
+7
+The Secretary of State may adopt rules to implement this subsection.  Rules adopted 
+8
+pursuant to this subsection are major substantive rules under Title 5, chapter 375, 
+9
+subchapter 2-A.
+10
+Sec. 21.  21-A MRSA §754-A, sub-§1, as amended by PL 2019, c. 371, §36, is 
+11
+repealed.
+12
+Sec. 22.  21-A MRSA §754-A, sub-§1-A is enacted to read:
+13
+1-A.  Ballot delivered to voter.  The following provisions govern the receipt and return 
+14
+of an absentee ballot.
+15
+A.  When a voter receives an absentee ballot pursuant to the voter's application or 
+16
+request, the voter shall, before placing any marks on the ballot, note whether there are 
+17
+any voting marks on it. If there are any voting marks, the ballot must be returned 
+18
+immediately to the clerk; otherwise, the voter shall cause the ballot to be marked, 
+19
+folded in a manner that the stub on it and the indorsement and facsimile signature of 
+20
+the registrar on the back of it are visible, and placed and sealed within the identification 
+21
+envelope received from the clerk for that purpose. Then, the voter shall cause the 
+22
+statement of the voter on the outside of the identification envelope to be completed and 
+23
+signed, under penalty of unsworn falsification, as provided in Title 17-A, section 453. 
+24
+The voter shall provide one of the following:
+25
+(1) The voter's Maine driver's license or nondriver identification card number on 
+26
+the statement of the voter on the identification envelope; or
+27
+(2) A copy of the voter's photographic identification as defined in section 671, 
+28
+subsection 11, paragraph D in the return envelope with the identification envelope.
+29
+B. The voter may mail the identification envelope to the clerk in the return envelope, 
+30
+the voter may personally deliver it to the clerk or an immediate family member may 
+31
+personally deliver it to the clerk. The return envelope must be returned by no other 
+32
+person, in no other manner, and to no other location, except as otherwise provided in 
+33
+subsection 3, paragraph F.
+34
+C. If the clerk maintains multiple offices in the municipality, the clerk may designate 
+35
+any of its offices for the return of absentee ballots under this subsection, as long as the 
+36
+clerk designates only one office to which absentee ballots must be returned under this 
+37
+section. The clerk may place not more than one secured drop box outside the office of 
+38
+the clerk, on the property on which the office of the clerk is located, for the purpose of 
+39
+receiving absentee ballots under this section.  For purposes of this paragraph, "secured 
+40
+drop box" has the same meaning as in section 752-B, subsection 1, paragraph B.
+41
+Sec. 23.  21-A MRSA §754-A, sub-§2, as amended by PL 1999, c. 645, §7, is 
+42
+repealed.
+43
+Sec. 24.  21-A MRSA §754-A, sub-§2-A is enacted to read:
+1
+2
+3
+4
+5
+6
+
+Page 9 - 132LR2495(01)
+1
+2-A.  Timely delivery of absentee ballots.  All envelopes containing marked absentee 
+2
+ballots must be delivered to the clerk not later than the close of the polls on the day of an 
+3
+election. As provided in section 755, an absentee ballot must be delivered to the clerk at 
+4
+any time before the polls are closed in order for the absentee ballot to be valid. 
+5
+A. The Secretary of State may adopt rules to implement this subsection.  Rules adopted 
+6
+pursuant to this subsection are major substantive rules under Title 5, chapter 375, 
+7
+subchapter 2-A.
+8
+Sec. 25.  21-A MRSA §754-A, sub-§3, as amended by PL 1999, c. 645, §7, is 
+9
+further amended to read:
+10
+3.  Assistance in reading or marking ballot.  A voter who is unable to read or mark 
+11
+the ballot because of the voter's physical disability, illiteracy or religious faith must vote 
+12
+according to the procedures in this subsection instead of the procedures in subsection 1 1-A 
+13
+or 2.
+14
+A.  A voter who needs assistance may request another person, other than the voter's 
+15
+employer or agent of that employer or officer or agent of the voter's union, to assist the 
+16
+voter in reading or marking the ballot.
+17
+B.  The voter or the aide must mark the ballot in the presence of one of the following 
+18
+witnesses:  Notary public, clerk of a municipality, clerk of courts or another individual.
+19
+C.  The voter or the aide, before marking the ballot, must show it to the witness who 
+20
+must examine it to be certain it is unmarked.
+21
+D.  While the voter or the aide is marking the ballot, there may be no communication 
+22
+between the voter and any individual, other than the aide who must mark the ballot as 
+23
+the voter indicates, as to the person or question for which the voter is to vote.
+24
+E.  The voter or the aide must mark the ballot according to section 691 or 692 so that 
+25
+it is impossible for anyone else present to see how the voter voted, then seal the ballot 
+26
+in its return envelope.  The voter, or the aide at the voter's request, shall complete and 
+27
+sign the affidavit in the presence of the witness, who shall sign the witness certification.  
+28
+The aide must complete and sign the certification for aides on the outside of the 
+29
+envelope.
+30
+F.  The voter or the aide must then complete the address on the envelope and mail or 
+31
+deliver it personally or by the 3rd person who was designated in the application to the 
+32
+clerk of the municipality of which the voter is a resident.  The voter must send a 
+33
+completed voter registration or absentee ballot application, if necessary, in a separate 
+34
+envelope.
+35
+Sec. 26.  21-A MRSA §756-A, sub-§4, as enacted by PL 2021, c. 273, §23, is 
+36
+amended to read:
+37
+4.  Aide or witness certification incomplete.  If an aide-executed affidavit or aide or 
+38
+witness certification on a return envelope that is required under section 754‑A, subsection 
+39
+1, paragraph C, subsection 2, paragraph C or subsection 3, paragraph E is unsigned, 
+40
+incomplete or improperly completed, the following procedures apply.
+41
+A.  The voter may contact the voter's aide or witness and request that the aide or witness 
+42
+cure the defect by appearing in person at the clerk's office and properly completing the 
+43
+affidavit or witness certification.  If the aide or witness corrects the affidavit or witness 
+
+Page 10 - 132LR2495(01)
+44
+certification as provided in this paragraph before the deadline for returning absentee 
+45
+ballots under section 755, the clerk shall accept the absentee ballot without challenge.
+3
+B.  The voter may cure the defect by telephone by self-identifying by name, date of 
+4
+birth and residence address, confirming that the voter requested an absentee ballot and 
+5
+explaining whether a 3rd person other than the voter's immediate family member 
+6
+delivered or returned the absentee ballot or whether the voter received the assistance 
+7
+of an aide as described in section 754‑A, subsection 3 in reading, marking or placing 
+8
+the ballot in the return envelope.  If the voter provides the information required by this 
+9
+paragraph, by telephone, before the deadline for returning absentee ballots under 
+10
+section 755, the clerk shall accept the ballot but challenge it pursuant to section 673, 
+11
+subsection 1.
+12
+C.  If the voter does not cure the defect under the procedures in paragraph A or B before 
+13
+the deadline for returning absentee ballots under section 755, the clerk shall reject the 
+14
+ballot in accordance with section 759, subsection 3.
+15
+Sec. 27.  21-A MRSA §759, sub-§2, as amended by PL 2021, c. 273, §24, is further 
+16
+amended to read:
+17
+2.  Accepted if correct.  If the warden finds that the affidavit and the aide and witness 
+18
+certification, if required, are properly completed, that the clerk has verified that the 
+19
+signature on the envelope matches the signature on the application or that the voter 
+20
+confirmed that the voter personally signed the return envelope pursuant to section 756‑A, 
+21
+subsection 2 when applicable, that the voter is registered and enrolled when necessary and 
+22
+that it contains the voter's Maine driver's license or nondriver identification card number or 
+23
+a copy of the voter's photographic identification, the warden shall then examine the 
+24
+incoming voting list to determine whether the voter voted in person at the election.  The 
+25
+warden shall then announce the name of each absentee voter who has not voted at the 
+26
+election and remove each ballot from its envelope without destroying the envelope or 
+27
+unfolding the ballot.  After having an election clerk from a political party different from 
+28
+that of the warden mark the letters "AV" beside the name of each absentee voter on the 
+29
+incoming voting lists and place a check mark or horizontal line in red ink on the list beside 
+30
+the voter's name, the warden shall accept the ballot.
+31
+Sec. 28.  Effective date. This Act takes effect January 1, 2026.
+32
+SUMMARY
+33
+This initiated bill requires the presentation of photographic identification for in-person 
+34
+and absentee voting. Acceptable forms of photographic identification include an unexpired 
+35
+Maine driver's license, nondriver identification card, interim identification form issued by 
+36
+the Secretary of State, United States passport or United States passport card, United States 
+37
+military identification card, Maine National Guard identification card and United States 
+38
+Department of Veterans Affairs identification card. The bill directs the Secretary of State 
+39
+to provide free nondriver identification cards for photographic identification. The bill 
+40
+allows voters without photographic identification to complete a challenged ballot and 
+41
+within 4 days after the date of the election appear before the registrar of voters and present 
+42
+photographic identification. The bill also provides an exception for voters with religious 
+43
+objections to being photographed.  The bill removes provisions of law that allow voters to 
+44
+make telephone applications for absentee ballots and that allow voters to automatically 
+1
+2
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+
+Page 11 - 132LR2495(01)
+45
+receive absentee ballots for each election without submitting a separate request for each 
+46
+election.  It also provides that a municipality may have only one secured drop box for the 
+47
+return of absentee ballots.
+1
+2
+3

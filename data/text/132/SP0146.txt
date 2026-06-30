@@ -1,0 +1,733 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 359
+S.P. 146
+In Senate, February 3, 2025
+An Act to Prohibit Net Energy Billing by Certain Customers
+Received by the Secretary of the Senate on January 30, 2025.  Referred to the Committee 
+on Energy, Utilities and Technology pursuant to Joint Rule 308.2 and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BICKFORD of Androscoggin.
+Cosponsored by Senators: BRADSTREET of Kennebec, CYRWAY of Kennebec, 
+HARRINGTON of York, Representative: WADSWORTH of Hiram.
+
+Page 1 - 132LR0401(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  26 MRSA §1304, sub-§1-A, as enacted by PL 2021, c. 705, §2, is amended 
+3
+by amending the first blocked paragraph to read:
+4
+"Assisted project" does not include a project for which the Public Utilities Commission 
+5
+approved a term sheet or contract or otherwise provided project-specific authorization or 
+6
+approval pursuant to Title 35-A on or before June 29, 2021 or a project that is participating 
+7
+in net energy billing and that meets the requirements of Title 35-A, section 3209-A, 
+8
+subsection 7 or Title 35-A, section 3209-B.
+9
+Sec. 2.  35-A MRSA §3209-A, as amended by PL 2023, c. 230, §1 and c. 411, §2, 
+10
+is further amended to read:
+11
+§3209-A.  Net energy billing
+12
+The commission may adopt or amend rules governing net energy billing. Rules adopted 
+13
+or amended under this section are major substantive rules as defined in Title 5, chapter 375, 
+14
+subchapter 2‑A.
+15
+1.  Definitions.  As used in this section, the following terms have the following 
+16
+meanings.
+17
+A.  "Customer" means a customer of a transmission and distribution utility in the State.
+18
+B.  "Distributed generation resource" means an electric generating facility that uses a 
+19
+renewable fuel or technology under section 3210, subsection 2, paragraph B‑3 and is 
+20
+located in the service territory of a transmission and distribution utility in the State.:
+21
+(1)  Uses a renewable fuel or technology under section 3210, subsection 2, 
+22
+paragraph B‑3;
+23
+(2)  Is located in the service territory of a transmission and distribution utility in 
+24
+the State;
+25
+(3)  Is located on the same side of the meter as the net energy billing customer;
+26
+(4)  Is used primarily to serve the electric load of that customer; and
+27
+(5)  Meets the criterion that 100% of the net energy billing credits associated with 
+28
+the output of the distributed generation resource are allocated to the retail account 
+29
+of that customer.
+30
+C.  "Net energy billing" means a billing and metering practice under which a customer 
+31
+is billed on the basis of the difference between the kilowatt‑hours delivered by a 
+32
+transmission and distribution utility to the customer over a billing period and the 
+33
+kilowatt‑hours delivered by the customer to the transmission and distribution utility 
+34
+over the billing period, taking into account accumulated unused kilowatt‑hour credits 
+35
+from the previous billing period.
+36
+D.  "Project sponsor" means an entity or its successor or assignee that solicits customers 
+37
+to participate in a net energy billing arrangement based upon a shared financial interest 
+38
+in a distributed generation resource.
+39
+2.  Financial interest required.  The commission shall allow a customer to participate 
+40
+in net energy billing if the customer has a financial interest in a distributed generation 
+41
+resource or in a generation resource that has a net energy billing arrangement on the 
+
+Page 2 - 132LR0401(01)
+42
+effective date of this section, including facility ownership, a lease agreement or a power 
+43
+purchase agreement.
+3
+3.  Shared financial interest for investor-owned utility customers; limitation.  
+4
+Multiple customers of an investor-owned transmission and distribution utility that have 
+5
+distinct billing accounts with that utility may share a financial interest in a distributed 
+6
+generation resource under subsection 2.  Any number of customers of an investor-owned 
+7
+transmission and distribution utility with a shared financial interest in a distributed 
+8
+generation resource may participate in net energy billing, except that the number of eligible 
+9
+customers or meters is limited to 10 for a shared financial interest in a distributed generation 
+10
+resource located in the service territory of an investor-owned transmission and distribution 
+11
+utility located in an area administered by the independent system administrator for northern 
+12
+Maine or any successor of the independent system administrator for northern Maine unless 
+13
+the commission determines that the utility's billing system can accommodate more than 10 
+14
+accounts or meters for the purpose of net energy billing.
+15
+4.  System size.  The nameplate capacity of a distributed generation resource that may 
+16
+be used for net energy billing must be less than 5 megawatts, except that, if a municipality 
+17
+is the customer participating in net energy billing, the nameplate capacity of a distributed 
+18
+generation resource located in that municipality that may be used for the net energy billing 
+19
+may be 5 megawatts or more, as long as less than 5 megawatts of metered electricity from 
+20
+the resource is used for net energy billing.
+21
+5.  Consumer protection.  To protect customers who participate in or are solicited to 
+22
+participate in a net energy billing arrangement based upon a shared financial interest in a 
+23
+distributed generation resource from fraud or unfair and deceptive business practices, a 
+24
+project sponsor:
+25
+A.  Must obtain a customer's explicit affirmative authorization before serving the 
+26
+customer;
+27
+B.  Must provide to a residential customer such information as the commission may 
+28
+require by rule or order in a standard disclosure form before entering into an agreement 
+29
+with the residential customer to participate in a net energy billing arrangement based 
+30
+upon a shared financial interest in a distributed generation resource;
+31
+C.  Must allow a customer to rescind the customer's decision to participate in a net 
+32
+energy billing arrangement based upon a shared financial interest in a distributed 
+33
+generation resource, as long as the customer requests such rescission orally or in 
+34
+writing within 5 days of the customer's receipt of the first bill or invoice under the 
+35
+arrangement that the customer is responsible for paying in full;
+36
+D.  May not collect or seek to collect unreasonable costs from a customer who is in 
+37
+default;
+38
+E.  Must comply with any other applicable standards or requirements adopted by the 
+39
+commission by rule or order;
+40
+F.  May not release to any other entity, other than for purposes of debt collection or 
+41
+credit reporting pursuant to state and federal law or to law enforcement agencies 
+42
+pursuant to lawful process, any personal information regarding a customer, including 
+43
+name, address, telephone number and usage and historical payment information, 
+44
+without the explicit affirmative consent of the customer;
+1
+2
+
+Page 3 - 132LR0401(01)
+1
+G.  Must comply with the Maine Unfair Trade Practices Act;
+2
+H.  Must comply with all applicable provisions of the federal Equal Credit Opportunity 
+3
+Act, 15 United States Code, Sections 1691 to 1691f; and
+4
+I.  Must comply with all federal and state laws, federal regulations and state rules 
+5
+regarding the prohibition or limitation of telemarketing.
+6
+6.  Enforcement.  The commission, through its own counsel or through the Attorney 
+7
+General, may apply to the Superior Court of any county of the State to enforce any lawful 
+8
+order made or action taken by the commission pursuant to subsection 5, paragraphs A to 
+9
+E, and the court may issue any preliminary or final order that the court determines proper.  
+10
+The commission may impose administrative penalties under chapter 15 upon a project 
+11
+sponsor and may order restitution for any party injured by a violation for which a penalty 
+12
+may be assessed pursuant to chapter 15.  If the commission has reason to believe a project 
+13
+sponsor has violated subsection 5, paragraphs F to I, the commission shall report this 
+14
+information to the Attorney General for appropriate action.  A violation of subsection 5 is 
+15
+a violation of the Maine Unfair Trade Practices Act.
+16
+7.  Applicability.  A distributed generation resource with a nameplate capacity of 
+17
+greater than 2 megawatts and not more than 5 megawatts may be used for net energy billing 
+18
+under this section only if the requirements of paragraph A, B or C are met and all the 
+19
+requirements of paragraphs D and E are met.
+20
+A.  In order for a distributed generation resource to be used for net energy billing, one 
+21
+of the following must have been met on or before December 31, 2020:
+22
+(1)  There is a signed interconnection agreement between the entity proposing the 
+23
+development of the distributed generation resource and a transmission and 
+24
+distribution utility governing the connection of the resource to the utility's system 
+25
+and the ongoing operation of the resource after it is connected to the system; or
+26
+(2)  There is a net energy billing agreement between the entity proposing the 
+27
+development of the distributed generation resource and the transmission and 
+28
+distribution utility.
+29
+An amendment, revision or reissuance of an agreement under this paragraph that occurs 
+30
+after December 31, 2020 may not be interpreted to affect the date on which the initial 
+31
+agreement was signed.
+32
+B.  In order for a distributed generation resource to be used for net energy billing, one 
+33
+of the following must have been met on or before April 30, 2021:
+34
+(1)  A complete application for a customer net energy billing agreement has been 
+35
+submitted for the distributed generation resource and a customer has or customers 
+36
+have financial interest in 90% or more of the capacity of that distributed generation 
+37
+resource; or 
+38
+(2)  There is a fully executed net energy billing agreement between a customer or 
+39
+sponsor of the distributed generation resource and the transmission and distribution 
+40
+utility for the distributed generation resource and a customer has or customers have 
+41
+financial interest in 90% or more of the capacity of that distributed generation 
+42
+resource.
+
+Page 4 - 132LR0401(01)
+1
+C.  In order for a distributed generation resource to be used for net energy billing, the 
+2
+following must have been met on or before June 1, 2021:
+3
+(1)  The interconnection study process has commenced for a distributed generation 
+4
+resource located in those portions of the service territory of an investor-owned 
+5
+transmission and distribution utility that are not connected to the ISO-NE region 
+6
+as defined in section 1902, subsection 3.
+7
+D.  In order for a distributed generation resource to be used for net energy billing, all 
+8
+of the following must be met on or before December 31, 2021:
+9
+(1)  There is a fully executed interconnection agreement between the entity 
+10
+proposing the development of the distributed generation resource and the 
+11
+transmission and distribution utility;
+12
+(2)  The entity proposing the development of the distributed generation resource 
+13
+certifies to the commission that the entity has submitted all applicable permit 
+14
+applications to the Department of Environmental Protection and the department 
+15
+has accepted those applications for processing; and
+16
+(3)  The entity proposing the development of the distributed generation resource 
+17
+certifies to the commission that the entity has received all necessary local, 
+18
+nonministerial permits.  For purposes of this subparagraph, "nonministerial permit" 
+19
+means a permit for which one or more officials consider various factors and 
+20
+exercise discretion in deciding whether to issue or deny the permit.
+21
+An amendment, revision or reissuance of an agreement under this paragraph that occurs 
+22
+after December 31, 2021 may not be interpreted to affect the date on which the 
+23
+agreement was initially executed.
+24
+E.  In order for a distributed generation resource to be used for net energy billing, the 
+25
+following must be met on or before December 31, 2024:
+26
+(1)  The proposed distributed generation resource must reach commercial operation 
+27
+by the date specified in the net energy billing agreement or by the date specified 
+28
+with an allowable modification to that agreement.
+29
+An entity proposing the development of a distributed generation resource that does not 
+30
+meet one or more of the requirements of this subsection may petition the commission for a 
+31
+good-cause exemption due to external delays outside of the entity's control, which the 
+32
+commission may grant if it finds that, without the external delays, the entity could 
+33
+reasonably have been expected to meet the requirements.
+34
+The goal for development of commercially operational distributed generation resources 
+35
+under this subsection and section 3209‑B, subsection 7 is 750 total megawatts.
+36
+8.  Unused kilowatt-hour credits; rules.  To the extent rules adopted under this 
+37
+section provide for the periodic expiration of unused kilowatt-hour credits accumulated by 
+38
+a customer participating in a net energy billing arrangement, the commission shall require 
+39
+by rule that each transmission and distribution utility with a net energy billing arrangement 
+40
+shall account for and, on or before January 1st of each year, remit the value of all unused 
+41
+kilowatt-hour credits that were accumulated and that expired during the prior calendar year 
+42
+to the commission for the benefit of individuals receiving low‑income assistance in 
+
+Page 5 - 132LR0401(01)
+43
+accordance with section 3214, subsection 2.  The rules adopted by the commission pursuant 
+44
+to this subsection must:
+3
+A.  Establish the manner by which a transmission and distribution utility must account 
+4
+for unused kilowatt-hour credits that were accumulated by all customers of the utility 
+5
+with net energy billing arrangements during the prior calendar year and that expired 
+6
+during the prior calendar year; and
+7
+B.  Establish the manner by which a transmission and distribution utility must remit 
+8
+the value of the unused and expired kilowatt‑hour credits.
+9
+Notwithstanding any provision of this section to the contrary, rules adopted by the 
+10
+commission pursuant to this subsection are routine technical rules as defined in Title 5, 
+11
+chapter 375, subchapter 2‑A.
+12
+9.  Applicability to projects between one megawatt and 2 megawatts.  A distributed 
+13
+generation resource with a nameplate capacity of at least one megawatt and not more than 
+14
+2 megawatts may be used for net energy billing under this section only if the requirements 
+15
+of paragraph A are met.
+16
+A.  On or before December 31, 2024, the proposed distributed generation resource must 
+17
+reach commercial operation by the date specified in the net energy billing agreement 
+18
+or by the date specified with an allowable modification to that agreement.
+19
+An entity proposing the development of a distributed generation resource that does not 
+20
+meet the requirement of this subsection may petition the commission for a good-cause 
+21
+exemption due to external delays outside of the entity's control, which the commission may 
+22
+grant if it finds that without the external delays the entity could reasonably have been 
+23
+expected to meet the requirement.
+24
+Sec. 3.  35-A MRSA §3209-B, as amended by PL 2023, c. 411, §§3 and 4, is further 
+25
+amended to read:
+26
+§3209-B.  Commercial and institutional net energy billing
+27
+The commission shall establish by rule, in accordance with this section, a net energy 
+28
+billing program for commercial and institutional customers of investor‑owned utilities.
+29
+1.  Definitions.  As used in this section, the following terms have the following 
+30
+meanings.
+31
+A.  "Commercial and institutional net energy billing program" or "program" "Program" 
+32
+means the net energy billing program established pursuant to this section.
+33
+B.  "Commercial or institutional customer" or "customer" means a nonresidential 
+34
+customer of an investor-owned transmission and distribution utility in the State.
+35
+C.  "Distributed generation resource" has the same meaning as in section 3209‑A, 
+36
+subsection 1, paragraph B.
+37
+D.  "Net energy billing" means the system of bill credits available under the program 
+38
+as described in subsection 5.
+39
+2.  Financial interest.  The program must allow a commercial or institutional customer 
+40
+to participate in the program if the customer has a financial interest in a distributed 
+41
+generation resource, including facility ownership, a lease agreement or a power purchase 
+42
+agreement.
+1
+2
+
+Page 6 - 132LR0401(01)
+1
+3.  System size.  The nameplate capacity of a distributed generation resource that may 
+2
+be used for net energy billing under this section must be less than 5 megawatts.
+3
+4.  Shared financial interest; limitation.  Multiple commercial or institutional 
+4
+customers that have distinct billing accounts with an investor‑owned transmission and 
+5
+distribution utility may share a financial interest in a distributed generation resource under 
+6
+subsection 2.  Any number of commercial or institutional customers may participate in net 
+7
+energy billing with a shared interest in a distributed generation resource, except that the 
+8
+number of customers or meters is limited to 10 for a shared interest in a distributed 
+9
+generation resource located in the service territory of an investor‑owned transmission and 
+10
+distribution utility located in an area administered by the independent system administrator 
+11
+for northern Maine or any successor of the independent system administrator for northern 
+12
+Maine unless the commission determines that the utility's billing system can accommodate 
+13
+more than 10 accounts or meters for the purpose of net energy billing.
+14
+5.  Tariff rate; bill credits.  The commission shall establish by rule tariff rates for 
+15
+customers participating in the program.  The initial tariff rate must be established no later 
+16
+than December 1, 2019.
+17
+A.  The tariff rate for a customer participating in net energy billing with a distributed 
+18
+generation resource described in this paragraph with a nameplate capacity of one 
+19
+megawatt or less must equal the standard-offer service rate established under section 
+20
+3212 that is applicable to the customer receiving the credit plus 75% of the effective 
+21
+transmission and distribution rate for the rate class that includes the smallest 
+22
+commercial customers of the investor-owned transmission and distribution utility.  The 
+23
+tariff rate under this paragraph applies to net energy billing with a distributed 
+24
+generation resource:
+25
+ (1)  With a nameplate capacity of greater than one megawatt if:
+26
+(a)  The entity developing the distributed generation resource certifies by 
+27
+affidavit with accompanying documentation to the commission that the entity, 
+28
+before September 1, 2022, commenced on-site physical work of a significant 
+29
+nature on the distributed generation resource and the entity has made and will 
+30
+continue to make continuous on-site construction efforts to advance toward 
+31
+completion of the distributed generation resource. For the purpose of this 
+32
+paragraph, continuous on-site construction efforts include, but are not limited 
+33
+to, in the context of a solar facility, the continuous installation of racks or other 
+34
+structures to affix photovoltaic panels, collectors or solar cells to a site.  The 
+35
+commission may share information contained in the affidavit submitted in 
+36
+accordance with this paragraph with a transmission and distribution utility, as 
+37
+necessary, to verify a distributed generation resource's compliance with this 
+38
+section. In administering this subsection, the commission may adopt rules 
+39
+including, but not limited to, requiring the entity that submits a sworn affidavit 
+40
+under this subparagraph to provide updated documentation to the commission 
+41
+after submission of the affidavit; or
+42
+(b)  The distributed generation resource is collocated with a net energy billing 
+43
+customer that is or net energy billing customers that are subscribed to at least 
+44
+50% of the facility's output; or
+45
+(2)  With a nameplate capacity of one megawatt or less.
+
+Page 7 - 132LR0401(01)
+1
+A-1.  The tariff rate for a customer participating in net energy billing under this section 
+2
+with a distributed generation resource not governed by paragraph A must:
+3
+(1)  In 2022, equal the standard-offer service rate established pursuant to section 
+4
+3212 that was applicable to the rate class of the customer receiving the credit on 
+5
+December 31, 2020 plus 75% of the effective transmission and distribution rate 
+6
+that was in effect on December 31, 2020 for the rate class that includes the smallest 
+7
+commercial customers of the investor-owned transmission and distribution utility; 
+8
+and
+9
+(2)  Increase by 2.25% on January 1st of each subsequent year, beginning January 
+10
+1, 2023.
+11
+B.  A customer participating in the program must receive for electricity delivered to 
+12
+the electric grid from a distributed generation resource in which the customer has a 
+13
+financial interest a bill credit based on the tariff rate to apply against the costs of 
+14
+electricity delivered to the customer by the investor‑owned transmission and 
+15
+distribution utility.
+16
+C.  A bill credit under the program as described in paragraph B may be applied to any 
+17
+portion of a customer's electricity bill.  Credits that remain unused at the end of any 
+18
+billing period may be carried forward for up to one year from the end of that billing 
+19
+period.
+20
+D.  A customer participating in the program who remains eligible to participate in the 
+21
+program must be allowed to receive a bill credit based on the tariff rate for a period of 
+22
+no less than 20 years from the date of first receiving the credit.
+23
+6.  Rules.  The commission shall adopt rules to implement this section. Rules adopted 
+24
+under this subsection are routine technical rules as defined in Title 5, chapter 375, 
+25
+subchapter 2‑A.
+26
+7.  Applicability.  The applicability of this section is limited by the requirements of 
+27
+section 3209‑A, subsection 7 and subsection 9.
+28
+8.  Limitation.  After December 31, 2023, a distributed generation resource may be 
+29
+used for net energy billing under this section only if the distributed generation resource is 
+30
+collocated with all of the distributed generation resource's net energy billing customers and 
+31
+those customers are subscribed to 100% of the facility's output under this section. This 
+32
+limitation does not apply to a distributed generation resource with a net energy billing 
+33
+agreement that was executed on or before December 31, 2023. An amendment, revision or 
+34
+reissuance of an agreement under this subsection that occurs after December 31, 2023 may 
+35
+not be interpreted to affect the date on which the agreement was initially executed.
+36
+Sec. 4.  35-A MRSA §3209-C, sub-§1, ¶C, as enacted by PL 2023, c. 411, §5, is 
+37
+amended to read:
+38
+C.  "Net energy billing costs" means all legitimate and verifiable costs incurred by a 
+39
+transmission and distribution utility directly attributable to net energy billing.  "Net 
+40
+energy billing costs" does not include any costs incurred by a project sponsor as defined 
+41
+in section 3209‑A, subsection 1, paragraph D, a net energy billing customer or any 
+42
+other entity, as determined by the commission by rule.
+
+Page 8 - 132LR0401(01)
+1
+Sec. 5.  35-A MRSA §3209-D, sub-§1, ¶A, as enacted by PL 2023, c. 411, §6, is 
+2
+repealed and the following enacted in its place:
+3
+A.  "Distributed generation resource" means an electric generating facility that uses a 
+4
+renewable fuel or technology under section 3210, subsection 2, paragraph B‑3, is 
+5
+located in the service territory of a transmission and distribution utility in the State, has 
+6
+a nameplate capacity of at least one megawatt and not more than 2 megawatts and:
+7
+(1)  Is a member of a cluster study conducted by the transmission and distribution 
+8
+utility with which the distributed generation resource is seeking to interconnect; or
+9
+(2)  Is likely to receive required transmission approval from the New England 
+10
+independent system operator on or before April 30, 2024.
+11
+Sec. 6.  36 MRSA §655, sub-§1, ¶V, as enacted by PL 2023, c. 682, §3, is repealed 
+12
+and the following enacted in its place:
+13
+V.  For property tax years beginning on or after April 1, 2025, solar energy equipment 
+14
+that generates heat or electricity, if all of the energy is used on the site where the 
+15
+property is located.
+16
+On or before April 1st of the first property tax year for which a taxpayer claims an 
+17
+exemption under this paragraph, the taxpayer claiming the exemption shall file a report 
+18
+with the assessor. The report must identify the property for which the exemption is 
+19
+claimed and must be made on a form prescribed by the State Tax Assessor or a 
+20
+substitute form approved by the State Tax Assessor. The State Tax Assessor shall 
+21
+furnish copies of the form to each municipality in the State and make the forms 
+22
+available to taxpayers.
+23
+Sec. 7.  36 MRSA §656, sub-§1, ¶L, as enacted by PL 2023, c. 682, §5, is repealed 
+24
+and the following enacted in its place:
+25
+L.  For property tax years beginning on or after April 1, 2025, solar energy equipment 
+26
+that generates heat or electricity, if all of the energy is used on the site where the 
+27
+property is located.
+28
+On or before April 1st of the first property tax year for which a taxpayer claims an 
+29
+exemption under this paragraph, the taxpayer claiming the exemption shall file a report 
+30
+with the assessor.  The report must identify the property for which the exemption is 
+31
+claimed and must be made on a form prescribed by the State Tax Assessor or a 
+32
+substitute form approved by the State Tax Assessor.  The State Tax Assessor shall 
+33
+furnish copies of the form to each municipality in the State and make the forms 
+34
+available to taxpayers.
+35
+SUMMARY
+36
+This bill amends the net energy billing programs established under the Maine Revised 
+37
+Statutes, Title 35-A, sections 3209-A and 3209-B to prohibit customers from having a 
+38
+shared financial interest in distributed generation resources used for the programs. The bill 
+39
+limits the applicability of the net energy billing programs to distributed generation 
+40
+resources that are located on the same side of the meter as the net energy billing customer 
+41
+and are used primarily to serve the electric load of that customer. To participate in the 
+42
+programs, all of the net energy billing credits associated with the output of the distributed 
+36
+37
+38
+39
+40
+41
+42
+
+Page 9 - 132LR0401(01)
+43
+generation resource must be allocated to the retail account of that customer. The bill also 
+44
+amends other statutes to reflect the changes made to the net energy billing programs by this 
+45
+bill.
+1
+2
+3

@@ -1,0 +1,117 @@
+{
+  "ld": 1916,
+  "paper": "HP1277",
+  "paper_display": "HP 1277",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099092",
+  "title": "An Act to Automatically Seal Criminal History Record Information for Class D and Class E Crimes Relating to Marijuana Possession and Cultivation",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, Apr 8, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/7/2026 - Reports READ . On motion of Representative HASENFUS of Readfield, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/8/2026 - Reports READ On motion by Senator BEEBE-CENTER of Knox the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Amy KUHN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Falmouth"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CRIMINAL HISTORIES",
+      "minor": "CRIMINAL HISTORY RECORDS",
+      "detail": "SEALING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "Representative KUHN for the Joint Standing Committee on Judiciary pursuant to Resolve 2023, chapter 103, section 8 reports that the Bill be REFERRED to the Committee on JUDICIARY and printed pursuant to Joint Rule 218. Report was READ and REJECTED . The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "Senate",
+      "description": "Report READ On motion by Senator CARNEY of Cumberland Tabled until Later in Today's Session, pending CONSIDERATION Unfinished Business"
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-14",
+      "date_raw": "5/14/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President On motion by Senator CARNEY of Cumberland Report ACCEPTED and the Bill and accompanying papers REFERRED to the Committee on JUDICIARY In NON-CONCURRENCE Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "House",
+      "description": "The House INSISTED on its action whereby the Report of the Committee on JUDICIARY was READ and REJECTED and the Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY . ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland the Senate RECEDED and CONCURRED to the Report being REJECTED and the Bill and accompanying papers REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-04-07",
+      "date_raw": "4/7/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative HASENFUS of Readfield, the Majority Ought Not to Pass Report was ACCEPTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-08",
+      "date_raw": "4/8/2026",
+      "chamber": "Senate",
+      "description": "Reports READ On motion by Senator BEEBE-CENTER of Knox the Majority Ought Not to Pass Report ACCEPTED in concurrence. Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-985 )",
+      "new_title": "An Act to Automatically Seal Criminal History Record Information for Class D and Class E Crimes Relating to Marijuana Possession and Cultivation and to Clarify Dissemination of Sealed Criminal History Record Information to the Department of Professional and Financial Regulation",
+      "house_action": "",
+      "senate_action": "",
+      "adopted": false,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1277&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1277&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1277",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1277&SessionID=16",
+  "scraped_at": "2026-06-30T19:58:46Z"
+}

@@ -1,0 +1,320 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 951
+S.P. 406
+In Senate, March 11, 2025
+An Act to Require Disclosure of Campaign Funding Sources
+Received by the Secretary of the Senate on March 6, 2025.  Referred to the Committee on 
+Veterans and Legal Affairs pursuant to Joint Rule 308.2 and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BENNETT of Oxford.
+Cosponsored by Representative RIELLY of Westbrook and
+Senator: GROHOSKI of Hancock, Representative: SUPICA of Bangor.
+
+Page 1 - 132LR0066(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  21-A MRSA §1017-A, sub-§1-A is enacted to read:
+3
+1-A.  Disclosure of sources of original funds.  A party committee shall comply with 
+4
+the requirements of section 1065.
+5
+Sec. 2.  21-A MRSA §1065 is enacted to read:
+6
+§1065.  Sources of campaign funds
+7
+1. Legislative findings and intent. The Legislature finds and declares that an informed 
+8
+electorate is the cornerstone of a healthy democracy. Transparency in the funding of 
+9
+political campaigns is essential to ensuring that voters can make informed decisions and 
+10
+hold elected officials accountable. The increasing influence of undisclosed financial 
+11
+contributions, commonly referred to as "dark money," undermines public confidence in the 
+12
+integrity of elections, distorts the democratic process and conceals the identities of those 
+13
+seeking to influence public policy for their own interests.
+14
+The Legislature further finds that the public has a compelling interest in knowing the 
+15
+sources of all significant campaign-related expenditures to prevent corruption, undue 
+16
+influence and the appearance thereof. Full disclosure of political spending promotes 
+17
+fairness, accountability and trust in government, while safeguarding the fundamental 
+18
+principle that government derives its legitimacy from the consent of the governed.
+19
+It is therefore the intent of the Legislature to require the greatest possible transparency of 
+20
+campaign expenditures, including the identification of all contributors to entities that spend 
+21
+or contribute money to influence candidate elections in order to restore public confidence 
+22
+in elections, protect the integrity of democratic institutions and ensure that the voices of all 
+23
+citizens, not just the wealthy and powerful, are heard.
+24
+2. Definitions.  As used in this section, unless the context otherwise indicates, the 
+25
+following terms have the following meanings.
+26
+A. "Covered committee" means a committee required to file a report under section 
+27
+1017-A or 1059 that makes, in one election cycle, more than $50,000 in expenditures 
+28
+and receives a contribution from a covered contributor.
+29
+B. "Covered contribution" means the total amount contributed by a covered contributor 
+30
+to a covered committee in an election cycle.
+31
+C. "Covered contributor" means a person that contributes more than $10,000 to a 
+32
+covered committee in an election cycle.
+33
+D. "Election cycle" means the 2-year period beginning the day after a general election 
+34
+and ending the day of the next general election.
+35
+E. "Original funds" means funds over which a person has legal control and to which 
+36
+the person holds title that the person receives from:
+37
+(1) Salary, wages or other earned income from employment;
+38
+(2) Investment income, sale of assets or bequests;
+39
+(3) Distributions from a partnership, limited liability company or trust in which the 
+40
+person holds a legal interest;
+
+Page 2 - 132LR0066(01)
+1
+(4) Commercial transactions; or  
+2
+(5) Membership dues, union dues or other similar periodic payments to an 
+3
+organization, association or group as long as the payments do not exceed $10,000 
+4
+per year per person.
+5
+F.  "Original source" means the person who directly received the original funds.
+6
+G. "Pass-through funds" means funds over which a person has legal control and to 
+7
+which the person holds title that are not that person's original funds.
+8
+3. Notice to disclose or opt out.  A covered committee shall notify each contributor in 
+9
+writing that the funds may be used to make expenditures to influence a campaign in this 
+10
+State and that information about the sources of pass-through funds may be required and 
+11
+reported under this section. The notice may be provided to the contributor before or after 
+12
+the covered committee receives the contribution, but the contribution may be used or 
+13
+transferred only in accordance with this subsection and subsection 6. The notice must 
+14
+provide that the contributor has 21 days in which the contributor may state that those funds 
+15
+are solely the contributor's original funds, that the funds include pass-through funds or that 
+16
+the contributor opts out of allowing the funds to be used by the covered committee to 
+17
+influence a campaign in this State.  Any contributor that has not responded to the notice 
+18
+within 21 days is presumed to have opted out of allowing the contribution to be used to 
+19
+influence a campaign in this State.  The commission shall develop a form that a covered 
+20
+committee may use to provide the notice required under this subsection.
+21
+4. Covered contributor disclosure. If a covered contributor in response to the notice 
+22
+under subsection 3 states that the funds include pass-through funds, the covered contributor 
+23
+shall provide the covered committee with the following information:
+24
+A.  The identity of each source of original funds that directly or indirectly contributed 
+25
+$2,500 or more in funds included in the contribution;
+26
+B.  The amounts from each source, which must total at least as much as the 
+27
+contribution; and
+28
+C.   The identity of all 3rd parties that transferred $2,500 or more of the original funds 
+29
+from the original source until the funds were received by the covered contributor, 
+30
+including the dates and amounts of the transfers.
+31
+A covered contributor that received pass-through funds exceeding the amount of the 
+32
+covered contribution may choose which original sources to disclose as long as the covered 
+33
+contributor discloses a total amount of original funds at least equal to the amount of the 
+34
+covered contribution and identifies all persons that transferred those original funds from 
+35
+the original sources to the covered contributor.  
+36
+5. Records of disclosures. A covered committee shall maintain records of the 
+37
+information required under subsection 4 for at least 5 years and provide the records to the 
+38
+commission upon request.
+39
+6. Restrictions.  A contribution may be used or transferred by the covered committee 
+40
+immediately upon the covered committee's receipt of information from the contributor that 
+41
+states that those funds are solely the contributor's original funds or, if the funds include 
+42
+pass-through funds, the information required under subsection 4.  A covered committee 
+43
+may not use or transfer funds received from a contributor for the purpose of influencing a 
+
+Page 3 - 132LR0066(01)
+44
+campaign in this State if the contributor has opted out or is presumed to have opted out 
+45
+pursuant to subsection 3.  Funds of a contributor that has opted out or is presumed to have 
+46
+opted out pursuant to subsection 3 must be segregated from funds in the covered 
+47
+committee's campaign account described in section 1054.  This subsection may not be 
+48
+construed to prohibit the use or transfer of such funds for other purposes. 
+6
+7. Sources of original funds; report to commission.  A covered committee shall 
+7
+include the following information received from a covered contributor pursuant to 
+8
+subsection 4 in an appropriate report required under section 1017-A or 1059:
+9
+A.  The name and mailing address of each original source whose aggregate direct or 
+10
+indirect contributions exceed $10,000 during the election cycle. For an original source 
+11
+who is an individual, the report must include that individual's occupation and place of 
+12
+business;
+13
+B.  The date and amount of original funds received from each original source identified 
+14
+in accordance with paragraph A; and
+15
+C.  The identity of all 3rd parties that transferred $5,000 or more of the original funds 
+16
+from the original source until the funds were received by the covered committee, 
+17
+including the dates and amounts of the transfers.
+18
+A covered committee is not responsible for reporting the information required by this 
+19
+subsection for the funds of a covered contributor that has opted out or is presumed to have 
+20
+opted out pursuant to subsection 3. In reporting the required information under this 
+21
+subsection, a covered committee may rely upon the information it received pursuant to 
+22
+subsection 4, unless the covered committee knows or has reason to know that the 
+23
+information is false or incomplete.
+24
+8. Top 3 funders; original sources.  For a communication made by a covered 
+25
+committee that is an independent expenditure, as defined in section 1019-B, subsection 1, 
+26
+or a communication subject to section 1055-A, the communication must include the 
+27
+statement described in section 1014, subsection 2-B.  The top 3 funders included in the 
+28
+statement must be the funders that, since the day following the most recent general election, 
+29
+are the original sources of the highest dollar amounts of original funds directly or indirectly 
+30
+contributed to the covered committee making the communication.  Section 1014, 
+31
+subsection 2-B, paragraph E does not apply to the statement required by this subsection.
+32
+9. Prior funds.  For the purposes of disclosing original sources under this section, a 
+33
+covered contributor that received funds that are not its own original funds prior to January 
+34
+1, 2026 or that has held an amount of funds at least equal to $10,000 without interruption 
+35
+for a period of 5 years may consider those funds its own original funds.
+36
+10. Penalties.  Notwithstanding section 1004-A, subsections 4 and 5 and section 1014, 
+37
+subsection 4, the commission may assess a penalty for a violation of this section of not 
+38
+more than $20,000, in addition to any penalty assessed under sections 1020-A and 1062-A.  
+39
+When determining the amount of any penalty, the commission shall consider the amount 
+40
+of the original funds not disclosed, the harm suffered by the public from the lack of 
+41
+disclosure and the covered committee's compliance record.  If the commission determines 
+42
+that adjusting the statutory maximum penalty amount would serve the purposes of this 
+43
+section, it may recommend adjustments in a report to the joint standing committee of the 
+44
+Legislature having jurisdiction over campaign finance reporting matters.
+1
+2
+3
+4
+5
+
+Page 4 - 132LR0066(01)
+1
+11. Rules.  The commission shall adopt rules to implement this section, including the 
+2
+content and timing of the notice described in subsection 3 and report described in 
+3
+subsection 7.  Rules adopted under this subsection are routine technical rules as defined in 
+4
+Title 5, chapter 375, subchapter 2-A.
+5
+Sec. 3.  Effective date. That portion of that section of this Act that enacts the Maine 
+6
+Revised Statutes, Title 21-A, section 1065, subsection 10 takes effect January 1, 2026.
+7
+SUMMARY
+8
+This bill requires certain party committees, political action committees and ballot 
+9
+question committees to notify and seek consent from a contributor in writing that the 
+10
+contribution may be used to make expenditures to influence a political campaign in this 
+11
+State.  The bill requires the committee to report to the Commission on Governmental Ethics 
+12
+and Election Practices information about the identity of certain contributors and 3rd parties 
+13
+and the amount of the contribution used to make expenditures to influence a political 
+14
+campaign in this State.  The bill contains other requirements regarding the source of 
+15
+contributions, required reporting relating to the top 3 funders and penalties for violations.
+8
+9
+10
+11
+12
+13
+14
+15

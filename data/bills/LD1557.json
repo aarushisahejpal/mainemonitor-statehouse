@@ -1,0 +1,128 @@
+{
+  "ld": 1557,
+  "paper": "HP1015",
+  "paper_display": "HP 1015",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098377",
+  "title": "An Act to Ensure Uniformity in the Regulation of Perfluoroalkyl and Polyfluoroalkyl Substances in Pesticides",
+  "committee": "",
+  "status_summary": "",
+  "final_disposition": "Died Between Houses, Apr 22, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/17/2025 - The House INSISTED on REFERENCE to the Committee on ENVIRONMENT AND NATURAL RESOURCES . ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/22/2025 - On motion by Senator PIERCE of Cumberland The Senate INSISTED on REFERENCE to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Amy ARATA",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "New Gloucester"
+    },
+    {
+      "name": "Susan BERNARD",
+      "role": "Cosponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Aroostook"
+    },
+    {
+      "name": "Mark COOPER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Windham"
+    },
+    {
+      "name": "Dean CRAY",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Palmyra"
+    },
+    {
+      "name": "James DILL",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Old Town"
+    },
+    {
+      "name": "Timothy GUERRETTE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Caribou"
+    },
+    {
+      "name": "Allison HEPLER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Woolwich"
+    },
+    {
+      "name": "Caldwell JACKSON",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Oxford"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "PESTICIDES",
+      "minor": "MANAGEMENT",
+      "detail": "UNIFORM PRACTICES"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "House",
+      "description": "Committee on AGRICULTURE, CONSERVATION AND FORESTRY suggested and ordered printed. Representative PLUECKER of Warren, MOVED to REFER the Bill to the Committee on ENVIRONMENT AND NATURAL RESOURCES . On motion of Representative ARATA of New Gloucester, TABLED pending REFERENCE to the Committee on ENVIRONMENT AND NATURAL RESOURCES . Later today assigned."
+    },
+    {
+      "date": "2025-04-10",
+      "date_raw": "4/10/2025",
+      "chamber": "House",
+      "description": "Speaker laid before the House Subsequently, the Bill was REFERRED to the Committee on ENVIRONMENT AND NATURAL RESOURCES . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-15",
+      "date_raw": "4/15/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator TALBOT ROSS of Cumberland The Bill was REFERRED to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY In NON-CONCURRENCE Sent down for concurrence"
+    },
+    {
+      "date": "2025-04-17",
+      "date_raw": "4/17/2025",
+      "chamber": "House",
+      "description": "The House INSISTED on REFERENCE to the Committee on ENVIRONMENT AND NATURAL RESOURCES . ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-22",
+      "date_raw": "4/22/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland The Senate INSISTED on REFERENCE to the Committee on AGRICULTURE, CONSERVATION AND FORESTRY Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1015&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1015",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1015&SessionID=16",
+  "scraped_at": "2026-06-30T19:30:24Z"
+}

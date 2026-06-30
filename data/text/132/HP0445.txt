@@ -1,0 +1,1468 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 706
+H.P. 445
+House of Representatives, February 25, 2025
+An Act Regarding the Laws Relating to Unemployment Insurance
+Submitted by the Department of Labor pursuant to Joint Rule 204.
+Received by the Clerk of the House on February 20, 2025.  Referred to the Committee on 
+Labor pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ARCHER of Saco.
+
+Page 1 - 132LR0140(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  25 MRSA §6001, sub-§2, ¶B, as enacted by PL 2021, c. 394, §1, is 
+3
+amended to read:
+4
+B.  Notwithstanding the provisions of paragraph A, a department, public employee or 
+5
+public official may request a search of a facial surveillance system as provided in 
+6
+paragraph C and may obtain, retain, possess, access or use the results of a search of a 
+7
+facial surveillance system, as provided in paragraph C, for the purposes of:
+8
+(1)  Investigating a serious crime, when there is probable cause to believe that an 
+9
+unidentified individual in an image has committed the serious crime;
+10
+(2)  Assisting in the identification of a person who is deceased or believed to be 
+11
+deceased;
+12
+(3)  Assisting in the identification of a missing or endangered person; or
+13
+(4)  Performing a duty authorized under paragraph D, subparagraph (1), if the 
+14
+Bureau of Motor Vehicles or a public employee or public official of the Bureau of 
+15
+Motor Vehicles makes the request for the search of the facial surveillance system.; 
+16
+or
+17
+(5)  Performing a duty authorized under paragraph D, subparagraph (1), if the 
+18
+Department of Labor, Bureau of Unemployment Compensation, or a public 
+19
+employee or public official of the Bureau of Unemployment Compensation, makes 
+20
+the request for the search of the facial surveillance system.
+21
+Sec. 2.  26 MRSA §1043, sub-§3-A, as amended by PL 1995, c. 9, §1, is further 
+22
+amended to read:
+23
+3-A.  Alternate base period.  For benefit years effective on or after September 27, 
+24
+1992 for any individual who fails to meet the eligibility requirements of section 1192, 
+25
+subsection 5 1192-A, subsection 2, paragraph F in the base period as defined in subsection 
+26
+3, the Department of Labor shall make a redetermination of eligibility based on a base 
+27
+period that consists of the last 4 completed calendar quarters immediately preceding the 
+28
+first day of the individual's benefit year.  This base period is known as the "alternate base 
+29
+period."  If wage information for the most recent quarter of the alternate base period is not 
+30
+available to the department from regular quarterly reports of wage information that is 
+31
+systematically accessible, the department shall gather the necessary data in accordance with 
+32
+rules established for this purpose.
+33
+If the department receives information from the employer that causes a revised monetary 
+34
+determination under this subsection, benefits received prior to that revision may not 
+35
+constitute an overpayment of benefits provided as long as the claimant did not knowingly 
+36
+misrepresent information requested by the department.
+37
+Wages that fall within the base period of claims established under this subsection are not 
+38
+available for reuse in qualifying for any subsequent benefit years under section 1192 
+39
+1192-A.
+40
+In the case of a combined-wage claim pursuant to the arrangement approved by the United 
+41
+States Secretary of Labor in accordance with section 1082, subsection 12, the base period 
+
+Page 2 - 132LR0140(01)
+42
+is that base period applicable under the unemployment compensation law of the paying 
+43
+state.
+3
+Sec. 3.  26 MRSA §1043, sub-§5, ¶B, as amended by PL 2009, c. 271, §1, is 
+4
+repealed.
+5
+Sec. 4.  26 MRSA §1043, sub-§19, ¶B, as amended by PL 2017, c. 117, §3, is 
+6
+further amended to read:
+7
+B.  For purposes of section 1191, subsection 2,; section 1192, subsection 5 1192-A, 
+8
+subsection 2, paragraph F; and section 1221, the term "wages" does not include:
+9
+(1)  The amount of any payment, including any amount paid by an employer for 
+10
+insurance or annuities, or into a fund, to provide for any such payment, made to, 
+11
+or on behalf of, an employee or any of the employee's dependents under a plan or 
+12
+system established by an employer that makes provision for the employer's 
+13
+employees generally, or for the employer's employees generally and their 
+14
+dependents, or for a class or classes of the employer's employees, or for a class or 
+15
+classes of the employer's employees and their dependents, on account of:
+16
+(a)  Sickness or accident disability, but, in the case of payments made to an 
+17
+employee or any of the employee's dependents, this subparagraph excludes 
+18
+from the term "wages" only payments that are received under a workers' 
+19
+compensation law;
+20
+(b)  Medical or hospitalization expenses in connection with sickness or 
+21
+accident disability; or
+22
+(c)  Death;
+23
+(1-A)  Any payment on account of sickness or accident disability, or medical or 
+24
+hospitalization expenses in connection with sickness or accident disability, made 
+25
+by an employer or a 3rd party to, or on behalf of, an employee after the expiration 
+26
+of 6 calendar months following the last calendar month in which the employee 
+27
+worked for that employer;
+28
+(2)  The payment by an employing unit, without deduction from the remuneration 
+29
+of the employee, of the tax imposed upon an employee under section 3101 of the 
+30
+Federal Insurance Contributions Act, as amended, with respect to service 
+31
+performed after July 26, 1940, with respect to remuneration paid to an employee 
+32
+for domestic service in a private home of the employer or for agricultural labor;
+33
+(3)  The amount of any payment, other than vacation or sick pay, to an individual 
+34
+after the month in which the individual attains the age of 62, if the individual did 
+35
+not perform services for the employing unit in the period for which such payment 
+36
+is made and is not expected to perform service in the future for the payment; or
+37
+(4)  The amount of any nominal fee or stipend to a volunteer whose service is 
+38
+excluded from the definition of employment pursuant to subsection 11, paragraph 
+39
+F, subparagraph (35);
+40
+Sec. 5.  26 MRSA §1051, sub-§1, as amended by PL 2011, c. 645, §1, is further 
+41
+amended to read:
+1
+2
+
+Page 3 - 132LR0140(01)
+1
+1.  False statement or representation.  A person is guilty of unemployment fraud if 
+2
+that person makes a false statement or representation knowing it to be false or knowingly 
+3
+fails to disclose a material fact or solicits another person to make a false statement knowing 
+4
+it to be false or knowingly solicits another person to fail to disclose a material fact:
+5
+A.  To obtain or increase any benefit or other payment under this chapter or under an 
+6
+employment security law of any other state or of the Federal Government;
+7
+B.  To prevent or reduce the payment of unemployment benefits to any individual;
+8
+C.  To avoid becoming or remaining an employer under this chapter; or
+9
+D.  To avoid or reduce any contribution or other payment required from an employing 
+10
+unit under this chapter.
+11
+Each false statement or representation or failure to disclose a material fact constitutes a 
+12
+separate offense. Unemployment fraud is theft by deception under Title 17‑A, section 354.
+13
+Sec. 6.  26 MRSA §1051, sub-§6, ¶C, as enacted by PL 1997, c. 434, §1, is 
+14
+amended by amending subparagraph (4) to read:
+15
+(4)  Upon receipt of an order to withhold issued by the Department of Labor, the 
+16
+employer or other payor shall immediately begin withholding from the income of 
+17
+the responsible individual 10% of gross wages, except that the amount withheld 
+18
+may not exceed an amount by which the individual's disposable earnings are 
+19
+reduced to a weekly equivalent of 40 times the federal state hourly minimum wage 
+20
+prescribed by 29 United States Code, Section 206(a)(1) section 664, subsection 1.  
+21
+Sums withheld must be remitted to the Department of Labor within 10 days of the 
+22
+date the individual is paid.  Any person who honors an order to withhold issued 
+23
+under this section is discharged from any liability or obligation to the individual 
+24
+for the amount of the wages withheld.
+25
+Sec. 7.  26 MRSA §1051, sub-§10, as enacted by PL 1999, c. 464, §4, is amended 
+26
+to read:
+27
+10.  Application of benefit repayments.  Amounts received through any means to 
+28
+repay benefit payments owed to the commissioner must be applied first to any outstanding 
+29
+penalties, 2nd to any outstanding interest and 3rd to any benefit payments owed to the 
+30
+commissioner, except that if the repayment of benefit amounts owed to the commissioner 
+31
+is accomplished by offsetting subsequent benefit payments issued under this chapter, that 
+32
+repayment may be applied only to the principal amount.
+33
+Sec. 8.  26 MRSA §1082, sub-§1, as amended by PL 2021, c. 456, §8, is further 
+34
+amended to read:
+35
+1.  Powers and duties of the commissioner.  Except as otherwise provided, it is the 
+36
+duty of the commissioner to administer this chapter, through an organization to be known 
+37
+as the Bureau of Unemployment Compensation.  The commissioner may employ persons, 
+38
+make expenditures, require reports, make investigations and take other actions the 
+39
+commissioner determines necessary or suitable to that end.  The commissioner is 
+40
+responsible and possesses the necessary authority for the operation and management of the 
+41
+Bureau of Unemployment Compensation.  The commissioner shall determine methods of 
+42
+operational procedures in accordance with the provisions of this chapter.  The 
+43
+commissioner may adopt rules in accordance with the Maine Administrative Procedure 
+
+Page 4 - 132LR0140(01)
+44
+Act, Title 5, chapter 375, to achieve this purpose.  The commissioner may adopt rules with 
+45
+respect to a self-employment assistance program as provided in section 1197.  The 
+46
+commissioner shall determine methods of operational procedures in accordance with the 
+47
+provisions of this chapter and by the Maine Administrative Procedure Act, Title 5, chapter 
+48
+375.  The commissioner shall make recommendations for amendments to this chapter that 
+49
+the commissioner determines proper.  When the commissioner believes that a change in 
+50
+contribution or benefit rates is necessary to protect the solvency of the fund, the 
+51
+commissioner shall promptly inform the Governor and the Legislature and make 
+52
+recommendations with respect to the change in rates.
+10
+Sec. 9.  26 MRSA §1085, sub-§1, ¶A, as enacted by PL 2019, c. 644, §4, is 
+11
+amended by amending subparagraph (3) to read:
+12
+(3)  An employee of the bureau who has or will be given access to federal tax 
+13
+information as part of that employee's employment with the bureau and has not 
+14
+undergone a federal background investigation within the past 10 5 years; or
+15
+Sec. 10.  26 MRSA §1191, sub-§4, ¶A, as amended by PL 2009, c. 271, §2, is 
+16
+further amended to read:
+17
+A.  If a dislocated worker, as defined in section 1196, subsection 1, who is in training 
+18
+approved under section 1192, subsection 6, 6‑A, 6‑C, 6‑D or 6‑E qualifies for 
+19
+additional benefits under section 1043, subsection 5, paragraph B 1196, subsection 
+20
+1-A, or exhausts the worker's entitlement to benefits available to the worker under this 
+21
+subsection, the maximum amount under this subsection is the product of the worker's 
+22
+most recent weekly benefit amount multiplied by the number of weeks in which the 
+23
+worker thereafter attends an approved training program.  No An increase may not be 
+24
+made under this paragraph, with respect to any benefit period, greater than 26 times the 
+25
+individual's weekly benefit amount.
+26
+(1)  Benefits paid to an individual under this paragraph may not be charged against 
+27
+the experience rating record of any employer, but must be charged to the General 
+28
+Fund.
+29
+(2)  No benefits Benefits may not be paid under this paragraph to any person an 
+30
+individual:
+31
+(b)  Until the person individual has exhausted benefits for which the person 
+32
+individual is eligible under any an unemployment insurance benefit program 
+33
+funded in whole or in part by the State Government or the Federal Government; 
+34
+or
+35
+(c)  Who is eligible for or who has exhausted, after the effective date of this 
+36
+paragraph March 20, 1986, trade adjustment allowances as provided by the 
+37
+United States Trade Act of 1974, Title II, Chapter 2, Public Law 93-617, 19 
+38
+United States Code, Title 19, Section 2291, et seq. to 2294, and any 
+39
+amendments or additions thereto, or a similar successor provision of that Act, 
+40
+except that any individual who was eligible for and received less than 26 weeks 
+41
+of benefits under the United States Trade Act of 1974 may receive benefits for 
+42
+the number of weeks by which their that individual's benefits under that Act 
+43
+are less than 26 weeks.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Page 5 - 132LR0140(01)
+1
+Sec. 11.  26 MRSA §1192, as corrected by RR 2023, c. 2, Pt. E, §§89 to 92, is 
+2
+repealed.
+3
+Sec. 12.  26 MRSA §1192-A is enacted to read:
+4
+§1192-A.  Eligibility conditions
+5
+The following provisions govern an individual's eligibility to receive benefits under 
+6
+this chapter. 
+7
+1.  Definitions. As used in this section, unless the context otherwise indicates, the 
+8
+following terms have the following meanings. 
+9
+A.  "Deputy" means a representative of the bureau designated by the commissioner.
+10
+B.  "Educational service agency" means a governmental agency or governmental entity 
+11
+that is established and operated exclusively for the purpose of providing services to one 
+12
+or more educational institutions.
+13
+C.  "Good cause" means:
+14
+(1)  The unemployed individual is ill;
+15
+(2)  The presence of the unemployed individual is required due to an illness of the 
+16
+unemployed individual's spouse, child, parent, stepparent, sibling or relative who 
+17
+has been acting in the capacity of a parent of either the unemployed individual or 
+18
+the unemployed individual's spouse;
+19
+(3)  The unemployed individual is in attendance at the funeral of any of the persons 
+20
+described in subparagraph (2); 
+21
+(4)  The unemployed individual is observing a religious holiday as required by 
+22
+religious conviction;
+23
+(5)  The unemployed individual is performing either a military or civil duty as 
+24
+required by law; and
+25
+(6)  Another cause of a necessitous and compelling nature, including child care 
+26
+emergencies and transportation emergencies.
+27
+"Good cause" does not include incarceration as a result of a conviction for a felony or 
+28
+misdemeanor.
+29
+D.  "Suitable employment" means, with respect to an individual, work of a substantially 
+30
+equal or higher skill level than the individual's past adversely affected employment, as 
+31
+defined for purposes of the United States Trade Act of 1974, and wages for that work 
+32
+at not less than 80% of the individual's average weekly wage as determined for the 
+33
+purposes of the United States Trade Act of 1974.
+34
+E.  "Union hiring hall" means a service provided by a labor union or an entity associated 
+35
+with a labor union that places employees with an employer under a collective 
+36
+bargaining agreement or otherwise places employees with employers.
+37
+2. Eligibility. An unemployed individual is eligible to receive benefits with respect to 
+38
+any week only if:
+39
+A.  The individual has made a claim for benefits with respect to the week or part thereof 
+40
+in accordance with rules adopted by the commissioner;
+
+Page 6 - 132LR0140(01)
+1
+B.  The individual has registered for work at and continued to report at an employment 
+2
+office in accordance with rules the commissioner adopts, except that the commissioner 
+3
+may, by rule, waive or alter either or both of the requirements of this paragraph as to 
+4
+individuals attached to regular jobs and as to such other types of cases or situations 
+5
+with respect to which the commissioner finds that compliance with the requirements 
+6
+would be oppressive or would be inconsistent with the purposes of this chapter. A rule 
+7
+under this paragraph may not conflict with section 1191, subsection 1;
+8
+C.  For each week in which a claim for benefits is filed, the individual is actively 
+9
+seeking work, unless the individual is participating in approved training under 
+10
+subsection 3 or the work search requirement has been waived in accordance with rules 
+11
+adopted by the commissioner, and the individual provides evidence of work search 
+12
+efforts in a manner and form as prescribed by the Department of Labor. Failure to 
+13
+provide required work search documentation results in a denial of benefits in 
+14
+accordance with section 1194, subsection 2 for the week or weeks for which 
+15
+documentation was not provided unless the department determines there is good cause 
+16
+for the individual's failure to comply with this requirement.
+17
+Notwithstanding any provision of this paragraph to the contrary, an individual is 
+18
+considered to be actively seeking work in accordance with this section if the individual 
+19
+is a member of a bona fide labor union, maintains contact with that union and uses and 
+20
+complies with the placement services of the union hiring hall in seeking work;
+21
+D.  The individual is able to work and is available for work at the individual's usual or 
+22
+customary hours, commute, trade, occupation, profession or business or in such other 
+23
+trade, occupation, profession or business for which the individual's prior training or 
+24
+experience shows the individual to be fitted or qualified, and in addition to having 
+25
+complied with paragraphs B and C, is actively seeking work in accordance with the 
+26
+rules of the commissioner.
+27
+Ineligibility may not be determined solely because an individual is unable to accept 
+28
+employment on a shift, the greater part of which falls between the hours of midnight to 
+29
+5 a.m., and is unavailable for that employment because of parental obligation, the need 
+30
+to care for an immediate family member or the unavailability of a personal care 
+31
+attendant required to assist the unemployed individual who is a person with a disability. 
+32
+An unemployed individual who is neither able nor available for work due to good cause 
+33
+as determined by the deputy is eligible to receive prorated benefits for that portion of 
+34
+the week during which the individual was able and is available.  
+35
+Notwithstanding this paragraph, an individual who worked full-time for the majority 
+36
+of the weeks during that individual's base period but is able and available for and 
+37
+actively seeking only part-time work because of the illness or disability of the 
+38
+individual or an immediate family member, or because of limitations necessary for the 
+39
+safety or protection of the individual or the individual's immediate family member, 
+40
+may not be disqualified from receiving benefits. The individual's benefits must be 
+41
+prorated in accordance with the individual's current availability;
+42
+E.  The individual has served a waiting period of one week of total or partial 
+43
+unemployment. A week may not be counted as a week of total or partial unemployment 
+44
+for the purpose of this paragraph:  
+45
+(1) If benefits have been paid with respect to that week;   
+
+Page 7 - 132LR0140(01)
+1
+(2) Unless it occurs within the benefit year that includes the week with respect to 
+2
+which the individual claims payment of benefits; and
+3
+(3) Unless the individual was eligible for benefits with respect to that week, as 
+4
+provided in this section and section 1193, except for the requirements of this 
+5
+paragraph; and
+6
+F.  For an individual establishing a benefit year on or after January 1, 1980, the 
+7
+individual has been paid wages equal to or exceeding 2 times the annual average 
+8
+weekly wage for insured work in each of 2 different quarters in the individual's base 
+9
+period and has been paid total wages equal to or exceeding 6 times the annual average 
+10
+weekly wage in the individual's base period for insured work. 
+11
+For the purposes of this paragraph, the annual average weekly wage amount to be used 
+12
+is that which is applicable at the time the individual files a request for determination of 
+13
+insured status. 
+14
+For the purposes of this paragraph, wages are counted as "wages for insured work" for 
+15
+benefit purposes with respect to a benefit year only if the benefit year begins 
+16
+subsequent to the date on which the employer by whom such wages were paid has 
+17
+satisfied the conditions of section 1043, subsection 9, or section 1222, subsection 3, 
+18
+with respect to becoming an employer; except that an individual may not receive 
+19
+benefits in a benefit year unless, subsequent to the beginning of the next preceding 
+20
+benefit year during which that individual received benefits, that individual performed 
+21
+services and earned remuneration for such services in an amount equal to or greater 
+22
+than 8 times that individual's weekly benefit amount in employment by an employer in 
+23
+the benefit year being established. 
+24
+This paragraph applies only to an individual requesting determination of insured status 
+25
+on and after January 1, 1972. In determining an individual's qualification under this 
+26
+subsection, payments pursuant to former Title 39, sections 54, 55, 188 and 189 and 
+27
+Title 39-A, sections 608 and 609 are considered wages for insured work.
+28
+3.  Approved training.  Notwithstanding any provision of this chapter to the contrary, 
+29
+an otherwise eligible individual who is in training, as approved for the individual by the 
+30
+deputy, under rules adopted by the commissioner, may not be denied benefits for any week 
+31
+with respect to subsection 2, paragraphs C and D relating to availability and the work search 
+32
+requirement or section 1193, subsection 3. Enrollment in a degree-granting program may 
+33
+not be the sole cause for denial of approved training status for an otherwise eligible 
+34
+individual. Benefits paid to any eligible individual while in approved training for which 
+35
+except for this subsection the individual could be disqualified under section 1193, 
+36
+subsection 3 may not be charged against the experience rating record of an employer but 
+37
+must be charged to the General Fund.
+38
+Notwithstanding any provision of this chapter to the contrary, the following provisions 
+39
+further govern an individual's eligibility for benefits with respect to training:
+40
+A.  Any otherwise eligible individual may not be denied benefits for any week because 
+41
+the individual is in training approved under 19 United States Code, Section 2296(a) or 
+42
+under any amendment or addition to the United States Trade Act of 1974. That 
+43
+individual may not be denied benefits:
+
+Page 8 - 132LR0140(01)
+1
+(1) For leaving work to enter that training, as long as the work left is not suitable 
+2
+employment; or 
+3
+(2) Because of the application to any such week in training of provisions in this 
+4
+chapter or any applicable federal unemployment compensation law relating to 
+5
+availability for work, active search for work or refusal to accept work. 
+6
+Benefits paid to an eligible individual while in training for which, except for this 
+7
+paragraph, the individual could be disqualified under section 1193, subsection 1 or 3 
+8
+may not be charged against the experience rating record of an employer but must be 
+9
+charged to the General Fund;
+10
+B.  The acceptance of training for opportunities available through United States Public 
+11
+Law 97-300 is considered to be acceptance of training with the approval of the State 
+12
+within the meaning of any other provisions of federal or state law relating to 
+13
+unemployment benefits;  
+14
+C.  The acceptance of training for opportunities available under sections 2031 and 2033 
+15
+is considered to be acceptance of training with state approval under federal or state law 
+16
+relating to unemployment benefits as long as the training is in accordance with rules 
+17
+adopted by the commissioner; and 
+18
+D.  Unless inconsistent with federal law, the acceptance of training opportunities 
+19
+available through the federal Workforce Innovation and Opportunity Act, 29 United 
+20
+States Code, Sections 3101 to 3361 is considered to be acceptance of training with the 
+21
+approval of the State within the meaning of any other provision of federal or state law 
+22
+relating to unemployment benefits as long as the training is in accordance with rules 
+23
+the commissioner adopts.
+24
+4.  Service with nonprofit organizations and educational institutions and state and 
+25
+local governments.  Benefits based on service in employment, as defined in section 1043, 
+26
+subsection 11, paragraph A-1, subparagraphs (1) and (3), are payable in the same amount, 
+27
+on the same terms and subject to the same conditions as benefits payable on the basis of 
+28
+other services subject to this chapter, except that:  
+29
+A.  With respect to weeks of unemployment beginning after December 31, 1977, for 
+30
+services in an instructional, research or principal administrative capacity for an 
+31
+educational institution, if there is a contract or annual written reasonable assurance that 
+32
+the individual will perform services in such a capacity for the educational institution in 
+33
+a 2nd academic year or term, benefits may not be paid to an individual based on those 
+34
+services for any week of unemployment:
+35
+(1) Commencing during the period between 2 successive academic years or terms; 
+36
+(2) During a period, similar to the period described in subparagraph 1, between 2 
+37
+regular, but not successive, terms when provided for by an agreement; or
+38
+(3) During a period of paid sabbatical leave provided for in an individual's contract, 
+39
+if that individual performs services in a first academic year or term; 
+40
+B.  With respect to weeks of unemployment beginning after September 3, 1982, for 
+41
+services for an educational institution in any capacity other than an instructional, 
+42
+research or principal administrative capacity, benefits may not be paid on the basis of 
+43
+those services to an individual for any week that commences during a period between 
+
+Page 9 - 132LR0140(01)
+44
+2 successive academic years or terms if the individual performs those services in the 
+45
+first of those academic years or terms and there is annual written reasonable assurance 
+46
+that the individual will perform the services in the 2nd of those academic years or 
+47
+terms; except that if benefits are denied to an individual under this paragraph and the 
+48
+individual was not offered an opportunity to perform the services for the educational 
+49
+institution for the 2nd of those academic years or terms, the individual is entitled to a 
+50
+retroactive payment of benefits for each week for which the individual filed a timely 
+51
+claim for benefits and for which benefits were denied solely by reason of this 
+52
+paragraph;  
+10
+C.  With respect to weeks of unemployment beginning after December 31, 1977, 
+11
+benefits must be denied to an individual for any week that commences during an 
+12
+established and customary vacation period or holiday recess if:
+13
+(1) That individual performs a service described in paragraph A or B in the period 
+14
+immediately before the vacation period or holiday recess; and
+15
+(2) There is annual written reasonable assurance that the individual will perform 
+16
+those services in the period immediately following the vacation period or holiday 
+17
+recess; and  
+18
+D.  With respect to weeks of unemployment beginning after June 30, 1979, benefits 
+19
+must be denied to an individual who performed services in an educational institution 
+20
+while in the employ of an educational service agency for any week that commences 
+21
+during a period described in paragraph A, B or C if:
+22
+(1) That individual performs a service described in paragraph A or B in the first of 
+23
+these periods, as specified in the applicable paragraph; and 
+24
+(2) There is a contract or a written reasonable assurance as set out in the applicable 
+25
+paragraph that the individual will perform these services in the 2nd of those 
+26
+periods, as set out in the applicable paragraph. 
+27
+5.  Claims in another state or contiguous country; individual residence; no denial 
+28
+or reduction of benefits.  Benefits may not be denied or reduced to an individual solely 
+29
+because the individual files a claim in another state or a contiguous country with which the 
+30
+United States has an agreement with respect to unemployment compensation or because 
+31
+the individual resides in another state or contiguous country at the time the individual files 
+32
+a claim for benefits in this State. 
+33
+6.  No denial of benefits for jury service.  Benefits may not be denied to an individual 
+34
+solely because the individual is selected to serve as a juror. An individual who receives 
+35
+actual earnings for jury service must be paid a partial benefit in an amount equal to the 
+36
+individual's weekly benefit amount less the amount earned for jury service.  
+37
+7.  Benefit payments to athletes.  Benefits may not be paid to an individual on the 
+38
+basis of any service, substantially all of which consists of participating in sports or athletic 
+39
+events or training or preparing to participate, for any week that commences during the 
+40
+period between 2 successive sports seasons or similar periods, if that individual performed 
+41
+those services in the first of those seasons or similar periods and there is a written 
+42
+reasonable assurance that the individual will perform those services in the 2nd of those 
+43
+seasons or similar periods.  
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Page 10 - 132LR0140(01)
+1
+8.  Benefit payments to aliens not lawfully present.  On and after January 1, 1978, 
+2
+benefits are not payable on the basis of services performed by an alien unless the alien is 
+3
+an individual who: 
+4
+A.  Was lawfully admitted for permanent residence in the State at the time the services 
+5
+were performed; 
+6
+B.  Was lawfully present for purposes of performing the services; or 
+7
+C.  Was permanently residing in the United States under color of law at the time the 
+8
+services were performed, including an alien who was lawfully present in the United 
+9
+States as a result of temporary parole pursuant to the Immigration and Nationality Act, 
+10
+8 United States Code, Section 1182(d)(5). 
+11
+Any data or information required of individuals applying for benefits to determine whether 
+12
+benefits are not payable to them because of their alien status must be uniformly required 
+13
+from all applicants for benefits. In the case of an individual whose application for benefits 
+14
+would otherwise be approved, a determination that benefits to the individual are not payable 
+15
+because of the individual's alien status may not be made except upon a preponderance of 
+16
+the evidence.  
+17
+9.  Participation in reemployment services.  An individual who has been referred to 
+18
+reemployment services pursuant to a profiling system established by the commissioner 
+19
+must participate in those services or similar services unless it is determined that the 
+20
+individual has completed those services or there is good cause for the individual's failure 
+21
+to participate.  
+22
+10.  Reemployment services and eligibility assessment; participation.  In the case 
+23
+that an individual has been referred to reemployment services and eligibility assessment by 
+24
+the Department of Labor, the individual must participate in those services, unless the 
+25
+department determines there is good cause for the individual's failure to participate. Failure 
+26
+to participate in reemployment services and eligibility assessment without good cause 
+27
+results in a denial of benefits until the individual participates.  
+28
+11.  Temporary layoff; work search.  Notwithstanding any provision of this chapter 
+29
+to the contrary, an otherwise eligible individual who is temporarily laid off by an employer 
+30
+that has given that individual a definite recall date may not be denied benefits for any week 
+31
+that is within 6 weeks of the definite recall date based on the individual's failure to meet 
+32
+the requirements of subsection 1, paragraph B, C or D for the period of up to 6 weeks during 
+33
+that temporary layoff, as long as the individual remains able and available to work for that 
+34
+employer.  
+35
+An individual may not receive more than 6 weeks of benefits in a benefit year pursuant to 
+36
+this subsection unless approved by the Department of Labor.
+37
+Sec. 13.  26 MRSA §1193, sub-§6, as amended by PL 2013, c. 314, §2, is repealed 
+38
+and the following enacted in its place:
+39
+6.  Falsification.  For any week for which the deputy finds that the individual made a 
+40
+false statement or representation knowing it to be false or knowingly failed to disclose a 
+41
+material fact in the individual's application or solicited another person to make a false 
+42
+statement knowing it to be false or fail to disclose a material fact to obtain benefits from 
+43
+any state or federal unemployment compensation program administered by the bureau.  In 
+44
+addition, for a first or 2nd occurrence, the individual is ineligible to receive any benefits 
+
+Page 11 - 132LR0140(01)
+45
+for a period of not less than 6 months and not more than one year from the mailing date of 
+46
+the determination, and the commissioner shall assess a penalty of 50% of the benefits 
+47
+falsely obtained for the first occurrence and 75% for the 2nd occurrence.  If an individual 
+48
+is disqualified for a 3rd occurrence of statement falsification or misrepresentation in an 
+49
+effort to obtain benefits, the commissioner shall assess a penalty of 100% of the benefits 
+50
+falsely obtained and the individual is disqualified from receiving benefits for a period of 
+51
+time to be determined by the commissioner.  The progression of penalties for multiple 
+52
+occurrences described in this subsection does not apply and an occurrence of fraud must 
+53
+be treated as a 3rd occurrence if:
+10
+A.  A claim for benefits is the result of fraudulent filing using illegally obtained identity 
+11
+information. Such claims may be canceled immediately by the bureau upon 
+12
+confirmation of the fraudulent filing; or
+13
+B.  An individual is found to have filed a claim to obtain benefits from any state or 
+14
+federal unemployment compensation program administered by the bureau in the name 
+15
+of another person using illegally obtained identity information.
+16
+An amount equal to 15% of each overpayment on which the penalties under this subsection 
+17
+were assessed must be transferred directly into the fund account upon recovery;
+18
+Sec. 14.  26 MRSA §1194, sub-§2, as amended by PL 2023, c. 53, §§3 and 4, is 
+19
+further amended to read:
+20
+2.  Determination.  A representative designated by the commissioner, and in this 
+21
+chapter referred to as a deputy, shall promptly examine the first claim filed by a claimant 
+22
+in each benefit year and shall determine the weekly benefit amount and maximum benefit 
+23
+amount potentially payable to the claimant during that benefit year in accordance with 
+24
+section 1192, subsection 5 1192-A, subsection 2, paragraph F.
+25
+The deputy shall promptly examine all subsequent claims filed and, on the basis of facts, 
+26
+shall determine whether or not that claim is valid with respect to sections 1192 1192-A and 
+27
+1193, other than section 1192, subsection 5 1192-A, subsection 2, paragraph F, or shall 
+28
+refer that claim or any question involved in the claim to the Division of Administrative 
+29
+Hearings or to the commission, which shall make a determination with respect to the claim 
+30
+in accordance with the procedure described in subsection 3, except that in any case in which 
+31
+the payment or denial of benefits is subject to section 1193, subsection 4, the deputy shall 
+32
+promptly transmit a report with respect to that subsection to the Director of Unemployment 
+33
+Compensation upon the basis of which the director shall notify appropriate deputies as to 
+34
+the applicability of that subsection.
+35
+The deputy shall determine in accordance with section 1221, subsection 3, paragraph A, 
+36
+the proper employer's experience rating record, if any, against which benefits of an eligible 
+37
+individual must be charged, if and when paid.
+38
+The deputy shall promptly notify the claimant and any other interested party of the 
+39
+determinations and reasons for the determinations.  Subject to subsection 11, unless the 
+40
+claimant or any such interested party, within 30 calendar days after that notification was 
+41
+mailed to the claimant's last known last-known address, files an appeal from that 
+42
+determination, that determination is final, except that the period within which an appeal 
+43
+may be filed may be extended, for a period not to exceed an additional 30 calendar days, 
+44
+for good cause shown.  If new evidence or pertinent facts that would alter that determination 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Page 12 - 132LR0140(01)
+45
+become known to the deputy prior to the date that determination becomes final, a 
+46
+redetermination is authorized, but that redetermination must be mailed before the original 
+47
+determination becomes final.
+4
+If an employer's separation report for an employee is not received by the office specified 
+5
+on the separation report within 10 days after that report was requested, the claim must be 
+6
+adjudicated on the basis of information at hand.  If the employer's separation report 
+7
+containing possible disqualifying information is received after the 10-day period and the 
+8
+claimant is denied benefits by a revised deputy's decision, benefits paid prior to the date of 
+9
+the revised decision do not constitute an overpayment of benefits.  Any benefits paid after 
+10
+the date of the revised decision constitute an overpayment.
+11
+If an employer files an amended separation report or otherwise raises a new issue as to the 
+12
+employee's eligibility or changes the wages or weeks used in determining benefits that 
+13
+results in a denial of benefits or a reduction of the weekly benefit amount, the benefits paid 
+14
+prior to the date the determination is mailed do not constitute an overpayment.  Any benefits 
+15
+received after that date to which the claimant is not entitled pursuant to a new determination 
+16
+based on that new employer information constitute an overpayment.
+17
+If, during the period a claimant is receiving benefits, new information or a new issue arises 
+18
+concerning the claimant's eligibility for benefits or which affects the claimant's weekly 
+19
+benefit amount, benefits may not be withheld until a determination is made on the issue.  
+20
+Before a determination is made, written notice must be mailed to the claimant and other 
+21
+interested parties, which must include the issue to be decided, the law upon which it is 
+22
+based, any factual allegations known to the bureau, the right to a fact-finding interview, the 
+23
+date and location of the scheduled interview and the conduct of the interview and appeal.  
+24
+Any fact-finding interview must be scheduled not less than 7 calendar days nor more than 
+25
+14 calendar days after the notice is mailed. The bureau shall include in the notice a 
+26
+statement notifying the claimant that any benefits paid prior to the determination may be 
+27
+an overpayment under applicable law and recoverable by the bureau if it is later determined 
+28
+that the claimant was not entitled to the benefits. If the claimant does not appear for the 
+29
+scheduled interview, the deputy shall make a determination on the basis of available 
+30
+evidence.  The deputy shall make a prompt determination of the issue based solely on any 
+31
+written statements of interested parties filed with the bureau before the interview, together 
+32
+with the evidence presented by interested parties who personally participated in the 
+33
+interview by telephone or e-mail or other electronic means.  Upon request and notice to all 
+34
+parties at the interview, the deputy may accept corroborative documentary evidence after 
+35
+the interview.  In no other case may the deputy base a decision on evidence received after 
+36
+the interview has been held.
+37
+A.  This subsection does not apply when the claimant reports that, in the week claimed:
+38
+(1)  The claimant worked and reports a specific amount of earnings for that work;
+39
+(2)  The claimant worked and had earnings from that work, but does not furnish 
+40
+the amount of earnings;
+41
+(3)  The claimant reports that the claimant was not able or available for work for a 
+42
+specific portion of the week and there is sufficient information for the deputy to 
+43
+determine that the inability or unavailability for work was for good cause.  If the 
+44
+information provided by the claimant indicated unavailability during the claim 
+45
+week, but is not specific as to the amount of time involved, the department 
+1
+2
+3
+
+Page 13 - 132LR0140(01)
+46
+Department of Labor shall immediately initiate a fact-finding interview with the 
+47
+individual and make a determination regarding the claimant's weekly benefit 
+48
+amount on the basis of that interview.  If the department is not able to conduct an 
+49
+immediate fact-finding interview with the claimant, the notification and fact-
+50
+finding process described in this subsection must be followed; or
+6
+(4)  The claimant received a specific amount of other remuneration as described in 
+7
+section 1193, subsection 5.;
+8
+(5)  The claimant reported that the claimant did not complete a work search activity 
+9
+for that week, and that week was not under a work search waiver approved by the 
+10
+bureau;
+11
+(6)  The claimant failed to respond to or failed to provide sufficient documentation 
+12
+to satisfy a written request for documentation to verify the claimant's identity as 
+13
+listed on an initial claim within the timeframe specified by the bureau; or
+14
+(7)  The claimant's total or partial unemployment is due to a stoppage of work as 
+15
+described in section 1193, subsection 4.
+16
+Sec. 15.  26 MRSA §1194, sub-§10, as amended by PL 1987, c. 641, §12, is further 
+17
+amended by amending the first blocked paragraph to read:
+18
+The deputy may reconsider a benefit payment for any particular week or weeks whenever 
+19
+an error has occurred, but no such redetermination may be made after one year from the 
+20
+date of payment for that week or weeks.  Notice of any such redetermination shall must be 
+21
+promptly given to the claimant.  Subject to subsection 11, unless the claimant files an 
+22
+appeal from that redetermination within 15 30 calendar days after that redetermination was 
+23
+mailed to the claimant's last known last-known address, the redetermination shall be is 
+24
+final, provided except that the period within which an appeal may be filed may be extended 
+25
+for a period not to exceed an additional 15 30 calendar days for good cause shown.
+26
+Sec. 16.  26 MRSA §1195, sub-§1, ¶A, as corrected by RR 2023, c. 2, Pt. E, §95, 
+27
+is amended by amending subparagraph (2) to read:
+28
+(2)  The individual's benefit year having expired prior to that week, has no or 
+29
+insufficient wages or employment, or both, to establish a new benefit year or, 
+30
+subsequent to December 31, 1971, the individual does not qualify by having 
+31
+sufficient wages or employment, or both, as provided by section 1192, subsection 
+32
+5 1192-A, subsection 2, paragraph F, since the beginning of the individual's prior 
+33
+benefit year; and
+34
+Sec. 17.  26 MRSA §1196, as corrected by RR 2023, c. 2, Pt. E, §106, is amended 
+35
+to read:
+36
+§1196.  Extended benefits for dislocated workers in approved training; sunset and 
+37
+review annual report
+38
+1.  Dislocated worker defined.  As used in this section; section 1043, subsection 5, 
+39
+paragraph B; and section 1191, subsection 4, paragraph A, the term "dislocated worker" 
+40
+means an individual who is in training as approved by the deputy, under rules adopted by 
+41
+the commissioner, and:
+42
+A.  An individual who:
+1
+2
+3
+4
+5
+
+Page 14 - 132LR0140(01)
+1
+(1)  Has been terminated or laid off from employment as a result of a reduction of 
+2
+operations at the individual's place of employment or who has received a notice of 
+3
+termination or layoff from employment;
+4
+B.  An individual who has been terminated or who has received a notice of termination 
+5
+of employment, as a result of any permanent closure of a plant or facility; or
+6
+C.  An individual who is long-term unemployed and has limited opportunities for 
+7
+employment or reemployment in the same or a similar occupation in the area in which 
+8
+the individual resides, including any older individual who may have substantial barriers 
+9
+to employment because of the individual's age.
+10
+For the purposes of this section, "deputy" has the same meaning as in section 1192-A, 
+11
+subsection 1, paragraph A.
+12
+1-A.  Extended benefits for dislocated workers.  A dislocated worker who has 
+13
+exhausted the worker's benefit year within 30 months of the worker's enrollment in training 
+14
+described in subsection 1 is entitled to the product of the worker's most recent weekly 
+15
+benefit amount multiplied by the number of weeks in which that person is in approved 
+16
+training, up to a maximum of 26 weeks, except that benefits may not be paid under this 
+17
+subsection to a person:
+18
+A.  Until the person has exhausted benefits for which that person is eligible under any 
+19
+unemployment insurance benefit program funded in whole or in part by the State or the 
+20
+Federal Government; or
+21
+B.  Who is eligible for or who has exhausted, after March 20, 1986, trade adjustment 
+22
+allowances as provided by the United States Trade Act of 1974, 19 United States Code, 
+23
+Sections 2291 to 2294 and any amendments or additions thereto, or a similar successor 
+24
+provision of that Act, except that any individual who was eligible for and received less 
+25
+than 26 weeks of benefits under that Act may receive benefits for the number of weeks 
+26
+by which the individual's benefits under that Act are less than 26 weeks.
+27
+2.  Annual report.  The Commissioner of Labor commissioner shall report to the joint 
+28
+standing committee of the Legislature having jurisdiction over labor matters before March 
+29
+1st of each year regarding the actions taken under section 1043, subsection 5, paragraph B, 
+30
+subsection 1-A and section 1191, subsection 4, paragraph A.  The report shall must include:
+31
+A.  The number of persons who receive benefits under those provisions;
+32
+B.  The average length of time in training for persons who receive benefits under those 
+33
+provisions;
+34
+C.  The average weekly benefit and average total amount of benefits paid to persons 
+35
+under those provisions;
+36
+D.  The success rate in placing trainees who receive benefits under those provisions;
+37
+E.  The total cost of benefits paid under those provisions and the effect on the 
+38
+Unemployment Trust Fund; and
+39
+F.  The number of persons participating in training while receiving extended 
+40
+unemployment benefits under those provisions during the report year who have 
+41
+previously completed a training program while receiving extended unemployment 
+
+Page 15 - 132LR0140(01)
+42
+benefits under those provisions, including the length of time between those 
+43
+enrollments.
+3
+Sec. 18.  26 MRSA §1197, as amended by PL 2021, c. 456, §30, is repealed.
+4
+Sec. 19.  26 MRSA §1198, sub-§10, as enacted by PL 2011, c. 91, §1 and affected 
+5
+by §3, is amended to read:
+6
+10.  Extended benefits for dislocated workers.  An individual who has received all 
+7
+of the unemployment compensation or combined unemployment compensation and work-
+8
+sharing benefits available in a benefit year is considered an exhaustee for purposes of 
+9
+extended benefits, as provided in section 1043, subsection 5, paragraph B 1196, subsection 
+10
+1-A, and, if otherwise eligible under that paragraph subsection, is eligible to receive 
+11
+extended benefits.
+12
+Sec. 20.  26 MRSA §1199, sub-§2, as enacted by PL 2019, c. 617, Pt. B, §1, is 
+13
+amended to read:
+14
+2.  Eligibility.  An individual is deemed to have met the eligibility requirements under 
+15
+section 1192, subsections 2 and 3 1192-A, subsection 2, paragraphs B, C and D as long as 
+16
+the individual remains able and available to work for, and maintains contact with, the 
+17
+relevant employer and the individual is:
+18
+A.  Under a temporary medical quarantine or isolation restriction to ensure that the 
+19
+individual has not been affected by the subject condition of the state of emergency and 
+20
+is expected to return to work; or
+21
+B.  Temporarily laid off due to a partial or full closure of the individual's place of 
+22
+employment as a result of the state of emergency and is expected to return to work once 
+23
+the emergency closure is lifted.
+24
+Sec. 21.  26 MRSA §1199, sub-§3, as enacted by PL 2019, c. 617, Pt. B, §1, is 
+25
+amended to read:
+26
+3.  Waiting period waived.  The waiting period requirement under section 1192, 
+27
+subsection 4‑A 1192-A, subsection 2, paragraph E is waived for an individual who is 
+28
+dislocated or temporarily laid off as a result of the state of emergency.
+29
+Sec. 22.  26 MRSA §1221, sub-§3, ¶A, as amended by PL 2019, c. 585, §1, is 
+30
+further amended by amending subparagraph (5) to read:
+31
+(5)  Reimbursements are made to a state, the Virgin Islands or Canada for benefits 
+32
+paid to a claimant under a reciprocal benefits arrangement as authorized in section 
+33
+1082, subsection 12, as long as the wages of the claimant transferred to the other 
+34
+state, the Virgin Islands or Canada under such an arrangement are less than the 
+35
+amount of wages for insured work required for benefit purposes by section 1192, 
+36
+subsection 5 1192-A, subsection 2, paragraph F;
+37
+Sec. 23.  26 MRSA §1221-A, sub-§3, as enacted by PL 1991, c. 468, §3 and 
+38
+affected by §6, is amended to read:
+39
+3.  Reporting requirements.  The employee leasing company shall report and pay all 
+40
+contributions under its the client company's state employer identification number, using its 
+41
+the client company's contribution rate.  The employee leasing company shall keep separate 
+1
+2
+
+Page 16 - 132LR0140(01)
+42
+records and submit separate quarterly wage reports for each of its client companies to the 
+43
+bureau.
+3
+SUMMARY
+4
+This bill amends the Unemployment Security Law in the following ways.
+5
+It allows the Department of Labor, Bureau of Unemployment Compensation to use 
+6
+facial recognition technology for identity verification purposes. 
+7
+It amends the definition of "unemployment fraud" to include instances when an 
+8
+individual solicits someone else to file a fraudulent claim on the individual's behalf. The 
+9
+provision governing grounds for disqualifying an individual from benefits is also amended 
+10
+to include soliciting another person to make false statements or material omissions on 
+11
+behalf of the individual. That provision is also amended to escalate the progression of 
+12
+penalties in cases when a claim has been filed using illegally obtained identification 
+13
+information such that the first offense is treated as a 3rd offense, which requires the highest 
+14
+penalty. 
+15
+It amends provisions governing overpayments made to individuals by the bureau. The 
+16
+bill provides that the state minimum wage must be used to calculate the maximum amount 
+17
+of weekly unemployment compensation benefits that may be withheld from an individual 
+18
+who was overpaid by the bureau as the result of the individual's nondisclosure or 
+19
+misrepresentation. This change increases the limitations on the amount of wages that may 
+20
+be withheld. The bill provides that benefit overpayments recouped by reducing weekly 
+21
+benefits must be applied only to the principal amount owed. The bill also changes the 
+22
+appeal time frames for overpayment decisions to provide the same appeal time frames as 
+23
+non-overpayment decisions.
+24
+It recodifies the section of law that governs eligibility for unemployment compensation 
+25
+benefits. The bill also makes substantive changes to that section, including narrowing the 
+26
+parameters defining an individual's availability for work to include work that aligns with 
+27
+the customary hours and commute of the individual before becoming unemployed; 
+28
+requiring that for certain training programs to qualify as approved training programs, those 
+29
+programs must conform with rules adopted by the Commissioner of Labor; amending the 
+30
+time frame during which an individual is excused from the work search requirements 
+31
+during a period of layoff from the individual's employer and removing the requirement that 
+32
+the individual stay in contact with the employer during that period; and modifying the 
+33
+definition of "good cause" as it applies to an individual's failure to comply with certain 
+34
+provisions governing the individual's eligibility for unemployment compensation benefits. 
+35
+It amends the provision of law governing the bureau's process for determining 
+36
+unemployment compensation benefit eligibility by creating several new exceptions from 
+37
+that process. A claim is excepted from that process when an individual fails to perform a 
+38
+work search and is not under a work search waiver; fails to adequately respond to a request 
+39
+for identity verification; or is unemployed due to a stoppage of work.
+40
+It reorganizes provisions related to extended benefits for dislocated workers to conform 
+41
+with modern drafting standards. The bill also changes those provisions to require that a 
+42
+dislocated worker must be in training approved by a staff member of the bureau who has 
+43
+been designated by the commissioner, in accordance with rules adopted by the 
+44
+commissioner. 
+1
+2
+4
+
+Page 17 - 132LR0140(01)
+1
+It eliminates the self-employment assistance program and cross-references to that 
+2
+program. The bill also corrects and updates other cross-references. 
+3
+Finally, it makes additional changes including changing the employer charging 
+4
+methodology for employee leasing companies to report and pay contributions under the 
+5
+client company, using the client company’s contribution rate and changing the time frame 
+6
+for bureau staff background checks from every 10 years to every 5 years.

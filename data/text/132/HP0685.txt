@@ -1,0 +1,108 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 1056
+H.P. 685
+House of Representatives, March 14, 2025
+An Act to Clarify the Tax Treatment of Prepaid Wireless 
+Telecommunications Service in Maine
+Received by the Clerk of the House on March 12, 2025.  Referred to the Committee on 
+Energy, Utilities and Technology pursuant to Joint Rule 308.2 and ordered printed pursuant to 
+Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative CROCKETT of Portland.
+
+Page 1 - 132LR0961(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  36 MRSA §1752, sub-§8-B, as amended by PL 2003, c. 673, Pt. V, §14 
+3
+and affected by §29, is further amended to read:
+4
+8-B.  Prepaid calling service.  "Prepaid calling service" means the right to access 
+5
+exclusively telecommunications services that must be paid for in advance that enables the 
+6
+origination of calls using an access number or authorization code or both, whether manually 
+7
+or electronically dialed, and that is sold in predetermined units or dollars, the number of 
+8
+which declines with use in a known amount.  "Prepaid calling service" includes a prepaid 
+9
+wireless telecommunications service.  The sale or recharge of the service is considered a 
+10
+sale within the State if the transfer for consideration takes place at the vendor's place of 
+11
+business in the State.  If the sale or recharge of prepaid calling service does not take place 
+12
+at the vendor's place of business, the sale or recharge is deemed to take place at the 
+13
+customer's shipping address, or if there is no item shipped, at the customer's billing address 
+14
+or the location associated with the customer's mobile telephone number.  The sale of the 
+15
+service is deemed to occur on the date of the transfer for consideration of the service.
+16
+Sec. 2.  36 MRSA §1752, sub-§8-E is enacted to read:
+17
+8-E.  Prepaid wireless telecommunications service.  "Prepaid wireless 
+18
+telecommunications service" means a cellular or wireless telecommunications service that 
+19
+must be paid for in advance and is sold in predetermined units or dollars, the number of 
+20
+which declines with use in a known amount.
+21
+Sec. 3.  36 MRSA §2551, sub-§9, as enacted by PL 2003, c. 673, Pt. V, §25 and 
+22
+affected by §29, is amended to read:
+23
+9.  Prepaid calling service.  "Prepaid calling service" means the right to access 
+24
+exclusively telecommunications services that must be paid for in advance and that enables 
+25
+the origination of calls using an access number or authorization code or both, whether 
+26
+manually or electronically dialed, and that is sold in predetermined units or dollars, the 
+27
+number of which declines with use in a known amount has the same meaning as in section 
+28
+1752, subsection 8-B.
+29
+Sec. 4.  Retroactivity. This Act applies retroactively to sales occurring on or after 
+30
+July 1, 2022, except that a service provider tax paid on a prepaid wireless 
+31
+telecommunications service, as defined in the Maine Revised Statutes, Title 36, section 
+32
+1752, subsection 8-E, prior to the effective date of this Act is not eligible to be refunded or 
+33
+credited based on the exemption from the service provider tax of prepaid wireless 
+34
+telecommunications services under this Act.
+35
+SUMMARY
+36
+This bill clarifies that prepaid wireless telecommunications services are subject to 
+37
+Maine's sales tax.  It also provides that prepaid wireless telecommunications services are 
+38
+not subject to Maine's service provider tax.  The bill applies retroactively to sales occurring 
+39
+on or after July 1, 2022, but provides that a tax paid on a prepaid wireless 
+40
+telecommunications service prior to the effective date of the bill is not eligible to be 
+41
+refunded or credited based on the exemption from the service provider tax of prepaid 
+42
+wireless telecommunications services under the bill.
+36
+37
+38
+39
+40
+41
+42

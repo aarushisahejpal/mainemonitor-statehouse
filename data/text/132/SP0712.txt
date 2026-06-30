@@ -1,0 +1,365 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1825
+S.P. 712
+In Senate, April 29, 2025
+An Act to Implement the Recommendations of the Maine 
+Commission on Public Defense Services Regarding the 
+Confidentiality of Attorney-Client Communications in Jails and 
+Correctional Facilities
+Reported by Senator CARNEY of Cumberland for the Joint Standing Committee on 
+Judiciary pursuant to the Maine Revised Statutes, Title 4, section 1804, subsection 3, paragraph 
+H.
+Reference to the Committee on Judiciary suggested and ordered printed pursuant to Joint 
+Rule 218.
+DAREK M. GRANT
+Secretary of the Senate
+
+Page 1 - 132LR2474(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  4 MRSA §1804, sub-§3, ¶P, as enacted by PL 2023, c. 394, Pt. A, §3, is 
+3
+amended to read:
+4
+P.  Develop and maintain a registry of names, telephone numbers, e-mail addresses and 
+5
+other contact information for attorneys who provide legal public defense services to 
+6
+persons who are incarcerated.  The commission shall on a weekly basis provide these 
+7
+names, telephone numbers, e-mail addresses and other contact information to all 
+8
+sheriffs' offices and to the Department of Corrections. On the Monday following 
+9
+transmission of the information, the sheriffs' offices and the Department of Corrections 
+10
+have constructive notice that communications to and from these attorneys by residents 
+11
+of jails and correctional facilities are subject to the attorney-client privilege and may 
+12
+not be intercepted. The attorneys' names, telephone numbers, e-mail addresses and 
+13
+other contact information are confidential.
+14
+Sec. 2.  15 MRSA §714, as amended by PL 2023, c. 558, §13 and corrected by RR 
+15
+2023, c. 2, Pt. A, §23, is repealed.
+16
+Sec. 3.  15 MRSA §714-A is enacted to read:
+17
+§714-A.  Attorney-client communications of jail and correctional facility residents
+18
+1.  Interception prohibited.  Notwithstanding any provision of law to the contrary, an 
+19
+oral communication or wire communication may not be intercepted if: 
+20
+A. The sender or the recipient of the communication is, at the time the communication 
+21
+is made, a resident in either a jail or an adult or juvenile correctional facility 
+22
+administered by the Department of Corrections; 
+23
+B. The other party to the communication is an attorney or an employee of the law office 
+24
+of an attorney and the jail or correctional facility has actual or constructive notice at 
+25
+the time the communication is made of the attorney's name; and
+26
+C. If the communication involves the use of a telephone number, the jail, correctional 
+27
+facility or 3rd-party contractor of the jail or correctional facility has actual or 
+28
+constructive notice at the time the communication is made of the attorney's telephone 
+29
+number and the communication is made directly to or from that telephone number. 
+30
+2.  Fee prohibited.  Notwithstanding any provision of law to the contrary, if a 
+31
+communication may not be intercepted pursuant to subsection 1, a jail, correctional facility 
+32
+or 3rd-party contractor of the jail or correctional facility may not charge the sender or 
+33
+recipient of the communication a fee for the communication. 
+34
+3.  Constructive notice.  For purposes of this section, the inclusion of an attorney's 
+35
+name or telephone number on a list transmitted to a sheriff's office and to the Department 
+36
+of Corrections by the Maine Commission on Public Defense Services pursuant to Title 4, 
+37
+section 1804, subsection 3, paragraph P constitutes constructive notice of the attorney's 
+38
+name or telephone number beginning on the Monday following the transmission of the 
+39
+attorney's name or telephone number to: 
+40
+A. Each correctional facility administered by the Department of Corrections and any 
+41
+jail in the same county as a sheriff's office to which the list was transmitted; and 
+
+Page 2 - 132LR2474(01)
+1
+B. Any 3rd party with which a facility or jail described in paragraph A contracts to 
+2
+provide communication services for residents. 
+3
+4.  Procedure.  Upon receipt of a list transmitted by the Maine Commission on Public 
+4
+Defense Services pursuant to Title 4, section 1804, subsection 3, paragraph P, each sheriff's 
+5
+office and the Department of Corrections shall send an electronic communication to each 
+6
+attorney on the list at the e-mail address included in the list.  At a minimum, the 
+7
+communication must: 
+8
+A.  Confirm that the attorney's name, telephone number and other contact information 
+9
+was included on the list transmitted by the Maine Commission on Public Defense 
+10
+Services; 
+11
+B. If the sender is a sheriff's office, for each jail within the same county as the sheriff's 
+12
+office: 
+13
+(1) Certify that telephone communications between the listed telephone number 
+14
+for the attorney and the jail will not be intercepted and no fee will be charged for 
+15
+the telephone call; and 
+16
+(2) Provide the name, e-mail address and telephone number of the person at the jail 
+17
+who is responsible for ensuring that the telephone calls are not intercepted and no 
+18
+fee is charged as provided in subparagraph (1); and 
+19
+C. If the sender is the Department of Corrections, for each correctional facility: 
+20
+(1) Certify that telephone communications between the listed telephone number 
+21
+for the attorney and the correctional facility will not be intercepted and no fee will 
+22
+be charged for the telephone call; and 
+23
+(2) Provide the name, e-mail address and telephone number of the person at the 
+24
+correctional facility who is responsible for ensuring that the telephone calls are not 
+25
+intercepted and no fee is charged as provided in subparagraph (1). 
+26
+Failure of the Department of Corrections or a sheriff's office to send the communication 
+27
+required by this subsection may not be considered notice to an attorney that the attorney's 
+28
+name and telephone number were not included on the list transmitted by the Maine 
+29
+Commission on Public Defense Services pursuant to Title 4, section 1804, subsection 3, 
+30
+paragraph P or that oral communications or wire communications between that attorney 
+31
+and residents of a jail or a correctional facility may be intercepted or subject to a fee.
+32
+5.  Monetary penalties.  In addition to any other relief that may be available under 
+33
+subsection 6 or any other law, the following penalties apply to violations of this section. 
+34
+A. A jail, correctional facility or 3rd-party contractor providing communication 
+35
+services to a jail or correctional facility that, upon receiving constructive notice of an 
+36
+attorney's name and telephone number as provided in subsection 3, fails to designate 
+37
+the attorney's name and telephone number as ineligible for interception commits a civil 
+38
+violation for which a fine of $5,000 must be adjudged, regardless of whether any oral 
+39
+communication or wire communication is intercepted in violation of subsection 1. 
+40
+B. A jail, correctional facility or 3rd-party contractor providing communication 
+41
+services to a jail or correctional facility that intercepts a communication in violation of 
+42
+subsection 1 commits a civil violation for which a fine of $5,000 must be adjudged. 
+
+Page 3 - 132LR2474(01)
+1
+C. A jail, correctional facility or 3rd-party contractor providing communication 
+2
+services to a jail or correctional facility that charges a fee for a telephone call in 
+3
+violation of subsection 2 commits a civil violation for which a fine of $500 must be 
+4
+adjudged. 
+5
+D. If a sheriff's office or the Department of Corrections violates subsection 4, the sheriff 
+6
+or the Commissioner of Corrections commits a civil violation for which a fine of $250 
+7
+must be adjudged. 
+8
+6.  Additional consequences of unlawful interception.  If an oral communication or 
+9
+wire communication is intercepted in violation of subsection 1: 
+10
+A. The contents of the intercepted communication and the fact and circumstances of 
+11
+the intercepted communication are not admissible in a criminal proceeding, including 
+12
+a proceeding under chapter 305-A; 
+13
+B. A person who viewed or listened to the intercepted communication and did not 
+14
+immediately discontinue viewing or listening to the intercepted communication as soon 
+15
+as the person had sufficient information to determine that the sender or the recipient of 
+16
+the communication was, at the time the communication was made, a resident in a jail 
+17
+or correctional facility and the other party was an attorney, is disqualified from 
+18
+participating in an investigation of the resident and from appearing as a witness in a 
+19
+criminal proceeding in which the resident is a defendant, including a proceeding under 
+20
+chapter 305‑A; and 
+21
+C. A person who viewed or listened to the intercepted communication and saw or heard 
+22
+information that may be relevant to a pending or anticipated charge against the resident 
+23
+or a defense the resident may assert, or may lead to the discovery of that evidence, is 
+24
+disqualified from participating in the investigation of the resident and from appearing 
+25
+as a witness in the pending or anticipated criminal proceeding in which the resident is 
+26
+a defendant, including a subsequent proceeding under chapter 305‑A on the pending or 
+27
+anticipated charge. 
+28
+7.  Application of other law or rule.  This section does not limit the applicability of 
+29
+any other provision of law or of the Maine Rules of Evidence regarding the admissibility 
+30
+or inadmissibility in evidence of attorney-client communications.
+31
+Sec. 4.  30-A MRSA §1566, sub-§3 is enacted to read:
+32
+3.  Calls protected by attorney-client privilege.  Neither a jail nor a service provider 
+33
+may charge a fee for a telephone call by or to a resident that is protected by the attorney-
+34
+client privilege.
+35
+Sec. 5.  34-A MRSA §3015, sub-§2, ¶B, as enacted by PL 2021, c. 615, Pt. A, §1, 
+36
+is amended to read:
+37
+B.  The department shall provide a resident with a reasonable opportunity to make 
+38
+telephone calls protected by the attorney-client privilege.  The department shall provide 
+39
+to a resident who has less than $10 in the resident's facility account a free telephone 
+40
+call allowance for 30 minutes of telephone calls per week may not charge the resident 
+41
+or the resident's attorney a fee for calls protected by the attorney-client privilege under 
+42
+this paragraph.
+
+Page 4 - 132LR2474(01)
+1
+SUMMARY
+2
+This bill is reported out by the Joint Standing Committee on Judiciary to implement 
+3
+recommendations of the Maine Commission on Public Defense Services.  The committee 
+4
+has not taken a position on the substance of this bill.  By reporting this bill out, the 
+5
+committee is not suggesting and does not intend to suggest that it agrees or disagrees with 
+6
+any aspect of this bill; instead, the committee is reporting the bill out for the sole purpose 
+7
+of having a bill printed that can be referred to the committee for an appropriate public 
+8
+hearing and subsequent processing in the normal course.  The committee is taking this 
+9
+action to ensure clarity and transparency in the legislative review of the proposals contained 
+10
+in the bill. 
+11
+Current law requires the Maine Commission on Public Defense Services to send a list 
+12
+of names and contact information for attorneys who provide legal services to persons who 
+13
+are incarcerated to all sheriff's offices and to the Department of Corrections on a weekly 
+14
+basis and provides that each jail or correctional facility has constructive notice of the 
+15
+attorneys' names, telephone numbers and other contact information on the list on the 
+16
+Monday following transmission of the information.  Current law further provides that if an 
+17
+oral or wire communication between an incarcerated person and one of the attorneys on the 
+18
+list is intercepted, the contents and existence of the communication are not admissible in a 
+19
+criminal proceeding, including a post-conviction review proceeding, and a person who 
+20
+viewed or listened to the intercepted communication is prohibited from participating in 
+21
+certain criminal investigations involving the defendant and appearing as a witness in certain 
+22
+criminal proceedings against the defendant.   The bill amends these provisions of law in 
+23
+the following ways.
+24
+1. It clarifies that the commission is required to send the names and contact information 
+25
+only of attorneys who provide public defense services to persons who are incarcerated.
+26
+2. It prohibits a jail, correctional facility or 3rd-party contractor providing 
+27
+communication services to a jail or correctional facility from intercepting oral or wire 
+28
+communications between these attorneys or employees of the attorneys' law offices or from 
+29
+charging a fee for such communications.  It also provides that unlawful interception of such 
+30
+communications is a civil violation for which a penalty of $5,000 must be imposed and 
+31
+unlawful charging of a fee for such communications is a civil violation for which a penalty 
+32
+of $500 must be imposed.
+33
+3. It requires each jail or correctional facility to send an electronic communication to 
+34
+each attorney whose name and contact information is included on the commission's list 
+35
+certifying that communications between the listed telephone number for the attorney and 
+36
+the jail or correctional facility will not be intercepted and that no fee will be charged for 
+37
+those communications and providing the name and contact information of the person at the 
+38
+jail or correctional facility responsible for implementing these requirements.  It further 
+39
+provides that failure to send such an electronic communication is a civil violation for which 
+40
+a penalty of $250 must be imposed.
+2
+3
+4
+5
+6
+7
+8
+9
+10

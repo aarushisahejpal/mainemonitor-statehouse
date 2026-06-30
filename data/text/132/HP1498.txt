@@ -1,0 +1,242 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2223
+H.P. 1498
+House of Representatives, February 24, 2026
+An Act to Increase Funding for Construction Plan Reviews and 
+Clarify Rule-making Authority for Municipal Reviews of 
+Development
+Reported by Representative HASENFUS of Readfield for the Joint Standing Committee on 
+Criminal Justice and Public Safety pursuant to Resolve 2025, chapter 103, section 4.
+Reference to the Committee on Criminal Justice and Public Safety suggested and ordered 
+printed pursuant to Joint Rule 218.
+ROBERT B. HUNT
+Clerk
+
+Page 1 - 132LR2991(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  25 MRSA §2448-A, sub-§2, as amended by PL 2011, c. 94, §3, is further 
+3
+amended to read:
+4
+2.  Registration.  A municipality shall comply with all rules adopted by the 
+5
+commissioner pursuant to this section as a condition of registration.  The commissioner 
+6
+shall register municipalities to grant permits for projects under subsection 1 if the 
+7
+commissioner finds that the municipality meets all of the following criteria.
+8
+A.  A municipal building official has been appointed pursuant to section 2351‑A.
+9
+B.  The municipality has an employee that is certified as a plan reviewer by the National 
+10
+Fire Protection Association.
+11
+C.  The municipality has adopted by reference the fire codes adopted by the Office of 
+12
+the State Fire Marshal pursuant to sections 2452 and 2465.
+13
+D.  The municipality has adequate resources to administer and enforce the provisions 
+14
+of the fire codes under paragraph C.
+15
+E.  The procedures for public hearing and notification have been established including:
+16
+(1)  Notice to the commissioner upon receipt of an application, including a 
+17
+description of the project;
+18
+(2)  Notice of issuance and denial to the applicant and commissioner, including the 
+19
+reason for denial;
+20
+(3)  Public notification of the application and any hearings; and
+21
+(4)  Procedures for public hearing.
+22
+F.  The procedures for appeal of local decisions by aggrieved parties are defined.
+23
+G.  A registration form, provided by the commissioner, has been completed and 
+24
+submitted by the municipality, demonstrating compliance with the criteria under this 
+25
+subsection.
+26
+H.  The municipality is currently enforcing the Maine Uniform Building and Energy 
+27
+Code.
+28
+The Department of Public Safety shall publish on its publicly accessible website a list of 
+29
+those municipalities that are registered pursuant to this subsection.
+30
+Sec. 2.  25 MRSA §2448-A, sub-§2-A is enacted to read:
+31
+2-A.  Memoranda of understanding.  The commissioner may enter into a 
+32
+memorandum of understanding with any municipality to facilitate the purposes of this 
+33
+section.
+34
+Sec. 3.  25 MRSA §2448-A, sub-§11 is enacted to read:
+35
+11.  Rulemaking.  The commissioner may adopt rules to implement, administer and 
+36
+enforce the provisions of this section, including, but not limited to, procedures for 
+37
+registration, suspension and revocation of registrations, notifications, technical assistance 
+38
+and appeals. Rules adopted pursuant to this subsection are routine technical rules as defined 
+39
+in Title 5, chapter 375, subchapter 2-A.
+
+Page 2 - 132LR2991(01)
+1
+Sec. 4.  25 MRSA §2450, first ¶, as amended by PL 2017, c. 284, Pt. MMMMM, 
+2
+§1, is further amended to read:
+3
+The Commissioner of Public Safety shall adopt, in accordance with requirements of 
+4
+the Maine Administrative Procedure Act, a schedule of fees for the examination of all plans 
+5
+for construction, reconstruction or repairs submitted to the Department of Public Safety.  
+6
+The fee schedule for new construction, reconstruction, repairs or renovations is 1.5/10 1/5 
+7
+of 1% of the cost to construct or reconstruct the portion of the project that is subject to State 
+8
+Fire Marshal review.  Except for projects reviewed by a municipality pursuant to section 
+9
+2448‑A, the fees must be credited to a special revenue account to defray expenses in 
+10
+carrying out this section.  Any balance of the fees may not lapse, but must be carried 
+11
+forward as a continuing account to be expended for the same purpose in the following fiscal 
+12
+years.  For projects reviewed by a municipality that include occupied spaces, a 1¢ fee per 
+13
+square foot must be remitted to the Department of Public Safety and a 4¢ fee per square 
+14
+foot must be paid to the municipality.
+15
+Sec. 5.  32 MRSA §1377, first ¶, as amended by PL 1997, c. 728, §36, is further 
+16
+amended to read:
+17
+Prior to construction of any fire sprinkler system, or prior to an addition involving more 
+18
+than 20 new sprinkler heads to a fire sprinkler system, regulated by the National Fire 
+19
+Protection Association, Pamphlet No. 13, as amended, a fire sprinkler system contractor 
+20
+shall obtain a permit from the commissioner who or a municipality registered pursuant to 
+21
+Title 25, section 2448-A.  The commissioner or the registered municipality shall review the 
+22
+plan for construction or addition and charge a reasonable fee for the review and permitting 
+23
+process.  All plans to be submitted by a contractor to the Department of Public Safety must 
+24
+be reviewed, approved and signed by the certified responsible managing supervisor 
+25
+retained by the contractor.
+26
+Sec. 6.  Appropriations and allocations.  The following appropriations and 
+27
+allocations are made.
+28
+PUBLIC SAFETY, DEPARTMENT OF
+29
+Fire Marshal - Office of 0327
+30
+Initiative: Provides funding for two Public Safety Inspector II positions and related All 
+31
+Other costs to conduct reviews of fire sprinkler system plans.
+OTHER SPECIAL REVENUE FUNDS
+2025-26
+2026-27
+POSITIONS - LEGISLATIVE COUNT
+0.000
+2.000
+Personal Services
+$0
+$214,800
+All Other
+$0
+$26,700
+Capital Expenditures
+$0
+$113,300
+ 
+__________
+__________
+OTHER SPECIAL REVENUE FUNDS TOTAL
+$0
+$354,800
+32
+SUMMARY
+33
+This bill is reported out by the Joint Standing Committee on Criminal Justice and 
+34
+Public Safety to implement statutory changes recommended by the Department of Public 
+35
+Safety, Office of the State Fire Marshal pursuant to Resolve 2025, chapter 103. The bill 
+36
+permits the Commissioner of Public Safety to adopt rules regarding registering 
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+
+Page 3 - 132LR2991(01)
+37
+municipalities that have authority to issue construction permits and requires that a 
+38
+municipality must comply with these rules as a condition of their registration.  The bill also 
+39
+modifies the permitting requirement for fire sprinkler contractors.  Current law requires a 
+40
+fire sprinkler contractor to obtain a permit from the commissioner prior to construction.  
+41
+The bill adds the option of obtaining that permit from a registered municipality.  The bill 
+42
+increases the fee for new construction, reconstruction, repairs or renovations from 1.5/10 
+43
+of 1% of the cost to construct or reconstruct the portion of the project that is subject to State 
+44
+Fire Marshal review to 1/5 of 1% of that cost. The bill provides funding for 2 public safety 
+45
+inspector positions within the Office of the State Fire Marshal. 
+10
+The committee has not taken a position on the substance of the bill, and by reporting 
+11
+this bill out, the committee is not suggesting and does not intend to suggest that it agrees 
+12
+or disagrees with any aspect of this bill.  The committee is reporting the bill out for the sole 
+13
+purpose of obtaining a printed bill that can be referred to the committee for a public hearing 
+14
+and subsequent committee action in the normal course.
+1
+2
+3
+4
+5
+6
+7
+8
+9

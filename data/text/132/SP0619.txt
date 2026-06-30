@@ -1,0 +1,127 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1535
+S.P. 619
+In Senate, April 8, 2025
+An Act to Reduce Illegal Cannabis Operations by Requiring Permits 
+for High Electrical Usage
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator HAGGAN of Penobscot.
+Cosponsored by Representative PERKINS of Dover-Foxcroft and
+Senator: TIMBERLAKE of Androscoggin, Representative: MORRIS of Turner.
+
+Page 1 - 132LR2304(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  30-A MRSA §4173, sub-§6 is enacted to read:
+3
+6.  Permit required.  A permit is required for the installation or upgrade of electrical 
+4
+service to a total of 300 amperes or more in a residential building. The ampere ratings of 
+5
+all electrical panels must be added together to determine whether the 300-ampere threshold 
+6
+in this subsection is met. If the residential building is in a municipality that has provided 
+7
+for electrical inspections, the person performing the work must apply to the municipal 
+8
+electrical inspector in writing for a permit. If the residential building is not in a municipality 
+9
+that has provided for electrical inspections, the person performing the work must apply to 
+10
+a state electrical inspector in writing for a permit. A municipal electrical inspector or state 
+11
+electrical inspector shall notify the transmission and distribution utility that serves the 
+12
+residential building of an application made under this subsection.
+13
+Sec. 2.  35-A MRSA §3217, sub-§5 is enacted to read:
+14
+5.  Suspicious power use reports.  The following provisions govern the reporting of 
+15
+suspicious power use. A consumer-owned transmission and distribution utility and an 
+16
+investor-owned transmission and distribution utility shall report to the code enforcement 
+17
+or inspection authority of a municipality whenever the transmission and distribution utility 
+18
+becomes aware that one of the following events has occurred within that municipality:
+19
+A. A 300-ampere or more total service is installed or an existing service is upgraded to 
+20
+a 300-ampere or more total service at a residential property, regardless of whether that 
+21
+installation or upgrade is a single 300-ampere or more panel or multiple smaller panels 
+22
+the sum of which is 300 amperes or more;
+23
+B. A transformer malfunctions;
+24
+C. A transformer larger than 25 kilovolt-amperes is installed or a transformer is 
+25
+upgraded to a transformer larger than 25 kilovolt-amperes for a residential customer;
+26
+D. There is a month-to-month increase in power consumption greater than 500% for a 
+27
+residential customer; or
+28
+E.  Upon investigation, the transmission and distribution utility finds evidence that 
+29
+power diversion or theft has occurred by circumventing a residential meter to obtain 
+30
+access to service.
+31
+The report must include the square footage of the residential property and the reason for 
+32
+the power increase, if known to the consumer-owned transmission and distribution utility 
+33
+or the investor-owned transmission and distribution utility.
+34
+SUMMARY
+35
+This bill requires a permit for the installation or upgrade of electrical service to a total 
+36
+of 300 amperes or more in a residential building. It also requires a transmission and 
+37
+distribution electric utility to report suspicious power use and transmit that report to 
+38
+municipal officials when: a 300-ampere or more total service is installed or an existing 
+39
+service is upgraded to a 300-ampere or more total service at a residential property, 
+40
+regardless of whether that installation or upgrade is a single 300-ampere or more panel or 
+41
+multiple smaller panels the sum of which is 300 amperes or more; a transformer 
+42
+malfunctions; a transformer larger than 25 kilovolt-amperes is installed or a transformer is 
+35
+36
+37
+38
+39
+40
+41
+42
+
+Page 2 - 132LR2304(01)
+43
+upgraded to a transformer larger than 25 kilovolt-amperes for a residential customer; there 
+44
+is a month-to-month increase in power consumption greater than 500% for a residential 
+45
+customer; or the transmission and distribution utility finds evidence that power diversion 
+46
+or theft has occurred. The report must state the reason for the power increase if known by 
+47
+the transmission and distribution utility.
+1
+2
+3
+4
+5

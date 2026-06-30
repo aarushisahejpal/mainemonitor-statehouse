@@ -1,0 +1,869 @@
+{
+  "ld": 1251,
+  "paper": "HP0826",
+  "paper_display": "HP 826",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280097826",
+  "title": "Resolve, to Reduce the Cost of Energy in Maine and Further Reduce Greenhouse Gas Emissions Through Energy Contracts",
+  "committee": "Energy, Utilities and Technology",
+  "status_summary": "",
+  "final_disposition": "Accepted Majority (ONTP) Report, May 14, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "5/13/2025 - Reports READ . On motion of Representative SACHS of Freeport, the Majority Ought Not to Pass Report was ACCEPTED . ROLL CALL NO. 120 (Yeas 75 - Nays 67 - Absent 8 - Excused 0 - Restricted - 1) Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/14/2025 - Reports Read On motion by Senator LAWRENCE of York the Majority Ought Not to Pass Report ACCEPTED . in concurrence Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Nathan WADSWORTH",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Hiram"
+    },
+    {
+      "name": "Steven FOSTER",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Dexter"
+    },
+    {
+      "name": "Kenneth FREDETTE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Newport"
+    },
+    {
+      "name": "Mathew MCINTYRE",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Lowell"
+    },
+    {
+      "name": "Joshua MORRIS",
+      "role": "Cosponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Turner"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "GAS UTILITIES",
+      "minor": "NATURAL GAS",
+      "detail": "COST NEGOTIATIONS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "date_raw": "3/25/2025",
+      "chamber": "House",
+      "description": "Committee on Energy, Utilities and Technology suggested and ordered printed. The Resolve was REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-25",
+      "date_raw": "3/25/2025",
+      "chamber": "Senate",
+      "description": "The Bill was REFERRED to the Committee on ENERGY, UTILITIES AND TECHNOLOGY in concurrence"
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative SACHS of Freeport, the Majority Ought Not to Pass Report was ACCEPTED . ROLL CALL NO. 120 (Yeas 75 - Nays 67 - Absent 8 - Excused 0 - Restricted - 1) Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-14",
+      "date_raw": "5/14/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator LAWRENCE of York the Majority Ought Not to Pass Report ACCEPTED . in concurrence Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [
+    {
+      "chamber": "House",
+      "number": "120",
+      "date": "2025-05-13",
+      "date_raw": "May 13, 2025",
+      "motion": "ACC MAJ OUGHT NOT TO PASS REP",
+      "outcome": "PREVAILS",
+      "yeas": 75,
+      "nays": 67,
+      "absent": 8,
+      "excused": 0,
+      "vacant": 1,
+      "yeas_required": 72,
+      "members": [
+        {
+          "member": "ABDI of Lewiston",
+          "party": "D",
+          "vote": "X"
+        },
+        {
+          "member": "ADAMS of Lebanon",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "ALBERT of Madawaska",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "ANKELES of Brunswick",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ARATA of New Gloucester",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "ARCHER of Saco",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ARDELL of Monticello",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "ARFORD of Brunswick",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BABIN of Fort Fairfield",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BAGSHAW of Windham",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BECK of South Portland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BELL of Yarmouth",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BISHOP of Bucksport",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BLIER of Buxton",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BOYER of Poland",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "BOYER of Cape Elizabeth",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BRENNAN of Portland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "BRIDGEO of Augusta",
+          "party": "D",
+          "vote": "X"
+        },
+        {
+          "member": "BUNKER of Farmington",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CAMPBELL of Orrington",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "CARLOW of Buxton",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "CARUSO of Caratunk",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "CHAPMAN of Auburn",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "CIMINO of Bridgton",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "CLOUTIER of Lewiston",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CLUCHEY of Bowdoinham",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "COLLAMORE of Pittsfield",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "COLLINS of Sidney",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "COOPER of Windham",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "COPELAND of Saco",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CRAFTS of Newcastle",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "CRAY of Palmyra",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "CROCKETT of Portland",
+          "party": "U",
+          "vote": "Y"
+        },
+        {
+          "member": "DAIGLE of Fort Kent",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "DEBRITO of Waterville",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DHALAC of South Portland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DILL of Old Town",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DODGE of Belfast",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "DOUDERA of Camden",
+          "party": "D",
+          "vote": "X"
+        },
+        {
+          "member": "DRINKWATER of Milford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "DUCHARME of Madison",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "EATON of Deer Isle",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "EDER of Waterboro",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "FAIRCLOTH of Bangor",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FARRIN of Jefferson",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FAULKINGHAM of Winter Harbor",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "FECTEAU of Biddeford",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FLYNN of Albion",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "FOLEY of Wells",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "FOSTER of Dexter",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "FREDERICKS of Sanford",
+          "party": "R",
+          "vote": "X"
+        },
+        {
+          "member": "FREDETTE of Newport",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "FRIEDMANN of Bar Harbor",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "FROST of Belgrade",
+          "party": "U",
+          "vote": "Y"
+        },
+        {
+          "member": "GATTINE of Westbrook",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GEIGER of Rockland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GERE of Kennebunkport",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GIFFORD of Lincoln",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "GOLEK of Harpswell",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GRAHAM of North Yarmouth",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GRAMLICH of Old Orchard Beach",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "GREENWOOD of Wales",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "GRIFFIN of Levant",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "GUERRETTE of Caribou",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HAGGAN of Hampden",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HALL of Wilton",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "HASENFUS of Readfield",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "HENDERSON of Rumford",
+          "party": "R",
+          "vote": "Y"
+        },
+        {
+          "member": "HEPLER of Woolwich",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "HYMES of Waldo",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "JACKSON of Oxford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "JAVNER of Chester",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "JULIA of Waterville",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "KESSLER of South Portland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "KUHN of Falmouth",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LAJOIE of Lewiston",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LANCE of Paris",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "LANIGAN of Sanford",
+          "party": "R",
+          "vote": "X"
+        },
+        {
+          "member": "LAVIGNE of Berwick",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "LEE of Auburn",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LEMELIN of Chelsea",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "LOOKNER of Portland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "LYMAN of Livermore Falls",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MACIAS of Topsham",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "MALON of Biddeford",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "MASON of Lisbon",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MASTRACCIO of Sanford",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "MATHIESON of Kittery",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "MATLACK of St. George",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "MCCABE of Lewiston",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "MCINTYRE of Lowell",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MEYER of Eliot",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "MILLIKEN of Blue Hill",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "MINGO of Calais",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MITCHELL of Cumberland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "MONTELL of Gardiner",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "MOONEN of Portland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "MORRIS of Turner",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "MURPHY of Scarborough",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "NUTTING of Oakland",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "O'HALLORAN of Brewer",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "OLSEN of Raymond",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "OSHER of Orono",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "PARRY of Arundel",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "PAUL of Winterport",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "PERKINS of Dover-Foxcroft",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "PLUECKER of Warren",
+          "party": "I",
+          "vote": "Y"
+        },
+        {
+          "member": "POIRIER of Skowhegan",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "POMERLEAU of Standish",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "PUGH of Portland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "QUINT of Hodgdon",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "RANA of Bangor",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RAY of Lincolnville",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RIELLY of Westbrook",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROBERTS of South Berwick",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROEDER of Bangor",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ROLLINS of Augusta",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "RUDNICKI of Fairfield",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "RUNTE of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "SACHS of Freeport",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "SALISBURY of Westbrook",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "SARGENT of York",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "SATO of Gorham",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "SAYRE of Kennebunk",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "SCHMERSAL-BURGESS of Mexico",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "SHAGOURY of Hallowell",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "SIMMONS of Waldoboro",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "SINCLAIR of Bath",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "SKOLD of Portland",
+          "party": "D",
+          "vote": "X"
+        },
+        {
+          "member": "SMITH of Palermo",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "SOBOLESKI of Phillips",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "STOVER of Boothbay",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "STROUT of Harrington",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "SUPICA of Bangor",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "SWALLOW of Houlton",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TERRY of Gorham",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "THORNE of Carmel",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "TUELL of East Machias",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "UNDERWOOD of Presque Isle",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "WADSWORTH of Hiram",
+          "party": "R",
+          "vote": "X"
+        },
+        {
+          "member": "WALKER of Naples",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "WARREN of Scarborough",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "WEBB of Durham",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "WHITE of Guilford",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "WHITE of Ellsworth",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "WOOD of Norway",
+          "party": "R",
+          "vote": "X"
+        },
+        {
+          "member": "WOOD of Greene",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "WOODSOME of Waterboro",
+          "party": "R",
+          "vote": "N"
+        },
+        {
+          "member": "YUSUF of Portland",
+          "party": "D",
+          "vote": "Y"
+        },
+        {
+          "member": "ZAGER of Portland",
+          "party": "D",
+          "vote": "Y"
+        }
+      ],
+      "url": "https://legislature.maine.gov/LawMakerWeb/rollcall.asp?ID=280097826&chamber=House&serialnumber=120"
+    }
+  ],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0826&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP0826",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP0826&SessionID=16",
+  "scraped_at": "2026-06-30T19:07:35Z"
+}

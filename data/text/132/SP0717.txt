@@ -1,0 +1,432 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1835
+S.P. 717
+In Senate, April 30, 2025
+An Act to Improve Nonemergency MaineCare Transportation
+Reference to the Committee on Health and Human Services suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BENNETT of Oxford.
+Cosponsored by Senators: MOORE of Washington, TIPPING of Penobscot, Representatives: 
+GRIFFIN of Levant, MATLACK of St. George, MCINTYRE of Lowell, ROEDER of Bangor, 
+SHAGOURY of Hallowell.
+
+Page 1 - 132LR0575(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  22 MRSA §3197 is enacted to read:
+3
+§3197.  Nonemergency transportation reporting and quality assurance
+4
+1. Definitions.   As used in this section, section 3198 and section 3199, unless the 
+5
+context otherwise indicates, the following terms have the following meanings.  
+6
+A. "Broker" means an entity with which the department has contracted to manage, 
+7
+authorize, coordinate and reimburse the provision of necessary nonemergency 
+8
+transportation for eligible MaineCare members.
+9
+B. "Nonemergency transportation" means transportation services provided to 
+10
+MaineCare members through one of the state-designated transportation brokers to 
+11
+allow members to access nonemergency MaineCare-covered services. 
+12
+C. "Transporter" means any entity, organization or individual that provides 
+13
+transportation services reimbursable by a broker under the nonemergency 
+14
+transportation program.  This includes agents of the broker with which the broker has 
+15
+entered a service agreement, public transportation, commercial taxis, volunteers and 
+16
+friends and family.
+17
+2. Nonemergency transportation dashboard. The department shall post on a publicly 
+18
+accessible website information relating to broker performance indicators and results.  The 
+19
+department shall post the following on a quarterly basis, and no later than 45 days following 
+20
+the close of a fiscal quarter:
+21
+A. Broker contact information; and
+22
+B. Audited data from at least the 2 prior calendar years, including: 
+23
+(1) The total number of trips by month and region;
+24
+(2) The number of trips sortable by mode of transportation, broker, month and year. 
+25
+Mode of transportation must include trips by agency providers; trips by 
+26
+commercial providers, volunteer drivers, contract taxis, ad hoc taxis and specialty 
+27
+transit; trips in which the driver is the member or close associate; public transit; 
+28
+and broker-provided trips;
+29
+(3) The total number of trips by trip destination;
+30
+(4) The number of complaints, categorized by type and sortable by month and 
+31
+region;
+32
+(5) The total number of incidents by type; and
+33
+(6) A table, categorized by region, indicating whether the following performance 
+34
+metrics have been met:
+35
+(a) All transporter and driver vehicles have a valid state motor vehicle 
+36
+inspection sticker;
+37
+(b) The monthly member complaint rate does not exceed one complaint per 
+38
+100 trips delivered;
+39
+(c) The call center call abandonment rate does not exceed 5%;
+
+Page 2 - 132LR0575(01)
+1
+(d) Ninety percent of calls to the call center are directed to a live representative 
+2
+within 60 seconds;
+3
+(e) No more than 1% of trips scheduled to be delivered are missed, not 
+4
+including trips cancelled by the member or trips cancelled due to weather; and
+5
+(f) At least 85% of trips are on time, except that, for trips in which the member 
+6
+being transported is a child under 16 years of age or is receiving services under 
+7
+a home and community-based services waiver, the timeliness standard is 95% 
+8
+of all trips delivered.  A trip is considered on time if the driver arrives from 30 
+9
+minutes before until 15 minutes after the scheduled pickup from the point of 
+10
+origin, from 30 minutes before until 5 minutes after the scheduled drop-off 
+11
+time at the MaineCare-covered service location and until 30 minutes after the 
+12
+scheduled pickup from the MaineCare-covered service location.  Trips to 
+13
+methadone clinics for the purpose of dosing are considered on time if the 
+14
+member arrives within the window of the clinic's operating hours and no later 
+15
+than 30 minutes prior to the clinic's closing time for the day.  Trips by members 
+16
+using the mileage reimbursement option or public transit are considered on 
+17
+time for all trips for the purpose of date reporting.  Trips by facilities under 
+18
+contract with the broker to provide transportation for their members are 
+19
+considered on time for all trips for the purpose of data reporting.
+20
+3. Incident reporting. The department shall track incidents by region, categorize 
+21
+incidents and issue a monthly report with the following:
+22
+A. Incidents requiring immediate attention, including any incident involving injury 
+23
+requiring medical care or emergency services; accidents resulting in injury or death; 
+24
+evidence of a weapon; assaults; incidents requiring police assistance; harassment; 
+25
+illegal activities by the member, driver or escort; other serious safety concerns; and 
+26
+incidents related to a minor or to a person over the age of 65.  These incidents must be 
+27
+reported to the department within one business day of the incident;
+28
+B. Incidents not requiring immediate attention, including accidents without injury; 
+29
+wheelchair tie-down issues that have not caused injury; and repeated issues with drivers 
+30
+and disruptions that do not cause danger but result in service delays.  These incidents 
+31
+must be reported to the department by the 15th day of the month following the prior 
+32
+month's reporting period; and
+33
+C. Isolated incidents, including isolated late trips; vehicle cleanliness concerns; 
+34
+member hygiene concerns; and vehicles or drivers incompatible with member needs.  
+35
+These incidents must be reported to the department by the 15th day of the month 
+36
+following the prior month's reporting period.
+37
+4. Corrective action plans. The department shall issue a corrective action plan to a 
+38
+broker who has failed to meet the same performance metric for 3 consecutive months.  The 
+39
+corrective action plan must include a root cause analysis regarding the reasons for the 
+40
+deficiency, a timeline with a completion date for when the broker is expected to achieve 
+41
+compliance and a description of the actions taken and the results of these actions.  A 
+42
+corrective action plan issued by the department to a broker must be made available on the 
+43
+department's publicly available website.
+
+Page 3 - 132LR0575(01)
+1
+5. Surveys. Beginning July 1, 2026, and annually thereafter, each broker shall conduct 
+2
+annual member surveys to assess transporter and broker services.  Results must be provided 
+3
+to the department and published on the department's publicly available website by 
+4
+November 15th of each year. 
+5
+6. Report. The department shall provide a report by December 31, 2025, and annually 
+6
+thereafter, to the joint standing committee of the Legislature having jurisdiction over health 
+7
+and human services matters demonstrating compliance with this section and demonstrating 
+8
+that broker performance requirements have been met or, if requirements have not been met, 
+9
+outlining defects or failures to meet requirements and expectations for corrective actions 
+10
+to remedy those defects or failures.
+11
+Sec. 2.  22 MRSA §3198 is enacted to read:
+12
+§3198.  Nonemergency transportation advisory committees
+13
+1. Advisory committees. The department shall establish a nonemergency 
+14
+transportation advisory committee in each region to provide the department with 
+15
+recommendations regarding the performance of nonemergency transportation services in 
+16
+that region.
+17
+2. Membership.  A nonemergency transportation advisory committee under this 
+18
+section must consist of the following members, appointed by the commissioner or the 
+19
+commissioner's designee:
+20
+A. At least 2 members who receive nonemergency transportation services and who 
+21
+reside in the region;
+22
+B. At least one representative of each federally recognized Indian tribe in the region;
+23
+C. At least one representative from a behavioral health facility operating in the region;
+24
+D. At least one representative from an opioid treatment program operating in the 
+25
+region;
+26
+E. A representative of a home and community-based services provider;
+27
+F. At least one representative from each transporter under a service agreement with the 
+28
+region's broker;
+29
+G. At least one representative from each public transportation provider that provides 
+30
+services to members in the region;
+31
+H. At least one representative of a taxi company;
+32
+I. If volunteer drivers are used in the region, at least one active volunteer driver;
+33
+J. A representative of the department;
+34
+K.  At least one representative of a provider of services for persons with disabilities;
+35
+L.  At least one representative of a provider of services for immigrants and refugees, if 
+36
+such a provider is available in the region;
+37
+M.  At least one representative from each of the federally qualified health centers in 
+38
+the region; and
+39
+N.  At least one representative from each of the hospitals in the region.
+
+Page 4 - 132LR0575(01)
+1
+3. Meetings and notice.  A nonemergency transportation advisory committee must 
+2
+meet at least once every 6 months and must provide notice of meetings at least 30 days in 
+3
+advance of any scheduled meeting.
+4
+Sec. 3.  22 MRSA §3199 is enacted to read:
+5
+§3199.  Nonemergency transportation ombudsman program
+6
+1. Program established. The nonemergency transportation ombudsman program, 
+7
+referred to in this section as "the program," is established as an independent program within 
+8
+the Executive Department to provide ombudsman services to MaineCare members 
+9
+regarding MaineCare nonemergency transportation provided by the department.  The 
+10
+primary duty of the ombudsman is to ensure that all complaints and concerns related to 
+11
+MaineCare nonemergency transportation are investigated and recommendations for 
+12
+appropriate redress are made in a timely fashion.
+13
+2. Contracts. The program shall operate by contract between the department and a 
+14
+nonprofit organization that the Executive Department determines to be free of potential 
+15
+conflict of interest and best able to provide the ombudsman services on a statewide basis.  
+16
+The contract must be for a term of one initial year, followed by renewals for up to 4 
+17
+additional years.  The ombudsman may not be actively involved in state-level political 
+18
+party activities or publicly endorse, solicit funds for or make contributions to political 
+19
+parties on the state level or candidates for statewide elective office.  The ombudsman may 
+20
+not be a candidate for or hold any statewide elected public office.
+21
+3. Duties. The program shall:
+22
+A. Consider and promote the best interests of MaineCare members and investigate, 
+23
+advise on and work toward resolution of complaints of infringement of the rights of 
+24
+members;
+25
+B. Establish a comprehensive outreach program regarding the services offered by the 
+26
+ombudsman, including outreach and education to MaineCare members and 3rd parties 
+27
+that provide services or support to MaineCare members, including health care 
+28
+providers, social service providers and health insurance navigators, brokers, agents and 
+29
+other enrollment professionals;
+30
+C. Provide information regarding the services available through the ombudsman 
+31
+program to all MaineCare members;
+32
+D. Maintain a toll-free telephone number, to be advertised on the department's publicly 
+33
+accessible website and in the MaineCare member handbook;
+34
+E. Answer inquiries within 10 business days of receipt, investigate and resolve 
+35
+complaints regarding the performance and services of the department and provide 
+36
+monthly updates to MaineCare members regarding the status of outstanding complaints 
+37
+and concerns;
+38
+F. Analyze and provide opinions and recommendations to agencies, the Governor and 
+39
+the Legislature on state programs, rules, policies and laws;
+40
+G. Determine what types of complaints and inquiries are accepted for action by the 
+41
+program and adopt procedures regarding communication with MaineCare members 
+42
+making inquiries or complaints to the department;
+
+Page 5 - 132LR0575(01)
+1
+H. Apply for and use grants, gifts and funds for the purpose of performing the duties 
+2
+of the program; and
+3
+I. Collect and analyze records and data relevant to the duties and activities of the 
+4
+program and make reports as required by law or as the department considers 
+5
+appropriate.
+6
+4. Confidentiality of records. Information held by or records or case-specific reports 
+7
+maintained by the program are confidential.  Disclosure may be made only if the 
+8
+ombudsman determines such disclosure is lawful and in the best interest of the MaineCare 
+9
+member who is the subject of the records.  The awarded contractor shall enter into a 
+10
+business associate agreement with the department.  The program may not make public the 
+11
+identity of any individual requesting assistance from the program or make public any 
+12
+protected health information in the conduct of its duties. 
+13
+5. Liability. Any person who in good faith submits a complaint or inquiry to the 
+14
+program pursuant to this section is immune from any civil or criminal liability for that act.  
+15
+For the purpose of any civil or criminal proceedings, there is a rebuttable presumption that 
+16
+any person acting pursuant to this section did so in good faith.  The ombudsman and 
+17
+employees and volunteers in the program are deemed employees of the State for the 
+18
+purposes of the Maine Tort Claims Act.
+19
+6. Report. The program shall provide a report by December 31, 2025 and annually 
+20
+thereafter concurrently to the department and to the joint standing committee of the 
+21
+Legislature having jurisdiction over health and human services matters describing the 
+22
+activities and services of the program, priorities set by the program, waiting lists for 
+23
+services, provision of outreach services and recommendations for changes in statute or 
+24
+rules to improve the provision of MaineCare transportation services.
+25
+SUMMARY
+26
+This bill does the following.
+27
+1. It requires the Department of Health and Human Services to create and maintain a 
+28
+MaineCare nonemergency transportation dashboard, which is information posted on the 
+29
+department's publicly accessible website reflecting broker performance indicators and 
+30
+results.
+31
+2. It requires the department to track nonemergency transportation trips by region and 
+32
+categorize and issue a monthly report regarding all incidents involving the delivery on 
+33
+nonemergency transportation.
+34
+3. It establishes the nonemergency transportation ombudsman program as an 
+35
+independent program within the Executive Department to provide ombudsman services to 
+36
+MaineCare members regarding MaineCare nonemergency transportation provided by the 
+37
+department.
+38
+4. It requires the department to establish a nonemergency transportation advisory 
+39
+committee in each region to provide the department with recommendations regarding the 
+40
+performance of nonemergency transportation services in that region.
+26

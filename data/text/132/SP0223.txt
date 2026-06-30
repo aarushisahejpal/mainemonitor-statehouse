@@ -1,0 +1,355 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 505
+S.P. 223
+In Senate, February 11, 2025
+An Act to Update Processes and Fees in the Probate Court System
+Received by the Secretary of the Senate on February 7, 2025.  Referred to the Committee 
+on Judiciary pursuant to Joint Rule 308.2 and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator CARNEY of Cumberland.
+Cosponsored by Representative COLLINS of Sidney and
+Senators: BRADSTREET of Kennebec, LAWRENCE of York, Representatives: HASENFUS 
+of Readfield, KUHN of Falmouth, SINCLAIR of Bath, STOVER of Boothbay.
+
+Page 1 - 132LR0934(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  18-C MRSA §1-108, sub-§1, ¶B, as amended by PL 2023, c. 390, §1, is 
+3
+further amended to read:
+4
+B.  "Reference base index" means:
+5
+(1)  With respect to calculations made under this section subsection 2 relating to 
+6
+dollar amounts stated in sections 2‑102, 2‑402, 2‑403, 2‑405 and 3‑1201, the 
+7
+Consumer Price Index for calendar year 2017; and
+8
+(2)  With respect to calculations made under this section subsection 2 relating to 
+9
+the dollar amount stated in section 2‑807 for loss of comfort, society and 
+10
+companionship, the Consumer Price Index for calendar year 2023.; and
+11
+(3)  With respect to calculations made under subsection 3, the Consumer Price 
+12
+Index for calendar year 2024.
+13
+Sec. 2.  18-C MRSA §1-108, sub-§3 is enacted to read:
+14
+3.  Automatic adjustment of filing fees.  The filing fee dollar amounts stated in 
+15
+sections 1-602, 1-701, 9-301 and 9-312 apply to the fees assessed when the petition or 
+16
+motion referenced in those sections is filed with the court in 2025, but for petitions or 
+17
+motions filed after 2025, these dollar amounts must be increased or decreased if the 
+18
+Consumer Price Index for the calendar year immediately preceding the year in which the 
+19
+petition or motion was filed exceeds or is less than the reference base index.  The amount 
+20
+of any increase or decrease is computed by multiplying each dollar amount by the 
+21
+percentage by which the Consumer Price Index for the calendar year immediately 
+22
+preceding the year in which the petition or motion was filed exceeds or is less than the 
+23
+reference base index.  If any increase or decrease produced by the computation is not a 
+24
+multiple of $5, the increase or decrease is rounded down, if an increase, or up, if a decrease, 
+25
+to the next multiple of $5.  With respect to calculations made under this subsection, if the 
+26
+Consumer Price Index for calendar year 2024 is changed by the United States Department 
+27
+of Labor, Bureau of Labor Statistics, the reference base index must be revised using the 
+28
+rebasing factor reported by the Bureau of Labor Statistics or other comparable data if a 
+29
+rebasing factor is not reported.
+30
+Sec. 3.  18-C MRSA §1-112 is enacted to read:
+31
+§1-112.  Use of artificial intelligence technology in documents filed with the court
+32
+1.  Verification of court filing.  A party that uses artificial intelligence technology to 
+33
+create or to assist in creating any petition, motion or other document filed with the court 
+34
+shall submit an affidavit verifying the accuracy of the portions of the petition, motion or 
+35
+other document that were created using artificial intelligence technology.
+36
+2.  Sanctions for noncompliance.  If the court finds that a party failed to comply with 
+37
+the requirements of this section, it may impose any sanction that is appropriate in the 
+38
+circumstances.
+39
+Sec. 4.  18-C MRSA §1-602, as amended by PL 2021, c. 250, §1, is further amended 
+40
+to read:
+41
+§1-602.  Filing and certification fees
+
+Page 2 - 132LR0934(01)
+1
+The Except as provided in subsection 15, the person making the request shall pay the 
+2
+register the following fees for filing or certifying documents.
+3
+1.  Certification.  For making and certifying to the register of deeds copies of devises 
+4
+of real estate, abstracts of petitions for appointment of a personal representative or for an 
+5
+elective share and any other document for which certification is required, the fee is $20 $35 
+6
+plus the fee for recording as provided by Title 33, section 751, except as otherwise 
+7
+expressly provided by law.  The fee must be paid by the personal representative, petitioner 
+8
+or other person filing the document to be certified when the copy of the devise, abstract, 
+9
+petition for elective share or other document for which certification is required is requested.  
+10
+The register of probate shall deliver the certified document to the register of deeds together 
+11
+with the fee for recording as provided by Title 33, section 751.
+12
+2.  Filing.  For receiving and entering each petition or application for all estates, testate 
+13
+and intestate, including foreign estates, and the filing of a notice by a domiciliary foreign 
+14
+personal representative, except for the filing of a successor personal representative, when 
+15
+the value of the estate is:
+16
+A.  $10,000 and under, the fee is $40 $50;
+17
+B.  $10,001 to $20,000, the fee is $60 $70;
+18
+C.  $20,001 to $30,000, the fee is $75 $90;
+19
+D.  $30,001 to $40,000, the fee is $95 $110;
+20
+E.  $40,001 to $50,000, the fee is $125 $145;
+21
+F.  $50,001 to $75,000, the fee is $190 $220;
+22
+G.  $75,001 to $100,000, the fee is $250 $290;
+23
+H.  $100,001 to $150,000, the fee is $325 $375;
+24
+I.  $150,001 to $200,000, the fee is $375 $435;
+25
+J.  $200,001 to $250,000, the fee is $450 $530;
+26
+K.  $250,001 to $300,000, the fee is $500 $580;
+27
+L.  $300,001 to $400,000, the fee is $575 $670;
+28
+M.  $400,001 to $500,000, the fee is $625 $725;
+29
+N.  $500,001 to $750,000, the fee is $700 $810;
+30
+O.  $750,001 to $1,000,000, the fee is $750 $870;
+31
+P.  $1,000,001 to $1,500,000, the fee is $875 $1,015;
+32
+Q.  $1,500,001 to $2,000,000, the fee is $950 $1,100; or
+33
+R.  More than $2,000,000, the fee is $1,200 $1,400, and continuing in steps of $250 
+34
+$300 for every increase in value of $500,000 or part thereof above $2,500,000.
+35
+For filing a will for no probate, the fee is $15 $20.
+36
+For filing a will to be probated and without an appointment, the fee is $20 $25.
+37
+3.  Copies of court records.  For making copies from the records of the court, the fee 
+38
+is $1 for each page.
+
+Page 3 - 132LR0934(01)
+1
+4.  Certificate of appointment.  For each certificate, under seal of the court, of the 
+2
+appointment and qualification of a personal representative, guardian, conservator or trustee, 
+3
+the fee is $10 $15, and for each double certificate, the fee is $20 $25.
+4
+5.  Petition for appointment as guardian.  For filing a petition for appointment as 
+5
+guardian, the fee is $90 $105.
+6
+6.  Application for involuntary hospitalization.  For filing an application for 
+7
+involuntary hospitalization, the fee is $10 $15.
+8
+7.  Petition for guardian and conservator.  For filing a joined petition for guardian 
+9
+and conservator, the fee is $115 $135.
+10
+8.  Petition for appointment of conservator.  For filing a petition for appointment of 
+11
+conservator, the fee is $90 $105.
+12
+9.  Petition for elective share.  For filing a petition for elective share, the fee is $120 
+13
+$150.
+14
+10.  Subsequent informal appointments.  For all other subsequent informal 
+15
+appointments, the fee is $50 $60.
+16
+11.  Other formal proceeding.  For filing any other formal proceeding, the fee is $50 
+17
+$60.
+18
+12.  Registration of guardianship order from another state or acceptance of 
+19
+transfer.  For registering a guardianship order from another state or acceptance of transfer, 
+20
+the fee is $50 $65.
+21
+13.  Petition to resolve a disputed claim and for allowance.  For filing a petition to 
+22
+resolve disputed claim and for allowance, the fee is $150.
+23
+14.  Petition for order of complete settlement of estate.  For filing a petition for an 
+24
+order of complete settlement of estate, the fee is $150.
+25
+15.  Discretionary fee; motion.  For filing a motion, the court may charge a fee of not 
+26
+more than $25.
+27
+Sec. 5.  18-C MRSA §1-607, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 and 
+28
+affected by PL 2019, c. 417, Pt. B, §14, is amended to read:
+29
+1.  Surcharge.  In addition to any other fees required by law, a register shall collect a 
+30
+surcharge of $10 $15 per petition, application or complaint, except for name changes, filed 
+31
+in the court.
+32
+Sec. 6.  18-C MRSA §1-701, sub-§4, as amended by PL 2021, c. 250, §2, is further 
+33
+amended to read:
+34
+4.  Filing fee.  The fee for filing a name change petition is $75 $90.
+35
+Sec. 7.  18-C MRSA §3-706, sub-§2, as enacted by PL 2017, c. 402, Pt. A, §2 and 
+36
+affected by PL 2019, c. 417, Pt. B, §14, is amended to read:
+37
+2.  Inventory furnished on request.  If the personal representative filed the inventory 
+38
+with the court pursuant to subsection 1, the personal representative shall furnish the 
+39
+inventory to interested persons who request it.  If the personal representative mailed the 
+40
+inventory to all interested persons who requested it pursuant to subsection 1, the personal 
+41
+representative may shall also file the inventory with the court.
+
+Page 4 - 132LR0934(01)
+1
+Sec. 8.  18-C MRSA §5-405, sub-§6 is enacted to read:
+2
+6.  Quasi-judicial immunity.  A person appointed by the court as a visitor acts as the 
+3
+court's agent and is entitled to quasi-judicial immunity for acts performed within the scope 
+4
+of the duties of the visitor.
+5
+Sec. 9.  18-C MRSA §9-202, sub-§1, as enacted by PL 2017, c. 402, Pt. A, §2 and 
+6
+affected by PL 2019, c. 417, Pt. B, §14, is amended by amending the first blocked paragraph 
+7
+to read:
+8
+The parents or the surviving parent must execute the surrender and release or the consent 
+9
+in the presence of the judge.  The adoptee, if 14 12 years of age or older, must execute the 
+10
+consent in the presence of the judge.  The waiver of notice by the putative parent is 
+11
+governed by section 9‑201, subsection 3.
+12
+Sec. 10.  18-C MRSA §9-301, first ¶, as enacted by PL 2017, c. 402, Pt. A, §2 and 
+13
+affected by PL 2019, c. 417, Pt. B, §14, is amended to read:
+14
+Spouses or unmarried persons jointly or an unmarried person, whether resident or 
+15
+nonresident of the State, may petition the court to adopt a person, regardless of age, and to 
+16
+change that person's name.  The fee for filing the petition is $65 $75 plus:
+17
+Sec. 11.  18-C MRSA §9-312, as enacted by PL 2017, c. 402, Pt. A, §2 and affected 
+18
+by Pt. F, §1 and PL 2019, c. 417, Pt. B, §14, is amended to read:
+19
+§9-312.  Foreign adoptions
+20
+If an adoption in a foreign country has been finalized and the adopting parents are 
+21
+seeking an adoption under the laws of this State to give recognition to the foreign adoption, 
+22
+a court may enter a decree of adoption based solely upon a judgment of adoption in a 
+23
+foreign country and may order a change of name if requested by the adopting parents.  The 
+24
+fee for filing the petition is $55 $70.
+25
+SUMMARY
+26
+This bill makes the following changes to the Maine Uniform Probate Code.
+27
+1.  It increases certain filing fees throughout the Code and provides that, after 2025, 
+28
+these fees must automatically be adjusted for inflation.
+29
+2. It requires any party that files a petition, motion or other document with a probate 
+30
+court that is created with the assistance of artificial intelligence technology to verify the 
+31
+accuracy of the petition, motion or other document by affidavit and authorizes the court to 
+32
+impose appropriate sanctions on parties that violate this requirement.
+33
+3. It requires a personal representative who has mailed an inventory of the property of 
+34
+the decedent to all interested parties who requested the inventory to also file the inventory 
+35
+with the court.  Under current law, the personal representative has discretion to file the 
+36
+inventory with the court in these circumstances.
+37
+4. It provides that, like a guardian ad litem appointed by a probate court, a visitor 
+38
+appointed by a probate court is entitled to quasi-judicial immunity for acts performed 
+39
+within the scope of the visitor's duties.
+40
+5. It changes from 14 years of age or older to 12 years of age or older the age at which 
+41
+an adoptee must consent either to a parent's consent to have the child adopted by a specific 
+26
+
+Page 5 - 132LR0934(01)
+42
+petitioner or to a parent's surrender and release of the parent's parental rights in favor of a 
+43
+licensed child-placing agency or the Department of Health and Human Services.
+1
+2

@@ -1,0 +1,782 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1837
+S.P. 720
+In Senate, April 30, 2025
+An Act to Amend the Laws Affecting Insurance
+Submitted by the Department of Professional and Financial Regulation pursuant to Joint 
+Rule 204.
+Reference to the Committee on Health Coverage, Insurance and Financial Services 
+suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BAILEY of York.
+
+Page 1 - 132LR0628(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  24 MRSA §2320-A, sub-§5 is enacted to read:
+3
+5.  No cost-sharing requirements.  A nonprofit hospital and medical care service 
+4
+organization may not impose any cost-sharing requirements on a screening mammogram 
+5
+performed by a provider in accordance with this section. This subsection does not apply to 
+6
+an individual policy offered for use with a health savings account unless the United States 
+7
+Internal Revenue Service determines that the requirements in this subsection are 
+8
+permissible in a high deductible health plan as defined in the United States Internal 
+9
+Revenue Code of 1986, Section 223(c)(2).
+10
+Sec. 2.  24-A MRSA §222, sub-§14, ¶C, as enacted by PL 1975, c. 356, §1, is 
+11
+amended by amending subparagraph (2) to read:
+12
+(2)  After notice and hearing impose by order and administrative forfeiture upon 
+13
+such person, enforceable by such revocation, suspension or refusal to issue, renew 
+14
+or reissue of any such license or licenses or otherwise pursuant to the law of this 
+15
+State, in an amount not to exceed $100 Impose civil penalties in accordance with 
+16
+section 12-A for each such violation and for each day's continuance thereof;
+17
+Sec. 3.  24-A MRSA §222, sub-§14, ¶C, as enacted by PL 1975, c. 356, §1, is 
+18
+amended by repealing subparagraph (3).
+19
+Sec. 4.  24-A MRSA §222, sub-§14, ¶C, as enacted by PL 1975, c. 356, §1, is 
+20
+amended by amending subparagraph (5) to read:
+21
+(5)  Any or all of the foregoing.;
+22
+Sec. 5.  24-A MRSA §222, sub-§14, ¶D is enacted to read:
+23
+D.  The superintendent may proceed in a court of competent jurisdiction within or 
+24
+without this State for an injunction to prevent a violation of this section, to reverse or 
+25
+hold invalid any transaction made in violation of this section or in violation of a rule 
+26
+adopted or order issued pursuant to this section, to enforce any order issued pursuant 
+27
+to this section and for other equitable relief as the nature of the case and the interest of 
+28
+the insurer’s policyholders, creditors and shareholders or the public may require.
+29
+(1) If the superintendent finds probable cause that a violation of this section 
+30
+constitutes grounds provided for the rehabilitation, conservatorship or liquidation 
+31
+of an insurer, the superintendent may initiate a delinquency proceeding under 
+32
+chapter 57.
+33
+(2) The Superior Court may, on the application of an insurer or the superintendent:
+34
+(a) Enjoin any offer, request, invitation, agreement or acquisition made in 
+35
+contravention of this section or any rule adopted or order issued by the 
+36
+superintendent pursuant to this section;
+37
+(b) Enjoin the voting of any security that is the subject of any agreement or 
+38
+arrangement regarding acquisition or that is acquired or to be acquired in 
+39
+contravention of the provisions of this section or of any rule adopted or order 
+40
+issued by the superintendent and, if appropriate, may void any vote of the 
+41
+security already cast at any meeting of shareholders;
+
+Page 2 - 132LR0628(01)
+1
+(c) Seize or sequester any voting securities of the insurer owned or controlled 
+2
+directly or indirectly by a person who has acquired or is proposing to acquire 
+3
+a voting security of the insurer in violation of this section or any rule adopted 
+4
+or order issued by the superintendent; and
+5
+(d) Issue any other order as may be appropriate to effectuate the provisions of 
+6
+this section.
+7
+Sec. 6.  24-A MRSA §222, sub-§14-C is enacted to read:
+8
+14-C.  Prohibited voting of securities.  In regard to a security that is the subject of 
+9
+any agreement or arrangement regarding acquisition or that is acquired or to be acquired in 
+10
+contravention of the provisions of this section or of any rule adopted or order issued by the 
+11
+superintendent, a person may not vote the security at any shareholder’s meeting or count 
+12
+the security for quorum purposes, and any action of shareholders requiring the affirmative 
+13
+vote of a percentage of shares may be taken as though the securities were not issued and 
+14
+outstanding.  An action taken at any meeting at which a security described by this section 
+15
+has been voted is not invalidated by the voting of the security unless the action would 
+16
+materially affect control of the insurer or unless the courts of this State have so ordered.
+17
+Sec. 7.  24-A MRSA §414, sub-§4, as amended by PL 1991, c. 828, §13, is further 
+18
+amended to read:
+19
+4.   Insurers required to file an annual statement must, as a condition to the issuance or 
+20
+continuance of a certificate of authority, provide the National Association of Insurance 
+21
+Commissioners with all information required for participation in the Insurance Regulatory 
+22
+Information System.  This filing must contain the insurer's current annual statement 
+23
+convention blank and, if requested by the superintendent or the National Association of 
+24
+Insurance Commissioners, publicly available financial reports of any affiliated insurers or 
+25
+other entities necessary for analyzing any insurer licensed in this State.  Each statement 
+26
+furnished by an insurer must be manually executed by those persons who are required by 
+27
+section 423 to verify an annual statement utilizing the prescribed jurat following the 
+28
+practices and procedures prescribed by the National Association of Insurance 
+29
+Commissioners.  Any amendments and addendums to the annual statement subsequently 
+30
+filed with the superintendent must also be filed with the National Association of Insurance 
+31
+Commissioners.  Insurers shall provide written certification to the superintendent that they 
+32
+have complied with this subsection when they file their annual statements.  This subsection 
+33
+does not apply to any insurer doing business under chapter 51.
+34
+In the absence of bad faith, fraud or intentional act, an officer or an employee of the 
+35
+National Association of Insurance Commissioners may not be subject to civil liability for 
+36
+libel, slander or any other cause of action in tort as a result of processing data or other 
+37
+information filed by insurers under this subsection or distribution of reports prepared on 
+38
+the basis of that information to insurance regulatory officials of any state that has 
+39
+subscribed to and used the Insurance Regulatory Information System through the National 
+40
+Association of Insurance Commissioners.  Information provided to the superintendent that 
+41
+is held confidential by the National Association of Insurance Commissioners must be held 
+42
+confidential by the superintendent unless that information is relevant to any hearing 
+43
+conducted by the superintendent pursuant to section 229 or an order requiring disclosure is 
+44
+issued by the Superior Court.
+
+Page 3 - 132LR0628(01)
+1
+Sec. 8.  24-A MRSA §601, sub-§16, ¶A-1, as amended by PL 2009, c. 232, §1, is 
+2
+further amended to read:
+3
+A-1.  For filing application for authority to self-insure under Title 39‑A, section 403, 
+4
+subsection 16, including all documents submitted as part of the application, $500; and
+5
+Sec. 9.  24-A MRSA §601, sub-§16, ¶B, as amended by PL 2009, c. 232, §1, is 
+6
+further amended to read:
+7
+B.  For authorization and each annual continuation, $300 $400; and.
+8
+Sec. 10.  24-A MRSA §601, sub-§16, ¶C, as amended by PL 2009, c. 232, §1, is 
+9
+repealed.
+10
+Sec. 11.  24-A MRSA §2001-A, as enacted by PL 2011, c. 331, §1 and affected by 
+11
+§§16 and 17, is amended to read:
+12
+§2001-A.  Scope
+13
+This Except as provided by section 2002-A, subsection 1, this chapter applies 
+14
+exclusively to transactions when this State is the home state of the applicant or insured.  
+15
+Nothing in this chapter applies to the sale, solicitation, negotiation, placement or writing of 
+16
+contracts of insurance for eligible lines of business for any applicant or insured whose home 
+17
+state is in a jurisdiction other than in this State.
+18
+Sec. 12.  24-A MRSA §2002-A, sub-§1, as amended by PL 2019, c. 20, §1, is 
+19
+further amended to read:
+20
+1.   The following kinds of insurance must be procured from authorized insurers and 
+21
+are not eligible for export in the surplus lines market:
+22
+A.  Life insurance;
+23
+B.  Health insurance, except disability insurance; or
+24
+C.  Employee benefit excess insurance.; or
+25
+D.  Workers' compensation insurance.
+26
+Sec. 13.  24-A MRSA §2002-A, sub-§2, as enacted by PL 1993, c. 153, §16, is 
+27
+amended to read:
+28
+2.   This surplus lines law may not be used to place reinsurance.  Nothing in this This 
+29
+subsection prohibits does not prohibit the cession or assumption of reinsurance, including 
+30
+reinsurance of workers' compensation self-insurers, as otherwise permitted by this Title.
+31
+Sec. 14.  24-A MRSA §2003, sub-§8, as enacted by PL 2011, c. 331, §3 and 
+32
+affected by §§16 and 17, is amended to read:
+33
+8.   "Nonadmitted insurance'' means any property and casualty insurance permitted to 
+34
+be placed through a surplus lines broker producer with a nonadmitted insurer eligible to 
+35
+accept that insurance.
+36
+Sec. 15.  24-A MRSA §2004, first ¶, as enacted by PL 1969, c. 132, §1, is amended 
+37
+to read:
+
+Page 4 - 132LR0628(01)
+1
+If certain insurance coverages cannot be procured from authorized insurers, such 
+2
+coverages, hereinafter designated "surplus lines," may be procured from unauthorized 
+3
+nonadmitted insurers, subject to the following conditions:
+4
+Sec. 16.  24-A MRSA §2006, sub-§2, as amended by PL 1997, c. 592, §52, is 
+5
+further amended to read:
+6
+2.   The producer shall file with or as directed by the superintendent a memorandum as 
+7
+to each such coverage placed by the producer in an unauthorized with a nonadmitted 
+8
+insurer, in such form and context as the superintendent may reasonably require for the 
+9
+identification of the coverage and determination of the tax payable to the State relative 
+10
+thereto.
+11
+Sec. 17.  24-A MRSA §2007, sub-§2, as amended by PL 1997, c. 592, §54, is 
+12
+further amended to read:
+13
+2.   The superintendent shall from time to time publish a list of all surplus lines insurers 
+14
+determined by the superintendent to be eligible currently, and shall mail a copy of such list 
+15
+to each producer at the producer's office last of record with the superintendent.  This 
+16
+subsection may not be construed to cast upon the superintendent the duty of determining 
+17
+the actual financial condition or claims practices of any unauthorized  nonadmitted insurer; 
+18
+and the status of eligibility, if granted by the superintendent, may indicate only that the 
+19
+insurer appears to be sound financially and to have satisfactory claims practices, and that 
+20
+the superintendent has no credible evidence to the contrary. While any such list is in effect, 
+21
+the producer shall restrict to the insurers so listed all surplus lines business placed by the 
+22
+producer.
+23
+Sec. 18.  24-A MRSA §2007, sub-§3, ¶A, as enacted by PL 2011, c. 331, §4 and 
+24
+affected by §§16 and 17, is amended to read:
+25
+A.  Is authorized to write such insurance in its domiciliary jurisdiction; and
+26
+Sec. 19.  24-A MRSA §2007, sub-§3, ¶B, as enacted by PL 2011, c. 331, §4 and 
+27
+affected by §§16 and 17, is repealed.
+28
+Sec. 20.  24-A MRSA §2007, sub-§5, as enacted by PL 2011, c. 331, §4 and 
+29
+affected by §§16 and 17, is amended to read:
+30
+5.   A non-United States insurer is considered eligible to write insurance on an 
+31
+unauthorized a nonadmitted basis in this State if it is listed on the quarterly listing of alien 
+32
+insurers maintained by the National Association of Insurance Commissioners.
+33
+Sec. 21.  24-A MRSA §2008, sub-§2, as amended by PL 1997, c. 592, §55, is 
+34
+further amended to read:
+35
+2.   A producer may not issue any such certificate or any cover note, or purport to insure 
+36
+or represent that insurance will be or has been granted by any unauthorized nonadmitted 
+37
+insurer, unless the producer has prior written authority from the insurer for the insurance, 
+38
+or has received information from the insurer in the regular course of business that such 
+39
+insurance has been granted, or an insurance policy providing the insurance actually has 
+40
+been issued by the insurer and delivered to the insured.
+41
+Sec. 22.  24-A MRSA §2009, as amended by PL 1997, c. 592, §56, is repealed and 
+42
+the following enacted in its place:
+
+Page 5 - 132LR0628(01)
+1
+§2009.  Identification and notice on contract and application
+2
+The surplus lines licensee shall give a consumer notice to every person applying for 
+3
+insurance with a nonadmitted insurer. The notice must be printed in 16-point type on a 
+4
+separate document affixed to the application. The applicant shall sign and date a copy of 
+5
+the notice to acknowledge receiving it. The surplus lines licensee shall maintain the signed 
+6
+notice in its file for a period of 5 years from expiration of the policy. The surplus lines 
+7
+licensee shall send a copy of the signed notice to the insured at the time of delivery of each 
+8
+policy the licensee transacts with a nonadmitted insurer. The copy must be a separate 
+9
+document affixed to the policy.  The notice must read as follows:
+10
+"Notice: A nonadmitted or surplus lines insurer is issuing the insurance policy that you 
+11
+have applied to purchase. These insurers do not participate in insurance guaranty funds. 
+12
+The guaranty funds will not pay your claims or protect your assets if the insurer becomes 
+13
+insolvent and is unable to make payments as promised. For additional information about 
+14
+the above matters and about the insurer, you should ask questions of your insurance agent, 
+15
+broker or surplus lines broker. You may also contact your insurance department consumer 
+16
+helpline."
+17
+An insurance contract procured and delivered as a surplus lines coverage under this 
+18
+chapter must contain or be accompanied by a notice in a form acceptable to the 
+19
+superintendent, a copy of which must be maintained by the licensee or the surplus lines 
+20
+producer with the records of the contract and available for possible examination, that 
+21
+includes a statement that:  
+22
+1.   The insurer with which the licensee places the insurance is not licensed by this 
+23
+State and is not subject to its supervision; and
+24
+2.   In the event of the insolvency of the surplus lines insurer, losses will not be paid by 
+25
+any state insurance guaranty association.
+26
+Sec. 23.  24-A MRSA §2009-A, as enacted by PL 1989, c. 172, §1, is amended to 
+27
+read:
+28
+§2009-A.  Cancellation and or nonrenewal of surplus lines coverage
+29
+1.  Notice.  Cancellation and or nonrenewal by an insurer of surplus lines coverage 
+30
+subject to this chapter shall is not be effective unless received by the named insured at least 
+31
+14 days prior to the effective date of cancellation or, when the cancellation is for 
+32
+nonpayment of premium, at least 10 days prior to the effective date of cancellation on or 
+33
+before the date specified in this subsection.  A postal service certificate of mailing to the 
+34
+named insured at the insured's last known address shall be is conclusive proof of receipt on 
+35
+the 5th calendar day after mailing. The notice must be received:
+36
+A.  No later than the 30th day before policy expiration for any nonrenewal;
+37
+B.  No later than the 10th day before the effective date of cancellation if the cancellation 
+38
+is for nonpayment of premium; or
+39
+C.  No later than the 14th day before the effective date of any cancellation other than a 
+40
+cancellation for nonpayment of premium, or no later than the 20th day if required by 
+41
+section 3050.
+42
+2.  Exemption.  Cancellation and or nonrenewal by an insurer of surplus lines coverage 
+43
+subject to this chapter shall is not be subject to sections 2908 and 3007. Cancellation or 
+
+Page 6 - 132LR0628(01)
+44
+nonrenewal by an insurer of surplus lines coverage for risks identified in section 3048 is 
+45
+subject to chapter 41, subchapter 5, except those provisions of chapter 41, subchapter 5 
+46
+that, by their terms, apply to authorized insurers or the admitted market.
+4
+Sec. 24.  24-A MRSA §2010, as enacted by PL 1969, c. 132, §1, is amended to read:
+5
+§2010.  Surplus lines insurance valid
+6
+Insurance contracts procured as surplus line coverage from unauthorized nonadmitted 
+7
+insurers in accordance with this chapter shall be are fully valid and enforceable as to all 
+8
+parties, and shall must be given recognition in all matters and respects to the same effect 
+9
+as like contracts issued by authorized insurers.
+10
+Sec. 25.  24-A MRSA §2011, as amended by PL 1997, c. 592, §57, is further 
+11
+amended to read:
+12
+§2011.  Insurer's liability for losses and unearned premiums
+13
+1.   As to a surplus lines risk that has been assumed by an unauthorized a nonadmitted 
+14
+insurer pursuant to this chapter, and if the premium has been received by the producer with 
+15
+surplus lines authority who placed such insurance, in all questions arising under the 
+16
+coverage as between the insurer and the insured the insurer is deemed to have received the 
+17
+premium due to it for such coverage; and the insurer is liable to the insured as to losses 
+18
+covered by such insurance, and for unearned premiums that may become payable to the 
+19
+insured upon cancellation of such insurance, whether or not in fact the producer is indebted 
+20
+to the insurer with respect to the insurance or for any other cause.
+21
+2.   Each unauthorized nonadmitted insurer assuming a surplus lines risk under this 
+22
+chapter is deemed to have subjected itself to the terms of this section, and any policy terms 
+23
+or conditions contrary to this section are void.
+24
+Sec. 26.  24-A MRSA §2019, sub-§1, as enacted by PL 1969, c. 132, §1, is amended 
+25
+to read:
+26
+1.   An unauthorized A suit in this State against a nonadmitted insurer shall be sued, 
+27
+upon any cause of action arising in the State under any contract issued by it as a surplus 
+28
+lines contract pursuant to this law, must be brought in the Superior Court.
+29
+Sec. 27.  24-A MRSA §2019, sub-§3, as amended by PL 1997, c. 592, §64, is 
+30
+further amended to read:
+31
+3.   An unauthorized A nonadmitted insurer issuing such a policy subject to this chapter 
+32
+is deemed thereby to have authorized service of process against it in the manner and to the 
+33
+effect as provided in this section.  Any such policy must contain a provision stating the 
+34
+substance of this section, and designating the person to whom process must be served as 
+35
+provided in subsection 2.
+36
+Sec. 28.  24-A MRSA §2159-A, as amended by PL 2021, c. 348, §36, is further 
+37
+amended by amending the section headnote to read:
+38
+§2159-A.  Insurance discrimination solely on account of blindness physical or mental 
+39
+disability prohibited
+40
+Sec. 29.  24-A MRSA §2263, sub-§13, as enacted by PL 2021, c. 24, §1, is 
+41
+amended to read:
+1
+2
+3
+
+Page 7 - 132LR0628(01)
+1
+13.  Third-party service provider.  "Third-party service provider" means a person 
+2
+that is not a licensee and that contracts with a licensee or an entity that has a direct or 
+3
+indirect contractual connection to the licensee to maintain, process or store or otherwise is 
+4
+permitted access to nonpublic information through its the provision of services to the 
+5
+licensee or the entity that has a contractual connection to the licensee.
+6
+Sec. 30.  24-A MRSA §2849, sub-§3, ¶A, as repealed and replaced by PL 1993, c. 
+7
+349, §53, is amended to read:
+8
+A.  Request that the person provide or otherwise seek to obtain evidence of individual 
+9
+insurability.  This in no way limits does not limit the insurer's right to require 
+10
+information concerning the health of the individuals in the group to the extent that the 
+11
+information is relevant to determine whether the group as a whole is insurable or to 
+12
+determine rates for the group as a whole;
+13
+Sec. 31.  24-A MRSA §4302, sub-§2, ¶E, as enacted by PL 1995, c. 673, Pt. C, §1 
+14
+and affected by §2, is amended to read:
+15
+E.  The percentage number of disenrollments by enrollees and providers from the health 
+16
+plan within the previous 12 months and the reasons for the disenrollments.  With 
+17
+respect to enrollees, the information provided in this paragraph must differentiate 
+18
+between voluntary and involuntary disenrollments; and
+19
+Sec. 32.  24-A MRSA §4303-E, sub-§5 is enacted to read:
+20
+5.  Confidentiality.  Except as provided in this subsection, all records of the bureau or 
+21
+an independent dispute resolution entity relating to an independent dispute resolution 
+22
+request or proceeding are confidential and not a public record under Title 1, chapter 13.
+23
+Sec. 33.  24-A MRSA §4312, sub-§6, as enacted by PL 1999, c. 742, §19, is 
+24
+amended to read:
+25
+6.  Binding nature of decision.  An external review decision is binding on the carrier.  
+26
+An enrollee or the enrollee's authorized representative may not file a request for a 
+27
+subsequent external review involving the same adverse health care treatment decision for 
+28
+which the enrollee has already received an external review decision pursuant to this section.  
+29
+An external review decision made under this section is not considered final agency action 
+30
+pursuant to Title 5, chapter 375, subchapter II 7.
+31
+Sec. 34.  24-A MRSA §4377, sub-§1, as enacted by PL 1969, c. 132, §1, is amended 
+32
+to read:
+33
+1.   If upon the entry of an order of liquidation under this chapter or at any time 
+34
+thereafter during liquidation proceedings the insurer is not clearly solvent, the court shall, 
+35
+upon hearing after such notice as it deems considers proper, make and enter an order 
+36
+adjudging the insurer to be solvent insolvent.
+37
+Sec. 35.  24-A MRSA §4433, sub-§2, ¶I, as enacted by PL 2001, c. 478, §4 and 
+38
+affected by §11, is amended to read:
+39
+I.  Insurance Other than coverages that may be set forth in a cybersecurity insurance 
+40
+policy, insurance of warranties or service contracts, including insurance that provides 
+41
+for the repair, replacement or service of goods or property, or indemnification of repair, 
+42
+replacement or service; for the operational or structural failure of the goods or property 
+
+Page 8 - 132LR0628(01)
+43
+due to a defect in materials, workmanship or normal wear and tear; or for 
+44
+reimbursement for the liability incurred by the issuer of agreements or service contracts 
+45
+that provide such benefits;
+4
+Sec. 36.  24-A MRSA §4435, sub-§4, as amended by PL 2001, c. 478, §5 and 
+5
+affected by §11, is further amended to read:
+6
+4.  Covered claim.  "Covered claim" means an unpaid claim, including one for 
+7
+unearned premiums but excluding one for punitive damages, arising under and within the 
+8
+coverage and applicable limits of a policy of a kind of insurance referred to in section 4433 
+9
+to which this subchapter applies issued by an insurer that becomes an insolvent insurer after 
+10
+May 9, 1970, and where:
+11
+A.  The claimant or insured is a resident of this State at the time of the insured event; 
+12
+or
+13
+B.  The property from which the claim arises is permanently located in this State.
+14
+"Covered claim" includes claim obligations that arose through the issuance of an insurance 
+15
+policy by a member insurer, which are later allocated, transferred, merged into, novated, 
+16
+assumed by or otherwise made the sole responsibility of a member or nonmember insurer 
+17
+if: the original member insurer has no remaining obligations on the policy after the transfer; 
+18
+a final order of liquidation with a finding of insolvency has been entered against the insurer 
+19
+that assumed the member's coverage obligations by a court of competent jurisdiction in the 
+20
+insurer's state of domicile; the claim would have been a covered claim if the claim had 
+21
+remained the responsibility of the original member insurer and the order of liquidation had 
+22
+been entered against the original member insurer, with the same claim submission date and 
+23
+liquidation date; and, in cases for which the member's coverage obligations were assumed 
+24
+by a nonmember insurer, the transaction received prior regulatory or judicial approval.
+25
+"Covered claim" does not include any amount due any insurer, reinsurer, affiliate, 
+26
+insurance pool or underwriting association, as subrogation recoveries or otherwise, except 
+27
+that any payment made to the workers' compensation residual market pool pursuant to 
+28
+section 4438, subsection 1, paragraph A‑1 must be included as a covered claim.  "Covered 
+29
+claim" does not include any first-party claims by an insured whose net worth exceeds 
+30
+$25,000,000 on December 31st of the year prior to the year in which the member insurer 
+31
+becomes an insolvent insurer.  An insured's net worth on that date is deemed to include the 
+32
+aggregate net worth of the insured and all its subsidiaries as calculated on a consolidated 
+33
+basis.
+34
+Sec. 37.  24-A MRSA §4435, sub-§4-A is enacted to read:
+35
+4-A.  Cybersecurity insurance.  "Cybersecurity insurance" means first-party or 3rd-
+36
+party coverage, in a policy or endorsement, written on a direct, admitted basis for losses 
+37
+and loss mitigation arising out of or relating to data privacy breaches, unauthorized 
+38
+information network security intrusions, computer viruses, ransomware, extortion through 
+39
+electronic means, identity theft and similar exposures.
+40
+Sec. 38.  24-A MRSA §4438, sub-§1, ¶A, as amended by PL 2009, c. 129, §1 and 
+41
+affected by §13, is further amended by amending subparagraph (2) to read:
+42
+(2)  An amount not exceeding $25,000 per policy for a covered claim for the return 
+43
+of an unearned premium; or
+1
+2
+3
+
+Page 9 - 132LR0628(01)
+1
+Sec. 39.  24-A MRSA §4438, sub-§1, ¶A, as amended by PL 2009, c. 129, §1 and 
+2
+affected by §13, is further amended by enacting a new subparagraph (2-A) to read:
+3
+(2-A)  An amount not exceeding $500,000 for covered claims arising out of a single 
+4
+insured event under a policy or endorsement of cybersecurity insurance, regardless 
+5
+of the number of claims made or the number of claimants; or
+6
+Sec. 40.  24-A MRSA §4438, sub-§2, ¶A, as enacted by PL 1969, c. 561, is 
+7
+amended to read:
+8
+A.  Employ or retain such persons as are necessary to handle claims, provide covered 
+9
+policy benefits and services and perform other duties of the association;
+10
+SUMMARY
+11
+This bill makes the following changes to the laws governing insurance.
+12
+1. It extends the prohibition on cost-sharing for screening mammograms to nonprofit 
+13
+hospital and medical care service organizations.  
+14
+2. It updates the civil penalty laws and eliminates a fine. 
+15
+3. It adds language regarding voting securities. 
+16
+4. It eliminates the requirement for manual execution of an annual statement.
+17
+5. It eliminates the $100 annual report fee for self-insurers and incorporates it into the 
+18
+existing renewal fee.  
+19
+6. It changes the phrase "unauthorized insurer" to "nonadmitted insurer" and "broker" 
+20
+to "producer."  
+21
+7. It prohibits workers' compensation insurance from export in the surplus lines market.  
+22
+8. It eliminates a provision requiring surplus lines insurers to establish satisfactory 
+23
+evidence of good repute and financial integrity.  
+24
+9. It updates the notice on surplus lines contracts and adds a notice to applications for 
+25
+surplus lines insurance.
+26
+10. It clarifies an ambiguity regarding surplus lines coverage in response to the opinion 
+27
+of the Maine Supreme Judicial Court in Corinth Pellets, LLC v. Arch Specialty Insurance 
+28
+Co. et al., 2021 ME 10, 246 A.3d 586.  
+29
+11. It changes a section headnote to reflect the substance of the section.  
+30
+12. It changes the definition of "3rd-party service provider" in the Maine Insurance 
+31
+Data Security Act.  
+32
+13. It eliminates a reference to the insurability of an employer group.  
+33
+14. It allows for a raw number to be reported instead of a percentage in reporting 
+34
+enrollee and carrier disenrollments.  
+35
+15. It provides confidentiality for independent dispute resolution in the same manner 
+36
+as for external review.  
+37
+16. It corrects clerical errors.
+38
+17. It makes changes regarding covered claims and cybersecurity insurance.
+11

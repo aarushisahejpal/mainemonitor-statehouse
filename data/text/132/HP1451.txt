@@ -1,0 +1,357 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2162
+H.P. 1451
+House of Representatives, January 13, 2026
+An Act to Regulate and Prevent Children's Access to Artificial 
+Intelligence Chatbots with Human-like Features and Social 
+Artificial Intelligence Companions
+Approved for introduction by a majority of the Legislative Council pursuant to Joint Rule 
+203.
+Reference to the Committee on Judiciary suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative GRAMLICH of Old Orchard Beach.
+Cosponsored by Senator BAILEY of York and
+Representatives: BRENNAN of Portland, Speaker FECTEAU of Biddeford, FOLEY of Wells, 
+MATHIESON of Kittery, MOONEN of Portland, SACHS of Freeport, Senator: PIERCE of 
+Cumberland.
+
+Page 1 - 132LR2723(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  10 MRSA c. 247 is enacted to read:
+3
+CHAPTER 247
+4
+REGULATION OF ARTIFICIAL INTELLIGENCE CHATBOTS AND SOCIAL 
+5
+ARTIFICIAL INTELLIGENCE COMPANIONS
+6
+§1500-PP.  Definitions
+7
+As used in this chapter, unless the context otherwise indicates, the following terms 
+8
+have the following meanings.
+9
+1.  Artificial intelligence chatbot; chatbot.  "Artificial intelligence chatbot" or 
+10
+"chatbot" means an artificial intelligence system with which users can interact by or 
+11
+through a software application, web interface, computer program or other interface that 
+12
+approximates or simulates human conversation and interaction through a text, audio or 
+13
+visual medium.
+14
+2.  Deployer.  "Deployer" means a person that operates or distributes an artificial 
+15
+intelligence chatbot, therapy chatbot or social artificial intelligence companion.
+16
+3.  Emergency situation.  "Emergency situation" means a situation in which a user 
+17
+indicates to a chatbot that the user intends to harm the user or commit harm to another 
+18
+person.
+19
+4.  Human-like feature.  "Human-like feature," with respect to an artificial intelligence 
+20
+system, means:
+21
+A.  Behavior that would lead a reasonable person to believe that the artificial 
+22
+intelligence system is conveying that it has humanity, sentience, emotions or desires, 
+23
+which: 
+24
+(1)  May include, but is not limited to, the artificial intelligence system:
+25
+(a)  Stating or suggesting that it is human or sentient; 
+26
+(b)  Stating or suggesting that it has emotions; or 
+27
+(c)  Stating or suggesting that it has personal desires; and 
+28
+(2)  Does not include:
+29
+(a) The provision of a functional evaluation; or 
+30
+(b) The use of generic social formalities; 
+31
+B.  An attempt by the artificial intelligence system to build or engage in an emotional 
+32
+relationship with the user, which:
+33
+(1)  Includes, but is not limited to:
+34
+(a)  Expressing or inviting emotional attachment; 
+35
+(b)  Reminding, prompting or encouraging the user to return for emotional 
+36
+support or companionship;
+
+Page 2 - 132LR2723(01)
+1
+(c)  Depicting nonverbal forms of emotional support; 
+2
+(d)  Behaving in a way that a reasonable user would consider excessive praise 
+3
+designed to foster emotional attachment with or otherwise gain the favor of the 
+4
+user; or
+5
+(e)  Enabling or purporting to enable increased intimacy based on engagement 
+6
+or payment by the user; and 
+7
+(2)  Does not include:
+8
+(a)  Using generic words or phrases of encouragement that do not create an 
+9
+ongoing emotional attachment; or
+10
+(b)  Asking if a user needs further help or support in a neutral, nonemotional 
+11
+context; or
+12
+C.  Impersonation of a real individual, living or dead, by the artificial intelligence 
+13
+system.
+14
+5.  Minor.  "Minor" means an individual who has not attained 18 years of age.
+15
+6.  Person.  "Person" means an individual, partnership, corporation, developer or state 
+16
+or local government agency. 
+17
+7.  Social artificial intelligence companion; social AI companion.  "Social artificial 
+18
+intelligence companion" or "social AI companion" means an artificial intelligence system 
+19
+that is specifically designed, marketed or optimized to form an ongoing social or emotional 
+20
+attachment with a user, whether or not such a system also provides information, completes 
+21
+tasks or assists with specific functions.
+22
+8.  Therapy chatbot.  "Therapy chatbot" means a chatbot modified or designed with 
+23
+the primary purpose of providing mental health support, counseling or therapeutic 
+24
+intervention through the diagnosis, treatment, mitigation or prevention of mental health 
+25
+conditions.
+26
+9.  User.  "User" means a person who interacts with an artificial intelligence system. 
+27
+§1500-QQ. Applicability
+28
+This chapter applies to:
+29
+1.  Deployers; connection to State.  Deployers that conduct business in this State or 
+30
+that operate or distribute products or services that are marketed or promoted to residents of 
+31
+this State; and 
+32
+2.  Users and minors; residence.  Users and minors who reside in this State.
+33
+§1500-RR.  Chatbots with human-like features and social AI companions not 
+34
+accessible to minors
+35
+The accessibility of artificial intelligence chatbots with human-like features and social 
+36
+AI companions to minors in this State is governed as follows. 
+37
+1.  Chatbots with human-like features; no minor access; age verification; 
+38
+alternative versions.  A deployer shall ensure that any chatbot operated or distributed by 
+39
+the deployer does not make human-like features available to minors to use, interact with, 
+40
+purchase or converse with. The deployer shall implement reasonable age verification 
+
+Page 3 - 132LR2723(01)
+41
+systems to ensure that chatbots with human-like features are not accessible to minors. A 
+42
+deployer may, if reasonable given the purpose of the chatbot, provide an alternative version 
+43
+of the chatbot without human-like features available to minors and any user who has not 
+44
+verified that user's age.
+5
+2.  Social artificial intelligence companions; no minor access; age verification.  A 
+6
+deployer shall ensure that any artificial intelligence system, including a chatbot, operated 
+7
+or distributed by the deployer that primarily functions as a social artificial intelligence 
+8
+companion is not available to minors to use, interact with, purchase or converse with. The 
+9
+deployer shall implement reasonable age verification systems to ensure that such chatbots 
+10
+are not accessible to minors.
+11
+3.  Exemption for therapy chatbots.  Notwithstanding subsections 1 and 2, a deployer 
+12
+may make available to a minor a therapy chatbot as long as all of the following 
+13
+requirements are met:  
+14
+A.  The therapy chatbot provides a clear and conspicuous disclaimer at the beginning 
+15
+of each individual interaction that it is artificial intelligence and not a licensed mental 
+16
+health professional;
+17
+B.  The therapy chatbot is not marketed or designated as a substitute for a licensed 
+18
+mental health professional;
+19
+C.  A licensed mental health professional, such as a licensed clinical psychologist, 
+20
+assesses a minor's suitability, prescribes use of the therapy chatbot as part of a 
+21
+comprehensive treatment plan and monitors its use and impact on the minor;
+22
+D.  Developers of the therapy chatbot provide robust, independent, peer-reviewed 
+23
+clinical trial data demonstrating the safety and efficacy of the therapy chatbot for 
+24
+specific conditions and populations; 
+25
+E.  The therapy chatbot's functions, limitations and data privacy policies are transparent 
+26
+to the licensed mental health professional under paragraph C and the user; and
+27
+F.  The deployer has established clear lines of accountability to address any harm 
+28
+caused by the therapy chatbot. 
+29
+§1500-SS.  Additional protections; all users
+30
+A deployer shall implement and maintain business practices in accordance with this 
+31
+section for the protection of all users. 
+32
+1.  Emergency situations; detection and response.  A deployer shall implement and 
+33
+maintain reasonably effective systems to detect, promptly respond to, report and mitigate 
+34
+emergency situations in a manner that prioritizes a user's safety and well-being over the 
+35
+deployer’s other interests.
+36
+2.  User information collection and storage.  A deployer shall collect and store only 
+37
+information that does not conflict with a user's safety and well-being. A deployer may not 
+38
+collect and store information except to fulfill a legitimate purpose of the deployer. A 
+39
+deployer may collect and store information that is adequate to fulfill a legitimate purpose 
+40
+of the deployer, but only to the extent that the information:
+41
+A.  Is relevant to that legitimate purpose; and
+42
+B.  Is the minimum amount of information necessary to fulfill that legitimate purpose.
+1
+2
+3
+4
+
+Page 4 - 132LR2723(01)
+1
+§1500-TT.  Penalties and remedies for violation
+2
+Violations of this chapter may be enforced in accordance with this section. 
+3
+1.  Civil action brought by Attorney General.  The Attorney General may bring a 
+4
+civil action against a person that violates this chapter. Penalties may include: 
+5
+A.  An order to enjoin a violation of this chapter; 
+6
+B.  Disgorgement of profits or revenues realized as a result of a violation of this chapter; 
+7
+and
+8
+C.  A civil penalty of:
+9
+(1)  For each violation of this chapter, not more than $2,500 per violation; and
+10
+(2)  Notwithstanding subparagraph (1), for each intentional violation of this 
+11
+chapter, not more than $7,500 per violation. 
+12
+2.  Private right of action for minors.  A minor who uses a chatbot that does not 
+13
+comply with the terms of this chapter, or a parent or guardian acting on the minor's behalf, 
+14
+may bring a civil action independently, or as part of a class action, to:
+15
+A.  Recover damages in an amount not less than $100 and not greater than $750 per 
+16
+user per incident, or actual damages, whichever is greater; and
+17
+B.  In lieu of or in addition to recovery of damages, obtain injunctive or declaratory 
+18
+relief.
+19
+§1500-UU. Rules
+20
+The Department of the Attorney General may adopt rules necessary to implement this 
+21
+chapter, which may include, but are not limited to, defining the term "functional 
+22
+evaluation," as used in section 1500-PP, subsection 4, paragraph A, subparagraph (2), 
+23
+division (a).
+24
+SUMMARY
+25
+This bill prohibits operators and distributors of artificial intelligence chatbots and 
+26
+social artificial intelligence companions from making accessible to minors any chatbots or 
+27
+social artificial intelligence companions that have human-like features. A chatbot with 
+28
+human-like features means a chatbot that behaves in a way that conveys humanity, 
+29
+sentience, emotions or desires; attempts to build an emotional relationship with the user; or 
+30
+impersonates a real individual, living or dead. The bill provides an exemption for therapy 
+31
+chatbots, as long as a licensed mental health professional prescribes and monitors the 
+32
+minor's use of the therapy chatbot and the therapy chatbot and its developers adhere to 
+33
+additional required safeguards. 
+34
+The bill places limitations on an operator and distributor's collection and storage of 
+35
+user information and requires an operator and distributor to implement and maintain 
+36
+systems to detect and respond to situations in which a user indicates that the user intends 
+37
+to harm the user or another person. 
+38
+The bill allows the Attorney General to bring a civil action against a person that violates 
+39
+the provisions of this legislation and also provides a private right of action that a minor or 
+40
+the minor's guardian may bring on the minor's behalf.
+25
+26
+27
+28
+29
+30
+31
+32
+33

@@ -1,0 +1,380 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1811
+H.P. 1212
+House of Representatives, April 29, 2025
+An Act Regarding the Submission of Documents for Protection from 
+Abuse and Protection from Harassment Cases
+Received by the Clerk of the House on April 25, 2025.  Referred to the Committee on 
+Judiciary pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative STOVER of Boothbay.
+
+Page 1 - 132LR1995(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  5 MRSA §4653, sub-§4 is enacted to read:
+3
+4.  Exemption from complaint filing fee.  The court may not charge a fee for the filing 
+4
+of a complaint in which the plaintiff swears that the complaint involves an allegation of 
+5
+domestic or dating violence, sexual assault, stalking, sex trafficking or unlawful 
+6
+dissemination of certain private images.
+7
+Sec. 2.  5 MRSA §4658, sub-§6 is enacted to read:
+8
+6.  Filing via e-mail.  Notwithstanding any provision of law to the contrary, the court 
+9
+shall accept the filing by e-mail in accordance with the requirements of this section of all 
+10
+documents in protection from harassment cases under this chapter except for complaints, 
+11
+motions to modify, motions to extend and motions for contempt filed in cases that are not 
+12
+exempt from the complaint filing fee under section 4653, subsection 4.
+13
+A. The party or the party's attorney submitting a document for filing by e-mail shall 
+14
+submit the document in a file format approved by the court and to the e-mail address 
+15
+established by the judicial branch for receipt of protection from harassment filings by 
+16
+the District Court with jurisdiction over the case.  The judicial branch shall specify the 
+17
+approved file formats and applicable e-mail addresses on its publicly accessible 
+18
+website, on all relevant court forms and in all public educational materials for 
+19
+protection from harassment proceedings.
+20
+B. Each document filed by e-mail must contain an electronic signature of the attorney 
+21
+or party filing the document either through a captured image of the attorney's or party's 
+22
+signature incorporated into the document or through the name of the attorney or party 
+23
+appearing on the document's signature line preceded by "/s/".  An electronic signature 
+24
+of a party need not be notarized if the party's electronic signature appears directly below 
+25
+a declaration on the document stating the following:
+26
+"I swear under penalty of perjury that the above statements are true and correct.  I 
+27
+understand that these statements are made for use as evidence in court and that I may 
+28
+be subject to prosecution for perjury punishable by up to 5 years in prison and a fine of 
+29
+up to $5,000 if I give false information to the court."
+30
+An electronic signature that complies with the requirements of this paragraph has the 
+31
+same force and effect as if the attorney or the party had signed and filed with the court 
+32
+a paper copy of the same document.
+33
+C. The subject line of the e-mail must list the docket number of the case except that, if 
+34
+there is no docket number, the subject line must contain the names of the parties to the 
+35
+case.
+36
+D. A document filed by e-mail must be accompanied by a cover sheet containing, with 
+37
+respect to the person who electronically signed the document, that person's name, 
+38
+address, telephone number, e-mail address and, if the person is an attorney, the name 
+39
+of the attorney's law firm and the attorney's Maine Bar registration number.  If the 
+40
+person who electronically signed the document is a party who has submitted an 
+41
+affidavit or pleading under oath pursuant to Title 4, section 8-B, subsection 2, 
+42
+paragraph B, the party may write "confidential address" in the address space on the 
+43
+cover sheet. The judicial branch shall provide a copy of a sample cover sheet on its 
+
+Page 2 - 132LR1995(01)
+44
+publicly accessible website, with all relevant court forms and in all public educational 
+45
+materials for protection from harassment proceedings.
+3
+E. The filing date for all documents submitted by e-mail as authorized in this subsection 
+4
+must be the day, beginning at 12:00 a.m. and ending at 11:59:59 p.m., of the date that 
+5
+the document was submitted, except that, if a document is submitted on a Saturday, 
+6
+Sunday or legal holiday, the filing date is the next day that is not a Saturday, Sunday 
+7
+or legal holiday.
+8
+F. A party or party's attorney may not mail or deliver to the court a paper copy of any 
+9
+document filed by e-mail.
+10
+G. A party or party's attorney may not include within an e-mail submitted to the court 
+11
+any argument or dialogue between or among the parties.
+12
+Any e-mail filing that does not comply with the requirements of this subsection must be 
+13
+rejected and not docketed by the court clerk.
+14
+Sec. 3.  5 MRSA §4658, sub-§7 is enacted to read:
+15
+7.  Review of complaints and motions to extend filed by e-mail.  A complaint or a 
+16
+motion to extend that is filed by e-mail in accordance with the requirements of subsection 
+17
+6 and is submitted before 3:00 p.m. on a day other than a Saturday, Sunday or a legal 
+18
+holiday must be presented to a judicial officer, as described in section 4652, for review and 
+19
+determination on the same day. A complaint or a motion to extend that is filed by e-mail in 
+20
+accordance with the requirements of subsection 6 and is submitted after 3:00 p.m. on a day 
+21
+that is not a Saturday, Sunday or a legal holiday must be presented to a judicial officer, as 
+22
+described in section 4652, for review and determination on the next day that is not a 
+23
+Saturday, Sunday or a legal holiday.
+24
+Sec. 4.  5 MRSA §4658, sub-§8 is enacted to read:
+25
+8.  Service of documents filed by e-mail.  The court shall arrange for the service by a 
+26
+law enforcement officer of a complaint or a motion to extend that is filed by e-mail in 
+27
+accordance with the requirements of subsection 6.  With respect to any other document that 
+28
+is filed by e-mail in accordance with the requirements of subsection 6:
+29
+A. If both parties are represented by counsel, the filing attorney shall copy the opposing 
+30
+counsel on the e-mail submitted to the court under subsection 6;
+31
+B.  If the filing party is represented by counsel but the opposing party is not represented 
+32
+by counsel, the filing attorney shall send a copy of the filed document to the opposing 
+33
+party by regular mail.  If the filing party is not represented by counsel but the opposing 
+34
+party is represented by counsel, the filing party shall send a copy of the filed document 
+35
+to the opposing party's counsel by regular mail; or
+36
+C. If neither party is represented by counsel, the filing party may not copy the opposing 
+37
+party on the e-mail or send the filed document to the opposing party by regular mail.  
+38
+Instead, the court shall send a copy of the filed document to the opposing party by 
+39
+regular mail.
+40
+Sec. 5.  5 MRSA §4658, sub-§9 is enacted to read:
+41
+9.  Response to motion to continue filed by e-mail.  Notwithstanding any provision 
+42
+of law to the contrary, the opposing party shall file a response within 3 days from the date 
+1
+2
+
+Page 3 - 132LR1995(01)
+43
+that a motion to continue is filed by e-mail in accordance with the requirements of 
+44
+subsection 6.
+3
+Sec. 6.  19-A MRSA §4106, sub-§8 is enacted to read:
+4
+8.  Filing via e-mail.  Notwithstanding any provision of law to the contrary, the court 
+5
+shall accept the filing by e-mail in accordance with the requirements of this section of all 
+6
+documents in protection from abuse cases.
+7
+A. The party or the party's attorney submitting a document for filing by e-mail shall 
+8
+submit the document in a file format approved by the court and to the e-mail address 
+9
+established by the judicial branch for receipt of protection from abuse filings by the 
+10
+District Court with jurisdiction over the case.  The judicial branch shall specify the 
+11
+approved file formats and applicable e-mail addresses on its publicly accessible 
+12
+website, on all relevant court forms and in all public educational materials for 
+13
+protection from abuse proceedings.
+14
+B. Each document filed by e-mail must contain an electronic signature of the attorney 
+15
+or party filing the document either through a captured image of the attorney's or party's 
+16
+signature incorporated into the document or through the name of the attorney or party 
+17
+appearing on the document's signature line preceded by "/s/".  An electronic signature 
+18
+of a party need not be notarized if the party's electronic signature appears directly below 
+19
+a declaration on the document stating the following:
+20
+"I swear under penalty of perjury that the above statements are true and correct.  I 
+21
+understand that these statements are made for use as evidence in court and that I may 
+22
+be subject to prosecution for perjury punishable by up to 5 years in prison and a fine of 
+23
+up to $5,000 if I give false information to the court."
+24
+An electronic signature that complies with the requirements of this paragraph has the 
+25
+same force and effect as if the attorney or the party had signed and filed with the court 
+26
+a paper copy of the same document.
+27
+C. The subject line of the e-mail must list the docket number of the case except that, if 
+28
+there is no docket number, the subject line must contain the names of the parties to the 
+29
+case.
+30
+D. A document filed by e-mail must be accompanied by a cover sheet containing, with 
+31
+respect to the person who electronically signed the document, that person's name, 
+32
+address, telephone number, e-mail address and, if the person is an attorney, the name 
+33
+of the attorney's law firm and the attorney's Maine Bar registration number.  If the 
+34
+person who electronically signed the document is a party who has submitted an 
+35
+affidavit or pleading under oath pursuant to Title 4, section 8-B, subsection 2, 
+36
+paragraph B, the party may write "confidential address" in the address space on the 
+37
+cover sheet. The judicial branch shall provide a copy of a sample cover sheet on its 
+38
+publicly accessible website, with all relevant court forms and in all public educational 
+39
+materials for protection from abuse proceedings.
+40
+E. The filing date for all documents submitted by e-mail as authorized in this subsection 
+41
+must be the day, beginning at 12:00 a.m. and ending at 11:59:59 p.m., of the date that 
+42
+the document was submitted, except that, if a document is submitted on a Saturday, 
+43
+Sunday or legal holiday, the filing date is the next day that is not a Saturday, Sunday 
+44
+or legal holiday.
+1
+2
+
+Page 4 - 132LR1995(01)
+1
+F. A party or party's attorney may not mail or deliver to the court a paper copy of any 
+2
+document filed by e-mail.
+3
+G. A party or party's attorney may not include within an e-mail submitted to the court 
+4
+any argument or dialogue between or among the parties.
+5
+Any e-mail filing that does not comply with the requirements of this subsection must be 
+6
+rejected and not docketed by the court clerk.
+7
+Sec. 7.  19-A MRSA §4106, sub-§9 is enacted to read:
+8
+9.  Review of complaints and motions to extend filed by e-mail.  A complaint or a 
+9
+motion to extend that is filed by e-mail in accordance with the requirements of subsection 
+10
+8 and is submitted before 3:00 p.m. on a day other than a Saturday, Sunday or a legal 
+11
+holiday must be presented to a judicial officer, as described in section 4104, for review and 
+12
+determination on the same day. A complaint or a motion to extend that is filed by e-mail in 
+13
+accordance with the requirements of subsection 8 and is submitted after 3:00 p.m. on a day 
+14
+that is not a Saturday, Sunday or a legal holiday must be presented to a judicial officer, as 
+15
+described in section 4104, for review and determination on the next day that is not a 
+16
+Saturday, Sunday or a legal holiday.
+17
+Sec. 8.  19-A MRSA §4106, sub-§10 is enacted to read:
+18
+10.  Service of documents filed by e-mail.  The court shall arrange for the service by 
+19
+a law enforcement officer of a complaint or a motion to extend that is filed by e-mail in 
+20
+accordance with the requirements of subsection 8.  With respect to any other document that 
+21
+is filed by e-mail in accordance with the requirements of subsection 8:
+22
+A. If both parties are represented by counsel, the filing attorney shall copy opposing 
+23
+counsel on the e-mail submitted to the court under subsection 8;
+24
+B.  If the filing party is represented by counsel but the opposing party is not represented 
+25
+by counsel, the filing attorney shall send a copy of the filed document to the opposing 
+26
+party by regular mail.  If the filing party is not represented by counsel but the opposing 
+27
+party is represented by counsel, the filing party shall send a copy of the filed document 
+28
+to the opposing party's counsel by regular mail; or
+29
+C. If neither party is represented by counsel, the filing party may not copy the opposing 
+30
+party on the e-mail or send the filed document to the opposing party by regular mail.  
+31
+Instead, the court shall send a copy of the filed document to the opposing party by 
+32
+regular mail.
+33
+Sec. 9.  19-A MRSA §4106, sub-§11 is enacted to read:
+34
+11.  Response to motion to continue filed by e-mail.  Notwithstanding any provision 
+35
+of law to the contrary, the opposing party must file a response within 3 days from the date 
+36
+that a motion to continue is filed by e-mail in accordance with the requirements of 
+37
+subsection 8.
+38
+SUMMARY
+39
+This bill authorizes and establishes the procedures for the filing by e-mail of all 
+40
+documents submitted in protection from abuse proceedings.  It also authorizes and 
+41
+establishes the procedures for the filing by e-mail of all documents in protection from 
+39
+40
+41
+
+Page 5 - 132LR1995(01)
+42
+harassment proceedings other than complaints, motions to extend, motions to modify and 
+43
+motions for contempt in cases that do not involve allegations of domestic violence, sexual 
+44
+assault, stalking, sex trafficking or unauthorized dissemination of certain private images.
+1
+2
+3

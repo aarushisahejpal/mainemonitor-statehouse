@@ -1,0 +1,67 @@
+{
+  "ld": 2235,
+  "paper": "HP1511",
+  "paper_display": "HP 1511",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101988",
+  "title": "Resolve, to Direct the Department of Corrections to Study Alternative Methods for Operating County Jails",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 31, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "3/17/2026 - Representative HASENFUS for the Joint Standing Committee on Criminal Justice and Public Safety pursuant to Resolve 2025, chapter 73, section 2 reports that the Resolve be REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY and printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Resolve was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/31/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Tavis HASENFUS",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Readfield"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "JAILS",
+      "minor": "FACILITIES AND OPERATIONS",
+      "detail": "COUNTY JAILS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "House",
+      "description": "Representative HASENFUS for the Joint Standing Committee on Criminal Justice and Public Safety pursuant to Resolve 2025, chapter 73, section 2 reports that the Resolve be REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY and printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Resolve was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. On motion by Senator Beebe-Center of Knox REFERRED to Committee on Criminal Justice and Public Safety, in concurrence."
+    },
+    {
+      "date": "2026-03-31",
+      "date_raw": "3/31/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1511&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1511",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1511&SessionID=16",
+  "scraped_at": "2026-06-30T20:24:30Z"
+}

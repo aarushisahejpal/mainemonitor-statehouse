@@ -1,0 +1,105 @@
+{
+  "ld": 2012,
+  "paper": "HP1342",
+  "paper_display": "HP 1342",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280100877",
+  "title": "An Act to Amend the Laws Governing Carbon Monoxide Detectors",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Died Between Houses, Apr 8, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/7/2026 - The House INSISTED on PASSAGE TO BE ENACTED . ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/8/2026 - On motion by Senator PIERCE of Cumberland the Senate INSISTED on FAILED PASSAGE TO BE ENACTED - 2/3 Elected Required Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Stephan BUNKER",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Farmington"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "FIRE SAFETY",
+      "minor": "PREVENTION",
+      "detail": "CARBON MONOXIDE DETECTORS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-12-03",
+      "date_raw": "12/3/2025",
+      "chamber": "House",
+      "description": "Received by the Clerk of the House on December 3, 2025. The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401."
+    },
+    {
+      "date": "2026-04-02",
+      "date_raw": "4/2/2026",
+      "chamber": "House",
+      "description": "CONSENT CALENDAR - FIRST DAY Under suspension of the rules CONSENT CALENDAR - SECOND DAY. The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-966) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. READ ONCE . Committee Amendment \"A\" (H-966) READ and ADOPTED , in concurrence. Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-966), in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "House",
+      "description": "In accordance with the provisions of Section 21 of Article IX of the Constitution, a two-thirds vote of all the members elected to the House was necessary. PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-06",
+      "date_raw": "4/6/2026",
+      "chamber": "Senate",
+      "description": "PASSAGE TO BE ENACTED - 2/3 Elected Required FAILED in NON-CONCURRENCE. Sent down for concurrence."
+    },
+    {
+      "date": "2026-04-07",
+      "date_raw": "4/7/2026",
+      "chamber": "House",
+      "description": "The House INSISTED on PASSAGE TO BE ENACTED . ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-08",
+      "date_raw": "4/8/2026",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland the Senate INSISTED on FAILED PASSAGE TO BE ENACTED - 2/3 Elected Required Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-966 )",
+      "new_title": "",
+      "house_action": "Adopted on 4/2/2026",
+      "senate_action": "Adopted on 4/6/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1342&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1342&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1342",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1342&SessionID=16",
+  "scraped_at": "2026-06-30T20:06:17Z"
+}

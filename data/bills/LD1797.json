@@ -1,0 +1,90 @@
+{
+  "ld": 1797,
+  "paper": "HP1203",
+  "paper_display": "HP 1203",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098815",
+  "title": "An Act to Implement the Recommendations of the Right to Know Advisory Committee Concerning Denials of Public Records Requests",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Enacted, Jun 8, 2025",
+  "governor_action": "Unsigned, Jun 8, 2025",
+  "chaptered_law": "ACTPUB, Chapter 186",
+  "chapter": "186",
+  "became_law": true,
+  "last_house_action": "5/27/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/27/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Amy KUHN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Falmouth"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "FREEDOM OF ACCESS",
+      "minor": "PUBLIC RECORDS",
+      "detail": "REQUESTS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "House",
+      "description": "Representative KUHN for the Joint Standing Committee on Judiciary pursuant to the Maine Revised Statutes, Title 1, section 411, subsection 6, paragraph G reports that the Bill be REFERRED to the Committee on JUDICIARY and printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on JUDICIARY Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-04-24",
+      "date_raw": "4/24/2025",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. On motion by Senator Carney of Cumberland REFERRED to the Committee on Judiciary and ordered printed pursuant to Joint Rule 218, in concurrence."
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative KUHN of Falmouth, the Majority Ought to Pass Report was ACCEPTED . The Bill was READ ONCE . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "Reports Read On motion by Senator CARNEY of Cumberland the Majority Ought to Pass Report ACCEPTED . Bill READ ONCE Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED in concurrence."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-27",
+      "date_raw": "5/27/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1203&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1203&item=2&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1203",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1203&SessionID=16",
+  "scraped_at": "2026-06-30T19:48:49Z"
+}

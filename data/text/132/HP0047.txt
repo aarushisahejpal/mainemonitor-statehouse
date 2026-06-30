@@ -1,0 +1,183 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 83
+H.P. 47
+House of Representatives, January 8, 2025
+An Act Concerning the Filing of Marriage Licenses and the 
+Recording of Intentions as Part of the Electronic Vital Records 
+System
+Submitted by the Department of Health and Human Services pursuant to Joint Rule 204.
+Received by the Clerk of the House on January 6, 2025.  Referred to the Committee on 
+Health and Human Services pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint 
+Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative KUHN of Falmouth.
+
+Page 1 - 132LR0255(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  19-A MRSA §651, sub-§2, as repealed and replaced by PL 2021, c. 49, §1, 
+3
+is amended to read:
+4
+2.  Application.   The parties wishing to record notice of their intentions of marriage 
+5
+shall submit an application for recording notice of their intentions of marriage.  The 
+6
+application may be issued to any 2 persons otherwise qualified under this chapter regardless 
+7
+of the sex of each person if the clerk or State Registrar of Vital Statistics is satisfied as to 
+8
+the identity of the applicants.  The application must include a signed certification that the 
+9
+information recorded on the application is correct and that the applicant is free to marry 
+10
+according to the laws of this State.  If either party intends to change that party's name upon 
+11
+marriage, the application must include the proposed new name of that party.  The 
+12
+applicant's signature must be acknowledged before an official authorized to take oaths. The 
+13
+completed application must be attached to the marriage record in the electronic system 
+14
+specified by the State Registrar of Vital Statistics.  An application recording notice of 
+15
+intention to marry is not open for public inspection for 50 years from the date of the 
+16
+application except that:
+17
+A.  The names of the parties for whom intentions to marry are filed and the intended 
+18
+date of marriage are public records and open for public inspection; and
+19
+B.  A person with a researcher identification card under Title 22, section 2706, 
+20
+subsection 8 is permitted to inspect records and may be issued a noncertified copy of 
+21
+an application.
+22
+Sec. 2.  19-A MRSA §652, sub-§5, as amended by PL 2001, c. 354, §3 and PL 
+23
+2003, c. 689, Pt. B, §6, is repealed.
+24
+Sec. 3.  19-A MRSA §653, sub-§1, as amended by PL 2019, c. 340, §12, is further 
+25
+amended to read:
+26
+1.  Filing; enter notice.  A person who believes that parties are about to contract 
+27
+marriage when either of them can not cannot lawfully do so may file a caution and the 
+28
+reasons for the caution in the office of the clerk where notice of their intentions is required 
+29
+to be filed or with the State Registrar of Vital Statistics.  If either party applies to enter 
+30
+notice of their intentions, the clerk or State Registrar of Vital Statistics shall withhold the 
+31
+license until the judge of probate from the county involved approves the marriage. If the 
+32
+license has already been issued and the parties have not yet been married, the office of the 
+33
+clerk or the State Registrar of Vital Statistics shall notify the parties that they may not marry 
+34
+until the judge of probate from the county involved approves the marriage.
+35
+Sec. 4.  19-A MRSA §654, sub-§2, as amended by PL 2019, c. 340, §13, is further 
+36
+amended to read:
+37
+2.  Return of marriage license.  The parties or the person who solemnized the 
+38
+marriage shall return the marriage license to the State Registrar of Vital Statistics or the 
+39
+clerk who issued the license within 7 working days following the date on which the 
+40
+marriage is solemnized by that person.  The clerk and the State Registrar of Vital Statistics 
+41
+each shall retain a copy of the license. If a marriage license is returned later than 90 working 
+42
+days following the date on which the marriage is solemnized, the marriage must be marked 
+43
+as a delayed filing.
+
+Page 2 - 132LR0255(01)
+1
+Sec. 5.  19-A MRSA §654, sub-§4, as amended by PL 2019, c. 340, §13, is further 
+2
+amended to read:
+3
+4.  Recorded by clerk or State Registrar of Vital Statistics.  The clerk or State 
+4
+Registrar of Vital Statistics shall record all attach the completed marriage licenses returned 
+5
+under this section in the electronic system specified by the State Registrar of Vital 
+6
+Statistics.
+7
+Sec. 6.  19-A MRSA §656, sub-§2, as amended by PL 2021, c. 49, §2, is further 
+8
+amended to read:
+9
+2.  Completed license; ceremony performed.  Each marriage license issued must be 
+10
+completed and the certification statement signed by both parties to the intended marriage.  
+11
+The parties' signatures may be obtained at issuance or at the time the marriage is 
+12
+solemnized.  The completed license or licenses must be delivered by the parties to the 
+13
+person solemnizing the marriage.  Upon completion of the solemnization, which must be 
+14
+performed in the presence of at least 2 witnesses other than the person officiating, the 
+15
+person officiating and the 2 witnesses shall sign the license or licenses, which are then 
+16
+known as the marriage certificate or certificates, and the parties are considered legally 
+17
+married.
+18
+Sec. 7.  19-A MRSA §660, as enacted by PL 2015, c. 193, §1, is amended by 
+19
+amending the section headnote to read:
+20
+§660.  Late-filed Delayed application for certificate of marriage
+21
+Sec. 8.  19-A MRSA §660, as enacted by PL 2015, c. 193, §1, is amended by 
+22
+enacting a new first paragraph to read:
+23
+In order to provide an official record of statements concerning marriages that have 
+24
+occurred in this State, the State Registrar of Vital Statistics must accept a registration of 
+25
+any marriage for which no record can be found in either the files of the State Registrar of 
+26
+Vital Statistics or the clerk of the municipality where the marriage license was issued or in 
+27
+the municipality where the marriage occurred, as long as such registration is filed in 
+28
+accordance with this section.
+29
+SUMMARY
+30
+This bill clarifies requirements for parties applying for and filing marriage licenses, 
+31
+including registrations that have been delayed and for which there is no record, and aligns 
+32
+current practices by requiring electronic filing of those parties' intentions in the State’s vital 
+33
+records system. The bill also specifies that municipal clerks are no longer required to give 
+34
+to all marrying parties the Department of Health and Human Services' brochure about the 
+35
+effects of alcohol and drugs on a fetus.
+30
+31
+32
+33
+34
+35

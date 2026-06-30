@@ -1,0 +1,377 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1712
+H.P. 1147
+House of Representatives, April 17, 2025
+An Act to Amend the Paid Family and Medical Leave Benefits 
+Program to Balance Support of Businesses and Employees
+Reference to the Committee on Labor suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ROBERTS of South Berwick.
+Cosponsored by Senator BALDACCI of Penobscot and
+Representatives: ARATA of New Gloucester, COLLAMORE of Pittsfield, CROCKETT of 
+Portland, HEPLER of Woolwich, MASTRACCIO of Sanford, O'HALLORAN of Brewer, 
+STOVER of Boothbay, Senator: BRADSTREET of Kennebec.
+
+Page 1 - 132LR1651(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  26 MRSA §850-B, sub-§7, as enacted by PL 2023, c. 412, Pt. AAA, §7, is 
+3
+amended to read:
+4
+7.  Notice to employer.  Absent an emergency, illness or other sudden necessity for 
+5
+taking leave, an employee shall give reasonable notice to the employee's supervisor of the 
+6
+employee's intent to use leave under this subchapter. Use of such leave must be scheduled 
+7
+to prevent undue hardship on the employer as reasonably determined by the employer. If 
+8
+an employer fails to provide notice as required under section 850‑I, the employee's 
+9
+obligation to provide notice under this subsection is waived.  For purposes of this 
+10
+subsection, the conditions that constitute undue hardship include, but are not limited to:
+11
+A.  The employer employs fewer than 15 employees;
+12
+B.  When, during the period between 3 days before Memorial Day until Labor Day, the 
+13
+employer is experiencing a labor shortage;
+14
+C.  The employer generates at least 60% of the employer's annual revenue during a 5-
+15
+month period, and it is during that 5-month period; or
+16
+D.  When more than 25% of the employer's employees are already on leave or have 
+17
+requested and been approved for leave, including, but not limited to, vacation or 
+18
+medical or family leave.
+19
+An employer may determine additional conditions that constitute undue hardship based on 
+20
+an individualized assessment of the effect of the leave request on that employer's 
+21
+operations.
+22
+A decision of an employer to deny the use of leave based on undue hardship is not 
+23
+reviewable by the department or subject to appeal pursuant to section 850-K.  This 
+24
+subsection may not be construed to prevent an employer from granting leave despite a 
+25
+determination of undue hardship by the employer.
+26
+Sec. 2.  26 MRSA §850-B, sub-§10, ¶B, as enacted by PL 2023, c. 412, Pt. AAA, 
+27
+§7, is amended to read:
+28
+B.  In any way curtail the rights, privileges or remedies of any employee under any 
+29
+collective bargaining agreement or employment contract.  This paragraph may not be 
+30
+construed to prohibit an employer from deducting a portion of the premium as required 
+31
+pursuant to section 850-F, subsection 5;
+32
+Sec. 3.  26 MRSA §850-B, sub-§10, ¶D, as enacted by PL 2023, c. 412, Pt. AAA, 
+33
+§7, is amended to read:
+34
+D.  Require a public an employer, as defined in section 962, subsection 7, or employee 
+35
+of a public an employer that is a party to a collective bargaining agreement in existence 
+36
+on the effective date of this subchapter October 25, 2023 to apply any of the rights and 
+37
+responsibilities under this subchapter until the existing collective bargaining agreement 
+38
+expires.
+39
+Sec. 4.  26 MRSA §850-C, sub-§2, as enacted by PL 2023, c. 412, Pt. AAA, §7, is 
+40
+amended to read:
+
+Page 2 - 132LR1651(01)
+1
+2.  Determination of weekly benefit amount.  The weekly benefit amount paid to 
+2
+employees and an employee or self-employed individuals individual on family leave or 
+3
+medical leave is calculated as follows: 65% of that employee's or self-employed 
+4
+individual's average weekly wage.
+5
+A.  The portion of the covered individual's average weekly wage that is equal to or less 
+6
+than 50% of the state average weekly wage must be replaced at a rate of 90%; and
+7
+B.  The portion of the covered individual’s average weekly wage that is more than 50% 
+8
+of the state average weekly wage must be replaced at a rate of 66% up to the maximum 
+9
+weekly benefit.
+10
+Sec. 5.  26 MRSA §850-D, sub-§2, as enacted by PL 2023, c. 412, Pt. AAA, §7, is 
+11
+repealed and the following enacted in its place:
+12
+2.  Filing of application.  The filing of an application for family leave and medical 
+13
+leave benefits is governed by this subsection.
+14
+A.  An individual may file an application for family leave benefits or medical leave 
+15
+benefits no more than 60 days before the anticipated start date of family leave and 
+16
+medical leave.
+17
+B.  An individual may file an application for family leave benefits no more than 15 
+18
+days after the start date of family leave.
+19
+C.  An individual may file an application for medical leave benefits no more than 30 
+20
+days after the start date of medical leave.  The administrator shall waive the 30-day 
+21
+filing deadline for good cause.
+22
+The administrator shall institute forms and procedures that are not unduly burdensome to 
+23
+an individual claiming benefits.
+24
+Sec. 6.  26 MRSA §850-F, sub-§5, as enacted by PL 2023, c. 412, Pt. AAA, §7, is 
+25
+repealed.
+26
+Sec. 7.  26 MRSA §850-F, sub-§5-A is enacted to read:
+27
+5-A.  Payment of share of premium by employees.  Payment of an employee's share 
+28
+of the premium is governed by this subsection.
+29
+A.  An employer shall deduct 50% of the premium amount required by subsection 3 
+30
+from an employee's wages and shall remit 100% of the combined premium contribution 
+31
+required in subsection 3 to the fund.
+32
+B.  Notwithstanding paragraph A, an employer may pay up to 100% of the employee's 
+33
+premium amount required by subsection 3 in addition to the amount required to be paid 
+34
+by the employer, as long as 100% of the amount of the premium required by subsection 
+35
+3 is remitted.
+36
+C.  Notwithstanding any provision of law to the contrary, an employer subject to 
+37
+collective bargaining is not required to bargain for the deduction of the premium from 
+38
+an employee's wages as permitted by this subsection.
+39
+Sec. 8.  26 MRSA §850-F, sub-§9, as enacted by PL 2023, c. 412, Pt. AAA, §7, is 
+40
+amended to read:
+
+Page 3 - 132LR1651(01)
+1
+9.  Failure or refusal to make premium contributions.  An employer that fails or 
+2
+refuses to make premium contributions as required in this section must be assessed 1.0% 
+3
+of its total annual payroll for each year it so failed to comply in addition to any amounts 
+4
+previously owed, or fraction thereof a fine, in addition to the total amount of family leave 
+5
+benefits and medical leave benefits paid to covered individuals for whom it failed to make 
+6
+premium contributions. The rate of assessment imposed by this subsection must be adjusted 
+7
+annually consistent with subsection 3, paragraph B.  The following provisions govern fines 
+8
+imposed pursuant to this subsection.
+9
+A.  The maximum amount of the fine is $50 for each employee for whom the employer 
+10
+failed or refused to make premium contributions.
+11
+B.  The department shall determine the amount of the fine assessed pursuant to 
+12
+paragraph A.
+13
+C.  The department may waive the fine when it determines that equity and good 
+14
+conscience require the waiver.
+15
+D.  If the department assesses a fine for underpayment of the premium contributions, 
+16
+the department shall inform the employer of the amount of the underpayment.
+17
+E.  An employer notified pursuant to paragraph D may appeal pursuant to section 
+18
+850-K.
+19
+F.  An employer found in violation of this subsection that fails to withhold from an 
+20
+employee the amount allowed pursuant to subsection 5 may deduct the appropriate 
+21
+amounts from the employee retroactively.
+22
+The provisions of this subsection do not apply until January 1, 2026 unless the employer 
+23
+willfully fails or refuses to make the premium contributions required in this section.
+24
+Sec. 9.  26 MRSA §850-M, sub-§1-A is enacted to read:
+25
+1-A.  State tax.  An individual filing a new claim for family leave benefits or medical 
+26
+leave benefits under this subchapter may elect to have the administrator deduct and 
+27
+withhold state income tax from the individual’s payment of benefits at the rate of 5%. The 
+28
+department shall advise an individual filing a new claim, at the time the individual files the 
+29
+claim, that:
+30
+A.  The benefits are subject to state income tax;
+31
+B.  Requirements exist pertaining to estimated tax payments;
+32
+C.  The individual may elect to have state income tax deducted and withheld from the 
+33
+individual's payment of benefits at the rate of 5%; and
+34
+D.  The individual is permitted to change a previously elected withholding status.
+35
+Sec. 10.  36 MRSA §5122, sub-§1, ¶QQ is enacted to read:
+36
+QQ.  For each taxable year beginning on or after January 1, 2026, an amount equal to 
+37
+the amount of family leave benefits or medical leave benefits paid pursuant to Title 26, 
+38
+section 850-C, to the extent those benefits are not included in the taxpayer’s federal 
+39
+adjusted gross income.
+40
+Sec. 11.  36 MRSA §5122, sub-§2, ¶AAA is enacted to read:
+
+Page 4 - 132LR1651(01)
+1
+AAA.  For each taxable year beginning on or after January 1, 2026, an amount equal 
+2
+to the amount of any family leave benefits or medical leave benefits that were repaid 
+3
+by the taxpayer pursuant to Title 26, section 850-L, subsection 2 that have been 
+4
+previously taxed under this Part.
+5
+Sec. 12.  36 MRSA §5255-D is enacted to read:
+6
+§5255-D.  Withholding on paid family and medical leave benefits
+7
+When an individual receiving family leave benefits or medical leave benefits under the 
+8
+paid family and medical leave benefits program established in Title 26, section 850-B 
+9
+makes an election pursuant to Title 26, section 850-M, subsection 1-A, the administrator 
+10
+of the paid family and medical leave benefits program shall deduct and withhold state 
+11
+income tax at the rate of 5% from the family leave benefits or medical leave benefits paid 
+12
+to the individual pursuant to Title 26, sections 850-B and 850-C.
+13
+SUMMARY
+14
+This bill makes the following changes to the paid family and medical leave benefits 
+15
+program.
+16
+1.  It provides examples of what type of conditions constitute undue hardship for an 
+17
+employer and allows an employer to determine other conditions, based on that employer's 
+18
+specific business, that constitute undue hardship.  It also provides that the decision of an 
+19
+employer to deny the use of leave based on undue hardship is not reviewable by the 
+20
+Department of Labor.
+21
+2. It requires an employer to deduct from an employee's wages 50% of the payroll 
+22
+premium, instead of allowing an employer to choose to deduct up to 50% of the payroll 
+23
+premium, but allows an employer to pay any amount of the employee's share of the payroll 
+24
+premium.  It specifies that the existence of a collective bargaining agreement does not 
+25
+prevent an employer from deducting an employee's share of the premium imposed to 
+26
+finance the payment of benefits under the program nor does it require the employer to 
+27
+bargain before making that deduction.
+28
+3.  It extends to all employers subject to a collective bargaining agreement the 
+29
+exemption for public employers or employees of a public employer subject to a collective 
+30
+bargaining agreement from participating in the program until the expiration of the 
+31
+collective bargaining agreement in effect on October 25, 2023.
+32
+4.  It establishes a benefit amount, regardless of income, of 65% of an employee's 
+33
+average weekly wage.
+34
+5.  It requires an employee to file an application for family leave benefits no more than 
+35
+15 days after the start of family leave and to file an application for medical leave benefits 
+36
+no more than 30 days after the start of the medical leave.
+37
+6.  It changes the fine imposed for failure or refusal by an employer to make premium 
+38
+contributions to a maximum of $50 per employee.  The fine is waivable by the department 
+39
+if the department determines it is in the interest of equity and good conscience.  It requires 
+40
+the department to notify an employer and allows an employer to appeal the decision.  It 
+41
+allows an employer who is found to have failed or refused to make premium contributions 
+42
+to retroactively deduct from an employee's wages that employee's share of the premium.  
+14
+15
+
+Page 5 - 132LR1651(01)
+43
+Finally, it stays the imposition of any fines until January 1, 2026 unless the employer 
+44
+willfully fails or refuses to make the premium contributions.
+3
+7.  It provides that benefits paid from the program are subject to state income tax to the 
+4
+extent those benefits are not included in the taxpayer's federal adjusted gross income. It 
+5
+also provides that a taxpayer's federal adjusted gross income may be reduced by the amount 
+6
+subject to repayment that has been previously taxed by the State. It also allows individuals 
+7
+filing a new claim for family leave benefits or medical leave benefits to elect to have the 
+8
+administrator of the program deduct and withhold state income tax from the individual's 
+9
+payment of benefits at the rate of 5% and requires the administrator of the program to 
+10
+deduct and withhold state income tax. It also requires the department to advise individuals 
+11
+filing a new claim for benefits that the benefits are subject to state income tax.
+1
+2

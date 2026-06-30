@@ -1,0 +1,90 @@
+{
+  "ld": 250,
+  "paper": "SP0117",
+  "paper_display": "SP 117",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280095887",
+  "title": "An Act Regarding the Disposal of Abandoned Human Remains",
+  "committee": "Judiciary",
+  "status_summary": "",
+  "final_disposition": "Enacted, Mar 25, 2025",
+  "governor_action": "Signed, Mar 25, 2025",
+  "chaptered_law": "ACTPUB, Chapter 14",
+  "chapter": "14",
+  "became_law": true,
+  "last_house_action": "3/20/2025 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "3/20/2025 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Anne CARNEY",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "DEATH",
+      "minor": "DISPOSITION OF REMAINS",
+      "detail": "UNIDENTIFIED REMAINS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "date_raw": "1/21/2025",
+      "chamber": "Senate",
+      "description": "Committee on JUDICIARY suggested and ordered printed REFERENCE to the Committee on JUDICIARY Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-01-21",
+      "date_raw": "1/21/2025",
+      "chamber": "House",
+      "description": "The Bill was REFERRED to the Committee on JUDICIARY . In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "Reports READ On motion by Senator CARNEY of Cumberland The Majority Ought to Pass Report ACCEPTED READ ONCE Under suspension of the Rules, READ A SECOND TIME AND PASSED TO BE ENGROSSED Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative KUHN of Falmouth, the Majority Ought to Pass Report was ACCEPTED . The Bill was READ ONCE . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-03-20",
+      "date_raw": "3/20/2025",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0117&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0117&item=3&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0117",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0117&SessionID=16",
+  "scraped_at": "2026-06-30T17:49:19Z"
+}

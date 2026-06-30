@@ -1,0 +1,1583 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 1164
+H.P. 769
+House of Representatives, March 20, 2025
+An Act to Create Economic Opportunity for the Wabanaki Nations 
+Through Internet Gaming
+Reference to the Committee on Veterans and Legal Affairs suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative RANA of Bangor.
+Cosponsored by Senator MOORE of Washington and
+Representatives: DANA of the Passamaquoddy Tribe, MACIAS of Topsham, MINGO of 
+Calais, ROEDER of Bangor, SATO of Gorham, Senators: HICKMAN of Kennebec, TALBOT 
+ROSS of Cumberland.
+
+Page 1 - 132LR2128(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  8 MRSA §1205, sub-§1, ¶E, as enacted by PL 2021, c. 681, Pt. J, §6, is 
+3
+amended by amending subparagraph (3) to read:
+4
+(3)  Has engaged in conduct in this State or any other jurisdiction that would 
+5
+constitute a violation of this chapter; chapter 11 involving gambling; chapter 31; 
+6
+chapter 33; chapter 39; Title 17, chapter 13‑A or 62; Title 17‑A, chapter 39; or 
+7
+substantially similar offenses in other jurisdictions;
+8
+Sec. 2.  8 MRSA §1210, sub-§1, as enacted by PL 2021, c. 681, Pt. J, §6, is amended 
+9
+to read:
+10
+1.  License required.  A person may not be employed by an operator to be engaged 
+11
+directly in sports wagering-related activities or otherwise to conduct or operate sports 
+12
+wagering without a valid occupational license issued by the director under this section.  The 
+13
+director shall issue an occupational license to a person who meets the requirements of this 
+14
+section, section 1204 and section 1205.  The director shall by rule establish a process for 
+15
+issuance of occupational licenses that is, as far as possible, identical to the process for 
+16
+occupational licenses issued under section 1409 and for licensing employees of a casino 
+17
+under section 1015.
+18
+Sec. 3.  8 MRSA §1210, sub-§5, as enacted by PL 2021, c. 681, Pt. J, §6, is amended 
+19
+to read:
+20
+5.  Exception.  An individual who is actively licensed under section 1015 as an 
+21
+employee of a casino that has a facility sports wagering license or who is actively licensed 
+22
+under section 1409 as an employee of an Internet gaming operator may obtain or renew a 
+23
+license under this section without paying an initial license fee or a renewal license fee under 
+24
+this section.
+25
+Sec. 4.  8 MRSA c. 39 is enacted to read:
+26
+CHAPTER 39
+27
+REGULATION OF INTERNET GAMING
+28
+§1401.  Authorization of Internet gaming; license required
+29
+Notwithstanding any provision of law to the contrary, the operation of Internet gaming 
+30
+and ancillary activities are lawful when conducted in accordance with the provisions of this 
+31
+chapter and the rules adopted under this chapter.
+32
+A person or entity may not engage in any activities in this State that require a license 
+33
+under this chapter unless all necessary licenses have been obtained in accordance with this 
+34
+chapter and rules adopted under this chapter.
+35
+§1402.  Definitions
+36
+As used in this chapter, unless the context otherwise indicates, the following terms 
+37
+have the following meanings.
+
+Page 2 - 132LR2128(01)
+1
+1.  Adjusted gross Internet gaming receipts.  "Adjusted gross Internet gaming 
+2
+receipts" means an operator's gross receipts from Internet gaming less the total of all 
+3
+winnings paid to patrons, which includes the cash equivalent of any merchandise or thing 
+4
+of value awarded as a prize, and less excise tax payments remitted to the Federal 
+5
+Government.
+6
+2.  Commissioner.  "Commissioner" means the Commissioner of Public Safety.
+7
+3.  Department.  "Department" means the Department of Public Safety.
+8
+4.  Director.  "Director" means the director of the Gambling Control Unit within the 
+9
+department.
+10
+5.  Internet gaming.  "Internet gaming" means a card game, dice game or other game 
+11
+of chance approved by the director, including but not limited to blackjack, poker, dice, 
+12
+craps, roulette or baccarat, offered through an approved mobile application or other digital 
+13
+platform that involves, at least in part, the use of the Internet. "Internet gaming" does not 
+14
+include a table game or slot machine under chapter 31; the sale of pari-mutuel pools 
+15
+authorized under chapter 11; the operation of fantasy contests as defined in section 1101, 
+16
+subsection 4; mobile sports wagering under chapter 35; or advance deposit wagering as 
+17
+defined in section 1001, subsection 1-A.  Internet gaming is not a game of chance under 
+18
+Title 17, section 1831, subsection 5.
+19
+6.  License.  "License" means any license applied for or issued by the director under 
+20
+this chapter, including but not limited to:
+21
+A.  An Internet gaming license under section 1406 to permit an operator to operate 
+22
+Internet gaming through an approved mobile application or other digital platform that 
+23
+involves, at least in part, the use of the Internet;
+24
+B.  A supplier license under section 1407 to sell goods and services to be used in 
+25
+connection with Internet gaming, but not to directly accept wagers;
+26
+C.  A management services license under section 1408 to manage Internet gaming on 
+27
+behalf of an Internet gaming licensee; and
+28
+D.  An occupational license under section 1409 to be employed by an Internet gaming 
+29
+licensee to operate Internet gaming when the employee performs duties in furtherance 
+30
+of or associated with the operation of Internet gaming.
+31
+7. Operator.  "Operator" means a federally recognized Indian nation, tribe or band in 
+32
+this State that conducts Internet gaming.
+33
+8. Person.  "Person" means an individual or an entity, including but not limited to a 
+34
+federally recognized Indian nation, tribe or band in this State.
+35
+9.  Wager.  "Wager" means a sum of money or thing of value risked on an uncertain 
+36
+occurrence.
+37
+§1403.  Powers and duties of director
+38
+1.  Powers and duties.  In administering and enforcing this chapter, the director:
+39
+A.  Has the power to regulate the conduct of Internet gaming;
+40
+B.  Shall determine the eligibility of a person to hold or continue to hold a license, shall 
+41
+issue all licenses and shall maintain a record of all licenses issued under this chapter;
+
+Page 3 - 132LR2128(01)
+1
+C.  Shall levy and collect all fees, civil penalties and tax on adjusted gross Internet 
+2
+gaming receipts imposed by this chapter, except as otherwise provided under this 
+3
+chapter;
+4
+D.  May sue to enforce any provision of this chapter or any rule of the director by civil 
+5
+action or petition for injunctive relief;
+6
+E.  May hold hearings, administer oaths and issue subpoenas or subpoenas duces tecum 
+7
+in the manner provided by applicable law; and
+8
+F.  May exercise any other powers necessary to effectuate the provisions of this chapter 
+9
+and the rules of the director.  
+10
+2.  Rules.  The director shall adopt rules governing the conduct of Internet gaming in 
+11
+the State, which must, at a minimum, include the following:
+12
+A.  The methods of operation of Internet gaming, including but not limited to the 
+13
+permitted systems and methods of wagers; the use of credit and checks by persons 
+14
+making wagers; the types of wagering receipts that may be used; the method of issuing 
+15
+receipts; the protection of patrons placing wagers; and the promotion of social 
+16
+responsibility and responsible gaming and display of information on resources for 
+17
+problem gambling;
+18
+B.  Standards for the adoption of comprehensive house rules governing Internet gaming 
+19
+by operators and the approval of house rules by the director as required under section 
+20
+1410;
+21
+C.  Minimum design and security requirements for applications and digital platforms 
+22
+for the acceptance of wagers by operators, including required methods for verifying 
+23
+the age and identity of a person who places a wager with an operator, for verifying that 
+24
+the person making the wager is physically located in the State and is not prohibited 
+25
+from making a wager under section 1412 and for requiring the refund of any wager 
+26
+determined to have been placed by a person prohibited from making a wager under 
+27
+section 1412;
+28
+D.  The types of interested parties from whom operators are prohibited from accepting 
+29
+wagers under section 1412, subsection 3;
+30
+E.  Minimum design, security, testing and approval requirements for Internet gaming 
+31
+equipment, systems or services sold by suppliers licensed under section 1407;
+32
+F.  Minimum requirements for a contract between a management services licensee 
+33
+under section 1408 and an operator on whose behalf the management services licensee 
+34
+conducts Internet gaming, including but not limited to requirements that the person 
+35
+providing management services be licensed prior to entering a contract; that the 
+36
+contract be approved by the director prior to the conduct of Internet gaming; that, if the 
+37
+management services licensee contracts with more than one operator, the contract 
+38
+include a condition requiring the management services licensee to employ a method 
+39
+approved by the director for separately accounting for each operator's gross receipts 
+40
+from Internet gaming and adjusted gross Internet gaming receipts; and that the contract 
+41
+not authorize the person providing management services to receive more than 30% of 
+42
+the operator's adjusted gross Internet gaming receipts, except that the director may 
+43
+approve a contract authorizing the management services licensee to receive up to 40% 
+44
+of the operator's adjusted gross Internet gaming receipts if the director determines that 
+
+Page 4 - 132LR2128(01)
+45
+the management services licensee has demonstrated that the fee is commercially 
+46
+reasonable given the management services licensee's capital investments and the 
+47
+operator's projected adjusted gross Internet gaming receipts;
+4
+G.  Provisions allowing individuals to restrict themselves from Internet gaming upon 
+5
+request by placing themselves on the list pursuant to section 1003, subsection 3, 
+6
+paragraph I. The rules adopted under this paragraph must define the standards for 
+7
+involuntary placement on the list and for removal from the list;
+8
+H.  Minimum internal control standards for operators and management services 
+9
+licensees, including but not limited to procedures for safeguarding assets and revenues; 
+10
+the recording of cash and evidence of indebtedness; the maintenance of reliable 
+11
+records, accounts and reports of transactions, operations and events; required audits; 
+12
+and the content and frequency of reports of Internet gaming activities and revenues that 
+13
+must be made to the director; and 
+14
+I.  Restrictions on the advertisement and marketing of Internet gaming, including but 
+15
+not limited to prohibiting misleading, deceptive or false advertisements; requiring an 
+16
+operator to disclose its status as a federally recognized Indian nation, tribe or band in 
+17
+this State or a business entity wholly owned by a federally recognized Indian nation, 
+18
+tribe or band in this State; and restricting, to the extent permissible, advertising that has 
+19
+a high probability of reaching persons under 21 years of age or that is specifically 
+20
+designed to appeal particularly to persons under 21 years of age.
+21
+3.  Rulemaking.  Rules adopted by the director pursuant to this chapter are routine 
+22
+technical rules as defined in Title 5, chapter 375, subchapter 2‑A.
+23
+§1404.  Application; criminal history record check
+24
+1.  Application.  An application for a license or for renewal of a license required under 
+25
+this chapter must be submitted on a form or in a format approved by the director.  An 
+26
+application submitted to the director must, at a minimum, include the following:
+27
+A.  The full name, current address and contact information of the applicant;
+28
+B.  Disclosure of each person that has control of the applicant as described in subsection 
+29
+2;
+30
+C.  Consent to permit the director to conduct a criminal history record check in 
+31
+accordance with subsection 3 of the applicant and each person disclosed under 
+32
+paragraph B in accordance with procedures established by the director;
+33
+D.  For the applicant and each person disclosed under paragraph B, a record of previous 
+34
+issuances and denials of or any adverse action taken against a gambling-related license 
+35
+or application under this Title or in any other jurisdiction.  For purposes of this 
+36
+paragraph, "adverse action" includes, but is not limited to, a condition resulting from 
+37
+an administrative, civil or criminal violation, a suspension or revocation of a license or 
+38
+a voluntary surrender of a license to avoid or resolve a civil, criminal or disciplinary 
+39
+action; and
+40
+E.  Any additional information required by the director by rule.
+41
+2.  Persons that have control.  The following persons are considered to have control 
+42
+of an applicant or a licensee:
+1
+2
+3
+
+Page 5 - 132LR2128(01)
+1
+A.  Each corporate holding company, parent company or subsidiary company of a 
+2
+corporate applicant or licensee and each person that owns 10% or more of the corporate 
+3
+applicant or licensee and that has the ability to control the activities of the corporate 
+4
+applicant or licensee or elect a majority of the board of directors of that corporate 
+5
+applicant or licensee, except for a bank or other licensed lending institution that holds 
+6
+a mortgage or other lien acquired in the ordinary course of business;
+7
+B.  Each person associated with a noncorporate applicant or licensee that directly or 
+8
+indirectly holds a beneficial or proprietary interest in the noncorporate applicant's or 
+9
+licensee's business operation or that the director otherwise determines has the ability to 
+10
+control the noncorporate applicant or licensee; and  
+11
+C.  Key personnel of an applicant or licensee, including any executive, employee or 
+12
+agent, having the power to exercise significant influence over decisions concerning any 
+13
+part of the applicant's or licensee's relevant business operation.
+14
+3.  Criminal history record check.  The director shall request a criminal history record 
+15
+check in accordance with this subsection for each applicant for initial licensure and each 
+16
+person required to be disclosed by the applicant for initial licensure under subsection 1, 
+17
+paragraph B.  The director may require a criminal history record check in accordance with 
+18
+this subsection from a licensee seeking to renew a license, from any person the licensee is 
+19
+required to disclose under subsection 1, paragraph B as part of the license renewal 
+20
+application and from any person identified by the licensee under subsection 4.  A criminal 
+21
+history record check conducted pursuant to this subsection must include criminal history 
+22
+record information obtained from the Maine Criminal Justice Information System 
+23
+established in Title 16, section 631 and the Federal Bureau of Investigation.
+24
+A.  Criminal history record information obtained from the Maine Criminal Justice 
+25
+Information System pursuant to this subsection must include a record of public criminal 
+26
+history record information as defined in Title 16, section 703, subsection 8.
+27
+B.  Criminal history record information obtained from the Federal Bureau of 
+28
+Investigation pursuant to this subsection must include other state and national criminal 
+29
+history record information.
+30
+C.  An individual required to submit to a criminal history record check under this 
+31
+subsection shall submit to having the individual's fingerprints taken.  The State Police, 
+32
+upon payment by the individual of the fee required under paragraph E, shall take or 
+33
+cause to be taken the individual's fingerprints and shall immediately forward the 
+34
+fingerprints to the Department of Public Safety, Bureau of State Police, State Bureau 
+35
+of Identification.  Any person who fails to transmit criminal fingerprint records to the 
+36
+State Bureau of Identification pursuant to this paragraph is subject to the provisions of 
+37
+Title 25, section 1550.
+38
+D.  The Department of Public Safety, Bureau of State Police, State Bureau of 
+39
+Identification shall conduct the state and national criminal history record checks 
+40
+required under this subsection.  Except for the portion of a payment, if any, that 
+41
+constitutes the processing fee for a criminal history record check charged by the Federal 
+42
+Bureau of Investigation, all money received by the State Police under this subsection 
+43
+must be paid to the Treasurer of State, who shall apply the money to the expenses 
+44
+incurred by the Department of Public Safety in the administration of this subsection.
+
+Page 6 - 132LR2128(01)
+1
+E.  The director shall by rule set the amount of the fee to be paid for each criminal 
+2
+history record check required to be performed under this subsection.
+3
+F.  The subject of a Federal Bureau of Investigation criminal history record check may 
+4
+obtain a copy of the criminal history record check by following the procedures outlined 
+5
+in 28 Code of Federal Regulations, Sections 16.32 and 16.33.  The subject of a state 
+6
+criminal history record check may inspect and review the criminal history record 
+7
+information pursuant to Title 16, section 709.
+8
+G.  State and national criminal history record information obtained by the director 
+9
+under this subsection may be used only for the purpose of screening an applicant for a 
+10
+license or a license renewal under this chapter.  
+11
+H.  All criminal history record information obtained by the director pursuant to this 
+12
+subsection is confidential, is for the official use of the director only and may not be 
+13
+disseminated by the director or disclosed to any other person or entity except as 
+14
+provided in paragraph F.
+15
+I.  The director, after consultation with the Department of Public Safety, Bureau of 
+16
+State Police, State Bureau of Identification, shall adopt rules to implement this 
+17
+subsection.
+18
+4.  Material change to application.  A person licensed under this chapter shall give 
+19
+the director written notice within 30 days of any material change to any information 
+20
+provided in the licensee's application for a license or renewal, including any change in the 
+21
+identity of persons considered to have control of the licensee as described in subsection 2.
+22
+5.  Gambling Control Unit employees prohibited.  An employee of the Gambling 
+23
+Control Unit within the department may not be an applicant for a license issued under this 
+24
+chapter.
+25
+§1405.  Denial of license; administrative sanctions
+26
+1.  Grounds for denial of license or imposition of administrative sanctions.  The 
+27
+following are grounds for the director to deny a license or license renewal or for the 
+28
+imposition of administrative sanctions, in accordance with this section, on a person licensed 
+29
+under this chapter:
+30
+A.  If the applicant or licensee has knowingly made a false statement of material fact 
+31
+to the director;
+32
+B.  If the applicant or licensee has not disclosed the existence or identity of other 
+33
+persons that have control of the applicant or licensee as required by section 1404, 
+34
+subsections 1 and 4;
+35
+C.  If the applicant or licensee has had a license revoked by any government authority 
+36
+responsible for regulation of gaming activities;
+37
+D.  If the applicant, the licensee or a person having control of the applicant or licensee 
+38
+under section 1404, subsection 2 is not of good moral character.  In determining 
+39
+whether the applicant, licensee or person is of good moral character, the director shall 
+40
+consider qualities that include but are not limited to honesty, candor, trustworthiness, 
+41
+diligence, reliability, observance of fiduciary and financial responsibility and respect 
+42
+for the rights of others;
+
+Page 7 - 132LR2128(01)
+1
+E.  If the applicant, the licensee or a person having control of the applicant or licensee 
+2
+under section 1404, subsection 2:
+3
+(1)  Has, in any jurisdiction, been convicted of or pled guilty or nolo contendere to 
+4
+a crime punishable by one year or more of imprisonment;
+5
+(2)  Has, in any jurisdiction, been adjudicated of committing a civil violation or 
+6
+been convicted of a criminal violation involving dishonesty, deception, 
+7
+misappropriation or fraud;
+8
+(3)  Has engaged in conduct in this State or any other jurisdiction that would 
+9
+constitute a violation of this chapter; chapter 11 involving gambling; chapter 31; 
+10
+chapter 33; chapter 35; Title 17, chapter 13‑A or 62; Title 17‑A, chapter 39; or 
+11
+substantially similar offenses in other jurisdictions; 
+12
+(4)  Is a fugitive from justice, a drug user, a person with substance use disorder, an 
+13
+undocumented noncitizen or a person who was dishonorably discharged from the 
+14
+Armed Forces of the United States; or
+15
+(5)  Is not current in filing all applicable tax returns and in the payment of all taxes, 
+16
+penalties and interest owed to this State, any other state or the United States 
+17
+Internal Revenue Service, excluding items under formal appeal;
+18
+F.  If the applicant or licensee has not demonstrated to the satisfaction of the director 
+19
+sufficient financial assets to meet the requirements of the licensed business or proposed 
+20
+business and to meet any financial obligations imposed by this chapter; 
+21
+G.  If the applicant, the licensee or a person having control of the applicant or licensee 
+22
+under section 1404, subsection 2 has not demonstrated financial responsibility.  For the 
+23
+purposes of this paragraph, "financial responsibility" means a demonstration of a 
+24
+current and expected future condition of financial solvency sufficient to satisfy the 
+25
+director that the applicant, the licensee or the person can successfully engage in 
+26
+business without jeopardy to the public health, safety and welfare.  Financial 
+27
+responsibility may be determined by an evaluation of the total history concerning the 
+28
+applicant, the licensee or the person, including past, present and expected condition 
+29
+and record of financial solvency, business record and accounting and managerial 
+30
+practices;
+31
+H.  If the applicant or licensee has not met the requirements of this chapter; or
+32
+I.  If the applicant or licensee has violated any provision of this chapter or of the rules 
+33
+adopted under this chapter.
+34
+2.  Denial of initial license or renewed license; notice; hearing.  The director may 
+35
+deny an application for a license or for renewal of a license for the reasons set forth in 
+36
+subsection 1.  The director shall notify the applicant or the licensee in writing of the 
+37
+decision and of the opportunity to request a hearing conducted by the commissioner.
+38
+If the applicant or licensee fails to request a hearing within 30 days of the date that the 
+39
+notice was mailed under this subsection, the director may issue a final decision denying the 
+40
+application for a license or for renewal of a license.  If the applicant or licensee makes a 
+41
+timely request for a hearing, the commissioner shall conduct an adjudicatory hearing in 
+42
+accordance with Title 5, chapter 375, subchapter 4.  The director's decision to deny the 
+
+Page 8 - 132LR2128(01)
+43
+license or license renewal stands until the commissioner issues a decision to uphold, modify 
+44
+or overrule the director's decision.  
+3
+After hearing, if the commissioner finds grounds for denying a license or license renewal 
+4
+under subsection 1, the commissioner may deny the application for a license or for renewal 
+5
+of a license.
+6
+3.  Investigation of complaints; notice; hearing.  The director or the director's 
+7
+designee shall investigate a complaint on the director's own motion or upon receipt of a 
+8
+written complaint regarding noncompliance with or violation of this chapter or of any rules 
+9
+adopted under this chapter.  Following the investigation, the director may mail the licensee 
+10
+a notice of violation informing the licensee of the administrative sanction under subsection 
+11
+4 the director proposes to impose and of the licensee's opportunity to request a hearing. 
+12
+If the licensee fails to request a hearing within 30 days of the date that a notice was mailed 
+13
+under this subsection, the director may issue a final decision imposing the sanction 
+14
+proposed in the notice.  If the licensee makes a timely request for a hearing, the 
+15
+commissioner shall conduct an adjudicatory hearing in accordance with Title 5, chapter 
+16
+375, subchapter 4.  If, after the hearing, the commissioner finds that the factual basis of the 
+17
+complaint is true and is of sufficient gravity to warrant further action, the commissioner 
+18
+may impose an administrative sanction under subsection 4.
+19
+4.  Administrative sanctions.  The director or the commissioner may, pursuant to 
+20
+subsection 3, impose the following administrative sanctions on a licensee:
+21
+A.  A written reprimand;
+22
+B.  Conditions of probation of a license;
+23
+C.  A license suspension;
+24
+D.  A license revocation; or
+25
+E.  A civil penalty of up to $25,000 per violation of any provision of this chapter or 
+26
+rule adopted pursuant to this chapter.
+27
+5.  Appeals.  A person aggrieved by the final decision of the commissioner under 
+28
+subsection 2 or 3 may appeal the commissioner's decision to the Superior Court in 
+29
+accordance with Title 5, chapter 375, subchapter 7.
+30
+§1406.  Internet gaming license
+31
+1.  Issuance of license.  The director shall issue an Internet gaming license upon finding 
+32
+that the applicant meets all requirements of this section, sections 1404 and 1405 and rules 
+33
+adopted under this chapter.  The provisions of Title 30, Part 5 apply to the issuance of 
+34
+licenses under this chapter.  The director shall by rule establish a process for issuance of an 
+35
+Internet gaming license under this chapter that is, to the extent practicable, identical to the 
+36
+process for a mobile sports wagering license under section 1207.
+37
+2.  Eligibility; transfer to wholly owned entity.  To be eligible to receive an Internet 
+38
+gaming license, an applicant must be a federally recognized Indian nation, tribe or band in 
+39
+this State.  Each federally recognized Indian nation, tribe or band in this State may receive 
+40
+only one Internet gaming license under this section.  An Internet gaming license may not 
+41
+be transferred or assigned, except that a federally recognized Indian nation, tribe or band 
+42
+in this State may transfer its Internet gaming license to a business entity with a principal 
+1
+2
+
+Page 9 - 132LR2128(01)
+43
+place of business in the State that is wholly owned by that federally recognized Indian 
+44
+nation, tribe or band.
+3
+3.  Authority to conduct Internet gaming; management services permitted.  An 
+4
+Internet gaming license granted by the director pursuant to this section grants a licensee 
+5
+lawful authority to conduct Internet gaming in which wagers are placed by persons who 
+6
+are physically located in the State through any applications or digital platforms approved 
+7
+by the director within the terms and conditions of the license and any rules adopted under 
+8
+this chapter.  An Internet gaming licensee may contract with no more than one management 
+9
+services licensee under section 1408.
+10
+4.  Fees.  The fee for an initial or renewed Internet gaming license is $50,000 and must 
+11
+be retained by the director for the costs of administering this chapter.  In addition to the 
+12
+license fee, the director may charge a processing fee for an initial or renewed license in an 
+13
+amount equal to the projected cost of processing the application and performing any 
+14
+background investigations.  If the actual cost exceeds the projected cost, an additional fee 
+15
+may be charged to meet the actual cost.  If the projected cost exceeds the actual cost, the 
+16
+difference may be refunded to the applicant or licensee. 
+17
+5.  Term of license.  Except as provided in subsection 6, a license granted or renewed 
+18
+under this section is valid for one year unless sooner revoked by the director or the 
+19
+commissioner under section 1405.
+20
+6.  Temporary license.  An applicant for an Internet gaming license may submit with 
+21
+the application a request for a temporary license.  A request for a temporary license must 
+22
+include the initial license fee under subsection 4.  If the director determines that the 
+23
+applicant meets the requirements established by rule for a temporary license and has paid 
+24
+the initial license fee and the director is not aware of any reason the applicant is ineligible 
+25
+for a license under this section, the director may issue a temporary Internet gaming license.  
+26
+A temporary license issued under this subsection is valid for the length of the term of the 
+27
+license under subsection 5 or until a final determination on the Internet gaming license 
+28
+application is made, whichever is sooner.  If after investigation the director determines that 
+29
+the applicant is eligible for an Internet gaming license under this chapter, the director shall 
+30
+issue the initial Internet gaming license, at which time the temporary license terminates.  
+31
+The initial Internet gaming license is valid for one year from the date that the temporary 
+32
+license was issued by the director.  Internet gaming conducted under authority of a 
+33
+temporary license must comply with the operator's house rules adopted under section 1410.
+34
+7.  Occupational license required.  An Internet gaming licensee, including a 
+35
+temporary licensee under subsection 6, may conduct Internet gaming only through persons 
+36
+holding a valid occupational license under section 1409.
+37
+§1407.  Supplier license
+38
+1.  Issuance of license; eligibility.  The director shall issue a supplier license upon 
+39
+finding that the applicant meets all requirements of this section, sections 1404 and 1405 
+40
+and rules adopted under this chapter.  The director shall by rule establish a process for 
+41
+issuance of a supplier license under this chapter that is, to the extent practicable, identical 
+42
+to the process for a supplier license under section 1208.
+43
+2.  Equipment.  An applicant for a supplier license shall demonstrate that the 
+44
+equipment, systems or services that the applicant plans to offer to an operator conform to 
+1
+2
+
+Page 10 - 132LR2128(01)
+45
+standards established by rule by the director.  The director may accept approval by another 
+46
+jurisdiction that is specifically determined by the director to have similar equipment 
+47
+standards as evidence the applicant meets the standards established by the director by rule.
+4
+3.  Authority to supply operators.  A supplier license granted by the director pursuant 
+5
+to this section grants a licensee lawful authority to sell or to lease Internet gaming 
+6
+equipment, systems or services to operators in the State within the terms and conditions of 
+7
+the license and any rules adopted under this chapter.
+8
+4.  Fees.  The fee for an initial or renewed supplier license is $10,000 and must be 
+9
+retained by the director for the costs of administering this chapter.  In addition to the license 
+10
+fee, the director may charge a processing fee for an initial or renewed license in an amount 
+11
+equal to the projected cost of processing the application and performing any background 
+12
+investigations.  If the actual cost exceeds the projected cost, an additional fee may be 
+13
+charged to meet the actual cost.  If the projected cost exceeds the actual cost, the difference 
+14
+may be refunded to the applicant or licensee. 
+15
+5.  Term of license.  Except as provided in subsection 6, a license granted or renewed 
+16
+under this section is valid for one year unless sooner revoked by the director or the 
+17
+commissioner under section 1405.
+18
+6.  Temporary license.  An applicant for a supplier license may submit with the 
+19
+application a request for a temporary license.  A request for a temporary license must 
+20
+include the initial license fee under subsection 4.  If the director determines that the 
+21
+applicant is qualified under subsection 1, meets the requirements established by rule for a 
+22
+temporary license and has paid the initial license fee and the director is not aware of any 
+23
+reason the applicant is ineligible for a license under this section, the director may issue a 
+24
+temporary supplier license.  A temporary license issued under this subsection is valid for 
+25
+the length of the term of the license under subsection 5 or until a final determination on the 
+26
+supplier license application is made, whichever is sooner.  If after investigation the director 
+27
+determines that the applicant is eligible for a supplier license under this chapter, the director 
+28
+shall issue the initial supplier license, at which time the temporary license terminates.  The 
+29
+initial supplier license is valid for one year from the date that the temporary license was 
+30
+issued by the director.
+31
+7.  Inventory.  A supplier licensee shall submit to the director a list of all Internet 
+32
+gaming equipment, systems and services sold or leased to, delivered to or offered to an 
+33
+operator in this State as required by the director, all of which must be tested and approved 
+34
+by an independent testing laboratory approved by the director.  An operator may continue 
+35
+to use supplies acquired from a licensed supplier if the supplier's license subsequently 
+36
+expires or is otherwise revoked, unless the director finds a defect in the supplies.
+37
+§1408.  Management services license
+38
+1.  Issuance of license; eligibility.  The director shall issue a management services 
+39
+license upon finding that the applicant meets all requirements of this section, sections 1404 
+40
+and 1405 and rules adopted under this chapter and that the applicant has sufficient 
+41
+knowledge and experience in the business of operating Internet gaming to effectively 
+42
+conduct Internet gaming in accordance with this chapter and the rules adopted under this 
+43
+chapter.  The director shall by rule establish a process for issuance of a management 
+44
+services license under this chapter that is, to the extent practicable, identical to the process 
+45
+for a management services license under section 1209.
+1
+2
+3
+
+Page 11 - 132LR2128(01)
+1
+2.  Authority to enter contract with operator.  A management services licensee may 
+2
+contract with an operator to manage Internet gaming operations on behalf of the operator 
+3
+in accordance with rules adopted under this chapter.
+4
+3.  Contract approval; material change in written contract.  A person may not 
+5
+contract with an operator to conduct Internet gaming on behalf of the operator unless the 
+6
+person is licensed under this section and the director approves the written contract. A 
+7
+management services licensee shall submit to the director any proposed material change to 
+8
+the written contract that has been approved by the director under this subsection.  A 
+9
+management services licensee may not transfer, assign, delegate or subcontract any portion 
+10
+of the management services licensee's responsibilities under the contract or any portion of 
+11
+the management services licensee's right to compensation under the contract to any other 
+12
+person who does not hold a management services license.
+13
+4.  Fees.  The fee for an initial or renewed management services license is $10,000 and 
+14
+must be retained by the director for the costs of administering this chapter.  In addition to 
+15
+the license fee, the director may charge a processing fee for an initial or renewed license in 
+16
+an amount equal to the projected cost of processing the application and performing any 
+17
+background investigations.  If the actual cost exceeds the projected cost, an additional fee 
+18
+may be charged to meet the actual cost.  If the projected cost exceeds the actual cost, the 
+19
+difference may be refunded to the applicant or licensee. 
+20
+5.  Term of license.  Except as provided in subsection 6, a license granted or renewed 
+21
+under this section is valid for one year unless sooner revoked by the director or the 
+22
+commissioner under section 1405.
+23
+6.  Temporary license.  An applicant for a management services license may submit 
+24
+with the application a request for a temporary license.  A request for a temporary license 
+25
+must include the initial license fee under subsection 4.  If the director determines that the 
+26
+applicant is qualified under subsection 1, meets the requirements established by rule for a 
+27
+temporary license and has paid the initial license fee and the director is not aware of any 
+28
+reason the applicant is ineligible for a license under this section, the director may issue a 
+29
+temporary management services license.  A temporary license issued under this subsection 
+30
+is valid for the length of the term of the license under subsection 5 or until a final 
+31
+determination on the management services license application is made, whichever is 
+32
+sooner.  If after investigation the director determines that the applicant is eligible for a 
+33
+management services license under this chapter, the director shall issue the initial 
+34
+management services license, at which time the temporary license terminates.  The initial 
+35
+management services license is valid for one year from the date that the temporary license 
+36
+was issued by the director.
+37
+§1409.  Occupational license
+38
+1.  License required.  A person may not be employed by an operator to be engaged 
+39
+directly in Internet gaming-related activities or otherwise to conduct or operate Internet 
+40
+gaming without a valid occupational license issued by the director under this section.  The 
+41
+director shall issue an occupational license to a person who meets the requirements of this 
+42
+section, section 1404 and section 1405.  The director shall by rule establish a process for 
+43
+issuance of occupational licenses that is, to the extent practicable, identical to the process 
+44
+for occupational licenses issued under section 1210 and for licensing employees of a casino 
+45
+under section 1015.
+
+Page 12 - 132LR2128(01)
+1
+2.  Authority to be employed in Internet gaming.  An occupational license authorizes 
+2
+the licensee to be employed by an operator in the capacity designated by the director while 
+3
+the license is active.  The director may establish, by rule, job classifications with different 
+4
+requirements to recognize the extent to which a particular job has the ability to affect the 
+5
+proper operation of Internet gaming.
+6
+3.  Application and fee.  Except as provided in subsection 5, an applicant shall submit 
+7
+any required application forms established by the director and pay a nonrefundable 
+8
+application fee of $250. The fee may be paid on behalf of an applicant by the operator. Fees 
+9
+paid under this subsection must be retained by the director for the costs of administering 
+10
+this chapter.
+11
+4.  Renewal fee and form.  An occupational licensee must pay a fee of $25 to renew 
+12
+the license for a one-year term or a fee of $50 to renew the license for a 3-year term.  The 
+13
+fee may be paid on behalf of the occupational licensee by the operator.  In addition to a 
+14
+renewal fee, an occupational licensee must annually submit a renewal application on a form 
+15
+or in a format approved by the director.  Fees paid under this subsection must be retained 
+16
+by the director for the costs of administering this chapter.
+17
+5.  Exception.  An individual who is actively licensed under section 1015 as an 
+18
+employee of a casino that has a facility sports wagering license or who is actively licensed 
+19
+under section 1210 as an employee of a facility sports wagering licensee or mobile sports 
+20
+wagering licensee may obtain or renew a license under this section without paying an initial 
+21
+license fee or a renewal license fee under this section.
+22
+§1410.  Internet gaming house rules
+23
+1.  Adoption of house rules.  An operator shall adopt comprehensive house rules for 
+24
+game play governing Internet gaming transactions with its patrons.  House rules must be 
+25
+approved by the director prior to implementation and meet the minimum standards 
+26
+established by the director by rule, including but not limited to requiring that the house 
+27
+rules specify the amounts to be paid on winning wagers, the circumstances under which the 
+28
+operator will void a wager and treatment of errors, late wagers and related contingencies.
+29
+2.  Advertisement of house rules.  The house rules, together with any other 
+30
+information the director determines to be appropriate, must be advertised as required by 
+31
+the director by rule and must be made readily available to patrons.
+32
+§1411.  Access to premises and equipment
+33
+A licensee under this chapter shall permit the director, the department or a designee of 
+34
+the director unrestricted access, during regular business hours, including access to locked 
+35
+or secured areas, to inspect any facility and any equipment, prizes, records or other items 
+36
+to be used in the operation of Internet gaming.
+37
+§1412.  Persons prohibited from making wagers
+38
+An operator and a management services licensee conducting Internet gaming on behalf 
+39
+of an operator may not accept a wager from the following persons:
+40
+1.  Persons under 21 years of age.  A person who has not attained 21 years of age;
+41
+2.  Operators and employees.  An operator or management services licensee; 
+42
+directors, officers and employees of an operator or management services licensee; or a 
+43
+relative living in the same household as any of these persons.  This subsection does not 
+
+Page 13 - 132LR2128(01)
+44
+prohibit a relative living in the same household as a director, officer or employee of an 
+45
+operator or management services licensee from making a wager with an unaffiliated 
+46
+operator or management services licensee;
+4
+3.  Interested parties.  A person with an interest in the outcome of the Internet gaming 
+5
+event identified by the director by rule;
+6
+4.  Unauthorized persons.  A person on a list established by rule by the director under 
+7
+section 1403, subsection 2, paragraph G of persons who are not authorized to make wagers;
+8
+5.  Third parties.  A person making a wager on behalf of or as the agent or custodian 
+9
+of another person; and
+10
+6.  Regulatory staff.  An employee of the Gambling Control Unit within the 
+11
+department.
+12
+§1413.  Abnormal wagering activity
+13
+1.  Duty to report.  An operator shall, as soon as practicable, report to the director any 
+14
+information relating to abnormal wagering activity or patterns that may indicate a concern 
+15
+with the integrity of the Internet gaming event. 
+16
+2.  Cooperation efforts.  An operator shall use commercially reasonable efforts to 
+17
+cooperate with investigations conducted by law enforcement agencies, including but not 
+18
+limited to using commercially reasonable efforts to provide or facilitate the provision of 
+19
+wagering information.
+20
+3.  Information confidentiality.  The director and operators shall maintain the 
+21
+confidentiality of information provided by entities involved in the Internet gaming event 
+22
+for purposes of investigating or preventing the conduct described in this section, unless 
+23
+disclosure is otherwise required by the director or by law or unless the entity consents to 
+24
+disclosure.
+25
+4.  Information use and disclosure.  With respect to any information provided by an 
+26
+operator to an entity involved in the Internet gaming event relating to conduct described in 
+27
+this section, the entity:
+28
+A.  May use such information only for integrity-monitoring purposes and may not use 
+29
+the information for any commercial or other purpose; and
+30
+B.  Shall maintain the confidentiality of the information, unless disclosure is otherwise 
+31
+required by the director or by law or unless the operator consents to disclosure, except 
+32
+that the entity may make disclosures necessary to conduct and resolve integrity-related 
+33
+investigations and may publicly disclose such information if necessary to maintain the 
+34
+actual or perceived integrity of the Internet gaming event.  Prior to any public 
+35
+disclosure that would identify the operator by name, the entity shall provide that 
+36
+operator with notice of the disclosure and an opportunity to object to the disclosure.
+37
+§1414.  Security, maintenance and sharing of wagering records
+38
+1.  Records maintenance.  An operator shall maintain for 3 years after an Internet 
+39
+gaming event occurs at least the following records of all wagers placed with respect to that 
+40
+Internet gaming event:
+41
+A.  Personally identifiable information of each person placing a wager;
+42
+B.  The amount and type of each wager;
+1
+2
+3
+
+Page 14 - 132LR2128(01)
+1
+C.  The time each wager was placed;
+2
+D.  The location of each wager, including the Internet protocol address if applicable;
+3
+E.  The outcome of each wager; and
+4
+F.  Instances of abnormal wagering activity.
+5
+An operator shall make the records required to be maintained under this subsection 
+6
+available for inspection upon request of the director or as required by court order.
+7
+2.  Anonymized information.  An operator shall use commercially reasonable efforts 
+8
+to maintain, in real time and at the account level, anonymized information regarding a 
+9
+person who places a wager; the amount and type of the wager; the time the wager was 
+10
+placed; the location of the wager, including the Internet protocol address if applicable; the 
+11
+outcome of the wager; and records of abnormal wagering activity.  The director may 
+12
+request that information in the form and manner required by rule.  Nothing in this 
+13
+subsection requires an operator to provide any information that is prohibited by federal or 
+14
+state law, including without limitation laws and rules relating to privacy and personally 
+15
+identifiable information.  
+16
+3.  Records monitoring.  If an entity involved in the Internet gaming event has notified 
+17
+the director that access to the information described in subsection 2 for wagers placed on 
+18
+Internet gaming events of that entity is necessary to monitor the integrity of that Internet 
+19
+gaming event, and the entity represents to the director that it specifically uses that data for 
+20
+the purpose of monitoring the integrity of the Internet gaming event, an operator shall share, 
+21
+in a commercially reasonable frequency, form and manner, with the entity or its designee 
+22
+the same information the operator is required to maintain under subsection 2 with respect 
+23
+to the Internet gaming event.  An entity and its designee may use information received 
+24
+under this subsection only for integrity-monitoring purposes and may not use information 
+25
+received under this subsection for any commercial or other purpose.  Nothing in this 
+26
+subsection requires an operator to provide any information if prohibited by federal or state 
+27
+law, including without limitation laws and rules relating to privacy and personally 
+28
+identifiable information.
+29
+4.  Security.  An operator shall use commercially reasonable methods to maintain the 
+30
+security of wagering data, customer data and other confidential information from 
+31
+unauthorized access and dissemination.  Nothing in this chapter precludes the use of 
+32
+Internet-based or so-called cloud-based hosting of that data and information or disclosure 
+33
+as required by law.
+34
+§1415.  Interception of Internet gaming winnings to pay child support debt
+35
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+36
+following terms have the following meanings.
+37
+A.  "Child support debt" means child support debt that has been liquidated by judicial 
+38
+or administrative action.
+39
+B.  "Department" means the Department of Health and Human Services.
+40
+C.  "Licensee" means an operator or a management services licensee under section 
+41
+1408.
+
+Page 15 - 132LR2128(01)
+1
+D.  "Registry operator" means the department or an entity with which the department 
+2
+enters into a contract to maintain the registry pursuant to subsection 3.
+3
+E.  "Winner" means an Internet gaming patron to whom cash is returned as winnings 
+4
+for placement of a wager.
+5
+2.  Interception.  A licensee shall intercept Internet gaming winnings to pay child 
+6
+support debt in accordance with this section.
+7
+3.  Registry.  The department shall create and maintain, or shall contract with a private 
+8
+entity to create and maintain, a secure, electronically accessible registry containing 
+9
+information regarding individuals with outstanding child support debt.  The department 
+10
+shall regularly enter into the registry information including:
+11
+A.  The name and social security number of each individual with outstanding child 
+12
+support debt;
+13
+B.  The account number or identifier assigned by the department to the outstanding 
+14
+child support debt;
+15
+C.  The amount of the outstanding child support debt; and
+16
+D.  Any other information necessary to effectuate the purposes of this section.
+17
+4.  Electronic access to information; procedures.  A licensee shall electronically 
+18
+access the registry in accordance with this subsection.
+19
+A.  Before making a payout of winnings of an amount equal to or greater than the 
+20
+amount for which the licensee is required to file a Form W-2G or substantially 
+21
+equivalent form with the United States Internal Revenue Service, the licensee shall 
+22
+obtain the name, address, date of birth and social security number of the winner and 
+23
+shall electronically submit this information to the registry operator.
+24
+B.  Upon receipt of information pursuant to paragraph A, the registry operator shall 
+25
+electronically inform the licensee whether the winner is listed in the registry.  If the 
+26
+winner is listed in the registry, the registry operator shall inform the licensee of the 
+27
+amount of the winner's outstanding child support debt and the account number or 
+28
+identifier assigned to the outstanding child support debt and shall provide the licensee 
+29
+with a notice of withholding that informs the winner of the right to an administrative 
+30
+hearing.
+31
+C.  If the registry operator informs the licensee that the winner is not listed in the 
+32
+registry or if the licensee is unable to obtain information from the registry operator on 
+33
+a real-time basis after attempting in good faith to do so, the licensee may make payment 
+34
+to the winner.
+35
+D.  If the registry operator informs the licensee that the winner is listed in the registry, 
+36
+the licensee may not make payment to the winner unless the amount of the payout 
+37
+exceeds the amount of outstanding child support debt, in which case the licensee may 
+38
+make payment to the winner of the amount of winnings that is in excess of the amount 
+39
+of the winner's outstanding child support debt.
+40
+5.  Lien against winnings.  If the registry operator informs a licensee pursuant to this 
+41
+section that a winner is listed in the registry, the department has a valid lien upon and claim 
+42
+of lien against the winnings in the amount of the winner's outstanding child support debt.
+
+Page 16 - 132LR2128(01)
+1
+6.  Withholding of winnings.  The licensee shall withhold from any winnings an 
+2
+amount equal to the amount of the lien created under subsection 5 and shall provide a notice 
+3
+of withholding to the winner.  Within 7 days after withholding an amount pursuant to this 
+4
+subsection, the licensee shall transmit the amount withheld to the department together with 
+5
+a report of the name, address and social security number of the winner, the account number 
+6
+or identifier assigned to the debt, the amount withheld, the date of withholding and the 
+7
+name and location of the licensee.
+8
+7.  Licensee costs.  Notwithstanding subsection 6, the licensee may retain $10 from an 
+9
+amount withheld pursuant to this section to cover the cost of the licensee's compliance with 
+10
+this section.
+11
+8.  Administrative hearing.  A winner from whom an amount was withheld pursuant 
+12
+to this section has the right, within 15 days of receipt of the notice of withholding, to request 
+13
+from the department an administrative hearing.  The hearing is limited to questions of 
+14
+whether the debt is liquidated and whether any post-liquidation events have affected the 
+15
+winner's liability.  The administrative hearing decision constitutes final agency action.
+16
+9.  Authorization to provide information.  Notwithstanding any provision of law to 
+17
+the contrary, the licensee may provide to the department or registry operator any 
+18
+information necessary to effectuate the intent of this section.  The department or registry 
+19
+operator may provide to the licensee any information necessary to effectuate the intent of 
+20
+this section. 
+21
+10.  Confidentiality of information.  The information obtained by the department or 
+22
+registry operator from a licensee pursuant to this section and the information obtained by 
+23
+the licensee from the department or registry operator pursuant to this section are 
+24
+confidential and may be used only for the purposes set forth in this section.  An employee 
+25
+or prior employee of the department, the registry operator or a licensee who knowingly or 
+26
+intentionally discloses any such information commits a civil violation for which a fine not 
+27
+to exceed $1,000 may be adjudged.
+28
+11.  Effect of compliance; noncompliance.  A licensee, the department and the 
+29
+registry operator are not liable for any action taken in good faith to comply with this section.  
+30
+A licensee who fails to make a good faith effort to obtain information from the registry 
+31
+operator or who fails to withhold and transmit the amount of the lien created under 
+32
+subsection 5 is liable to the department for the greater of $500 and the amount the person 
+33
+was required to withhold and transmit to the department under this section, together with 
+34
+costs, interest and reasonable attorney's fees.
+35
+12.  Biennial review.  The department shall include in its report to the Legislature 
+36
+under section 1066 the following information:
+37
+A.  The number of names of winners submitted by licensees to the registry operator 
+38
+pursuant to this section in each of the preceding 2 calendar years;
+39
+B.  The number of winners who were found to be listed in the registry in each of the 
+40
+preceding 2 calendar years;
+41
+C.  The amount of winnings withheld by licensees pursuant to this section in each of 
+42
+the preceding 2 calendar years; and
+
+Page 17 - 132LR2128(01)
+1
+D.  The amount of withheld winnings refunded to winners as the result of 
+2
+administrative hearings requested pursuant to this section in each of the preceding 2 
+3
+calendar years.
+4
+§1416.  Allocation of funds
+5
+1.  Tax imposed; allocation of funds.  An operator shall collect and distribute 16% of 
+6
+adjusted gross Internet gaming receipts to the director to be forwarded by the director to 
+7
+the Treasurer of State for distribution as follows:
+8
+A.  Two percent of the adjusted gross Internet gaming receipts must be deposited in the 
+9
+Gambling Control Unit administrative expenses Other Special Revenue Funds account, 
+10
+which is a nonlapsing dedicated account;
+11
+B.  Three percent of the adjusted gross Internet gaming receipts must be deposited in 
+12
+the Gambling Addiction Prevention and Treatment Fund established by Title 5, section 
+13
+20006‑B;
+14
+C.  Three percent of the adjusted gross Internet gaming receipts must be deposited in 
+15
+the E-9-1-1 fund under Title 25, section 2927, subsection 2-B;
+16
+D.  Three percent of the adjusted gross Internet gaming receipts must be deposited in 
+17
+the Opioid Use Disorder Prevention and Treatment Fund established under Title 5, 
+18
+section 20010;
+19
+E.  Two percent of the adjusted gross Internet gaming receipts must be deposited in the 
+20
+Emergency Housing Relief Fund established under Title 30-A, section 4765; and
+21
+F.  Three percent of the adjusted gross Internet gaming receipts must be deposited in 
+22
+the Maine Veterans' Homes Stabilization Fund established under Title 37-B, section 
+23
+613.
+24
+2.  Due dates; late payments.  The director may adopt rules establishing the dates on 
+25
+which payments required by this section are due. All payments not remitted when due must 
+26
+be paid together with interest on the unpaid balance at a rate of 1.5% per month.
+27
+§1417.  Applicability of other laws
+28
+1.  Authorized conduct.  The provisions of Title 17, chapter 62 and Title 17‑A, chapter 
+29
+39 do not apply to Internet gaming conducted in accordance with this chapter and the rules 
+30
+adopted under this chapter.
+31
+2.  Unlicensed conduct.  A person who engages in an activity for which a license is 
+32
+required under this chapter and who does not possess the required license to engage in that 
+33
+activity is subject to any criminal or civil penalties that may be imposed pursuant to Title 
+34
+17‑A, chapter 39.
+35
+3.  Unauthorized conduct by licensees.  In addition to any penalties that may be 
+36
+imposed pursuant to section 1405, a licensee who conducts Internet gaming in violation of 
+37
+this chapter or the rules adopted under this chapter is subject to any criminal or civil 
+38
+penalties that may be imposed pursuant to Title 17‑A, chapter 39.
+39
+Sec. 5.  17 MRSA §1831, sub-§5, as amended by PL 2017, c. 284, Pt. KKKKK, 
+40
+§8, is further amended by amending the first blocked paragraph to read:
+41
+For the purposes of this subsection, "an event the result of which is determined by chance" 
+42
+includes but is not limited to a shuffle of a deck of cards, a roll of a die or dice or a random 
+
+Page 18 - 132LR2128(01)
+43
+drawing or generation of an object that may include, but is not limited to, a card, a die, a 
+44
+number or simulations of any of these. A shuffle of a deck of cards, a roll of a die, a random 
+45
+drawing or generation of an object or some other event the result of which is determined 
+46
+by chance that is employed to determine impartially the initial order of play in a game, 
+47
+contest, scheme or device does not alone make a game, contest, scheme or device a game 
+48
+of chance.  For purposes of this chapter, beano, bingo and, table games as defined in Title 
+49
+8, section 1001, subsection 43‑A and Internet gaming as defined in Title 8, section 1402, 
+50
+subsection 5 are not games of chance.
+9
+Sec. 6.  17-A MRSA §951, as amended by PL 2021, c. 681, Pt. J, §7, is further 
+10
+amended to read:
+11
+§951.  Inapplicability of chapter
+12
+Any person licensed or registered by the Gambling Control Unit as provided in Title 
+13
+17, chapter 13‑A or chapter 62, or authorized to operate or conduct a raffle pursuant to Title 
+14
+17, section 1837‑A or licensed to operate sports wagering pursuant to Title 8, chapter 35 
+15
+or Internet gaming pursuant to Title 8, chapter 39 is exempt from the application of the 
+16
+provisions of this chapter insofar as that person's conduct is within the scope of the license 
+17
+or registration.
+18
+Sec. 7.  25 MRSA §1542-A, sub-§1, ¶CC is enacted to read:
+19
+CC.  Who is required to have a criminal history record check under Title 8, section 
+20
+1404.
+21
+Sec. 8.  25 MRSA §1542-A, sub-§3, ¶BB is enacted to read:
+22
+BB.  The State Police shall take or cause to be taken the fingerprints of the person 
+23
+named in subsection 1, paragraph CC at the request of that person or the director of the 
+24
+Gambling Control Unit within the Department of Public Safety and upon payment of 
+25
+the fee established by the director of the Gambling Control Unit pursuant to Title 8, 
+26
+section 1404, subsection 3.
+27
+SUMMARY
+28
+This bill authorizes each federally recognized Indian nation, tribe or band in this State 
+29
+to operate Internet gaming pursuant to a license from the Gambling Control Unit within the 
+30
+Department of Public Safety.  Only a federally recognized Indian nation, tribe or band in 
+31
+this State is eligible to obtain a license and operate Internet gaming.  The licensing structure 
+32
+follows the law governing sports wagering.  
+1
+2
+3
+4
+5
+6
+7
+8
+28
+29
+30
+31
+32

@@ -1,0 +1,92 @@
+{
+  "ld": 2245,
+  "paper": "HP1523",
+  "paper_display": "HP 1523",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280102594",
+  "title": "An Act to Reauthorize Funding of Collective Bargaining Agreements with Executive Branch Employees",
+  "committee": "",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 16, 2026",
+  "governor_action": "Signed, Apr 16, 2026",
+  "chaptered_law": "ACTPUB, Chapter 740",
+  "chapter": "740",
+  "became_law": true,
+  "last_house_action": "4/14/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/14/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Drew GATTINE",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Westbrook"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "STATE FINANCES",
+      "minor": "STATE PERSONNEL",
+      "detail": "EXEC BRANCH COLLECTIVE BARGAINING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "House",
+      "description": "Committee on Appropriations and Financial Affairs suggested and ordered printed. Under suspension of the rules and WITHOUT REFERENCE to a Committee, the Bill was READ ONCE . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . On motion of Representative GATTINE of Westbrook, House Amendment \"A\" (H-1069) was READ and ADOPTED . Subsequently, the Bill was PASSED TO BE ENGROSSED as Amended by House Amendment \"A\" (H-1069) . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "Senate",
+      "description": "FIRST READING without reference to a Committee Under suspension of the Rules, Bill READ TWICE. House Amendment \"A\" (H-1069) READ and ADOPTED. PASSED TO BE ENGROSSED AS AMENDED BY House Amendment \"A\" (H-1069) without reference to a Committee in concurrence. Ordered sent down forthwith."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-14",
+      "date_raw": "4/14/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "H \"A\" (H-1069 )",
+      "new_title": "",
+      "house_action": "Adopted on 4/14/2026",
+      "senate_action": "Adopted on 4/14/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1523&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1523&item=3&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1523&item=4&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1523",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1523&SessionID=16",
+  "scraped_at": "2026-06-30T20:25:12Z"
+}

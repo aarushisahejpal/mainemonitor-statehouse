@@ -1,0 +1,117 @@
+{
+  "ld": 2236,
+  "paper": "HP1512",
+  "paper_display": "HP 1512",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280101989",
+  "title": "An Act Regarding Public Records Maintained by the Department of Inland Fisheries and Wildlife",
+  "committee": "Inland Fisheries and Wildlife",
+  "status_summary": "",
+  "final_disposition": "Enacted, Apr 13, 2026",
+  "governor_action": "Signed, Apr 13, 2026",
+  "chaptered_law": "ACTPUB, Chapter 692",
+  "chapter": "692",
+  "became_law": true,
+  "last_house_action": "4/8/2026 - PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "4/9/2026 - PASSED TO BE ENACTED , in concurrence.",
+  "sponsors": [
+    {
+      "name": "Tiffany ROBERTS",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "South Berwick"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "INLAND FISHERIES AND WILDLIFE DEPT",
+      "minor": "ADMINISTRATION",
+      "detail": "PUBLIC RECORDS"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "House",
+      "description": "Representative ROBERTS for the Joint Standing Committee on Inland Fisheries and Wildlife pursuant to Resolve 2025, chapter 37, section 6 reports that the Bill be REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE and printed pursuant to Joint Rule 218. Report was READ and ACCEPTED . The Bill was REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-03-17",
+      "date_raw": "3/17/2026",
+      "chamber": "Senate",
+      "description": "Report READ and ACCEPTED , in concurrence. On motion by Senator Baldacci of Penobscot REFERRED to Committee on Inland Fisheries and Wildlife, in concurrence."
+    },
+    {
+      "date": "2026-04-07",
+      "date_raw": "4/7/2026",
+      "chamber": "House",
+      "description": "Reports READ . On motion of Representative ROBERTS of South Berwick, the Majority Ought to Pass as Amended Report was ACCEPTED . The Bill was READ ONCE . Committee Amendment \"A\" (H-986) was READ . On motion of Representative ROBERTS of South Berwick, House Amendment \"A\" (H-994) to Committee Amendment \"A\" (H-986) was READ and ADOPTED . Committee Amendment \"A\" (H-986) as Amended by House Amendment \"A\" (H-994) thereto was ADOPTED . Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading . The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-986) as Amended by House Amendment \"A\" (H-994) thereto. Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-08",
+      "date_raw": "4/8/2026",
+      "chamber": "Senate",
+      "description": "Reports READ On motion by Senator BALDACCI of Penobscot the Majority Ought to Pass as Amended Report ACCEPTED . READ ONCE Committee Amendment \"A\" (H-976) READ House Amendment \"A\" (H-994) to Committee Amendment \"A\" (H-986) READ and ADOPTED Committee Amendment \"A\" (H-986) as Amended by House Amendment \"A\" (H-994) thereto ADOPTED Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-986) as Amended by House Amendment \"A\" (H-994) thereto in concurrence."
+    },
+    {
+      "date": "2026-04-08",
+      "date_raw": "4/8/2026",
+      "chamber": "House",
+      "description": "PASSED TO BE ENACTED . Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2026-04-09",
+      "date_raw": "4/9/2026",
+      "chamber": "Senate",
+      "description": "PASSED TO BE ENACTED , in concurrence."
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [
+    {
+      "label": "C \"A\" (H-986 )",
+      "new_title": "",
+      "house_action": "Adopted on 4/7/2026",
+      "senate_action": "Adopted on 4/8/2026",
+      "adopted": true,
+      "pdf_url": ""
+    },
+    {
+      "label": "H \"A\" (H-994 ) to C \"A\" (H-986 )",
+      "new_title": "",
+      "house_action": "Adopted on 4/7/2026",
+      "senate_action": "Adopted on 4/8/2026",
+      "adopted": true,
+      "pdf_url": ""
+    }
+  ],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1512&item=1&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1512&item=2&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1512&item=3&snum=132"
+    },
+    {
+      "kind": "document",
+      "label": "Printed Chapter PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1512&item=5&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1512",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1512&SessionID=16",
+  "scraped_at": "2026-06-30T20:24:34Z"
+}

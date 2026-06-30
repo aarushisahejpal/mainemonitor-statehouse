@@ -1,0 +1,750 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1944
+H.P. 1303
+House of Representatives, May 7, 2025
+An Act to Protect Children and Adults from Technology-facilitated 
+Sexual Abuse
+Reference to the Committee on Judiciary suggested and ordered printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative KUHN of Falmouth.
+Cosponsored by Representatives: LEE of Auburn, SATO of Gorham.
+
+Page 1 - 132LR0110(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  17-A MRSA §281, as enacted by PL 2003, c. 711, Pt. B, §12, is amended to 
+3
+read:
+4
+§281.  Definitions
+5
+As used in this chapter, unless the context otherwise indicates, the following terms 
+6
+have the following meanings.
+7
+1.   "Disseminate" means to manufacture, publish, send, promulgate, distribute, exhibit, 
+8
+issue, furnish, sell or transfer or to offer or agree to do any of these acts.
+9
+1-A.   "Child sexual abuse material" means any image or computer-generated image 
+10
+that depicts or appears to depict a minor engaged in, participating in, observing or being 
+11
+used for sexually explicit conduct.
+12
+1-B.   "Generative AI or machine learning" means any computer algorithm or model 
+13
+that creates content, including, but not limited to, text, images, audio or video.
+14
+1-C.   "Identifiable child" means a person:
+15
+A.  Who was a minor at the time the image was created or whose likeness as a minor 
+16
+was used in creating, adapting or modifying the image; and
+17
+B.  Who is recognizable as an actual person by that person's face, likeness or other 
+18
+distinguishing characteristic, such as a unique birthmark or other recognizable feature.
+19
+"Identifiable child" does not require proof of the actual identity of the identifiable child.
+20
+1-D.   "Image" means something that is made, captured, generated or saved as a print, 
+21
+negative, slide, motion picture, photograph, computer data file, animation, videotape, 
+22
+livestream or other mechanically, electronically or chemically reproduced visual image or 
+23
+material.
+24
+2.   "Minor" means a person who has not attained 18 years of age or an identifiable 
+25
+child who has not attained 18 years of age.
+26
+3.   "Photograph" means to make, capture, generate or save a print, negative, slide, 
+27
+motion picture, computer data file, videotape or other mechanically, electronically or 
+28
+chemically reproduced visual image or material.
+29
+3-A.   "Obscene material" means material that:
+30
+A.  To the average individual, applying contemporary community standards with 
+31
+respect to what is suitable material for minors considered as a whole, appeals to the 
+32
+prurient interest;
+33
+B.  Depicts or describes, in a patently offensive manner, ultimate sexual acts, excretory 
+34
+functions, masturbation or lewd exhibition of the genitals; and
+35
+C.  Considered as a whole, lacks serious literary, artistic, political or scientific value.
+36
+4.   "Sexually explicit conduct" means any of the following acts:
+37
+A.  A sexual act;
+38
+B.  Bestiality;
+39
+C.  Masturbation;
+
+Page 2 - 132LR0110(01)
+1
+D.  Sadomasochistic abuse for the purpose of sexual stimulation;
+2
+E.  Lewd exhibition of the genitals, anus or pubic area of a person.  An exhibition is 
+3
+considered lewd if the exhibition is designed for the purpose of eliciting or attempting 
+4
+to elicit a sexual response in the intended viewer; or
+5
+F.  Conduct that creates the appearance of the acts in paragraphs A to D and also 
+6
+exhibits any uncovered or covered portions of the genitals, anus or pubic area.
+7
+Sec. 2.  17-A MRSA §282, as amended by PL 2019, c. 113, Pt. B, §15, is further 
+8
+amended to read:
+9
+§282.  Sexual exploitation of minor
+10
+1.   A person is guilty of sexual exploitation of a minor if:
+11
+A.  Knowing or intending that the conduct will be photographed used to create an image 
+12
+and, for the purpose of arousing or gratifying the sexual desire of that person or another 
+13
+person, the person intentionally or knowingly employs, solicits, entices, persuades or 
+14
+uses another person an identifiable child, not that person's spouse, who has not in fact 
+15
+attained 16 years of age, to engage in sexually explicit conduct or create child sexual 
+16
+abuse material, except that it is not a violation of this paragraph if the other person 
+17
+identifiable child is 14 or 15 years of age and the person is less than 5 years older than 
+18
+the other person identifiable child.  Violation of this paragraph is a Class B crime;
+19
+A-1.  Knowing or intending that the conduct will be photographed used to create an 
+20
+image, the person intentionally or knowingly compels or induces by any threat another 
+21
+person, not that person's spouse, who is in fact a minor, to engage in sexually explicit 
+22
+conduct.  Violation of this paragraph is a Class B crime;
+23
+A-2.  The person intentionally or knowingly modifies or alters an image to depict child 
+24
+sexual abuse material and the identifiable child depicted is a minor. Violation of this 
+25
+paragraph is a Class B crime;
+26
+A-3.  The person intentionally or knowingly manufactures or creates an image, 
+27
+including using generative AI or machine learning, and the person knows or should 
+28
+know that the material depicts child sexual abuse material and is obscene material. 
+29
+Violation of this paragraph is a Class B crime.
+30
+This paragraph does not apply to any noncommercial dissemination, distribution or 
+31
+exhibition for purely educational purposes by any library, art gallery, museum, public 
+32
+school, private school or institution of learning, nor to any commercial distribution or 
+33
+exhibition by any art gallery or museum;
+34
+B.  The person violates paragraph A or, A‑1, A-2 or A-3 and, at the time of the offense, 
+35
+the person has one or more prior convictions under this section or for engaging in 
+36
+substantially similar conduct to that contained in this section in another jurisdiction.  
+37
+Violation of this paragraph is a Class A crime;
+38
+C.  The person violates paragraph A or, A‑1, A-2 or A-3 and the minor or identifiable 
+39
+child has not in fact attained 12 years of age.  Violation of this paragraph is a Class A 
+40
+crime;
+41
+D.  Being a parent, legal guardian or other person having care or custody of another 
+42
+person who has not in fact attained 16 years of age, that person knowingly or 
+
+Page 3 - 132LR0110(01)
+43
+intentionally or knowingly permits that person who has not in fact attained 16 years of 
+44
+age to engage in sexually explicit conduct, knowing or intending that the conduct will 
+45
+be photographed create child sexual abuse material.  Violation of this paragraph is a 
+46
+Class B crime;
+5
+E.  The person violates paragraph D and, at the time of the offense, the person has one 
+6
+or more prior convictions under this section or for engaging in substantially similar 
+7
+conduct to that contained in this section in another jurisdiction.  Violation of this 
+8
+paragraph is a Class A crime; or
+9
+F.  The person violates paragraph D and the minor has not in fact attained 12 years of 
+10
+age.  Violation of this paragraph is a Class A crime.
+11
+2.   The following mandatory minimum terms of imprisonment apply to sexual 
+12
+exploitation of a minor.
+13
+A.  A court shall impose upon a person convicted under subsection 1, paragraph A, 
+14
+A‑1, A-2, A-3 or D a sentencing alternative involving a term of imprisonment of at 
+15
+least 5 years.
+16
+B.  A court shall impose upon a person convicted under subsection 1, paragraph B or 
+17
+E a sentencing alternative involving a term of imprisonment of at least 10 years.
+18
+The court may not suspend a minimum term of imprisonment imposed under this section 
+19
+unless it sets forth in detail, in writing, the reasons for suspending the sentence. The court 
+20
+shall consider the nature and circumstances of the crime, the physical and mental well-
+21
+being of the minor and the history and character of the defendant and may only suspend 
+22
+the minimum term if the court is of the opinion that the exceptional features of the case 
+23
+justify the imposition of another sentence.  Section 9‑A governs the use of prior convictions 
+24
+when determining a sentence.
+25
+3.  Aggravating sentencing factor of victim minor under 12 years of age.  If the 
+26
+State pleads and proves that a crime under this section was committed against an individual 
+27
+identifiable child who had not obtained 12 years of age or that depicts a minor who had not 
+28
+attained 12 years of age, the court, in determining the appropriate sentence, shall treat the 
+29
+age of the victim identifiable child or minor as an aggravating sentencing factor.
+30
+4.   A person is subject to prosecution in this State if the person or the identifiable child 
+31
+was in the State at the time of the offense.
+32
+5.   If it appears from the nature of an image as described in subsection 1 or the 
+33
+circumstances of the image's dissemination, distribution or exhibition that the image is 
+34
+designed for clearly defined deviant sexual groups, the appeal of the image must be judged 
+35
+with reference to its intended recipient group.
+36
+6.   In prosecutions under this chapter, if circumstances of production, presentation, 
+37
+sale, dissemination, distribution or exhibition indicate that an image as described in 
+38
+subsection 1 is being exploited by the defendant for the sake of its prurient appeal, this 
+39
+evidence is probative with respect to the nature of the image and may justify the conclusion 
+40
+that the image lacks serious literary, artistic, political or scientific value.
+41
+7.   In prosecutions under this chapter, in determining whether the image taken as a 
+42
+whole lacks serious literary, artistic, political or scientific value in description or 
+43
+representation of the image as described in subsection 1, the fact that the defendant knew 
+1
+2
+3
+4
+
+Page 4 - 132LR0110(01)
+44
+that the image depicts a minor under 16 years of age engaged in sexually explicit conduct, 
+45
+as defined in section 281, subsection 4, is a factor that may be considered in making that 
+46
+determination.
+4
+Sec. 3.  17-A MRSA §283, as amended by PL 2015, c. 394, §3, is further amended 
+5
+to read:
+6
+§283.  Dissemination of sexually explicit child sexual abuse material
+7
+1.   A person is guilty of dissemination of sexually explicit child sexual abuse material 
+8
+if:
+9
+A.  The person intentionally or knowingly disseminates or possesses with intent to 
+10
+disseminate any book, magazine, newspaper, print, negative, slide, motion picture, 
+11
+videotape, computer data file or other mechanically, electronically or chemically 
+12
+reproduced visual image or child sexual abuse material that depicts or has been 
+13
+modified to depict any person identifiable child who has not in fact attained 16 years 
+14
+of age who the person knows or has reason to know is a person an identifiable child 
+15
+under 16 years of age engaging in sexually explicit conduct, except that it is not a 
+16
+violation of this paragraph if the person depicted identifiable child is 14 or 15 years of 
+17
+age and the person is less than 5 years older than the person depicted identifiable child.  
+18
+Violation of this paragraph is a Class C crime;
+19
+A-1.  The person intentionally or knowingly disseminates or possesses with intent to 
+20
+disseminate any child sexual abuse material, including an image created using 
+21
+generative AI or machine learning, or material that the person knows or should know 
+22
+depicts or attempts to depict a minor under 16 years of age engaging in sexually explicit 
+23
+conduct and is obscene material.  It is not a violation of this paragraph if the minor 
+24
+depicted is 14 or 15 years of age and the person is less than 5 years older than the 
+25
+minor. Violation of this paragraph is a Class C crime;
+26
+B.  The person violates paragraph A or A-1 and, at the time of the offense, has one or 
+27
+more prior convictions under this section or for engaging in substantially similar 
+28
+conduct to that contained in this section in another jurisdiction.  Violation of this 
+29
+paragraph is a Class B crime;
+30
+C.  The person intentionally or knowingly disseminates or possesses with intent to 
+31
+disseminate any book, magazine, newspaper, print, negative, slide, motion picture, 
+32
+videotape, computer data file or other mechanically, electronically or chemically 
+33
+reproduced visual image or child sexual abuse material that depicts any minor or has 
+34
+been modified to depict an identifiable child who is less than 12 years of age who the 
+35
+person knows or has reason to know is a minor less than 12 years of age engaging in 
+36
+sexually explicit conduct.  Violation of this paragraph is a Class B crime; or
+37
+C-1.  The person intentionally or knowingly disseminates or possesses with intent to 
+38
+disseminate any child sexual abuse material, including an image created using 
+39
+generative AI or machine learning, or material that the person knows or should know 
+40
+depicts or attempts to depict a minor under 12 years of age engaging in sexually explicit 
+41
+conduct and is obscene material.  Violation of this paragraph is a Class B crime; or
+42
+D.  The person violates paragraph C or C-1 and, at the time of the offense, has one or 
+43
+more prior convictions under this section or for engaging in substantially similar 
+1
+2
+3
+
+Page 5 - 132LR0110(01)
+44
+conduct to that contained in this section in another jurisdiction.  Violation of this 
+45
+paragraph is a Class A crime.
+3
+Section 9‑A governs the use of prior convictions when determining a sentence.
+4
+2.   For the purposes of this section, possession of 10 100 or more copies images of any 
+5
+of the materials as described in subsection 1 gives rise to a permissible inference under the 
+6
+Maine Rules of Evidence, Rule 303 that the person possesses those items with intent to 
+7
+disseminate.
+8
+3.   For purposes of this section, any element of age of the person depicted means the 
+9
+age of the person identifiable child at the time the sexually explicit conduct occurred, not 
+10
+the age of the person identifiable child depicted at the time of dissemination or possession 
+11
+of the sexually explicit visual image or material.
+12
+4.   For purposes of this section, if it appears from the nature of an image as described 
+13
+in subsection 1 or the circumstances of the image's dissemination, distribution or exhibition 
+14
+that the image is designed for clearly defined deviant sexual groups, the appeal of the image 
+15
+must be judged with reference to its intended recipient group.
+16
+5.   In prosecutions under this chapter, if circumstances of production, presentation, 
+17
+sale, dissemination, distribution or publicity indicate that an image as described in 
+18
+subsection 1 is being exploited by the defendant for the sake of its prurient appeal, this 
+19
+evidence is probative with respect to the nature of the image and may justify the conclusion 
+20
+that the image lacks serious literary, artistic, political or scientific value.
+21
+6.   In prosecutions under this chapter, in determining whether an image as described 
+22
+in subsection 1 taken as a whole lacks serious literary, artistic, political or scientific value 
+23
+in description or representation of the image, the fact that the defendant knew that the image 
+24
+depicts a minor under 16 years of age engaged in sexually explicit conduct, as defined in 
+25
+section 281, subsection 4, is a factor that may be considered in making that determination.
+26
+7.   This section does not apply to any noncommercial dissemination, distribution or 
+27
+exhibition for purely educational purposes by any library, art gallery, museum, public 
+28
+school, private school or institution of learning, nor to any commercial distribution or 
+29
+exhibition by any art gallery or museum.
+30
+Sec. 4.  17-A MRSA §284, as amended by PL 2015, c. 394, §4, is further amended 
+31
+to read:
+32
+§284.  Possession of sexually explicit child sexual abuse material
+33
+1.   A person is guilty of possession of sexually explicit child sexual abuse material if 
+34
+that person:
+35
+A.  Intentionally or knowingly transports, exhibits, purchases, possesses or accesses 
+36
+with intent to view any book, magazine, newspaper, print, negative, slide, motion 
+37
+picture, computer data file, videotape or other mechanically, electronically or 
+38
+chemically reproduced visual image or child sexual abuse material that the person 
+39
+knows or should know depicts another person engaging in sexually explicit conduct, 
+40
+and, or has been modified to depict:
+41
+(1)  The other person An identifiable child who has not in fact attained 16 years of 
+42
+age; or
+1
+2
+
+Page 6 - 132LR0110(01)
+1
+(2)  The An identifiable child who the person knows or has reason to know that the 
+2
+other person has not attained 16 years of age.
+3
+It is not a violation of this paragraph if the person depicted identifiable child is 14 or 
+4
+15 years of age and the person is less than 5 years older than the person depicted 
+5
+identifiable child.
+6
+Violation of this paragraph is a Class D crime;
+7
+A-1.  Intentionally or knowingly transports, exhibits, purchases, possesses or accesses 
+8
+with intent to view any child sexual abuse material, including an image created using 
+9
+generative AI or machine learning, or material that:
+10
+(1)  The person knows or has reason to know depicts or attempts to depict a minor 
+11
+under 16 years of age engaging in sexually explicit conduct; and
+12
+(2)  Is obscene material.
+13
+Violation of this paragraph is a Class D crime;
+14
+B.  Violates paragraph A or A-1 and, at the time of the offense, has one or more prior 
+15
+convictions under this section or for engaging in substantially similar conduct to that 
+16
+contained in this section in another jurisdiction. Violation of this paragraph is a Class 
+17
+C crime;
+18
+C.  Intentionally or knowingly transports, exhibits, purchases, possesses or accesses 
+19
+with intent to view any book, magazine, newspaper, print, negative, slide, motion 
+20
+picture, computer data file, videotape or other mechanically, electronically or 
+21
+chemically reproduced visual image or child sexual abuse material that the person 
+22
+knows or should know depicts another person engaging in sexually explicit conduct, 
+23
+and, or has been modified to depict:
+24
+(1)  The other person An identifiable child who has not in fact attained 12 years of 
+25
+age; or
+26
+(2)  The An identifiable child who the person knows or has reason to know that the 
+27
+other person has not attained 12 years of age.
+28
+Violation of this paragraph is a Class C crime; or
+29
+C-1.  Intentionally or knowingly transports, exhibits, purchases, possesses or accesses 
+30
+with intent to view any child sexual abuse material, including an image created using 
+31
+generative AI or machine learning, or material that:
+32
+(1)  The person knows or has reason to know depicts a minor under 12 years of age 
+33
+engaging in sexually explicit conduct; and
+34
+(2)  Is obscene material.
+35
+Violation of this paragraph is a Class C crime; or
+36
+D.  Violates paragraph C or C-1 and, at the time of the offense, has one or more prior 
+37
+convictions under this section or for engaging in substantially similar conduct to that 
+38
+contained in this section in another jurisdiction.  Violation of this paragraph is a Class 
+39
+B crime.
+40
+Section 9‑A governs the use of prior convictions when determining a sentence.
+
+Page 7 - 132LR0110(01)
+1
+2.   It is a defense to a prosecution under this section that the person depicted was the 
+2
+spouse of the person possessing the sexually explicit material at the time the material was 
+3
+produced.
+4
+3.   The age of the person depicted and that the person depicted is an actual person may 
+5
+be reasonably inferred from the depiction.  Competent medical evidence or other expert 
+6
+testimony may be used to establish the age and authenticity of the person depicted.
+7
+4.   Any material that depicts a person who has not attained 16 years of age engaging 
+8
+in sexually explicit conduct is declared to be contraband and may be seized by the State.
+9
+5.   For purposes of this section, any element of age of the person depicted means the 
+10
+age of the person at the time the sexually explicit conduct occurred, not the age of the 
+11
+person depicted at the time of the transporting, exhibiting, purchasing, possession or 
+12
+accessing of the sexually explicit visual image or material.
+13
+6.   For purposes of this section, if it appears from the nature of the image or the 
+14
+circumstances of the image's dissemination, distribution or exhibition that the image is 
+15
+designed for clearly defined deviant sexual groups, the appeal of the image must be judged 
+16
+with reference to its intended recipient group.
+17
+7.   In prosecutions under this chapter, if circumstances of production, presentation, 
+18
+sale, dissemination, distribution or publicity indicate that image is being commercially 
+19
+exploited by the defendant for the sake of its prurient appeal, this evidence is probative 
+20
+with respect to the nature of the image and may justify the conclusion that the image lacks 
+21
+serious literary, artistic, political or scientific value.
+22
+8.   In prosecutions under this chapter, in determining whether the image taken as a 
+23
+whole lacks serious literary, artistic, political or scientific value in description or 
+24
+representation of the image, the fact that the defendant knew that the image depicts a minor 
+25
+under 16 years of age engaged in sexually explicit conduct, as defined in section 281, 
+26
+subsection 4, is a factor that may be considered in making that determination.
+27
+9.   This section does not apply to any noncommercial distribution or exhibition for 
+28
+purely educational purposes by any library, art gallery, museum, public school, private 
+29
+school or institution of learning, nor to any commercial distribution or exhibition by any 
+30
+art gallery or museum.
+31
+Sec. 5.  17-A MRSA §511-A, sub-§1, as enacted by PL 2015, c. 339, §1, is 
+32
+amended to read:
+33
+1.   A person is guilty of unauthorized dissemination of certain private images if the 
+34
+person, with the intent to harass, torment or threaten the depicted person or another person, 
+35
+intentionally or knowingly disseminates, displays or publishes a photograph, videotape, 
+36
+film or digital recording an image of another person in a state of nudity or engaged in a 
+37
+sexual act or engaged in sexual contact or creates or modifies an image to represent the 
+38
+depicted person in a state of nudity or engaged in a sexual act or engaged in sexual contact 
+39
+in a manner in which there is no public or newsworthy purpose when the person knows or 
+40
+should have known that the depicted person:
+41
+B.  Is identifiable from the image itself or information displayed in connection with the 
+42
+image; and
+43
+C.  Has not consented to the dissemination, display or publication of the private image.
+
+Page 8 - 132LR0110(01)
+1
+Sec. 6.  17-A MRSA §511-A, sub-§3, ¶D is enacted to read:
+2
+D.  "Image" has the same meaning as in section 281, subsection 1-D.
+3
+Sec. 7.  19-A MRSA §4102, sub-§1, ¶G, as enacted by PL 2021, c. 647, Pt. A, §3 
+4
+and affected by Pt. B, §65, is amended to read:
+5
+G.  Engaging in the unauthorized dissemination of certain private images as prohibited 
+6
+pursuant to Title 17‑A, section 511‑A; or
+7
+Sec. 8.  19-A MRSA §4102, sub-§1, ¶H, as enacted by PL 2021, c. 647, Pt. A, §3 
+8
+and affected by Pt. B, §65, is amended to read:
+9
+H.  Engaging in aggravated sex trafficking or sex trafficking as described in Title 17‑A, 
+10
+section 852 or 853, respectively.; or
+11
+Sec. 9.  19-A MRSA §4102, sub-§1, ¶I is enacted to read:
+12
+I.  Communicating to a person a threat to commit, or to cause to be committed, a crime 
+13
+of unauthorized dissemination of certain private images described in Title 17-A, 
+14
+section 511-A.
+15
+SUMMARY
+16
+This bill makes several changes in the Maine Criminal Code to protect children and 
+17
+adults from sexual abuse that is facilitated by technology, including modified images or 
+18
+videos of children or artificially created images of children. First, the bill defines the terms 
+19
+"child sexual abuse material," "identifiable child," "image," "obscene material" and 
+20
+"generative AI or machine learning" and amends the definition of "minor" for purposes of 
+21
+the Maine Revised Statutes, Title 17-A, chapter 12 to ban the possession and dissemination 
+22
+of child sexual abuse material.
+23
+The bill expands the crime of sexual exploitation of a minor by specifying that a person 
+24
+is guilty of sexual exploitation of a minor if knowing or intending that the conduct will be 
+25
+used to create an image and, for the purpose of arousing or gratifying the sexual desire of 
+26
+that person or another person, the person intentionally or knowingly employs, solicits, 
+27
+entices, persuades or uses an identifiable child to engage in sexually explicit conduct or 
+28
+create child sexual abuse material. The bill further expands the crime of sexual exploitation 
+29
+of a minor to include a person who intentionally or knowingly modifies or alters an image 
+30
+to depict child sexual abuse material and the identifiable child depicted is a minor. The bill 
+31
+also expands that crime to prohibit a person from intentionally or knowingly manufacturing 
+32
+or creating an image, including generative AI or machine learning, and the person knows 
+33
+or should know that the material depicts child sexual abuse material and is obscene 
+34
+material.
+35
+The bill amends the statute prohibiting possession of sexually explicit material to the 
+36
+crime of prohibiting possession of child sexual abuse material. A person is guilty of 
+37
+possession of child sexual abuse material if that person intentionally or knowingly 
+38
+transports, exhibits, purchases, possesses or accesses with intent to view any child sexual 
+39
+abuse material that the person knows or should know depicts, or has been modified to 
+40
+depict, an identifiable child. A person is also guilty of possession of child sexual abuse 
+41
+material if the person intentionally or knowingly transports, exhibits, purchases, possesses 
+42
+or accesses with intent to view any child sexual abuse material, including an image created 
+16
+17
+18
+19
+20
+21
+22
+
+Page 9 - 132LR0110(01)
+43
+using generative AI or machine learning, or material that the person knows or has reason 
+44
+to know depicts a child engaging in sexually explicit conduct and is obscene material.
+3
+The bill also expands the scope of the crime of dissemination of sexually explicit 
+4
+material to include images created using generative AI or machine learning.
+5
+The bill also expands the scope of the crime of unauthorized dissemination of certain 
+6
+private images in Title 17-A, section 511-A. A person is guilty of unauthorized 
+7
+dissemination of certain private images if the person, with the intent to harass, torment or 
+8
+threaten the depicted person or another person, intentionally or knowingly disseminates, 
+9
+displays or publishes an image of another person in a state of nudity or engaged in a sexual 
+10
+act or engaged in sexual contact or creates or modifies an image to represent the depicted 
+11
+person in a state of nudity or engaged in a sexual act or engaged in sexual contact in a 
+12
+manner in which there is no public or newsworthy purpose.
+13
+Finally, the bill expands the definition of "abuse" under the protection from abuse laws 
+14
+to allow a person to seek a protection order against another person who communicates to 
+15
+the person a threat to commit, or cause to be committed, a crime of unauthorized 
+16
+dissemination of certain private images.
+1
+2

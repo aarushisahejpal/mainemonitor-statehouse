@@ -1,0 +1,278 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1964
+S.P. 771
+In Senate, May 13, 2025
+An Act to Require the Development of a Standard Written 
+Disclosure for Sellers and Installers of Distributed Generation 
+Resources, to Make Changes to Other Standard Disclosures and to 
+Make Misrepresentation in the Sale of Electricity Products an 
+Unfair Trade Practice
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator BLACK of Franklin.
+Cosponsored by Representative: FOSTER of Dexter.
+
+Page 1 - 132LR1248(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  10 MRSA §1250-M is enacted to read:
+3
+§1250-M.  False representation in sale of electricity product
+4
+1.  Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings.
+6
+A. "Competitive electricity provider" has the same meaning as in Title 35-A, section 
+7
+3201, subsection 5. 
+8
+B. "Distributed generation resource" has the same meaning as in Title 35-A, section 
+9
+3481, subsection 5. 
+10
+C. "Electricity product" means a distributed generation resource, energy supply by a 
+11
+competitive electricity provider or a similar resource.  "Electricity product" does not 
+12
+include an electrical appliance, machinery or equipment or building efficiency services 
+13
+or products. 
+14
+D. "Electric utility" means a transmission and distribution utility as defined in Title 
+15
+35-A, section 102, subsection 20-B. 
+16
+2.  False representation in sale of electricity product.  A person may not falsely 
+17
+represent the person as a representative of, as an affiliate of or as being in any way affiliated 
+18
+with an electric utility or as a representative of, as an official of or acting in an official 
+19
+capacity on behalf of a governmental agency or program, unless expressly permitted by the 
+20
+electric utility or governmental agency or program, when selling, offering to sell, leasing, 
+21
+installing or entering into any other financial arrangement regarding an electricity product.
+22
+3.  Unfair trade practice.  A violation of this section constitutes a violation of the 
+23
+Maine Unfair Trade Practices Act.
+24
+Sec. 2.  35-A MRSA §3203, sub-§4, ¶G-1, as enacted by PL 2021, c. 108, §5 and 
+25
+reallocated by RR 2021, c. 2, Pt. A, §123, is amended to read:
+26
+G-1.  May not enter, or allow any of the provider's 3rd-party sales agents on the 
+27
+provider's behalf, to enter, into an agreement to provide service to a residential or small 
+28
+commercial consumer when that service is solicited using door-to-door sales without 
+29
+providing the consumer with a standard disclosure form, in a format prescribed by the 
+30
+commission by rule, that meets the requirements of this paragraph.  The standard 
+31
+disclosure form requirements include, but are not limited to, the following:
+32
+(1)  A type size that is no less than 14 points;
+33
+(2)  Contact information, including the telephone numbers for the competitive 
+34
+electricity provider, the commission and the Office of the Public Advocate;
+35
+(3)  A telephone number and publicly accessible website where the consumer may 
+36
+obtain information on the current standard-offer service rate and expiration date 
+37
+and the publicly accessible website for electricity supply information available 
+38
+through the Office of the Public Advocate;
+39
+(4)  Information regarding the consumer's right to rescind service as provided in 
+40
+paragraph C;
+
+Page 2 - 132LR1248(01)
+1
+(5)  The When applicable, the registration number of the 3rd-party sales agent 
+2
+issued by the commission pursuant to subsection 2 and any transient seller's license 
+3
+number issued by the Department of Professional and Financial Regulation 
+4
+pursuant to Title 32, chapter 128, subchapter 2; and
+5
+(6)  Any other information the commission determines is necessary; and
+6
+(7)  For a residential consumer, information regarding consumer protections under 
+7
+subsection 4-B; and
+8
+Sec. 3.  35-A MRSA §3209-A, sub-§5, ¶B, as enacted by PL 2021, c. 107, §2, is 
+9
+amended to read:
+10
+B.  Must provide to a residential customer such information as the commission may 
+11
+require by rule or order in a standard disclosure form before entering into an agreement 
+12
+with the residential customer to participate in a net energy billing arrangement based 
+13
+upon a shared financial interest in a distributed generation resource; a standard 
+14
+disclosure form, in a format prescribed by the commission by rule, which must include, 
+15
+but is not limited to, the following: 
+16
+(1)  The name and telephone number of the project sponsor or the project sponsor's 
+17
+representative;
+18
+(2)  The name and location of the project;
+19
+(3)  Information regarding billing by the project sponsor and information on how 
+20
+net energy billing works; and
+21
+(4)  Any other information the commission determines is necessary;
+22
+Sec. 4.  35-A MRSA §3209-A, sub-§5, as enacted by PL 2021, c. 107, §2, is 
+23
+amended by enacting at the end a new first blocked paragraph to read:
+24
+Notwithstanding any provision of this section to the contrary, rules adopted by the 
+25
+commission pursuant to this subsection are routine technical rules as defined in Title 5, 
+26
+chapter 375, subchapter 2-A.
+27
+Sec. 5.  35-A MRSA §3218 is enacted to read:
+28
+§3218.  Standard written disclosure for sale or installation of distributed generation 
+29
+resources
+30
+1.  Standard written disclosure.  A person who sells and installs distributed 
+31
+generation resources shall prior to a sale provide to the customer a completed standard 
+32
+written disclosure as prescribed by the Attorney General.  For the purposes of this section, 
+33
+"distributed generation resource" has the same meaning as in section 3209-A, subsection 
+34
+1, paragraph B.
+35
+2.  Disclosure requirements; rules.  The Attorney General shall adopt rules to carry 
+36
+out the purposes of this section.  The rules must include a standard written disclosure for 
+37
+the sale and installation of a distributed generation resource.  The standard written 
+38
+disclosure requirements include, but are not limited to, the following:
+39
+A. The name of the seller and contact information of the seller or a representative of 
+40
+the seller and the name of the facility; 
+
+Page 3 - 132LR1248(01)
+1
+B. A plain language summary of pertinent requirements and time frames regarding 
+2
+small interconnection procedures; 
+3
+C. A good faith cost summary or estimate of system interconnection costs for which 
+4
+the customer may be responsible; 
+5
+D. A statement of the rights and responsibilities of the seller, customer and transmission 
+6
+and distribution utility pertinent to the engagement or interconnection with the facilities 
+7
+of the transmission and distribution utility; 
+8
+E. A description of any dispute resolution mechanisms, including information relating 
+9
+to the interconnection ombudsman under section 3474, subsection 4, available to the 
+10
+seller, customer and transmission and distribution utility; 
+11
+F. Clearly described terms and conditions of any financial agreement associated with 
+12
+the sale, lease or installation of a distributed generation resource; 
+13
+G. Signature lines for the seller and customer attesting that the seller provided, and the 
+14
+customer received, the standard written disclosure prior to the sale of the distributed 
+15
+generation resource; 
+16
+H. A notice that the seller will notify the customer of when the project is operational 
+17
+and the customer's subscription or service is active; and
+18
+I. Any other information the Attorney General determines is necessary. 
+19
+Rules adopted pursuant to this subsection are routine technical rules under Title 5, chapter 
+20
+375, subchapter 2-A. 
+21
+3.  Violation.  A violation of this section is a violation of the Maine Unfair Trade 
+22
+Practices Act.
+23
+Sec. 6.  Public Utilities Commission; rules.  The Public Utilities Commission 
+24
+shall initiate rulemaking to implement the Maine Revised Statutes, Title 35-A, section 
+25
+3203, subsection 4, paragraph G-1 and Title 35-A, section 3209-A, subsection 5, paragraph 
+26
+B within 90 days of the effective date of this Act.
+27
+Sec. 7.  Attorney General; rules.  The Attorney General shall initiate rulemaking 
+28
+to implement the Maine Revised Statutes, Title 35-A, section 3218, subsection 2 within 90 
+29
+days of the effective date of this Act.
+30
+SUMMARY
+31
+This bill makes misrepresentation as a representative or affiliate of an electric utility or 
+32
+representative or official of a governmental agency or program when selling, offering to 
+33
+sell, leasing, installing or entering into any other financial arrangement regarding an 
+34
+electricity product a violation of the Maine Unfair Trade Practices Act.  
+35
+The bill changes the information that must be included in a standard disclosure form 
+36
+provided by competitive electricity providers to residential and small commercial 
+37
+consumers and requires the disclosure form to be in a format prescribed by the Public 
+38
+Utilities Commission by rule.  
+39
+The bill provides information that must be included in a standard disclosure form to be 
+40
+provided by project sponsors to net energy billing customers and requires the form to be in 
+41
+a format prescribed by the Public Utilities Commission by rule.  
+31
+32
+33
+34
+
+Page 4 - 132LR1248(01)
+1
+The bill requires the Attorney General to develop by rule a standard written disclosure 
+2
+to be provided to customers by persons who sell or install distributed generation resources 
+3
+and provides information that must be included in the standard written disclosure.

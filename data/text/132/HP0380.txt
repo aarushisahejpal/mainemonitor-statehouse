@@ -1,0 +1,183 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 612
+H.P. 380
+House of Representatives, February 25, 2025
+An Act to Require the Department of Health and Human Services to 
+Review Medicaid, Supplemental Nutrition Assistance Program and 
+Electronic Benefits Transfer Card Transactions and Lottery 
+Operations
+Received by the Clerk of the House on February 20, 2025.  Referred to the Committee on 
+Health and Human Services pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint 
+Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative HENDERSON of Rumford.
+Cosponsored by Senator MOORE of Washington and
+Representatives: ALBERT of Madawaska, CIMINO of Bridgton, COLLINS of Sidney, 
+COOPER of Windham, DAIGLE of Fort Kent, HAGGAN of Hampden, OLSEN of Raymond, 
+QUINT of Hodgdon.
+
+Page 1 - 132LR1722(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  22 MRSA §20-B is enacted to read:
+3
+§20-B.  Lottery winnings of benefits recipients
+4
+1. Department to enter data-matching agreement with Department of 
+5
+Administrative and Financial Services. Beginning January 1, 2026, the department shall 
+6
+enter into a data-matching agreement with the Department of Administrative and Financial 
+7
+Services to identify households with lottery winnings of $3,000 or more and, to the extent 
+8
+permissible under federal law, treat this data as verified upon receipt. To the extent the data 
+9
+is not verified upon receipt, the department shall make referrals for further investigation to 
+10
+identify households with winnings equal to or greater than the resource limit for elderly or 
+11
+disabled households as defined in 7 Code of Regulations, Section 273.8(b).
+12
+2. Cross-checking data for prize winners. The Department of Administrative and 
+13
+Financial Services may not distribute lottery winnings to any prize winner without first 
+14
+cross-checking data provided by the department to determine whether the prize winner is 
+15
+enrolled in Medicaid or has been enrolled in Medicaid in the previous 12 months or is a 
+16
+member of a household enrolled in the Supplemental Nutrition Assistance Program or has 
+17
+been a member of a household enrolled in the Supplemental Nutrition Assistance Program 
+18
+in the previous 12 months. If the Department of Administrative and Financial Services 
+19
+determines that:
+20
+A. A lottery prize winner is not enrolled in Medicaid and has not been enrolled in 
+21
+Medicaid in the previous 12 months and is not a member of a household enrolled in the 
+22
+Supplemental Nutrition Assistance Program and has not been a member of a household 
+23
+enrolled in the Supplemental Nutrition Assistance Program in the previous 12 months, 
+24
+the Department of Administrative and Financial Services shall proceed with its 
+25
+customary procedures for distributing lottery winnings under applicable law; and
+26
+B. A lottery prize winner is enrolled in Medicaid or has been enrolled in Medicaid in 
+27
+the previous 12 months or is a member of a household enrolled in the Supplemental 
+28
+Nutrition Assistance Program or has been a member of a household enrolled in the 
+29
+Supplemental Nutrition Assistance Program in the previous 12 months, the Department 
+30
+of Administrative and Financial Services shall:
+31
+(1) Notify the department and request an estimate of the State's expenditures in 
+32
+providing Medicaid benefits and Supplemental Nutrition Assistance Program 
+33
+benefits to the prize winner over the previous 5 years by calculating the 
+34
+department's per capita administrative costs, the duration of the prize winner's 
+35
+enrollment and specific charges incurred or provider payments made on behalf of 
+36
+the prize winner;
+37
+(2) Deduct from the lottery prize the amount relevant to the prize winner specified 
+38
+in subparagraph (1);
+39
+(3) Remit the deducted amount to the department as reimbursement; and
+40
+(4) Pay the prize winner the remaining lottery prize under applicable law, with 
+41
+notice to the prize winner of the deduction.
+42
+3. Exemptions. The provisions of this section do not apply to an individual who is:
+
+Page 2 - 132LR1722(01)
+1
+A. Medically certified as physically or mentally unfit for employment; or
+2
+B. A parent or caretaker personally providing the care for a dependent child with 
+3
+serious medical conditions or with a disability, as determined by the department.
+4
+4. Benefits programs and lottery materials. The department and the Department of 
+5
+Administrative and Financial Services shall modify all Medicaid, Supplemental Nutrition 
+6
+Assistance Program and lottery materials, including contracts, tickets, brochures, 
+7
+advertisements and eligibility notices, to provide sufficient notice of the deductions 
+8
+required under this section.
+9
+5. Rules.  The department and the Department of Administrative and Financial 
+10
+Services shall adopt rules to carry out the provisions of this section. Rules adopted pursuant 
+11
+to this subsection are routine technical rules as defined by Title 5, chapter 375, subchapter 
+12
+2-A.
+13
+Sec. 2.  22 MRSA §23, sub-§1-A is enacted to read:
+14
+1-A.  Out-of-state transactions.  The department shall monitor electronic benefits 
+15
+transfer system data and flag any exclusive out-of-state EBT card transactions by a 
+16
+recipient over a period of 90 days. Within 30 days of flagging a recipient's transactions, the 
+17
+department shall contact any recipient who makes solely out-of-state EBT card transactions 
+18
+over a period of 90 days to determine whether the recipient continues to reside in the State. 
+19
+If the department determines that the recipient no longer resides in the State or the recipient 
+20
+does not respond to the department contact under this subsection within 30 days of contact, 
+21
+the department shall terminate any benefits received by the recipient under this subchapter. 
+22
+Within 15 days of termination, the department shall provide the information on the recipient 
+23
+to the United States Department of Agriculture office for the district in which the recipient 
+24
+resided prior to moving from the State.
+25
+SUMMARY
+26
+This bill requires the Department of Health and Human Services to cross-check data of 
+27
+lottery winners with recipients of Medicaid benefits or the Supplemental Nutrition 
+28
+Assistance Program and to deduct from the winnings the past 5 years of benefits received 
+29
+by the prize winner and administrative costs. The bill also requires the department to 
+30
+monitor out-of-state electronic benefits transfer, or EBT, system transactions and terminate 
+31
+the benefits of any recipient who makes solely out-of-state EBT card transactions over a 
+32
+90-day period and is determined to no longer reside in the State or does not respond to 
+33
+department contact.
+26
+27
+28
+29
+30
+31
+32
+33

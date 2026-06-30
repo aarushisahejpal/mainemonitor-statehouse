@@ -1,0 +1,156 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST REGULAR SESSION-2025
+Legislative Document
+No. 799
+H.P. 506
+House of Representatives, March 4, 2025
+An Act to Report Gender Wage Gaps
+Received by the Clerk of the House on February 27, 2025.  Referred to the Committee on 
+Labor pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.
+ROBERT B. HUNT
+Clerk
+Presented by Representative ROEDER of Bangor.
+Cosponsored by Representatives: GEIGER of Rockland, MACIAS of Topsham, STOVER of 
+Boothbay, Senator: TIPPING of Penobscot.
+
+Page 1 - 132LR1179(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  26 MRSA §628-B is enacted to read:
+3
+§628-B.  Report gender wage gaps
+4
+1. Definitions.  As used in this section, unless the context otherwise indicates, the 
+5
+following terms have the following meanings.
+6
+A. "Covered employer" means an employer that employs at least one employee within 
+7
+the State and at least 250 employees within the United States at any time within the 
+8
+reporting period.
+9
+B. "Employee" means a person who may be permitted, required or directed by an 
+10
+employer in consideration of direct or indirect gain or profit, to engage in employment.
+11
+C. "Employer" has the same meaning as in section 1043, subsection 9.
+12
+D. "Hourly equivalent rate of pay" means the rate of pay calculated by dividing the 
+13
+total amount of wages earned by an employee in a snapshot week by the number of 
+14
+hours worked in that week by the employee.  For a salaried employee without recorded 
+15
+hours, "hourly equivalent rate of pay" means the rate of pay calculated by dividing the 
+16
+total amount of the salaried employee's wages in a week by 40.
+17
+E. "Nonbinary" means a gender identity that falls outside the male-female gender 
+18
+binary.
+19
+F. "Reporting period" means the time period between October 1st and December 31st.
+20
+G. "Snapshot week" means any consecutive 7-day time period during the reporting 
+21
+period chosen by a covered employer.
+22
+2. Collection of data.  Beginning in 2025, and annually thereafter, a covered employer 
+23
+shall designate a snapshot week during which the covered employer shall collect the data 
+24
+under subsection 3 of all the employees of the covered employer. The gender of an 
+25
+employee is based on self-identification by the employee.  An employer may submit the 
+26
+gender of an employee based upon an existing record if the employee's gender in the record 
+27
+is based upon self-identification by the employee.  Prior to submitting the data to the bureau 
+28
+pursuant to subsection 3, the employer shall allow an employee the opportunity to review 
+29
+the submission and make any correction to an error in the employee's data.
+30
+3. Reporting of data.  Beginning June 1, 2026, and annually thereafter, a covered 
+31
+employer shall submit to the bureau a report based upon data collected in the most recent 
+32
+snapshot week pursuant to subsection 2, including:
+33
+A. The number of male employees;
+34
+B. The median hourly equivalent rates of pay of all male employees;
+35
+C. The number of female employees;
+36
+D. The median hourly equivalent rates of pay of all female employees;
+37
+E. The number of nonbinary employees;
+38
+F. The median hourly equivalent rates of pay of all nonbinary employees; and
+39
+G. The gender wage gap calculated by the percentage derived by dividing paragraph B 
+40
+by paragraph D. 
+
+Page 2 - 132LR1179(01)
+1
+The median hourly equivalent rates of pay in paragraphs B, D and F may be reported only 
+2
+if the number of employees reported on is equal to or greater than 100 for each paragraph. 
+3
+A covered employer may not report personally identifiable information to the bureau 
+4
+pursuant to this subsection.
+5
+4. Publication. No later than September 1, 2026 and each year thereafter, the bureau 
+6
+shall publish on its publicly accessible website the reports received by every covered 
+7
+employer. A published report must include the employer's name. The bureau shall publish 
+8
+on its publicly accessible website and forward to the joint standing committees of the 
+9
+Legislature having jurisdiction over labor and human rights matters a summary of the data 
+10
+received under subsection 3 and the bureau's findings derived from the data.
+11
+5. Record retention. A covered employer shall retain the data required to be collected 
+12
+under subsections 2 and 3 for at least one year after the submission of the report containing 
+13
+that data.
+14
+6. Penalties. A covered employer that violates this section is subject to a civil penalty 
+15
+not to exceed $1,000.
+16
+7. Rules. The bureau may adopt routine technical rules under Title 5, chapter 375, 
+17
+subchapter 2-A to carry out the purposes of this section.
+18
+SUMMARY
+19
+This bill requires employers with at least one employee within the State and at least 
+20
+250 employees in the United States to annually report for a one-week period between 
+21
+October 1st and December 31st of the preceding year the number of male, female and 
+22
+nonbinary employees in the employer's employ, the median hourly equivalent rates of pay 
+23
+of all male, female and nonbinary employees in the employer's employ and the gender wage 
+24
+gap calculated by dividing the median hourly equivalent rate of pay of all the male 
+25
+employees by the median hourly equivalent rate of pay of all the female employees.
+19
+20
+21
+22
+23
+24
+25

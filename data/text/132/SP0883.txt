@@ -1,0 +1,1177 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+SECOND REGULAR SESSION-2026
+Legislative Document
+No. 2178
+S.P. 883
+In Senate, January 27, 2026
+An Act to Establish the Independent Office of Tax Appeals and 
+Make Other Changes to the Laws Governing the Tax Appeals 
+Process
+Submitted by the Department of Administrative and Financial Services pursuant to Joint 
+Rule 203.
+Reference to the Committee on Taxation suggested and ordered printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator GROHOSKI of Hancock.
+
+Page 1 - 132LR2674(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+PART A
+3
+Sec. A-1.  36 MRSA §151-C, sub-§2, ¶C, as amended by PL 2025, c. 486, Pt. A, 
+4
+§1, is further amended to read:
+5
+C.  Propose to the assessor and the bureau's division directors any recommended 
+6
+changes in the administrative practices of the bureau to mitigate problems identified or 
+7
+arising under paragraphs A and B; and
+8
+Sec. A-2.  36 MRSA §151-C, sub-§2, ¶D, as amended by PL 2025, c. 486, Pt. A, 
+9
+§1, is further amended to read:
+10
+D.  Identify legislative changes that may be appropriate to mitigate problems identified 
+11
+or arising under paragraphs A and B and report recommendations in the annual report 
+12
+required under subsection 3.; and
+13
+Sec. A-3.  36 MRSA §151-C, sub-§2, ¶E is enacted to read:
+14
+E.  Identify administrative or legislative changes that would further improve the tax 
+15
+dispute resolution and administrative tax appeals processes under sections 151, 151-E, 
+16
+271 and 844.
+17
+PART B
+18
+Sec. B-1.  4 MRSA §807, sub-§3, ¶R, as amended by PL 2019, c. 449, §1, is further 
+19
+amended to read:
+20
+R.  A person who is not an attorney but who is a public accountant, an enrolled agent, 
+21
+an enrolled actuary or any other person permitted to represent the taxpayer under Title 
+22
+36, section 151‑A, subsection 2 and is representing a party in any hearing, action or 
+23
+proceeding before the Maine Board Independent Office of Tax Appeals in accordance 
+24
+with Title 36, section 151‑D 151-E;
+25
+Sec. B-2.  5 MRSA §12004-B, sub-§10, as enacted by PL 2011, c. 694, §1, is 
+26
+repealed.
+27
+Sec. B-3.  36 MRSA §111, sub-§1-C, as amended by PL 2013, c. 331, Pt. C, §1 
+28
+and affected by §41, is repealed.
+29
+Sec. B-4.  36 MRSA §111, sub-§1-H is enacted to read:
+30
+1-H.  Office.  For purposes of this chapter, "office" means the Independent Office of 
+31
+Tax Appeals as established in section 151-E.
+32
+Sec. B-5.  36 MRSA §112, sub-§7-A, as amended by PL 2013, c. 331, Pt. C, §2 
+33
+and affected by §41, is further amended to read:
+34
+7-A.  Taxpayer Bill of Rights.  The assessor shall prepare a statement describing in 
+35
+simple and nontechnical terms the rights of a taxpayer and the obligations of the bureau 
+36
+during an audit.  The statement must also explain the procedures by which a taxpayer may 
+37
+appeal any adverse decision of the assessor, including reconsideration under section 151, 
+38
+appeals to the Maine Board of Tax Appeals office and judicial appeals.  This statement 
+39
+must be distributed by the bureau to any taxpayer contacted with respect to the 
+40
+determination or collection of any tax, excluding the normal mailing of tax forms.  This 
+
+Page 2 - 132LR2674(01)
+41
+paragraph does not apply to criminal tax investigations conducted by the assessor or by the 
+42
+Attorney General.
+3
+Sec. B-6.  36 MRSA §151, as amended by PL 2023, c. 360, Pt. B, §1 and c. 412, Pt. 
+4
+M, §§1 and 2, is further amended to read:
+5
+§151.  Review of decisions of State Tax Assessor
+6
+1.  Petition for reconsideration.  A person who is subject to an assessment by the 
+7
+State Tax Assessor or entitled by law to receive notice of a determination of the assessor 
+8
+and who is aggrieved as a result because of that action may request in writing, within 60 
+9
+days after receipt of notice of the assessment or the determination, reconsideration by the 
+10
+assessor of the assessment or the determination.  If a person receives notice of an 
+11
+assessment or a determination and does not file a petition for reconsideration within the 
+12
+specified time period, a review is not available in Superior Court or before the board office 
+13
+regardless of whether the taxpayer subsequently makes payment and requests a refund.
+14
+2.  Reconsideration by division.  If a petition for reconsideration is filed within the 
+15
+specified time period, the assessor shall reconsider the assessment or the determination as 
+16
+provided in this subsection.
+17
+A.  Upon receipt by the assessor, all petitions for reconsideration must be forwarded 
+18
+for review and response to the division in the bureau from which the determination or 
+19
+assessment issued.
+20
+B.  Within 90 days of receipt of the petition for reconsideration by the responding 
+21
+division, the division shall approve or deny, in whole or in part, the relief requested.  
+22
+Prior to rendering its decision and during the 90 days, the division may attempt to 
+23
+resolve issues with the petitioner through informal discussion and settlement 
+24
+negotiations with the objective of narrowing the issues for an appeals conference or 
+25
+court review, and may concede or settle individual issues based on the facts and the 
+26
+law, including the hazards of litigation.  By mutual consent of the division and the 
+27
+petitioner, the 90 days may be extended for good cause, such as to allow further factual 
+28
+investigation or litigation of an issue by that or another taxpayer pending in court.
+29
+C.  If the matter between the division and the petitioner is not resolved within the 90-
+30
+day period, and any extension thereof, the petitioner may consider the petition for 
+31
+reconsideration denied.  The petitioner may not consider the petition for 
+32
+reconsideration denied after either the reconsidered decision has been received by the 
+33
+petitioner or the expiration of 9 years following the filing of the petition for 
+34
+reconsideration, whichever occurs first.  A petition for reconsideration considered 
+35
+denied pursuant to this paragraph constitutes final agency action.  A petitioner elects 
+36
+to consider the petition for reconsideration denied pursuant to this paragraph by:
+37
+(1)  For a small claim request, filing a petition for review in Superior Court.  For 
+38
+purposes of this subparagraph, "small claim request" has the same meaning as in 
+39
+paragraph E; or
+40
+(2)  For all other requests:
+41
+(a)  Filing a statement of appeal with the board office when the amount of tax 
+42
+or refund request in controversy is $500,000 or less; or
+43
+(b)  Filing a petition for review in Superior Court.
+1
+2
+
+Page 3 - 132LR2674(01)
+1
+D.  A reconsideration by the division is not an adjudicatory proceeding within the 
+2
+meaning of that term in the Maine Administrative Procedure Act.
+3
+E.  A reconsidered decision rendered on any request other than a small claim request 
+4
+constitutes the assessor's final determination, subject to review either by the board 
+5
+office or directly by the Superior Court, except that the board office may review a 
+6
+reconsidered decision rendered on any request other than a small claim request if the 
+7
+amount of tax or refund request in controversy is $500,000 or less.  A reconsidered 
+8
+decision rendered on a small claim request constitutes the assessor's final determination 
+9
+and final agency action and is subject to de novo review by the Superior Court.  For 
+10
+purposes of this paragraph, "small claim request" means a petition for reconsideration 
+11
+when the amount of tax or refund request in controversy is less than $1,000 $500.
+12
+F.  A person who wishes to appeal a reconsidered decision under this section:
+13
+(1)  To the board office must file a written statement of appeal with the board office 
+14
+within 60 days after receipt of the reconsidered decision; or
+15
+(2)  Directly to the Superior Court must file a petition for review in the Superior 
+16
+Court within 60 days after receipt of the reconsidered decision.
+17
+If a person does not file a request for review with the board office or the Superior Court 
+18
+within the time period specified in this paragraph, the reconsidered decision becomes 
+19
+final and no further review is available.
+20
+G.  Upon receipt of a statement of appeal or petition for review filed by a person 
+21
+pursuant to paragraph F, the board office or Superior Court shall conduct a de novo 
+22
+hearing and make a de novo determination of the merits of the case.  The board office 
+23
+or Superior Court shall enter those orders and decrees as the case may require.  The 
+24
+burden of proof is on the person, except as otherwise provided by law.
+25
+Sec. B-7.  36 MRSA §151-A, sub-§2, as amended by PL 2013, c. 331, Pt. C, §4 
+26
+and affected by §41, is further amended to read:
+27
+2.  Representative of taxpayer.  The taxpayer may bring to any interview with the 
+28
+State Tax Assessor or to any proceeding pursuant to section 151‑D 151-E any attorney, 
+29
+certified public accountant, enrolled agent, enrolled actuary or any other person permitted 
+30
+to represent the taxpayer.  If the taxpayer does not bring anyone to the interview or 
+31
+proceeding but clearly states at any time during the interview or proceeding that the 
+32
+taxpayer wishes to consult with an attorney, certified public accountant, enrolled agent, 
+33
+enrolled actuary or any other person permitted to represent the taxpayer, the State Tax 
+34
+Assessor shall suspend the interview or the board office shall suspend the proceeding.  The 
+35
+suspension must occur even if the taxpayer has answered one or more questions before that 
+36
+point in the interview or proceeding.  The interview must be rescheduled to be held within 
+37
+10 working days.
+38
+Sec. B-8.  36 MRSA §151-D, as amended by PL 2013, c. 331, Pt. B, §§1 and 2, is 
+39
+repealed.
+40
+Sec. B-9.  36 MRSA §151-E is enacted to read:
+41
+§151-E.  Independent Office of Tax Appeals
+42
+1.  Office established; purpose.  There is established within the Department of 
+43
+Administrative and Financial Services the Independent Office of Tax Appeals to hear and 
+
+Page 4 - 132LR2674(01)
+44
+decide appeals from decisions of the State Tax Assessor as provided by this section. The 
+45
+office is independent of and is not subject to the supervision or control of the State Tax 
+46
+Assessor or any other employee of the bureau. The purpose of the office is to provide 
+47
+taxpayers with a fair, low-cost and easily accessible forum for resolving tax disputes with 
+48
+the bureau, to ensure due process and to provide an alternative to appealing a reconsidered 
+49
+decision of the assessor directly to the Superior Court pursuant to section 151, subsection 
+50
+2, paragraph F, subparagraph (2).
+8
+2.  Composition of office; appointment; office location.  The office is composed of 
+9
+the Chief Hearing Officer, appointed by and serving at the pleasure of the Commissioner 
+10
+of Administrative and Financial Services; hearing officers; and an administrative staff 
+11
+person hired by the commissioner or the Chief Hearing Officer. The hearing officers may 
+12
+be referred to as either "appeals officer" or "hearing officer."  The Chief Hearing Officer is 
+13
+an unclassified employee at salary range 33.  Other staff of the office are hired as classified 
+14
+employees subject to the Civil Service Law.
+15
+The office shall establish and maintain office space in the City of Augusta. The office may 
+16
+meet and conduct appeals conferences and hearings under subsection 8 at any place within 
+17
+the State and remotely pursuant to rules adopted pursuant to subsection 10.
+18
+3.  Qualifications.  The Chief Hearing Officer and hearing officers must be residents 
+19
+of this State and members of the bar of this State with substantial knowledge of tax law. 
+20
+The Chief Hearing Officer and hearing officers may not hold any elective office or any 
+21
+public office involving assessment of taxes or administration of any of the tax laws of this 
+22
+State. 
+23
+4.  Powers and duties.  The office has all powers as are necessary to carry out its 
+24
+duties, including the following:
+25
+A.  To hear and determine appeals in accordance with this section;
+26
+B.  To raise or lower assessments to conform to the law;
+27
+C.  To adopt rules in accordance with the Maine Administrative Procedure Act 
+28
+governing procedures before the office pursuant to subsection 10;
+29
+D.  To administer oaths, take testimony, hold hearings, summon witnesses and 
+30
+subpoena records, files and documents the office considers necessary for carrying out 
+31
+its responsibilities; and
+32
+E.  To charge a fee for filing a petition with the office for an appeal. 
+33
+The Commissioner of Administrative and Financial Services may assign other duties to the 
+34
+hearing officers consistent with this subsection, including assisting the State Board of 
+35
+Property Tax Review.
+36
+5. Chief Hearing Officer; duties.  Under the supervision and direction of the 
+37
+Commissioner of Administrative and Financial Services, the Chief Hearing Officer shall 
+38
+manage the work of the office, including:
+39
+A.  Ensuring that the office provides taxpayers with a low-cost and easily accessible 
+40
+forum for resolving tax disputes with the bureau filed with the office under section 151, 
+41
+including the use of mediation when appropriate, and ensuring due process; 
+1
+2
+3
+4
+5
+6
+7
+
+Page 5 - 132LR2674(01)
+1
+B.  Assigning a hearing officer to preside over an appeal forwarded to the office under 
+2
+section 151;
+3
+C.  Developing, adopting and implementing rules, policies and procedures to carry out 
+4
+the provisions of this section and section 151 and to comply with all applicable laws;
+5
+D.  Ensuring proper records of all matters, hearings and transactions of the office;
+6
+E.  Assigning duties to the office's administrative staff person to provide administrative 
+7
+staff assistance to the State Board of Property Tax Review consistent with the appeals 
+8
+workload of the office and as requested by that board under section 271, subsection 4; 
+9
+and
+10
+F.  Ensuring that assignment of duties to hearing officers comports with conflicts of 
+11
+interest standards and other ethics standards.
+12
+6. Procedures for filing petitions for appeal.  An appeal to the office pursuant to 
+13
+section 151 must be commenced by filing a petition for appeal with the office and paying 
+14
+the appropriate filing fee if required.  Upon receipt, a copy of the petition must be provided 
+15
+to the State Tax Assessor and to the Office of the Attorney General.
+16
+Filing a petition for appeal with the office may be accomplished by delivery of the petition 
+17
+to the office by mail addressed to the office. All papers to be filed that are transmitted by 
+18
+the United States Postal Service are deemed filed on the day the papers are deposited in the 
+19
+mail as provided in section 153. The office shall place a petition for appeal that is filed 
+20
+without payment of a required filing fee on the docket and shall notify the petitioner that 
+21
+the appeal will not be processed further without payment. 
+22
+7. Case scheduling conference.  A hearing officer shall set a date and time for a 
+23
+scheduling conference to identify the issues in dispute, set a date for filing of briefs and 
+24
+supporting materials, set a date for the appeals conference if one is requested and facilitate 
+25
+the parties' efforts to narrow or resolve all or part of the appeal through settlement or 
+26
+stipulation.  An appeal with an amount of tax or refund request in controversy of $50,000 
+27
+or less must be heard and determined by the office on a priority basis over its other docketed 
+28
+cases.
+29
+8. Hearing and determination of cases.  Cases must be heard and determined by the 
+30
+office as follows.
+31
+A.  The assigned hearing officer shall preside over the case. The hearing officer has the 
+32
+authority to administer oaths, take testimony, summon witnesses and subpoena records, 
+33
+files and documents the hearing officer considers necessary for carrying out the 
+34
+responsibilities of the office.
+35
+B.  If requested by a petitioner in the statement of appeal or at the scheduling 
+36
+conference, the office shall hold an appeals conference to receive additional 
+37
+information and to hear arguments regarding the assessment or determination.  The 
+38
+hearing officer shall provide the petitioner with at least 10 business days' notice of the 
+39
+date, time and place of the appeals conference. The appeals conference may be held 
+40
+with fewer than 10 business days' notice if a mutually convenient date, time and place 
+41
+can be arranged. If the petitioner does not request an appeals hearing in the statement 
+42
+of appeal or at the scheduling conference, the appeals officer shall determine the matter 
+43
+based on written submissions by the petitioner and the State Tax Assessor. 
+
+Page 6 - 132LR2674(01)
+1
+C.  The hearing officer need not observe the rules of evidence observed by courts but 
+2
+shall observe the rules of privilege recognized by law.
+3
+D.  Both a petitioner and the State Tax Assessor may submit to the hearing officer, 
+4
+whether or not an appeals conference has been requested pursuant to paragraph B, 
+5
+written testimony in the form of an affidavit, documentary evidence and written legal 
+6
+argument and written factual argument.
+7
+E.  The hearing officer may encourage the petitioner and the State Tax Assessor to 
+8
+resolve disputed issues.
+9
+F.  Except when otherwise provided by law, a petitioner has the burden of proving, by 
+10
+a preponderance of the evidence, that the State Tax Assessor has erred in applying or 
+11
+interpreting the relevant law.
+12
+The appeals officer shall exercise independent judgment. The hearing officers and 
+13
+other office staff may not have any ex parte communications with the parties, or with 
+14
+any other employee of the Department of Administrative and Financial Services except 
+15
+those employees in the office; however, the hearing officers and other administrative 
+16
+staff persons may have ex parte communication limited to questions that involve 
+17
+ministerial or other administrative matters that do not address the substance of the 
+18
+issues or position taken by the petitioner or the State Tax Assessor.
+19
+G.  The hearing officer shall prepare a decision on the appeal based upon the evidence 
+20
+and argument presented. The decision must be in written form and must state findings 
+21
+of fact and conclusions of law. The office shall issue and deliver copies of the decision 
+22
+to the parties.  Unless the decision is revised by the office under rules adopted by the 
+23
+office pursuant to subsection 10, the decision is final and is subject to appeal under 
+24
+subsection 9.  A revised decision is final, is not subject to further revision by the office 
+25
+and is subject to appeal under subsection 9.
+26
+9.  Appeal to Superior Court.  A determination by the office is not an adjudicatory 
+27
+proceeding within the meaning of that term in the Maine Administrative Procedure Act. A 
+28
+decision of the office constitutes the final administrative decision on the appeal and is 
+29
+subject to de novo review by the Superior Court. The burden of proof is on the taxpayer.  
+30
+A person who wishes to appeal a final decision of the office to the Superior Court must file 
+31
+a petition for review within 60 days after receipt of the decision. If a person does not file a 
+32
+request for review with the Superior Court within the period specified in this subsection, 
+33
+no further review is available.
+34
+10. Rules.  Subject to any applicable requirements of the Maine Administrative 
+35
+Procedure Act, the office shall adopt rules to accomplish the purposes of this section. Those 
+36
+rules may define terms, prescribe forms and make suitable orders of procedure to ensure 
+37
+the speedy, efficient, just and inexpensive disposition of all proceedings under this section. 
+38
+Rules adopted pursuant to this subsection are routine technical rules pursuant to Title 5, 
+39
+chapter 375, subchapter 2-A.
+40
+11. Annual report.  By January 15, 2027 and annually thereafter, the office shall 
+41
+prepare and submit a report on the activities of the office to the Commissioner of 
+42
+Administrative and Financial Services and the joint standing committee of the Legislature 
+43
+having jurisdiction over taxation matters.
+
+Page 7 - 132LR2674(01)
+1
+Sec. B-10.  36 MRSA §191, sub-§2, ¶C, as amended by PL 2023, c. 360, Pt. A, 
+2
+§1, is further amended to read:
+3
+C.  The inspection by the Attorney General of information filed by any taxpayer who 
+4
+has requested review of any tax under this Title or against whom an action or 
+5
+proceeding for collection of tax has been instituted; or the production in court or to the 
+6
+board office or the State Board of Property Tax Review as established by Title 5, 
+7
+section 12004‑B, subsection 6 on behalf of the State Tax Assessor, or any other party 
+8
+to an action or proceeding under this Title, of so much and no more of the information 
+9
+as is pertinent to the action or proceeding;
+10
+Sec. B-11.  36 MRSA §191, sub-§2, ¶XX, as amended by PL 2023, c. 360, Pt. A, 
+11
+§2, is further amended to read:
+12
+XX.  The disclosure of information by the assessor to the board office or the State 
+13
+Board of Property Tax Review as established by Title 5, section 12004‑B, subsection 
+14
+6, except that such disclosure is limited to information that is pertinent to an appeal or 
+15
+other action or proceeding before the board office or the State Board of Property Tax 
+16
+Review;
+17
+Sec. B-12.  36 MRSA §191, sub-§2, ¶YY, as amended by PL 2023, c. 360, Pt. A, 
+18
+§3, is further amended to read:
+19
+YY.  The inspection and disclosure of information by the board office, or by the State 
+20
+Board of Property Tax Review as established by Title 5, section 12004‑B, subsection 
+21
+6, to the extent necessary to conduct appeals procedures pursuant to this Title and issue 
+22
+a decision on an appeal to the parties.  The board office and the State Board of Property 
+23
+Tax Review may make available to the public redacted decisions that do not disclose 
+24
+the identity of a taxpayer or any information made confidential by state or federal 
+25
+statute;
+26
+Sec. B-13.  Cost administration. The Commissioner of Administrative and 
+27
+Financial Services, the State Tax Assessor and the Chief Hearing Officer of the 
+28
+Independent Office of Tax Appeals shall manage the implementation of this Part to ensure 
+29
+that this Part is implemented within existing resources.
+30
+Sec. B-14.  Creation of Independent Office of Tax Appeals; elimination of 
+31
+Maine Board of Tax Appeals; transition provisions. The following provisions 
+32
+govern the elimination of the Department of Administrative and Financial Services, Maine 
+33
+Board of Tax Appeals established in the Maine Revised Statutes, Title 5, section 12004-B, 
+34
+subsection 10 and the creation of the Department of Administrative and Financial Services, 
+35
+Independent Office of Tax Appeals established under Title 36, section 151-E.
+36
+1. On September 15, 2026, the Maine Board of Tax Appeals is eliminated and the 
+37
+Independent Office of Tax Appeals is established.
+38
+2. The Commissioner of Administrative and Financial Services shall appoint the Chief 
+39
+Hearing Officer under Title 36, section 151-E no later than September 15, 2026.
+40
+3. Three authorized positions and any incumbent personnel in the appeals office of the 
+41
+Maine Board of Tax Appeals are transferred to the Independent Office of Tax Appeals. 
+42
+These employees retain all the employee rights, privileges and benefits, including sick 
+
+Page 8 - 132LR2674(01)
+43
+leave, vacation leave and seniority, provided under the Civil Service Law, collective 
+44
+bargaining agreements and current state personnel policies.
+3
+4. All funds, property and equipment previously belonging to or allocated for the use 
+4
+of the Maine Board of Tax Appeals become the property of the Independent Office of Tax 
+5
+Appeals.
+6
+5. All cases pending with the Maine Board of Tax Appeals as of September 15, 2026 
+7
+are transferred to the Independent Office of Tax Appeals for review of jurisdiction. Cases 
+8
+that were within the jurisdiction of the Maine Board of Tax Appeals when filed are deemed 
+9
+within the jurisdiction of the Independent Office of Tax Appeals and ready for scheduling 
+10
+and determination.
+11
+Sec. B-15.  Effective date. This Part takes effect September 15, 2026.
+12
+PART C
+13
+Sec. C-1.  5 MRSA §282, sub-§6, as amended by PL 2001, c. 333, §1, is further 
+14
+amended to read:
+15
+6.  Supervise.  To supervise and direct the administration of the State Claims 
+16
+Commission, State Board of Property Tax Review and Independent Office of Tax Appeals;
+17
+Sec. C-2.  36 MRSA §271, sub-§1, as amended by PL 2017, c. 367, §1, is repealed 
+18
+and the following enacted in its place:
+19
+1.  Organization; membership.  The organization of the State Board of Property Tax 
+20
+Review, as established by Title 5, section 12004‑B, subsection 6 and referred to in this 
+21
+section as "the board," is governed by this subsection.
+22
+A.  The board consists of at least 9 members but no more than 15 members, as 
+23
+determined by the Governor, appointed by the Governor for terms of 3 years. The 
+24
+membership must consist of a combination of attorneys, real estate brokers or 
+25
+appraisers, engineers, assessors who have a current certificate of eligibility from the 
+26
+State Tax Assessor under section 311, except assessors employed by the bureau, and 
+27
+public members with expertise in taxation, finance or property valuation matters.
+28
+B.  The board shall annually elect a chair and secretary. The secretary need not be 
+29
+chosen from the members of the board.
+30
+C.  The chair shall annually appoint from the other members of the board a vice-chair.  
+31
+The vice-chair may act in the capacity of the chair in the event of the recusal or other 
+32
+unavailability of the chair and after notice to the secretary.
+33
+Sec. C-3.  36 MRSA §271, sub-§2, ¶A, as amended by PL 2025, c. 469, §6 and 
+34
+affected by §44, is further amended by amending subparagraph (7) to read:
+35
+(7)  The current use valuation of certain working waterfront land law, chapter 105, 
+36
+subchapter 10‑A; and
+37
+Sec. C-4.  36 MRSA §271, sub-§2, ¶A, as amended by PL 2025, c. 469, §6 and 
+38
+affected by §44, is further amended by amending subparagraph (8) to read:
+39
+(8)  Section 209; and
+1
+2
+
+Page 9 - 132LR2674(01)
+1
+Sec. C-5.  36 MRSA §271, sub-§2, ¶A, as amended by PL 2025, c. 469, §6 and 
+2
+affected by §44, is further amended by enacting a new subparagraph (9) to read:
+3
+(9)  As provided in section 6251, subsection 6;
+4
+Sec. C-6.  36 MRSA §271, sub-§5, as amended by PL 1995, c. 262, §1, is repealed 
+5
+and the following enacted in its place:
+6
+5.  Hearings on appeals; jurisdictional issues.  Upon receipt of an appeal, including 
+7
+an appeal of determination of jurisdictional authority of the board, the chair of the board 
+8
+shall convene a panel consisting of 3 board members to hear the appeal and shall notify all 
+9
+parties of the time and place of the hearing. In determining which members to select for the 
+10
+panel, the chair shall consider the members' area of expertise.  Two of the 3 members 
+11
+constitute a quorum.  The board shall adopt rules, consistent with this section, specifying 
+12
+the timing and manner of board procedures, including scheduling conferences, motions to 
+13
+dismiss on the grounds of lack of jurisdiction, mediation and hearings.
+14
+Sec. C-7.  36 MRSA §271, sub-§10, ¶B, as enacted by PL 2009, c. 571, Pt. WWW, 
+15
+§7, is amended to read:
+16
+B.  The filing fee for a petition for an appeal relating to nonresidential property or 
+17
+properties with an equalized municipal valuation of $1,000,000 or greater pursuant to 
+18
+sections 273, 843 and 844 is $150.
+19
+Sec. C-8.  36 MRSA §273, as amended by PL 1995, c. 262, §2, is further amended 
+20
+to read:
+21
+§273.  Nonresidential Appeals related to nonresidential property of $1,000,000 or 
+22
+greater or properties
+23
+With regard to appeals relating to nonresidential property or properties with an 
+24
+equalized municipal valuation of $1,000,000 or greater either separately or in the aggregate, 
+25
+as provided in sections 843 and 844, the state board State Board of Property Tax Review 
+26
+shall hold a hearing de novo.  For the purposes of this section, "nonresidential property" 
+27
+means property that is used primarily for commercial, industrial or business purposes, 
+28
+excluding unimproved land that is not associated with a commercial, industrial or business 
+29
+use.
+30
+Sec. C-9.  36 MRSA §844, sub-§1, as amended by PL 2025, c. 342, §1 and affected 
+31
+by §3, is further amended to read:
+32
+1.  Municipalities without board of assessment review.  Except when the 
+33
+municipality or primary assessing area has adopted a board of assessment review, if the 
+34
+assessors or the municipal officers refuse to make the abatement asked for, the applicant 
+35
+may apply to the county commissioners within 60 days after notice of the decisions from 
+36
+which the appeal is being taken or within 60 days after the application is deemed to have 
+37
+been denied.  The applicant may not apply to the county commissioners to appeal a decision 
+38
+of the assessors or the municipal officers with respect to nonresidential property or 
+39
+properties having an equalized municipal valuation of $1,000,000 $500,000 or greater, 
+40
+either separately or in the aggregate.  The applicant must make such an appeal to the State 
+41
+Board of Property Tax Review pursuant to subsection 2.  If the commissioners think that 
+42
+the applicant is over-assessed, the applicant is granted such reasonable abatement as the 
+43
+commissioners think proper.  If the applicant has paid the tax, the applicant is reimbursed 
+
+Page 10 - 132LR2674(01)
+44
+out of the municipal treasury, with costs in either case.  If the applicant fails, the 
+45
+commissioners shall allow costs to the municipality, taxed as in a civil action in the 
+46
+Superior Court, and issue their warrant of distress against the applicant for collection of the 
+47
+amount due the municipality.  The commissioners may require the assessors or municipal 
+48
+clerk to produce the valuation by which the assessment was made or a copy of it.  Either 
+49
+party may appeal from the decision of the county commissioners to the Superior Court, in 
+50
+accordance with the Maine Rules of Civil Procedure, Rule 80B.  If the county 
+51
+commissioners fail to give written notice of their decision within 60 days of the date the 
+52
+application is filed, unless the applicant agrees in writing to further delay, the application 
+53
+is deemed denied and the applicant may appeal to the Superior Court as if there had been a 
+54
+written denial.
+12
+Sec. C-10.  36 MRSA §844, sub-§2, as amended by PL 2025, c. 342, §2 and 
+13
+affected by §3, is further amended to read:
+14
+2.  Nonresidential property of $1,000,000 $500,000 or greater.  The applicant may 
+15
+appeal the decision of the assessors or the municipal officers on a request for abatement 
+16
+with respect to nonresidential property or properties having an equalized municipal 
+17
+valuation of $1,000,000 $500,000 or greater, either separately or in the aggregate, to the 
+18
+State Board of Property Tax Review within 60 days after notice of the decision from which 
+19
+the appeal is taken or after the application is deemed to be denied.  If the State Board of 
+20
+Property Tax Review determines that the applicant is over-assessed, it shall grant such 
+21
+reasonable abatement as it determines proper.  For the purposes of this subsection, 
+22
+"nonresidential property" means property that is used primarily for commercial, industrial 
+23
+or business purposes, excluding unimproved land that is not associated with a commercial, 
+24
+industrial or business use.
+25
+Sec. C-11.  Assignment of duties of limited-period director position.  The 
+26
+limited-period Director of the Property Tax Review Board position established in Public 
+27
+Law 2021, chapter 635, Part A, section 32 and continued through June 18, 2027 in Public 
+28
+Law 2025, chapter 388, Part A, section 32 as a limited-period Public Service Manager II 
+29
+position, if requested by the Commissioner of Administrative and Financial Services, shall 
+30
+assist with and supervise the administration of the State Board of Property Tax Review. 
+31
+The director shall perform such other duties as the commissioner may assign under the 
+32
+Maine Revised Statutes, Title 5, section 282, subsection 6, including providing 
+33
+administrative support to the Independent Office of Tax Appeals.
+34
+Sec. C-12.  Application.  That section of this Part that repeals and replaces the Maine 
+35
+Revised Statutes, Title 36, section 271, subsection 5, and those sections of this Part that 
+36
+amend Title 36, section 844, subsections 1 and 2, apply to property tax abatement appeals 
+37
+filed on or after January 1, 2027.
+38
+PART D
+39
+Sec. D-1.  36 MRSA §843, sub-§1, as amended by PL 1995, c. 262, §4, is further 
+40
+amended to read:
+41
+1.  Municipalities.  If Except for nonresidential property or properties with an 
+42
+equalized municipal valuation of $2,000,000 or greater, either separately or in the 
+43
+aggregate, if a municipality has adopted a board of assessment review and the assessors or 
+44
+the municipal officers refuse to make the abatement asked for, the applicant may apply in 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+Page 11 - 132LR2674(01)
+45
+writing to the board of assessment review within 60 days after notice of the decision from 
+46
+which the appeal is being taken or after the application is deemed to have been denied, and, 
+47
+if the board thinks the applicant is over-assessed, the applicant is granted such reasonable 
+48
+abatement as the board thinks proper.  Except with regard to nonresidential property or 
+49
+properties with an equalized municipal valuation of $1,000,000 or greater either separately 
+50
+or in the aggregate, either Either party may appeal from the decision of the board of 
+51
+assessment review directly to the Superior Court, in accordance with Rule 80B of the Maine 
+52
+Rules of Civil Procedure.  If the board of assessment review fails to give written notice of 
+53
+its decision within 60 days of the date the application is filed, unless the applicant agrees 
+54
+in writing to further delay, the application is deemed denied and the applicant may appeal 
+55
+to Superior Court as if there had been a written denial.
+12
+Sec. D-2.  36 MRSA §843, sub-§1-A, as amended by PL 1995, c. 262, §4, is further 
+13
+amended to read:
+14
+1-A.  Nonresidential property of $1,000,000 $2,000,000 or greater.  With regard to 
+15
+For nonresidential property or properties with an equalized municipal valuation of 
+16
+$1,000,000 $2,000,000 or greater, either separately or in the aggregate, either party may 
+17
+appeal the decision of the local board of assessment review or the primary assessing area 
+18
+board of assessment review a refusal of the assessors or the municipal officers to make the 
+19
+abatement asked for to the State Board of Property Tax Review within 60 days after notice 
+20
+of the decision from which the appeal is taken or after the application is deemed to be 
+21
+denied,  as provided in subsections 1 and 2.  The board shall hold a hearing de novo. If the 
+22
+board thinks that the applicant is over-assessed, it shall grant such reasonable abatement as 
+23
+the board thinks proper.  For the purposes of this section, "nonresidential property" means 
+24
+property that is used primarily for commercial, industrial or business purposes, excluding 
+25
+unimproved land that is not associated with a commercial, industrial or business use.
+26
+Sec. D-3.  36 MRSA §843, sub-§2, as amended by PL 2001, c. 396, §17, is further 
+27
+amended to read:
+28
+2.  Primary assessing areas.  If Except for nonresidential property or properties with 
+29
+an equalized municipal valuation of $2,000,000 or greater, either separately or in the 
+30
+aggregate, if a primary assessing area has adopted a board of assessment review and the 
+31
+assessors or municipal officers refuse to make the abatement asked for, the applicant may 
+32
+apply in writing to the board of assessment review within 60 days after notice of the 
+33
+decision from which the appeal is being taken or after the application is deemed to have 
+34
+been denied, and if the board thinks the applicant is over-assessed, the applicant is granted 
+35
+such reasonable abatement as the board thinks proper.  Except with regard to nonresidential 
+36
+property or properties with an equalized municipal valuation of $1,000,000 or greater, 
+37
+either separately or in the aggregate, either Either party may appeal the decision of the 
+38
+board of assessment review directly to the Superior Court, in accordance with the Maine 
+39
+Rules of Civil Procedure, Rule 80B.  If the board of assessment review fails to give written 
+40
+notice of its decision within 60 days of the date the application was filed, unless the 
+41
+applicant agrees in writing to further delay, the application is deemed denied and the 
+42
+applicant may appeal to the Superior Court as if there had been a written denial.
+43
+PART E
+44
+Sec. E-1.  3 MRSA §959, sub-§1, ¶N, as amended by PL 2021, c. 617, §1, is further 
+45
+amended to read:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+Page 12 - 132LR2674(01)
+1
+N.  The joint standing committee of the Legislature having jurisdiction over taxation 
+2
+matters shall use the following list as a guideline for scheduling reviews:
+3
+(1)  State Board of Property Tax Review in 2027 2028; and
+4
+(2)  Department of Administrative and Financial Services, Bureau of Revenue 
+5
+Services in 2027.; and
+6
+(3)  Department of Administrative and Financial Services, Independent Office of 
+7
+Tax Appeals in 2028.
+8
+Sec. E-2.  Office of Tax Policy to study further simplification and 
+9
+modernization of the administrative tax appeals process; report.
+10
+1.  Study.  The Department of Administrative and Financial Services, Bureau of 
+11
+Revenue Services, Office of Tax Policy shall consider options for further 
+12
+simplification and modernization, including review of the following proposals:
+13
+A. Termination of the State Board of Property Tax Review, referred to in this 
+14
+subsection as "the state board," effective January 1, 2028, and transfer of all the state 
+15
+board’s cases and appeals jurisdiction to the Independent Office of Tax Appeals, 
+16
+referred to in this subsection as "the office," maintaining formal adjudicatory decision 
+17
+making with limited on-the-record appeal to the Superior Court for such property tax 
+18
+appeals cases and maintaining nonadjudicatory proceedings with continuing de novo 
+19
+appeal rights for all other tax appeals;
+20
+B.  If cases and jurisdiction are transferred from the state board as described in 
+21
+paragraph A, considering whether all cases of the office, including matters currently 
+22
+handled by the state board, should be decided by the office as informal non-
+23
+adjudicatory proceedings with full de novo review available by appeal to the Superior 
+24
+Court; 
+25
+C.  If cases and jurisdiction are transferred from the state board as described in 
+26
+paragraph A, whether the staffing of the office should be expanded, including the 
+27
+addition of a paralegal or another hearing officer; 
+28
+D.  If the proposals referred to in paragraphs A and B are not recommended, whether 
+29
+the compensation of state board members under the Maine Revised Statutes, Title 5, 
+30
+section 12002-B should be increased; 
+31
+E.  Whether mandatory mediation should be discretionary with the state board or the 
+32
+office, as appropriate; and
+33
+F.  Whether property tax appeals jurisdiction threshold amounts should be adjusted up 
+34
+or down or should be subject to periodic adjustment for inflation.
+35
+In conducting the study under this subsection, the Office of Tax Policy shall consult with 
+36
+the Office of the Attorney General, municipal assessors and interested parties representing 
+37
+accountants and lawyers practicing in the field of taxation in this State.
+38
+The Director of the State Board of Property Tax Review and, prior to September 15, 2026, 
+39
+the Chief Appeals Officer of the Maine Board of Tax Appeals established under the Maine 
+40
+Revised Statutes, Title 5, section 12004-B, subsection 10 and, on or after September 15, 
+41
+2026, the Chief Hearing Officer of the Independent Office of Tax Appeals established 
+
+Page 13 - 132LR2674(01)
+42
+pursuant to Title 36, section 151-E shall assist the Office of Tax Policy in conducting the 
+43
+study under this subsection.
+3
+2.  Report. No later than December 15, 2026, the Department of Administrative and 
+4
+Financial Services, Bureau of Revenue Services, Office of Tax Policy shall submit a report 
+5
+to the joint standing committee of the Legislature having jurisdiction over taxation matters 
+6
+that includes the office's findings and recommendations under subsection 1, including 
+7
+suggested legislation. The joint standing committee may submit legislation related to the 
+8
+report to the 133rd Legislature in 2027.
+9
+SUMMARY
+10
+This bill makes changes to improve the tax dispute resolution and administrative tax 
+11
+appeals process as follows.
+12
+Part A adds to the duties and responsibilities of the taxpayer advocate and experience 
+13
+officer in the Department of Administrative and Financial Services, Bureau of Revenue 
+14
+Services the making of recommendations to further improve the tax appeals process.
+15
+Part B creates the Independent Office of Tax Appeals in the Department of 
+16
+Administrative and Financial Services to replace the Maine Board of Tax Appeals and 
+17
+simplifies and modernizes the appeals process to improve the tax dispute resolution 
+18
+process. Part B takes effect September 15, 2026.
+19
+Part C makes changes to the composition and duties of the State Board of Property Tax 
+20
+Review, including:
+21
+1. Changing the number of members from a fixed number, 15, to a range of 9 to 15 
+22
+members, as determined by the Governor, and allowing any combination of qualifications 
+23
+for members;
+24
+2.  Requiring the annual appointment of a vice-chair of the board to act on the chair's 
+25
+behalf in the event of the chair's recusal or other unavailability;
+26
+3.  Reducing the size of the panels convened to determine appeals, including 
+27
+jurisdictional issues, from 5 board members to 3 board members and reducing the quorum 
+28
+to 2; 
+29
+4.  Expanding case jurisdiction by transferring jurisdiction for certain cases, such as 
+30
+requests for abatement, currently appealable to county commissioners for nonresidential 
+31
+property assessments over $500,000; and
+32
+5.  Requiring, at the direction of the Commissioner of Administrative and Financial 
+33
+Services, the limited-period director position established and subsequently reauthorized 
+34
+through June 18, 2027 to assist the board and the Independent Office of Tax Appeals.
+35
+Part D changes the jurisdictional threshold amounts and appeals process for 
+36
+nonresidential property.
+37
+Part E adds legislative review of the Independent Office of Tax Appeals, changes the 
+38
+year for legislative review of the State Board of Property Tax Review from 2027 to 2028 
+39
+and directs the Department of Administrative and Financial Services, Bureau of Revenue 
+40
+Services, Office of Tax Policy to review the administrative tax appeals process and file 
+41
+with the Legislature by December 15, 2026 a report and recommended legislation for 
+42
+further simplifying and modernizing the tax appeals process.
+1
+2
+10
+11

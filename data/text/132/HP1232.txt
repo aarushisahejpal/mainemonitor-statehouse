@@ -1,0 +1,583 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1848
+H.P. 1232
+House of Representatives, April 30, 2025
+An Act to Implement Recommendations for Improved Dam Safety
+Reference to the Committee on Criminal Justice and Public Safety suggested and ordered 
+printed.
+ROBERT B. HUNT
+Clerk
+Presented by Representative MILLIKEN of Blue Hill.
+Cosponsored by Representatives: BELL of Yarmouth, BISHOP of Bucksport, Senators: 
+GROHOSKI of Hancock, HAGGAN of Penobscot.
+
+Page 1 - 132LR2004(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  37-B MRSA §1113, as enacted by PL 2001, c. 460, §3, is repealed and the 
+3
+following enacted in its place:
+4
+§1113.  Duties of department
+5
+In accordance with the provisions of this chapter and the rules adopted pursuant to this 
+6
+chapter, the department shall inspect existing dams and reservoirs to determine their hazard 
+7
+potential, review the design and construction of new and reconstructed dams, assist dam 
+8
+owners in developing emergency action plans to minimize the effects of dam failure and 
+9
+take all necessary actions in emergency situations of probable dam failure to protect life 
+10
+and property. 
+11
+1.  Authority of other persons.  Except for the Federal Government, a person may not 
+12
+exercise any authority over the emergency regulation or supervision of any dams or 
+13
+reservoirs in the State when that exercise would conflict with the powers and authority of 
+14
+the department under this chapter.
+15
+2.  Coordination with Department of Environmental Protection.  In administering 
+16
+and enforcing the provisions of this chapter, the department shall, as necessary, coordinate 
+17
+and establish any written policies or agreements with the Department of Environmental 
+18
+Protection with respect to the authority of the Department of Environmental Protection 
+19
+under Title 38, chapter 5 to ensure the efficient administration and enforcement of this 
+20
+chapter and of Title 38, chapter 5. 
+21
+3.  Comprehensive database management system.  The department shall develop 
+22
+and implement a comprehensive database management system for use in its administration 
+23
+and enforcement of this chapter.  The department shall ensure that all public records in its 
+24
+possession relating to the administration and enforcement of this chapter are digitized and 
+25
+integrated into and accessible from the database management system implemented under 
+26
+this subsection.
+27
+4.  Written policies and procedures.  The department shall establish by rule 
+28
+comprehensive written policies and procedures necessary for its administration and 
+29
+enforcement of this chapter, including, but not limited to, policies and procedures for:
+30
+A.  Compliance with and enforcement of this chapter that encourage voluntary 
+31
+compliance over enforcement action;
+32
+B.  Dam evaluations, dam inspections and dam inspection follow-ups for use by 
+33
+department staff, dam owners and other persons; and
+34
+C.  Dam security measures and dam-related public safety measures, including, but not 
+35
+limited to, requirements for implementation by dam owners of surveillance and 
+36
+monitoring measures at dam sites.
+37
+In developing the policies and procedures required by this subsection, the department shall 
+38
+as necessary consult with relevant state agencies and other entities, including, but not 
+39
+limited to, the Department of Environmental Protection.  Rules adopted by the department 
+40
+pursuant to this subsection are routine technical rules as defined in Title 5, chapter 375, 
+41
+subchapter 2-A.
+
+Page 2 - 132LR2004(01)
+1
+5.  Staffing; training.  The department shall hire, employ or contract with persons 
+2
+necessary for the administration and enforcement of this chapter, including, but not limited 
+3
+to, one or more state dam inspectors pursuant to section 1117.  The department shall 
+4
+provide for the necessary training of department staff under this chapter, including, but not 
+5
+limited to, ongoing staff training and professional development opportunities.
+6
+6.  Stakeholder engagement.  The department shall develop and implement a plan for 
+7
+conducting outreach to and maintaining regular communication with persons with an 
+8
+interest in the administration of this chapter, including, but not limited to, dam owners. 
+9
+7.  Annual report.  On or before January 1, 2028, and annually thereafter, the 
+10
+department shall submit a report to the joint standing committee of the Legislature having 
+11
+jurisdiction over emergency management matters regarding the administration and 
+12
+enforcement of this chapter.  The report must include, but is not limited to, information 
+13
+regarding any staffing and operational needs for the dam safety program under this chapter; 
+14
+current and anticipated funding levels for the program; information regarding the 
+15
+development and implementation of guidelines, policies and procedures under the program; 
+16
+and information regarding dam inspections conducted and enforcement actions taken under 
+17
+the program.  After reviewing the report, the committee may report out related legislation.
+18
+Sec. 2.  37-B MRSA §1117, as enacted by PL 2001, c. 460, §3, is amended to read:
+19
+§1117.  Inspectors of dams
+20
+The commissioner shall appoint or hire one or more state dam inspectors who are 
+21
+licensed as professional engineers under Title 32, chapter 19 and who are experienced in 
+22
+the inspection and design of dams.  For the purposes of this chapter, a state dam inspector 
+23
+appointed or hired by the commissioner pursuant to this section is the legal representative 
+24
+of the commissioner.
+25
+Sec. 3.  37-B MRSA §1118, sub-§1-A is enacted to read:
+26
+1-A.  Evaluation of downstream hazard.  The commissioner shall evaluate the 
+27
+downstream hazard potential of each dam to determine the potential risk to public safety 
+28
+and property downstream from the dam that may result from the failure or operation of the 
+29
+dam.  For each dam assigned a high hazard potential or significant hazard potential, the 
+30
+evaluation under this subsection must be completed at least once every 5 years.
+31
+Sec. 4.  37-B MRSA §1118, sub-§4 is enacted to read:
+32
+4.  Potential failure mode analysis.  The department shall adopt by rule policies and 
+33
+guidelines for owners of dams assigned a high hazard potential pursuant to this section to 
+34
+conduct potential failure mode analyses of dams, based on the potential failure mode 
+35
+process developed by the Federal Energy Regulatory Commission.  Rules adopted by the 
+36
+department pursuant to this subsection are routine technical rules as defined in Title 5, 
+37
+chapter 375, subchapter 2-A.
+38
+Sec. 5.  37-B MRSA §1119, sub-§1, as amended by PL 2013, c. 146, §20, is further 
+39
+amended to read:
+40
+1.  Inspections.  A state dam inspector shall conduct an inspection of all high and 
+41
+significant hazard potential dams to determine whether the integrity, structural stability, 
+42
+function or operation of those dams constitutes a threat to public safety, in accordance with 
+43
+the following schedule:
+
+Page 3 - 132LR2004(01)
+1
+A.  All significant hazard potential dams, at least once every 6 5 years;
+2
+B.  All high hazard potential dams, at least once every 6 5 years;
+3
+C.  Any dam, within 60 days of a request for an inspection from the dam owner or the 
+4
+municipality in which the dam is located or as soon as is practicable as weather and 
+5
+other conditions allow; and
+6
+D.  At any time any dam that may, in the judgment of the commissioner, constitute a 
+7
+potential risk to public safety.
+8
+Notwithstanding the schedule outlined in this subsection, a state dam inspector shall 
+9
+conduct an inspection of a significant or high hazard potential dam within 30 days of receipt 
+10
+by the commissioner of a notice of transfer of ownership of the dam as required under 
+11
+section 1128 unless the dam has been inspected under this subsection within 4 years 
+12
+preceding the notice of transfer of ownership.
+13
+Sec. 6.  37-B MRSA §1119, sub-§4, as enacted by PL 2001, c. 460, §3, is amended 
+14
+by enacting at the end a new blocked paragraph to read:
+15
+The commissioner may adopt rules establishing a schedule for the required payment of 
+16
+monetary penalties by a dam owner, lessee or other person in control of a dam that fails to 
+17
+implement remedial measures directed in a dam safety order issued by the commissioner 
+18
+pursuant to this subsection.  Rules adopted by the commissioner pursuant to this subsection 
+19
+are major substantive rules as defined in Title 5, chapter 375, subchapter 2-A.
+20
+Sec. 7.  37-B MRSA §1119-A is enacted to read:
+21
+§1119-A.  Comprehensive dam review and inspection
+22
+The department shall establish by rule requirements and procedures for periodic 
+23
+comprehensive review and inspection of dams assigned a high hazard potential pursuant to 
+24
+section 1118 to be conducted by and at the expense of the owner of the dam at least once 
+25
+every 12 years.
+26
+Rules adopted by the department pursuant to this section are routine technical rules as 
+27
+defined in Title 5, chapter 375, subchapter 2-A.
+28
+Sec. 8.  37-B MRSA §1126, as enacted by PL 2001, c. 460, §3, is amended by 
+29
+amending the section headnote to read:
+30
+§1126.  Access and notification; engineering reports
+31
+Sec. 9.  37-B MRSA §1126, sub-§3 is enacted to read:
+32
+3.  Engineering reports.  An owner, lessee or person in control of a dam shall provide 
+33
+to the department a copy of any engineering study, inspection, comprehensive review or 
+34
+report regarding the dam that was commissioned or otherwise facilitated by the owner, 
+35
+lessee or person.
+36
+Sec. 10.  37-B MRSA §1127, as enacted by PL 2001, c. 460, §3, is repealed and the 
+37
+following enacted in its place:
+38
+§1127.  Emergency action plans
+39
+This section governs the preparation and review of emergency action plans.
+
+Page 4 - 132LR2004(01)
+1
+1.  Requirement for plan.  The owner of a dam under the department's jurisdiction 
+2
+shall prepare an emergency action plan for that dam, using a model emergency action plan 
+3
+made available by the department, as follows:
+4
+A.  Within 6 months of the classification of a dam as a high hazard potential dam or 
+5
+significant hazard potential dam, the owner shall prepare an emergency action plan for 
+6
+the dam and submit the plan to the department for review; and
+7
+B.  Prior to the construction or reconstruction of any dam, the owner shall prepare an 
+8
+emergency action plan for the dam and submit the plan to the department for review.
+9
+2.  Submission of plan; availability.  At the time the dam owner submits an emergency 
+10
+action plan required by subsection 1, paragraph A, or an update to that plan, to the 
+11
+department, the owner shall submit the plan to the appropriate local or county government 
+12
+office where the dam is located.  The department shall ensure that emergency action plans 
+13
+submitted to the department pursuant to this section are made publicly available.
+14
+3.  Update to plan.  A dam owner that submits an emergency action plan required by 
+15
+subsection 1, paragraph A shall update the plan as necessary and in accordance with 
+16
+guidelines established by the department and submit the updated plan to the department for 
+17
+review.  The department shall establish guidelines for the updating of emergency action 
+18
+plans under this subsection, which must require such updating at least every 2 years after 
+19
+initial submission. 
+20
+4.  Testing.  The department shall establish guidelines and procedures for the testing 
+21
+of emergency action plans required by subsection 1, paragraph A.
+22
+Sec. 11.  38 MRSA §480-D, sub-§12 is enacted to read:
+23
+12.  Construction or reconstruction of nonhydropower dam.  If the proposed 
+24
+activity involves the construction or reconstruction of a nonhydropower dam, prior to 
+25
+granting a permit, the department shall notify the director of the Maine Emergency 
+26
+Management Agency within the Department of Defense, Veterans and Emergency 
+27
+Management regarding the application.  The director of the Maine Emergency 
+28
+Management Agency shall provide the department with an assessment of the design and 
+29
+construction or reconstruction of the proposed dam and any recommendations regarding 
+30
+terms or conditions necessary to minimize the risk of dam failure and to protect public 
+31
+safety and property downstream from the dam that may result from the failure or operation 
+32
+of the dam.
+33
+As used in this subsection, "nonhydropower dam" has the same meaning as in section 
+34
+480-Q, subsection 2-E.
+35
+Sec. 12.  38 MRSA §480-Q, sub-§2-E, ¶A, as enacted by PL 2019, c. 124, §3, is 
+36
+amended to read:
+37
+A.  A long-term maintenance and repair plan for the dam has been submitted to the 
+38
+department and to the Department of Defense, Veterans and Emergency Management, 
+39
+Maine Emergency Management Agency prior to the commencement of any 
+40
+maintenance or repair activities;
+41
+Sec. 13.  Department of Defense, Veterans and Emergency Management; 
+42
+state dam inspector.  Pursuant to the authority under the Maine Revised Statutes, Title 
+43
+37-B, section 1117, the Department of Defense, Veterans and Emergency Management 
+
+Page 5 - 132LR2004(01)
+44
+shall take all necessary steps to ensure that, within 6 months of the effective date of this 
+45
+Act, it has appointed or hired in a permanent capacity one or more state dam inspectors 
+46
+meeting the requirements of section 1117.  Notwithstanding any provision of law to the 
+47
+contrary, to attract qualified candidates for the state dam inspector position, the department 
+48
+is authorized to offer a salary package for that position that is competitive and aligns with 
+49
+pay standards for professional engineers in the State.
+7
+Sec. 14.  Department of Defense, Veterans and Emergency Management; 
+8
+dam safety compliance.  Consistent with the provisions of the Maine Revised Statutes, 
+9
+Title 37-B, chapter 24, the Department of Defense, Veterans and Emergency Management 
+10
+shall as soon as practicable identify all dams in the State that are under its jurisdiction and 
+11
+are not in compliance with applicable dam safety standards and, in accordance with the 
+12
+compliance and enforcement policies and procedures adopted pursuant to Title 37-B, 
+13
+section 1120, take all actions necessary to ensure that those dams achieve compliance, 
+14
+prioritizing its actions based on the hazard potential of each identified dam as assigned 
+15
+pursuant to Title 37-B, section 1118.
+16
+Sec. 15.  Department of Defense, Veterans and Emergency Management; 
+17
+assessment of staffing and operational needs for dam safety program.  The 
+18
+Department of Defense, Veterans and Emergency Management shall assess staffing and 
+19
+operational needs for the administration and enforcement of the dam safety program under 
+20
+the Maine Revised Statutes, Title 37-B, chapter 24.  
+21
+By January 1, 2026, the department shall submit to the Joint Standing Committee on 
+22
+Criminal Justice and Public Safety a report identifying the funding amounts necessary to 
+23
+ensure the effective administration and enforcement of the dam safety program, which 
+24
+must, at a minimum, identify the funding amounts necessary to support the hiring of one 
+25
+additional state dam inspector position under the Maine Revised Statutes, Title 37-B, 
+26
+section 1117.  After reviewing the report, the committee may report out related legislation 
+27
+to the Second Regular Session of the 132nd Legislature.
+28
+SUMMARY
+29
+This bill is designed to implement the following recommendations for the improvement 
+30
+of dam safety in the State as identified in the report required pursuant to Resolve 2021, 
+31
+chapter 176 and submitted to the 131st Legislature in February 2024.
+32
+1.  It amends the Natural Resources Protection Act to require that, if a proposed activity 
+33
+subject to that Act involves the construction or reconstruction of a nonhydropower dam, 
+34
+prior to granting a permit, the Department of Environmental Protection shall notify the 
+35
+director of the Maine Emergency Management Agency within the Department of Defense, 
+36
+Veterans and Emergency Management regarding the application.  The director of the Maine 
+37
+Emergency Management Agency is required to provide the department with an assessment 
+38
+of the design and construction or reconstruction of the proposed dam and any 
+39
+recommendations regarding terms or conditions necessary to minimize the risk of dam 
+40
+failure and to protect public safety and property downstream from the dam that may result 
+41
+from the failure or operation of the dam.  
+42
+For maintenance and repair activities on an existing dam for which a permit is not 
+43
+required under that Act, the bill provides that a long-term maintenance and repair plan for 
+44
+the dam, which is required to be submitted to the Department of Environmental Protection 
+1
+2
+3
+4
+5
+6
+29
+30
+31
+
+Page 6 - 132LR2004(01)
+45
+prior to the commencement of any maintenance or repair activities, must also be submitted 
+46
+to the Maine Emergency Management Agency.
+3
+2.  It modifies the duties of the Department of Defense, Veterans and Emergency 
+4
+Management under the State's dam safety program under the Maine Revised Statutes, Title 
+5
+37-B, chapter 24, by providing for coordination with the Department of Environmental 
+6
+Protection in its administration of the program, clarifying the policies and procedures to be 
+7
+adopted for the administration and enforcement of the program, requiring the development 
+8
+and implementation of a comprehensive database management system, specifying staffing 
+9
+responsibilities, providing for stakeholder engagement and imposing an annual legislative 
+10
+reporting requirement.
+11
+3.  It clarifies that, for the purposes of the dam safety program under Title 37-B, chapter 
+12
+24, a state dam inspector appointed or hired by the Commissioner of Defense, Veterans and 
+13
+Emergency Management is the legal representative of the commissioner.
+14
+4.  It requires the Commissioner of Defense, Veterans and Emergency Management to 
+15
+evaluate the downstream hazard potential of each dam to determine the potential risk to 
+16
+public safety and property downstream from the dam that may result from the failure or 
+17
+operation of the dam. 
+18
+5.  It requires the Department of Defense, Veterans and Emergency Management to 
+19
+adopt by rule policies and guidelines for owners of dams assigned a high hazard potential 
+20
+to conduct potential failure mode analyses of dams, based on the potential failure mode 
+21
+process developed by the Federal Energy Regulatory Commission.
+22
+6.  It requires inspection by a state dam inspector of all significant hazard potential 
+23
+dams and all high hazard potential dams at least once every 5 years.
+24
+7.  It authorizes the Commissioner of Defense, Veterans and Emergency Management 
+25
+to adopt major substantive rules establishing a schedule for the required payment of 
+26
+monetary penalties by a dam owner, lessee or other person in control of a dam that fails to 
+27
+implement remedial measures directed in a dam safety order issued by the commissioner.  
+28
+8.  It requires the Department of Defense, Veterans and Emergency Management to 
+29
+establish by rule requirements and procedures for periodic comprehensive review and 
+30
+inspection of all high hazard potential dams at least once every 12 years, to be conducted 
+31
+by and at the expense of the owner of the dam.
+32
+9. It requires an owner, lessee or person in control of a dam to provide to the 
+33
+Department of Defense, Veterans and Emergency Management a copy of any engineering 
+34
+study, inspection, comprehensive review or report regarding the dam that was 
+35
+commissioned or otherwise facilitated by the owner, lessee or person.
+36
+10.  It repeals and replaces the law regarding dam emergency action plans to provide 
+37
+that, prior to the construction or reconstruction of any dam, the owner must prepare an 
+38
+emergency action plan for the dam and submit the plan to the Department of Defense, 
+39
+Veterans and Emergency Management for review.  The department is also required to 
+40
+establish guidelines and procedures for the testing of emergency action plans for high 
+41
+hazard potential and significant hazard potential dams.
+42
+11.  It directs the Department of Defense, Veterans and Emergency Management to 
+43
+take all necessary steps to ensure that, within 6 months of the effective date of this 
+44
+legislation, it has appointed or hired in a permanent capacity one or more state dam 
+1
+2
+
+Page 7 - 132LR2004(01)
+45
+inspectors.  To attract qualified candidates for the state dam inspector position, the 
+46
+department is authorized to offer a salary package for that position that is competitive and 
+47
+aligns with pay standards for professional engineers in the State. 
+4
+12. It directs the Department of Defense, Veterans and Emergency Management, as 
+5
+soon as practicable, to identify all dams in the State that are under its jurisdiction and are 
+6
+not in compliance with applicable dam safety standards and, in accordance with the 
+7
+compliance and enforcement policies and procedures adopted under the dam safety 
+8
+program, take all actions necessary to ensure that those dams achieve compliance, 
+9
+prioritizing its actions based on the hazard potential of each identified dam as assigned 
+10
+pursuant to law.
+11
+13.  It requires the Department of Defense, Veterans and Emergency Management to 
+12
+assess staffing and operational needs for the administration and enforcement of the dam 
+13
+safety program.  By January 1, 2026, the department must submit to the Joint Standing 
+14
+Committee on Criminal Justice and Public Safety a report identifying the funding amounts 
+15
+necessary to ensure the effective administration and enforcement of the dam safety 
+16
+program.  After reviewing the report, the committee may report out related legislation.
+1
+2
+3

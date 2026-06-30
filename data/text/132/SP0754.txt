@@ -1,0 +1,372 @@
+Printed on recycled paper
+132nd MAINE LEGISLATURE
+FIRST SPECIAL SESSION-2025
+Legislative Document
+No. 1936
+S.P. 754
+In Senate, May 6, 2025
+An Act to Provide Greater Equity in and Reduce Costs Related to 
+the State's Net Energy Billing Program
+Reference to the Committee on Energy, Utilities and Technology suggested and ordered 
+printed.
+DAREK M. GRANT
+Secretary of the Senate
+Presented by Senator GROHOSKI of Hancock.
+Cosponsored by Senator: HARRINGTON of York, Representative: WARREN of 
+Scarborough.
+
+Page 1 - 132LR2381(01)
+1
+Be it enacted by the People of the State of Maine as follows:
+2
+Sec. 1.  35-A MRSA §3209-A, sub-§1, ¶C-1 is enacted to read:
+3
+C-1.  "Nonresident program owner" means an owner of a distributed generation 
+4
+resource used for net energy billing whose principal place of business is located outside 
+5
+of the State.
+6
+Sec. 2.  35-A MRSA §3209-A, sub-§2, as enacted by PL 2019, c. 478, Pt. A, §3, is 
+7
+amended to read:
+8
+2.  Financial interest required.  The Except as otherwise provided in this section, the 
+9
+commission shall allow a customer to participate in net energy billing if the customer has 
+10
+a financial interest in a distributed generation resource or in a generation resource that has 
+11
+a net energy billing arrangement on the effective date of this section, including facility 
+12
+ownership, a lease agreement or a power purchase agreement.
+13
+Sec. 3.  35-A MRSA §3209-A, sub-§2-A is enacted to read:
+14
+2-A.  Net energy billing term length.  Except as provided in subsections 11 and 12, a 
+15
+person may not participate in net energy billing under this section after the expiration of 
+16
+the person's net energy billing agreement with the transmission and distribution utility for 
+17
+the distributed generation resource.  An amendment, revision or reissuance of an agreement 
+18
+made after May 1, 2025 may not include an end date that is later than the agreement that is 
+19
+subject to the amendment, revision or reissuance.
+20
+Sec. 4.  35-A MRSA §3209-A, sub-§5-A is enacted to read:
+21
+5-A.  Low-income customers; replacement of terminated customers.  If a customer 
+22
+with a shared financial interest in a distributed generation resource participating in net 
+23
+energy billing terminates the customer's participation in the net energy billing arrangement, 
+24
+the transmission and distribution utility shall replace that customer by enrolling a customer 
+25
+receiving low-income assistance pursuant to section 3214, subsection 2 who is located in 
+26
+the same transmission and distribution utility service territory as the terminated customer.  
+27
+The replacement customer must be enrolled with terms no less financially favorable than 
+28
+those applicable to the customer whose participation was terminated.  The commission 
+29
+shall adopt rules to implement this subsection and to create a process for the random 
+30
+selection and automatic enrollment of a customer receiving low-income assistance pursuant 
+31
+to section 3214, subsection 2 into the distributed generation resource's net energy billing 
+32
+arrangement.  The commission shall allow a customer, when enrolling in a low-income 
+33
+assistance program pursuant to section 3214, subsection 2, to opt out of automatic 
+34
+enrollment in a net energy billing arrangement as described in this subsection.  
+35
+Notwithstanding any provision of this section to the contrary, rules adopted by the 
+36
+commission pursuant to this subsection are routine technical rules as defined in Title 5, 
+37
+chapter 375, subchapter 2‑A.
+38
+Sec. 5.  35-A MRSA §3209-A, sub-§9, as enacted by PL 2023, c. 411, §2, is 
+39
+amended to read:
+40
+9.  Applicability to projects between greater than one megawatt and not more 
+41
+than 2 megawatts.  A distributed generation resource with a nameplate capacity of at least 
+42
+greater than one megawatt and not more than 2 megawatts may be used for net energy 
+43
+billing under this section only if the requirements of paragraph A are met.
+
+Page 2 - 132LR2381(01)
+1
+A.  On or before December 31, 2024, the proposed distributed generation resource must 
+2
+reach commercial operation by the date specified in the net energy billing agreement 
+3
+or by the date specified with an allowable modification to that agreement.
+4
+An entity proposing the development of a distributed generation resource that does not 
+5
+meet the requirement of this subsection may petition the commission for a good-cause 
+6
+exemption due to external delays outside of the entity's control, which the commission may 
+7
+grant if it finds that without the external delays the entity could reasonably have been 
+8
+expected to meet the requirement, except that a distributed generation resource that receives 
+9
+a good-cause exemption may not be used for net energy billing under this section unless it 
+10
+reaches commercial operation by December 31, 2025.
+11
+Sec. 6.  35-A MRSA §3209-A, sub-§10 is enacted to read:
+12
+10.  Limitation; October 1, 2025.  Except as provided in subsections 11 and 12, a 
+13
+distributed generation resource may not be used for net energy billing unless the distributed 
+14
+generation resource reaches commercial operation by the date specified in the net energy 
+15
+billing agreement entered into by October 1, 2025.
+16
+An entity proposing the development of a distributed generation resource that does not 
+17
+meet the requirement of this subsection may petition the commission for a good-cause 
+18
+exemption due to external delays outside of the entity's control, which the commission may 
+19
+grant if it finds that without the external delays the entity could reasonably have been 
+20
+expected to meet the requirement.
+21
+Sec. 7.  35-A MRSA §3209-A, sub-§11 is enacted to read:
+22
+11.  Consumer-owned small project exception; rules.  In accordance with this 
+23
+subsection, the commission may approve the use of a consumer-owned small project in net 
+24
+energy billing under this section. 
+25
+A. For the purposes of this subsection, "consumer-owned small project" means a 
+26
+distributed generation resource with a nameplate capacity of one megawatt or less that 
+27
+is wholly owned by the customers receiving the net energy billing credits associated 
+28
+with the output of the distributed generation resource. 
+29
+B. A consumer-owned small project is not subject to the limitations established in 
+30
+subsection 2-A. 
+31
+C. The commission may adopt rules to implement this subsection. Rules adopted 
+32
+pursuant to this paragraph are routine technical rules as defined in Title 5, chapter 375, 
+33
+subchapter 2-A.
+34
+Sec. 8.  35-A MRSA §3209-A, sub-§12 is enacted to read:
+35
+12.  Single customer-owned on-site project exception.  Notwithstanding any 
+36
+provision of this section to the contrary, a distributed generation resource may be used for 
+37
+net energy billing if the distributed generation resource is owned by a customer and:
+38
+A.  Is used to serve the electric load of that customer only; and
+39
+B.  Meets the criterion that 100% of the net energy billing credits associated with the 
+40
+output of the distributed generation resource are allocated to the retail account of that 
+41
+customer.
+42
+Sec. 9.  35-A MRSA §3209-A, sub-§13 is enacted to read:
+
+Page 3 - 132LR2381(01)
+1
+13.  Nonresident program owner; compensation.  Notwithstanding any provision of 
+2
+this section to the contrary, the commission shall establish by rule compensation rates, 
+3
+starting January 1, 2026, applicable to all customers participating in net energy billing with 
+4
+distributed generation resources owned by nonresident program owners.  The commission 
+5
+shall revise the compensation rates established by rule as often as it determines necessary 
+6
+to ensure that the rates are just and reasonable to a nonresident program owner and the 
+7
+customers of the distributed generation resource by providing that a nonresident program 
+8
+owner has a reasonable opportunity to earn a fair profit from the operation of the distributed 
+9
+generation resource while ensuring a cost-to-benefit ratio for ratepayers as close to equal 
+10
+as possible.  Rules adopted pursuant to this subsection are routine technical rules as defined 
+11
+in Title 5, chapter 375, subchapter 2‑A.
+12
+Sec. 10.  35-A MRSA §3209-B, sub-§1, ¶E is enacted to read:
+13
+E.  "Nonresident program owner" has the same meaning as in section 3209-A, 
+14
+subsection 1, paragraph C-1.
+15
+Sec. 11.  35-A MRSA §3209-B, sub-§5, ¶A-2 is enacted to read:
+16
+A-2.  Starting January 1, 2026, the tariff rate for a customer participating in net energy 
+17
+billing under this section with a distributed generation resource not owned by a 
+18
+nonresident program owner must equal 9.5¢ and increase by 2.25% on January 1st of 
+19
+each subsequent year.  If the tariff rate established under this paragraph would cause a 
+20
+project that has reached commercial operation by January 1, 2026 to no longer be 
+21
+financially viable, the owner of a distributed generation resource may petition the 
+22
+commission for an adjustment to the tariff rate.  The petition must include sufficient 
+23
+financial information to allow the commission to determine financial viability, and the 
+24
+commission shall issue a protective order for the contents of the petition in accordance 
+25
+with section 1311-A to protect the interests of the owner filing the petition.  If the 
+26
+commission determines that the owner cannot reasonably operate the project under the 
+27
+tariff rate established in accordance with this paragraph, the commission shall 
+28
+determine a tariff rate for the project that provides the owner a reasonable opportunity 
+29
+to earn a fair profit from the operation of the project while balancing the financial 
+30
+interests of all ratepayers.
+31
+Sec. 12.  35-A MRSA §3209-B, sub-§5-A is enacted to read:
+32
+5-A.  Net energy billing term length.  Notwithstanding any provision of law to the 
+33
+contrary, a person may not participate in net energy billing under this section after the 
+34
+expiration of the person's net energy billing agreement with the transmission and 
+35
+distribution utility for the distributed generation resource.  An amendment, revision or 
+36
+reissuance of an agreement made after May 1, 2025 may not include an end date that is 
+37
+later than the agreement that is subject to the amendment, revision or reissuance.
+38
+Sec. 13.  35-A MRSA §3209-B, sub-§9 is enacted to read:
+39
+9.  Nonresident program owner; compensation.  Starting January 1, 2026, the 
+40
+commission shall establish by rule compensation rates applicable to all customers 
+41
+participating in net energy billing with distributed generation resources owned by 
+42
+nonresident program owners.  The commission shall revise the compensation rates 
+43
+established by rule as often as it determines necessary to ensure that the rates are just and 
+44
+reasonable to a nonresident program owner and the customers of the distributed generation 
+
+Page 4 - 132LR2381(01)
+45
+resource by providing that a nonresident program owner has a reasonable opportunity to 
+46
+earn a fair profit from the operation of the distributed generation resource while ensuring a 
+47
+cost-to-benefit ratio for ratepayers as close to equal as possible.  Rules adopted pursuant to 
+48
+this subsection are routine technical rules as defined in Title 5, chapter 375, subchapter 
+49
+2‑A.
+6
+SUMMARY
+7
+This bill does the following.
+8
+1. It provides that a person is prohibited from participating in the kilowatt-hour credit 
+9
+and tariff rate net energy billing programs after the expiration of the person's net energy 
+10
+billing agreement with the transmission and distribution utility for the distributed 
+11
+generation resource, with some exceptions. 
+12
+2. It provides that a distributed generation resource that is greater than one megawatt 
+13
+and not more than 2 megawatts that receives a good-cause exemption from the Public 
+14
+Utilities Commission must reach commercial operation by December 31, 2025 to 
+15
+participate in the kilowatt-hour credit net energy billing program and the tariff rate net 
+16
+energy billing program. 
+17
+3. It creates a limited exception from the kilowatt-hour credit net energy billing 
+18
+program limitations to allow a distributed generation resource with a nameplate capacity 
+19
+of one megawatt or less to participate in net energy billing if the distributed generation 
+20
+resource is wholly owned by the customers receiving the net energy billing credits 
+21
+associated with the output of the distributed generation resource. 
+22
+4. It allows a distributed generation resource to be used in the kilowatt-hour credit net 
+23
+energy billing program if the distributed generation resource is owned by the customer and 
+24
+is used to serve the electric load of that customer only and 100% of the net energy billing 
+25
+credits associated with the distributed generation resource are allocated to the retail account 
+26
+of that customer. 
+27
+5. It directs the commission, starting January 1, 2026, to establish by routine technical 
+28
+rule the compensation rates applicable to all customers participating in net energy billing 
+29
+with distributed generation resources owned by nonresident program owners. 
+30
+6. It requires a transmission and distribution utility, if a customer with a shared 
+31
+financial interest in the resource terminates the customer's participation in the net energy 
+32
+billing arrangement, to replace that customer by enrolling a customer receiving low-income 
+33
+assistance under the Maine Revised Statutes, Title 35-A, section 3214, subsection 2 who is 
+34
+located in the same transmission and distribution utility service territory as the terminated 
+35
+customer. 
+36
+7. Starting January 1, 2026, it establishes that the tariff rate set by the commission by 
+37
+rule for a customer participating in the tariff rate net energy billing program with a 
+38
+distributed generation resource not owned by a nonresident program owner must equal 9.5¢ 
+39
+and increase by 2.25% on January 1st of each subsequent year.  If the tariff rate established 
+40
+would cause a project that has reached commercial operation by January 1, 2026 to no 
+41
+longer be financially viable, the owner of a distributed generation resource may petition 
+42
+the commission for an adjustment to the tariff rate.
+1
+2
+3
+4
+5
+7

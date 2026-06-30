@@ -1,0 +1,97 @@
+{
+  "ld": 1919,
+  "paper": "HP1280",
+  "paper_display": "HP 1280",
+  "origin_chamber": "House",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280099103",
+  "title": "An Act to Expand the Types of Convictions Eligible for Sealing Through a Post-judgment Motion to Seal Criminal History Record Information",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, Mar 10, 2026",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "6/25/2025 - Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+  "last_senate_action": "3/10/2026 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Amy KUHN",
+      "role": "Sponsor",
+      "chamber": "House",
+      "title": "Representative",
+      "district": "Falmouth"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CRIMINAL HISTORIES",
+      "minor": "CRIMINAL HISTORY RECORDS",
+      "detail": "SEALING"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-05-06",
+      "date_raw": "5/6/2025",
+      "chamber": "House",
+      "description": "Representative KUHN for the Joint Standing Committee on Judiciary pursuant to Resolve 2023, chapter 103, section 8 reports that the Bill be REFERRED to the Committee on JUDICIARY and printed pursuant to Joint Rule 218. Report was READ and REJECTED . The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY Sent for concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-07",
+      "date_raw": "5/7/2025",
+      "chamber": "Senate",
+      "description": "Report READ On motion by Senator CARNEY of Cumberland Tabled until Later in Today's Session, pending CONSIDERATION Unfinished Business"
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "Senate",
+      "description": "Unfinished Business"
+    },
+    {
+      "date": "2025-05-14",
+      "date_raw": "5/14/2025",
+      "chamber": "Senate",
+      "description": "Taken from the table by the President On motion by Senator CARNEY of Cumberland Report ACCEPTED and the Bill and accompanying papers REFERRED to the Committee on JUDICIARY In NON-CONCURRENCE Ordered sent down forthwith for concurrence"
+    },
+    {
+      "date": "2025-05-20",
+      "date_raw": "5/20/2025",
+      "chamber": "House",
+      "description": "The House INSISTED on its action whereby the Report of the Committee on JUDICIARY was READ and REJECTED and the Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY . ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-21",
+      "date_raw": "5/21/2025",
+      "chamber": "Senate",
+      "description": "On motion by Senator PIERCE of Cumberland the Senate RECEDED and CONCURRED to the Report being REJECTED and the Bill and accompanying papers REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY Ordered sent down forthwith."
+    },
+    {
+      "date": "2025-06-25",
+      "date_raw": "6/25/2025",
+      "chamber": "House",
+      "description": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800."
+    },
+    {
+      "date": "2026-03-10",
+      "date_raw": "3/10/2026",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1280&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=HP1280",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=HP1280&SessionID=16",
+  "scraped_at": "2026-06-30T19:59:01Z"
+}

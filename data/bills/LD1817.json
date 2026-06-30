@@ -1,0 +1,67 @@
+{
+  "ld": 1817,
+  "paper": "SP0709",
+  "paper_display": "SP 709",
+  "origin_chamber": "Senate",
+  "snum": 132,
+  "session_id": 16,
+  "lawmaker_id": "280098863",
+  "title": "An Act to Implement the Recommendation of the Maine Commission on Public Defense Services to Eliminate the Crime of Violation of Condition of Release",
+  "committee": "Criminal Justice and Public Safety",
+  "status_summary": "",
+  "final_disposition": "Ought Not to Pass Pursuant To Joint Rule 310, May 13, 2025",
+  "governor_action": "",
+  "chaptered_law": "",
+  "chapter": "",
+  "became_law": false,
+  "last_house_action": "4/30/2025 - Report was READ and REJECTED . The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY In concurrence. ORDERED SENT FORTHWITH.",
+  "last_senate_action": "5/13/2025 - Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+  "sponsors": [
+    {
+      "name": "Anne CARNEY",
+      "role": "Sponsor",
+      "chamber": "Senate",
+      "title": "Senator",
+      "district": "Cumberland"
+    }
+  ],
+  "subjects": [
+    {
+      "major": "CRIMINAL PROCEDURE",
+      "minor": "BAIL AND RECOGNIZANCE",
+      "detail": "CONDITIONS OF RELEASE"
+    }
+  ],
+  "actions": [
+    {
+      "date": "2025-04-29",
+      "date_raw": "4/29/2025",
+      "chamber": "Senate",
+      "description": "Reported by Senator CARNEY of Cumberland for the Joint Standing Committee on Judiciary pursuant to the Maine Revised Statutes, Title 4, section 1804, subsection 3, paragraph H. Report READ and REJECTED . On motion by Same Senator REFERRED to the Committee on Criminal Justice and Public Safety and ordered printed pursuant to Joint Rule 218. Ordered sent down forthwith for concurrence."
+    },
+    {
+      "date": "2025-04-30",
+      "date_raw": "4/30/2025",
+      "chamber": "House",
+      "description": "Report was READ and REJECTED . The Bill was REFERRED to the Committee on CRIMINAL JUSTICE AND PUBLIC SAFETY In concurrence. ORDERED SENT FORTHWITH."
+    },
+    {
+      "date": "2025-05-13",
+      "date_raw": "5/13/2025",
+      "chamber": "Senate",
+      "description": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)"
+    }
+  ],
+  "roll_calls": [],
+  "amendments": [],
+  "documents": [
+    {
+      "kind": "bill_text",
+      "label": "Printed Document PDF",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0709&item=1&snum=132"
+    }
+  ],
+  "ps_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?snum=132&paper=SP0709",
+  "lawmaker_summary_url": "https://legislature.maine.gov/LawMakerWeb/summary.asp?paper=SP0709&SessionID=16",
+  "scraped_at": "2026-06-30T19:50:42Z"
+}
