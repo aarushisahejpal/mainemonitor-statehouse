@@ -18,6 +18,15 @@ def _now_iso() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
+def _sponsor_name(sponsor) -> str:
+    if not sponsor:
+        return ""
+    abbr = {"Representative": "Rep.", "Senator": "Sen."}.get(
+        sponsor.title, sponsor.title)
+    town = f" ({sponsor.district})" if sponsor.district else ""
+    return f"{abbr} {sponsor.name}{town}".strip()
+
+
 class Exporter:
     def __init__(self, data_dir: Path):
         self.data_dir = Path(data_dir)
@@ -50,6 +59,7 @@ class Exporter:
         anomalies = anomalies or []
         self._write_combined_json(bills)
         self._write_csvs(bills)
+        self._write_master(bills)
         self._write_manifest(bills, snum, anomalies)
         (self.data_dir / "integrity.json").write_text(
             json.dumps({"count": len(anomalies), "issues": anomalies}, indent=2),
@@ -145,6 +155,49 @@ class Exporter:
             ([b.ld, b.paper, d.kind, d.label, d.url]
              for b in bills for d in b.documents),
         )
+
+    def _write_master(self, bills: Sequence[Bill]) -> None:
+        """One denormalized row per bill — the file a reporter opens first.
+
+        Sponsors, subjects, vote summary, and the latest action are flattened
+        inline so no joins are needed to get the human-readable picture.
+        """
+        header = [
+            "ld", "paper", "chamber", "title", "committee", "status",
+            "became_law", "chapter", "primary_sponsor", "cosponsors",
+            "subjects", "num_sponsors", "num_actions", "num_roll_calls",
+            "num_amendments", "latest_action_date", "latest_action",
+            "ps_url", "lawmaker_url",
+        ]
+        rows = []
+        for b in bills:
+            primary = next((s for s in b.sponsors if s.role == "Sponsor"), None)
+            cosponsors = [s for s in b.sponsors if s.role == "Cosponsor"]
+            subjects = sorted({s.major for s in b.subjects if s.major})
+            latest = max(b.actions, key=lambda a: a.date, default=None) \
+                if b.actions else None
+            if b.became_law:
+                status = f"Enacted (ch. {b.chapter})" if b.chapter else "Enacted"
+            else:
+                status = b.final_disposition or "In progress"
+            rows.append([
+                b.ld, b.paper, b.origin_chamber, b.title, b.committee, status,
+                b.became_law, b.chapter,
+                _sponsor_name(primary),
+                "; ".join(_sponsor_name(s) for s in cosponsors),
+                "; ".join(subjects),
+                len(b.sponsors), len(b.actions), len(b.roll_calls),
+                len(b.amendments),
+                latest.date if latest else "",
+                latest.description if latest else "",
+                b.ps_url, b.lawmaker_summary_url,
+            ])
+        with (self.data_dir / "master.csv").open(
+            "w", newline="", encoding="utf-8"
+        ) as fh:
+            writer = csv.writer(fh)
+            writer.writerow(header)
+            writer.writerows(rows)
 
     def _csv(self, name: str, header: List[str], rows) -> None:
         with (self.csv_dir / name).open("w", newline="", encoding="utf-8") as fh:
