@@ -1,5 +1,3 @@
-# Maine Monitor — Statehouse bill tracker
-
 Self-owned pipeline that pulls the full public record for every bill (LD) in a
 Maine legislative session straight from the Legislature's own systems, normalizes
 it, and commits it here as JSON + CSV. No BillTrack50, no third-party API — the
