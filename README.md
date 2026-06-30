@@ -1,7 +1,6 @@
 Self-owned pipeline that pulls the full public record for every bill (LD) in a
 Maine legislative session straight from the Legislature's own systems, normalizes
-it, and commits it here as JSON + CSV. No BillTrack50, no third-party API — the
-data matches the official source because it comes from the official source.
+it, and commits it here as JSON + CSV.
 
 The data updates automatically (see [Automation](#automation)) so it can power a
 newsroom page and back analysis.
