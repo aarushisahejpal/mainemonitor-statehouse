@@ -1,4 +1,6 @@
 {
-  "count": 0,
-  "issues": []
+  "count": 1,
+  "issues": [
+    "LD 505 (SP0223): has SessionID but no LawMakerWeb id"
+  ]
 }
